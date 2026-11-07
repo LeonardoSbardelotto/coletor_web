@@ -1,0 +1,85 @@
+# Termômetro de velocidade: roda o Lighthouse (Google) nas 5 páginas do site no ar
+# depois de cada publicação de código e toda segunda-feira.
+# As notas aparecem no resumo da execução (aba Actions → Lighthouse) com links para os relatórios completos.
+name: Lighthouse
+
+on:
+  # mede depois de publicações de código (atualizações automáticas de dados não disparam)
+  push:
+    branches: [main]
+    paths-ignore: ['data/**', 'docs/**']
+  schedule:
+    - cron: "23 12 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  auditar:
+    # concorrência no nível do job: avisos de deploy que não são 'success' pulam o job e não cancelam a medição
+    concurrency:
+      group: lighthouse
+      cancel-in-progress: false
+    runs-on: ubuntu-latest
+    steps:
+      - name: Esperar o deploy do GitHub Pages e a CDN atualizarem
+        run: sleep 150
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Rodar Lighthouse
+        run: |
+          npm install -g @lhci/cli@0.14.0 > /dev/null 2>&1
+          lhci collect --numberOfRuns=3 \
+            --settings.chromeFlags="--headless=new --no-sandbox" \
+            --url=https://lectnex.com.br/ \
+            --url=https://lectnex.com.br/macro.html \
+            --url=https://lectnex.com.br/futuros.html \
+            --url=https://lectnex.com.br/acoes.html \
+            --url=https://lectnex.com.br/laboratorio.html \
+            --url=https://lectnex.com.br/glossario.html 2>&1 | tee lh.log | tail -20
+          lhci upload --target=temporary-public-storage 2>&1 | tee -a lh.log | tail -8 || true
+      - name: Montar placar
+        if: always()
+        run: |
+          python3 - <<'PY'
+          import glob, json, os, re
+          log = open('lh.log').read() if os.path.exists('lh.log') else ''
+          links = dict(re.findall(r'Uploading median LHR of (\S+)\.\.\.success!\s+Open the report at (\S+)', log))
+          linhas = ['## ⚡ Lighthouse — Lectnex Terminal', '', '| Página | Velocidade | Acessibilidade | Boas práticas | SEO | Relatório |', '|---|---|---|---|---|---|']
+          cor = lambda v: ('🟢' if v >= 90 else '🟡' if v >= 50 else '🔴') + f' {v}'
+          # 3 rodadas por página: usa a rodada mediana pela nota de velocidade (mais estável que uma rodada só)
+          por_url = {}
+          for f in glob.glob('.lighthouseci/lhr-*.json'):
+              r = json.load(open(f)); por_url.setdefault(r.get('requestedUrl', ''), []).append(r)
+          medianas = []
+          for u, rs in sorted(por_url.items()):
+              rs.sort(key=lambda r: (r.get('categories', {}).get('performance', {}).get('score') or 0))
+              medianas.append(rs[len(rs) // 2])
+          for r in medianas:
+              c = r.get('categories', {})
+              s = {k: round((c[k]['score'] or 0) * 100) for k in ('performance', 'accessibility', 'best-practices', 'seo') if k in c}
+              url = r.get('finalDisplayedUrl') or r.get('requestedUrl', '')
+              nome = url.split('lectnex.com.br/')[-1] or 'index'
+              linhas.append(f"| {nome} | {cor(s.get('performance', 0))} | {cor(s.get('accessibility', 0))} | {cor(s.get('best-practices', 0))} | {cor(s.get('seo', 0))} | [abrir]({links.get(r.get('requestedUrl', ''), '#')}) |")
+              # nota também como aviso, para ser lida pela API de check runs
+              print(f"::notice title=Lighthouse {nome}::(mediana de 3) velocidade {s.get('performance')} · acessibilidade {s.get('accessibility')} · boas práticas {s.get('best-practices')} · SEO {s.get('seo')}")
+              # o que puxou a nota para baixo (para corrigir sem precisar abrir o relatório)
+              aud = r.get('audits', {})
+              falhas = []
+              for cat in ('best-practices', 'accessibility'):
+                  for ref in c.get(cat, {}).get('auditRefs', []):
+                      a_ = aud.get(ref['id'], {})
+                      if ref.get('weight', 0) > 0 and a_.get('score') is not None and a_['score'] < 1:
+                          det = ''
+                          if ref['id'] == 'errors-in-console':
+                              det = ' [' + ' ; '.join((i.get('description') or '')[:90] for i in a_.get('details', {}).get('items', [])[:3]) + ']'
+                          falhas.append(f"{cat[:4]}:{ref['id']}{det}")
+              ops = sorted([(v.get('details', {}).get('overallSavingsMs', 0), k) for k, v in aud.items() if v.get('details', {}).get('type') == 'opportunity' and v.get('details', {}).get('overallSavingsMs', 0) > 150], reverse=True)[:4]
+              met = {k: aud.get(k, {}).get('displayValue', '') for k in ('first-contentful-paint', 'largest-contentful-paint', 'total-blocking-time', 'cumulative-layout-shift')}
+              print(f"::notice title=Detalhe {nome}::FCP {met['first-contentful-paint']} · LCP {met['largest-contentful-paint']} · TBT {met['total-blocking-time']} · CLS {met['cumulative-layout-shift']} · ganhos: {', '.join(f'{k} ({int(v)} ms)' for v, k in ops) or '—'} · falhas: {'; '.join(falhas) or '—'}")
+          if len(linhas) == 4:
+              print('::error title=Lighthouse sem resultado::' + log[-900:].replace('\n', ' | '))
+          open(os.environ['GITHUB_STEP_SUMMARY'], 'a').write('\n'.join(linhas) + '\n')
+          PY

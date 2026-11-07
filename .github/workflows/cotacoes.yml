@@ -1,0 +1,45 @@
+# Atualiza data/cotacoes.json (Ibovespa + 10 ações de maior peso) a cada 30 min durante o pregão da B3.
+# Faixa: 11 consultas a cada 30 min; mapa de calor: ~23 a mais de hora em hora ≈ 9.000/mês (plano gratuito da brapi: 15.000/mês).
+name: Cotações B3
+
+on:
+  schedule:
+    # Seg a Sex, das 10h às 18h30 BRT (13h às 21h30 UTC), a cada 30 min
+    - cron: "5,35 13-21 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      forcar_mapa:
+        description: 'Atualizar o mapa de calor agora'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cotacoes
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Buscar cotações
+        env:
+          BRAPI_TOKEN: ${{ secrets.BRAPI_TOKEN || 'uRJnTfjL6jypdHfJ8b5LJd' }}
+          FORCAR_MAPA: ${{ github.event.inputs.forcar_mapa == 'true' && '1' || '' }}
+        run: python3 coletor/cotacoes.py
+      - name: Alertas das ações favoritas (celular)
+        continue-on-error: true
+        env:
+          ONESIGNAL_APP_ID: ${{ vars.ONESIGNAL_APP_ID || secrets.ONESIGNAL_APP_ID || 'c0be7d93-6afb-4bb0-bf56-6f9171302071' }}
+          ONESIGNAL_API_KEY: ${{ secrets.ONESIGNAL_API_KEY || secrets.LECTNEX2 }}
+        run: python3 coletor/alerta_acoes.py
+      - name: Publicar se mudou
+        run: |
+          git config user.name "lectnex-bot"
+          git config user.email "lectnex-bot@users.noreply.github.com"
+          git add data/cotacoes.json
+          if git diff --cached --quiet; then echo "Sem mudança."; else git commit -m "cotacoes: $(date -u +%Y-%m-%dT%H:%M)" && (git push || (git pull --rebase && git push)); fi

@@ -1,0 +1,43 @@
+# Recompila assets/tailwind.css e o recorte de ícones (assets/icons/) sempre que páginas ou scripts mudam,
+# para o site nunca ficar com classes sem estilo nem ícones faltando.
+name: Compilar CSS
+
+on:
+  push:
+    branches: [main]
+    paths: ['*.html', 'assets/*.js', 'assets/tailwind.src.css', 'tailwind.config.js', 'scripts/icones.py']
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: compilar-css
+  cancel-in-progress: true
+
+jobs:
+  css:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Baixar Tailwind CLI 3.4.16
+        run: |
+          curl -sSL -o tailwindcss https://github.com/tailwindlabs/tailwindcss/releases/download/v3.4.16/tailwindcss-linux-x64
+          chmod +x tailwindcss
+      - name: Compilar
+        run: ./tailwindcss -c tailwind.config.js -i assets/tailwind.src.css -o assets/tailwind.css --minify
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Recortar ícones usados
+        run: |
+          pip install fonttools==4.66.1
+          python3 scripts/icones.py
+          # As fontes recortadas podem variar em bytes entre ambientes; só atualiza se a lista de ícones mudou
+          if git diff --quiet -- assets/icons/phosphor.css; then git checkout -- assets/icons/; fi
+      - name: Publicar se mudou
+        run: |
+          git config user.name "lectnex-bot"
+          git config user.email "lectnex-bot@users.noreply.github.com"
+          git add assets/tailwind.css assets/icons
+          if git diff --cached --quiet; then echo "CSS já atualizado."; else git commit -m "css: recompilação automática (estilos e ícones)" && git push; fi

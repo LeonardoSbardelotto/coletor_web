@@ -1,0 +1,32 @@
+{
+ "criterio": "WIN pelo Ibovespa à vista, WDO pelo dólar à vista; neutro = variação entre −0,5% e +0,5%",
+ "dias": [
+  {
+   "data": "2026-11-03",
+   "win": {
+    "leitura": "neutro",
+    "var_pct": -1.42,
+    "acerto": false
+   },
+   "wdo": {
+    "leitura": "neutro",
+    "var_pct": 0.97,
+    "acerto": false
+   }
+  },
+  {
+   "data": "2026-11-04",
+   "win": {
+    "leitura": "neutro",
+    "var_pct": 1.02,
+    "acerto": false
+   },
+   "wdo": {
+    "leitura": "neutro",
+    "var_pct": 0.03,
+    "acerto": true
+   }
+  }
+ ],
+ "atualizado_em": "2026-11-04T22:00:30-03:00"
+}

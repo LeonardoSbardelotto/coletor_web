@@ -1,0 +1,84 @@
+# Fechamento do pregão no Telegram + placar do termômetro (data/placar-termometro.json).
+# Roda depois da última coleta de cotações do dia. Sem pregão (Ibovespa sem negócio hoje), não envia nada.
+name: Fechamento
+
+on:
+  schedule:
+    # Seg a Sex às 19h05 BRT (22h05 UTC)
+    - cron: "5 22 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      forcar:
+        description: 'Enviar mesmo sem cotação de hoje (teste)'
+        type: boolean
+        default: false
+      previa_story:
+        description: 'Só mandar uma prévia do story no Telegram privado (não posta no canal)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fechamento
+  cancel-in-progress: false
+
+jobs:
+  fechar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Montar e enviar o fechamento
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN || secrets.LECTNEX_ALERTAS_BOT }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID || '@lectnex' }}
+          FORCAR: ${{ inputs.forcar && '1' || '' }}
+          GITHUB_TOKEN: ${{ github.token }}
+          SO_STORY: ${{ inputs.previa_story && '1' || '' }}
+          FECH_JSON: ${{ runner.temp }}/fechamento.json
+          MERCADO_JSON: ${{ runner.temp }}/mercado.json
+        run: python3 coletor/fechamento.py
+      - name: Story do fechamento no Telegram privado do dono
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN || secrets.LECTNEX_ALERTAS_BOT || secrets.TELEGRAM_TOKEN || secrets.BOT_TOKEN }}
+          TELEGRAM_ADMIN_CHAT_ID: ${{ secrets.TELEGRAM_ADMIN_CHAT_ID || secrets.TELEGRAM_ADMIN || secrets.ADMIN_CHAT_ID || secrets.MEU_CHAT_ID }}
+          PREVIA: ${{ inputs.previa_story && '1' || '' }}
+        run: |
+          [ -f "$RUNNER_TEMP/fechamento.json" ] || { echo "Sem fechamento hoje: sem story."; exit 0; }
+          pip install -q pillow==12.0.0 || pip install -q pillow
+          if [ -n "$PREVIA" ]; then
+            python3 scripts/story_fechamento.py "$RUNNER_TEMP/fechamento.json" "$RUNNER_TEMP/story.png" --previa "PRÉVIA · PARCIAL $(TZ=America/Sao_Paulo date +%Hh%M)"
+          else
+            python3 scripts/story_fechamento.py "$RUNNER_TEMP/fechamento.json" "$RUNNER_TEMP/story.png"
+          fi || echo "::warning::Falha ao gerar ou enviar o story (o fechamento não é afetado)."
+      - name: Post do gráfico do dia (notícia × preço) no Telegram privado
+        if: ${{ !inputs.previa_story }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN || secrets.LECTNEX_ALERTAS_BOT || secrets.TELEGRAM_TOKEN || secrets.BOT_TOKEN }}
+          TELEGRAM_ADMIN_CHAT_ID: ${{ secrets.TELEGRAM_ADMIN_CHAT_ID || secrets.TELEGRAM_ADMIN || secrets.ADMIN_CHAT_ID || secrets.MEU_CHAT_ID }}
+        run: |
+          [ -f "$RUNNER_TEMP/mercado.json" ] || { echo "Sem gráfico do dia."; exit 0; }
+          python3 scripts/grafico_dia.py "$RUNNER_TEMP/mercado.json" "$RUNNER_TEMP/grafico-dia.png" || echo "::warning::Falha no post do gráfico do dia."
+      - name: Salvar placar do termômetro
+        id: salvar
+        if: ${{ !inputs.previa_story }}
+        run: |
+          [ -f data/placar-termometro.json ] || [ -d data/dias ] || [ -f data/placar-historico.json ] || exit 0
+          git config user.name "lectnex-bot"
+          git config user.email "bot@lectnex.com.br"
+          if [ -d data/dias ]; then
+            python3 scripts/manchetes.py | tee "$RUNNER_TEMP/manchetes.txt" || echo "::warning::Falha ao gerar o arquivo de manchetes."
+            echo "paginas=$(grep '^PAGINAS=' "$RUNNER_TEMP/manchetes.txt" 2>/dev/null | cut -d= -f2-)" >> "$GITHUB_OUTPUT"
+          fi
+          for f in data/placar-termometro.json data/placar-historico.json data/dias data/manchetes.json manchetes sitemap.xml; do [ -e "$f" ] && git add "$f"; done
+          git diff --cached --quiet && exit 0
+          git commit -m "placar, dia e arquivo de manchetes: $(TZ=America/Sao_Paulo date +%F)"
+          git pull --rebase -q origin main && git push -q origin HEAD:main
+          echo "ok=1" >> "$GITHUB_OUTPUT"
+      - name: Avisar buscadores (IndexNow)
+        if: ${{ steps.salvar.outputs.ok == '1' && steps.salvar.outputs.paginas != '' }}
+        env:
+          PAGINAS: ${{ steps.salvar.outputs.paginas }}
+        run: sleep 60 && python3 coletor/indexnow.py || true

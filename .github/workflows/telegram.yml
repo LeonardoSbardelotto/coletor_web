@@ -1,0 +1,68 @@
+# Publica a Leitura do Dia (novo dia) e as surpresas do calendário no canal do Telegram.
+# Precisa do segredo LECTNEX_ALERTAS_BOT ou TELEGRAM_BOT_TOKEN (canal padrão: @lectnex); sem ele, não faz nada.
+name: Telegram
+run-name: "Telegram ${{ github.event_name == 'schedule' && 'contar' || inputs.acao || github.event_name }}"
+
+on:
+  push:
+    branches: [main]
+    paths: ['data/leitura.json', 'data/calendario.json']
+  # horário: definido em coletor/relogio.py (workflow "Relógio")
+  workflow_dispatch:
+    inputs:
+      teste:
+        description: 'Mandar mensagem de teste'
+        type: boolean
+        default: false
+      acao:
+        description: 'Ação especial'
+        type: choice
+        options: ['nenhuma', 'boas-vindas', 'contar', 'info', 'apagar', 'push-teste']
+        default: 'nenhuma'
+      msg_id:
+        description: 'Número da mensagem (só para apagar)'
+        type: string
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: telegram
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Publicar no canal
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN || secrets.LECTNEX_ALERTAS_BOT || secrets.TELEGRAM_TOKEN || secrets.BOT_TOKEN || secrets.TOKEN_TELEGRAM || secrets.TELEGRAM || vars.TELEGRAM_BOT_TOKEN }}
+          TOKEN_EM_VARIABLES: ${{ vars.TELEGRAM_BOT_TOKEN && !secrets.TELEGRAM_BOT_TOKEN && !secrets.LECTNEX_ALERTAS_BOT && '1' || '' }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID || '@lectnex' }}
+          TESTE: ${{ github.event_name == 'workflow_dispatch' && inputs.teste && '1' || '' }}
+          MSG_ID: ${{ inputs.msg_id || '' }}
+          ACAO: ${{ github.event_name == 'schedule' && 'contar' || inputs.acao || '' }}
+          SEM_LEITURA: '1'   # a Leitura vai para o canal pelo workflow "Arquivo da Leitura", com a imagem da edição
+        run: python3 coletor/telegram.py
+      - name: Alertas no celular (OneSignal)
+        if: github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.acao == 'push-teste')
+        env:
+          ONESIGNAL_APP_ID: ${{ vars.ONESIGNAL_APP_ID || secrets.ONESIGNAL_APP_ID || 'c0be7d93-6afb-4bb0-bf56-6f9171302071' }}
+          ONESIGNAL_API_KEY: ${{ secrets.ONESIGNAL_API_KEY || secrets.LECTNEX2 || secrets.ONESIGNAL_KEY || secrets.ONESIGNAL_REST_API_KEY || secrets.ONESIGNAL || secrets.LECTNEX3 || secrets.LECTNEX || secrets.APP_API_KEY || secrets.API_KEY }}
+          TESTE: ${{ inputs.acao == 'push-teste' && '1' || '' }}
+        run: python3 coletor/push.py
+      - name: Salvar contagem de seguidores
+        if: github.event_name == 'schedule' || inputs.acao == 'contar'
+        run: |
+          [ -f data/telegram.json ] || exit 0
+          git config user.name "lectnex-bot"
+          git config user.email "bot@lectnex.com.br"
+          git add data/telegram.json
+          git diff --cached --quiet && exit 0
+          git commit -m "telegram: contagem de seguidores"
+          git pull --rebase -q origin main && git push -q origin HEAD:main
