@@ -2,10 +2,10 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Inflação, ata do Copom: os indicadores que movimentam os mercados na próxima semana",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnJXZjZza3Q0bjBXLVo4d2VhSkdZYlYwN21GY1RaNU5wZmgtNW9IdXdfYlVVdDY2S2kxc3NGUFNRTzNQS1ZfVFloSTRfS3NqS2JSb05QRVZpcHRUVFo5dmNMbzRvbXBkVlZxOUNmdngyWTlSblJIUEZlQnAtbDBtY1d5eU9xbjdzYTc3bllWaG9wSUpYR2pIY3A4MWF4SXVXUVB0UDRaU3Y3cnF1a1hGaTFB?oc=5",
-   "publicado": "2026-11-08T11:50-03:00",
+   "titulo": "Integração de sistemas como o Pix aumenta em 4% comércio bilateral, diz Banco Central europeu",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/integracao-de-sistemas-como-o-pix-aumenta-em-4-comercio-bilateral-diz-banco-central-europeu.shtml",
+   "publicado": "2026-11-08T15:00-03:00",
    "impacto": "alto",
    "ativos": [
     "WDO",
@@ -14,32 +14,20 @@
    "tickers": []
   },
   {
-   "titulo": "Petróleo atrapalhou o Copom de novembro, diz economista",
+   "titulo": "Selic: Eleição estressou a curva de juros, diz economista do Daycoval",
    "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnd6cGtCVXR2MWxoWWk4U28wbDVVV1RfSUZsUDVxajlGUGhNdTZCbDNFdU5LWmM0RkozTEF2STVrVUk1LVNIZnItVlM2SW9WRjdQLW55d2k5TE1NeHFSMGtRWXNqWW5jR0JJbFpfaUpLNk1vaTlIeFVkMTBFMDVQdDA4ejc2WWxHTlNNeDBBek1lRE9kamhJa3BZQzR0RlpFbUQ4Wm8ybC1hdUtNcXN1N2FYZw?oc=5",
-   "publicado": "2026-11-08T12:00-03:00",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlVCXy1aWmZkaHVzVE90LVVhS3paZ2dadzViclh5S21fOXYyaEd3VWNVenkzWWdFSmlpUXI2d1ZFMmkwXzV6VVlOYVJSbDlTZWZRc0c0c2xXbGtRNWxmZy0wWnlNeXBRR0RmNXozQ2pUYmNRZG1qZ3lpN0h6akxzbWFPekkxTXR5bEF3bWpNejNrX0ZRaWUzLWpsZ0F1dzIxVTVCWE5QbWd5MXF2bllVeXM3NTY2TDNMNkxnVkhyc0czRUoz?oc=5",
+   "publicado": "2026-11-08T16:08-03:00",
    "impacto": "alto",
    "ativos": [
-    "WIN",
     "WDO",
     "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "How Democrats will try to end Trump's tariffs",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
-   "publicado": "2026-11-08T12:36-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
    ],
    "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-08T12:41-03:00",
+ "atualizado_em": "2026-11-08T16:58-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -47,39 +35,38 @@
   "CNBC",
   "CNN Brasil",
   "Estadão",
-  "Folha",
-  "Money Times"
+  "Folha"
  ],
  "noticias": [
   {
-   "titulo": "How Democrats will try to end Trump's tariffs",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
-   "publicado": "2026-11-08T12:36-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Petróleo atrapalhou o Copom de novembro, diz economista",
+   "titulo": "Selic: Eleição estressou a curva de juros, diz economista do Daycoval",
    "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnd6cGtCVXR2MWxoWWk4U28wbDVVV1RfSUZsUDVxajlGUGhNdTZCbDNFdU5LWmM0RkozTEF2STVrVUk1LVNIZnItVlM2SW9WRjdQLW55d2k5TE1NeHFSMGtRWXNqWW5jR0JJbFpfaUpLNk1vaTlIeFVkMTBFMDVQdDA4ejc2WWxHTlNNeDBBek1lRE9kamhJa3BZQzR0RlpFbUQ4Wm8ybC1hdUtNcXN1N2FYZw?oc=5",
-   "publicado": "2026-11-08T12:00-03:00",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlVCXy1aWmZkaHVzVE90LVVhS3paZ2dadzViclh5S21fOXYyaEd3VWNVenkzWWdFSmlpUXI2d1ZFMmkwXzV6VVlOYVJSbDlTZWZRc0c0c2xXbGtRNWxmZy0wWnlNeXBRR0RmNXozQ2pUYmNRZG1qZ3lpN0h6akxzbWFPekkxTXR5bEF3bWpNejNrX0ZRaWUzLWpsZ0F1dzIxVTVCWE5QbWd5MXF2bllVeXM3NTY2TDNMNkxnVkhyc0czRUoz?oc=5",
+   "publicado": "2026-11-08T16:08-03:00",
    "impacto": "alto",
    "ativos": [
-    "WIN",
     "WDO",
     "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Inflação, ata do Copom: os indicadores que movimentam os mercados na próxima semana",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnJXZjZza3Q0bjBXLVo4d2VhSkdZYlYwN21GY1RaNU5wZmgtNW9IdXdfYlVVdDY2S2kxc3NGUFNRTzNQS1ZfVFloSTRfS3NqS2JSb05QRVZpcHRUVFo5dmNMbzRvbXBkVlZxOUNmdngyWTlSblJIUEZlQnAtbDBtY1d5eU9xbjdzYTc3bllWaG9wSUpYR2pIY3A4MWF4SXVXUVB0UDRaU3Y3cnF1a1hGaTFB?oc=5",
-   "publicado": "2026-11-08T11:50-03:00",
+   "titulo": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+   "publicado": "2026-11-08T15:18-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Integração de sistemas como o Pix aumenta em 4% comércio bilateral, diz Banco Central europeu",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/integracao-de-sistemas-como-o-pix-aumenta-em-4-comercio-bilateral-diz-banco-central-europeu.shtml",
+   "publicado": "2026-11-08T15:00-03:00",
    "impacto": "alto",
    "ativos": [
     "WDO",
