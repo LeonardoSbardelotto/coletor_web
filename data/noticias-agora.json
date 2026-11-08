@@ -2,18 +2,6 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Juiz do Paraguai decreta prisão preventiva do ex-chefe do Banco Central",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdVMwcC1WbVhydGE5U29aZ0xvUGJKSElWZ1FQYkhuak83cFFuYjRzRl8tWFJ0UXpNWG51WnpOdG12d1pBZVcxUzRKUmVyYlZjRWxuMlZHSFZmR0U0LV9yYmhNbC0zUUVKV1F4X01hcFV3RTdidXdrN1M0MnRmMDMzWS1fU2ozUjRqa2tucEs3ME9jaDRUNDBHR0Fuc3U0NFl4M1UzdEM5Z0hDUk1XOFRrSkwtS01vUQ?oc=5",
-   "publicado": "2026-11-07T20:57-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
    "titulo": "Antes do Copom, Ibovespa sobe 1,2% e tem 1ª alta desde as eleições com apoio do exterior e petróleo",
    "fonte": "Estadão",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0VpRnZTX2NtTTVCYjMyVUNLLWZpd0lvYnozZUF6RGpRZmlrQnJoVkJNRDB6VTVqaGt1Z0FJU2FNTnY3cVQxVGthU0ZrT2tIQkhHMmViYXA4YXhGaFNXN01WaGsxcnNDdHJQbWFvWkVLQUxydTJ2b2NrSE12LXZnMFIwOVhqTnlTOVVSZGNFWVZiWkgwM3R0eWJKTnF2TFNMLXd4ZU13a2hQRU5HT2RsckxuNmhtTzVrT0dqNFdVMFg1cDgwTXZDbHpuMEhRUmJWRmx6WHEyQnpMb04tRDFJNHAxRDE?oc=5",
@@ -25,20 +13,59 @@
     "DI"
    ],
    "tickers": []
+  },
+  {
+   "titulo": "Embraer renova recorde, impulsionada por fundamentos sólidos e dólar alto: o Ibovespa nesta terça",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOEpFaUExR3p3bmVoa1Q1R0h2cWxZZ2RKU0NGTUZOQlFRa3pCT2IxRkdlNkNTOGxSdXd2NTVBOXlDN3FLNE5FeE1vbFhKeVRVX3pXYy1oMWpNNVZFNmNSRWIzU3dGUWlKSHJaeTZwTVVUYzM2Wk1MM2V1YjdrTW9IZGQySkt1QW9ZXzM5UWtQRGNBS0k5V0h3clgwWW9YMUxZMXRhOEt2NFFaVFAwZUZpMjdiNkJ5OTRhM29pR0Y5eG9CSlU1YzJmOGRDQ3pMZTFBblc4TC0xQkFCd2hXS1FFNGVPbTZ3dXJIMHFMS3ppTEdyZ0tu?oc=5",
+   "publicado": "2026-11-07T21:46-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": [
+    "EMBR3"
+   ]
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-07T22:55-03:00",
+ "atualizado_em": "2026-11-07T23:29-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
-  "CNN Brasil",
   "Estadão",
   "Folha"
  ],
  "noticias": [
+  {
+   "titulo": "Risco de recessão no Brasil ganha força para 2027",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/risco-de-recessao-no-brasil-ganha-forca-para-2027.shtml",
+   "publicado": "2026-11-07T23:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Embraer renova recorde, impulsionada por fundamentos sólidos e dólar alto: o Ibovespa nesta terça",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOEpFaUExR3p3bmVoa1Q1R0h2cWxZZ2RKU0NGTUZOQlFRa3pCT2IxRkdlNkNTOGxSdXd2NTVBOXlDN3FLNE5FeE1vbFhKeVRVX3pXYy1oMWpNNVZFNmNSRWIzU3dGUWlKSHJaeTZwTVVUYzM2Wk1MM2V1YjdrTW9IZGQySkt1QW9ZXzM5UWtQRGNBS0k5V0h3clgwWW9YMUxZMXRhOEt2NFFaVFAwZUZpMjdiNkJ5OTRhM29pR0Y5eG9CSlU1YzJmOGRDQ3pMZTFBblc4TC0xQkFCd2hXS1FFNGVPbTZ3dXJIMHFMS3ppTEdyZ0tu?oc=5",
+   "publicado": "2026-11-07T21:46-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": [
+    "EMBR3"
+   ]
+  },
   {
    "titulo": "Antes do Copom, Ibovespa sobe 1,2% e tem 1ª alta desde as eleições com apoio do exterior e petróleo",
    "fonte": "Estadão",
@@ -47,18 +74,6 @@
    "impacto": "alto",
    "ativos": [
     "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Juiz do Paraguai decreta prisão preventiva do ex-chefe do Banco Central",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdVMwcC1WbVhydGE5U29aZ0xvUGJKSElWZ1FQYkhuak83cFFuYjRzRl8tWFJ0UXpNWG51WnpOdG12d1pBZVcxUzRKUmVyYlZjRWxuMlZHSFZmR0U0LV9yYmhNbC0zUUVKV1F4X01hcFV3RTdidXdrN1M0MnRmMDMzWS1fU2ozUjRqa2tucEs3ME9jaDRUNDBHR0Fuc3U0NFl4M1UzdEM5Z0hDUk1XOFRrSkwtS01vUQ?oc=5",
-   "publicado": "2026-11-07T20:57-03:00",
-   "impacto": "alto",
-   "ativos": [
     "WDO",
     "DI"
    ],
