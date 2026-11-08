@@ -2,10 +2,22 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Antes do Copom, Ibovespa sobe 1,2% e tem 1ª alta desde as eleições com apoio do exterior e petróleo",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0VpRnZTX2NtTTVCYjMyVUNLLWZpd0lvYnozZUF6RGpRZmlrQnJoVkJNRDB6VTVqaGt1Z0FJU2FNTnY3cVQxVGthU0ZrT2tIQkhHMmViYXA4YXhGaFNXN01WaGsxcnNDdHJQbWFvWkVLQUxydTJ2b2NrSE12LXZnMFIwOVhqTnlTOVVSZGNFWVZiWkgwM3R0eWJKTnF2TFNMLXd4ZU13a2hQRU5HT2RsckxuNmhtTzVrT0dqNFdVMFg1cDgwTXZDbHpuMEhRUmJWRmx6WHEyQnpMb04tRDFJNHAxRDE?oc=5",
-   "publicado": "2026-11-07T21:39-03:00",
+   "titulo": "Inflação, ata do Copom: os indicadores que movimentam os mercados na próxima semana",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnJXZjZza3Q0bjBXLVo4d2VhSkdZYlYwN21GY1RaNU5wZmgtNW9IdXdfYlVVdDY2S2kxc3NGUFNRTzNQS1ZfVFloSTRfS3NqS2JSb05QRVZpcHRUVFo5dmNMbzRvbXBkVlZxOUNmdngyWTlSblJIUEZlQnAtbDBtY1d5eU9xbjdzYTc3bllWaG9wSUpYR2pIY3A4MWF4SXVXUVB0UDRaU3Y3cnF1a1hGaTFB?oc=5",
+   "publicado": "2026-11-08T11:50-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Petróleo atrapalhou o Copom de novembro, diz economista",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnd6cGtCVXR2MWxoWWk4U28wbDVVV1RfSUZsUDVxajlGUGhNdTZCbDNFdU5LWmM0RkozTEF2STVrVUk1LVNIZnItVlM2SW9WRjdQLW55d2k5TE1NeHFSMGtRWXNqWW5jR0JJbFpfaUpLNk1vaTlIeFVkMTBFMDVQdDA4ejc2WWxHTlNNeDBBek1lRE9kamhJa3BZQzR0RlpFbUQ4Wm8ybC1hdUtNcXN1N2FYZw?oc=5",
+   "publicado": "2026-11-08T12:00-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -15,65 +27,61 @@
    "tickers": []
   },
   {
-   "titulo": "Embraer renova recorde, impulsionada por fundamentos sólidos e dólar alto: o Ibovespa nesta terça",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOEpFaUExR3p3bmVoa1Q1R0h2cWxZZ2RKU0NGTUZOQlFRa3pCT2IxRkdlNkNTOGxSdXd2NTVBOXlDN3FLNE5FeE1vbFhKeVRVX3pXYy1oMWpNNVZFNmNSRWIzU3dGUWlKSHJaeTZwTVVUYzM2Wk1MM2V1YjdrTW9IZGQySkt1QW9ZXzM5UWtQRGNBS0k5V0h3clgwWW9YMUxZMXRhOEt2NFFaVFAwZUZpMjdiNkJ5OTRhM29pR0Y5eG9CSlU1YzJmOGRDQ3pMZTFBblc4TC0xQkFCd2hXS1FFNGVPbTZ3dXJIMHFMS3ppTEdyZ0tu?oc=5",
-   "publicado": "2026-11-07T21:46-03:00",
-   "impacto": "alto",
+   "titulo": "How Democrats will try to end Trump's tariffs",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+   "publicado": "2026-11-08T12:36-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WIN",
     "WDO"
    ],
-   "tickers": [
-    "EMBR3"
-   ]
+   "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-07T23:29-03:00",
+ "atualizado_em": "2026-11-08T12:41-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
+  "CNN Brasil",
   "Estadão",
-  "Folha"
+  "Folha",
+  "Money Times"
  ],
  "noticias": [
   {
-   "titulo": "Risco de recessão no Brasil ganha força para 2027",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/risco-de-recessao-no-brasil-ganha-forca-para-2027.shtml",
-   "publicado": "2026-11-07T23:00-03:00",
+   "titulo": "How Democrats will try to end Trump's tariffs",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+   "publicado": "2026-11-08T12:36-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN",
     "WDO"
    ],
    "tickers": []
   },
   {
-   "titulo": "Embraer renova recorde, impulsionada por fundamentos sólidos e dólar alto: o Ibovespa nesta terça",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOEpFaUExR3p3bmVoa1Q1R0h2cWxZZ2RKU0NGTUZOQlFRa3pCT2IxRkdlNkNTOGxSdXd2NTVBOXlDN3FLNE5FeE1vbFhKeVRVX3pXYy1oMWpNNVZFNmNSRWIzU3dGUWlKSHJaeTZwTVVUYzM2Wk1MM2V1YjdrTW9IZGQySkt1QW9ZXzM5UWtQRGNBS0k5V0h3clgwWW9YMUxZMXRhOEt2NFFaVFAwZUZpMjdiNkJ5OTRhM29pR0Y5eG9CSlU1YzJmOGRDQ3pMZTFBblc4TC0xQkFCd2hXS1FFNGVPbTZ3dXJIMHFMS3ppTEdyZ0tu?oc=5",
-   "publicado": "2026-11-07T21:46-03:00",
+   "titulo": "Petróleo atrapalhou o Copom de novembro, diz economista",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnd6cGtCVXR2MWxoWWk4U28wbDVVV1RfSUZsUDVxajlGUGhNdTZCbDNFdU5LWmM0RkozTEF2STVrVUk1LVNIZnItVlM2SW9WRjdQLW55d2k5TE1NeHFSMGtRWXNqWW5jR0JJbFpfaUpLNk1vaTlIeFVkMTBFMDVQdDA4ejc2WWxHTlNNeDBBek1lRE9kamhJa3BZQzR0RlpFbUQ4Wm8ybC1hdUtNcXN1N2FYZw?oc=5",
+   "publicado": "2026-11-08T12:00-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
-    "WDO"
+    "WDO",
+    "DI"
    ],
-   "tickers": [
-    "EMBR3"
-   ]
+   "tickers": []
   },
   {
-   "titulo": "Antes do Copom, Ibovespa sobe 1,2% e tem 1ª alta desde as eleições com apoio do exterior e petróleo",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0VpRnZTX2NtTTVCYjMyVUNLLWZpd0lvYnozZUF6RGpRZmlrQnJoVkJNRDB6VTVqaGt1Z0FJU2FNTnY3cVQxVGthU0ZrT2tIQkhHMmViYXA4YXhGaFNXN01WaGsxcnNDdHJQbWFvWkVLQUxydTJ2b2NrSE12LXZnMFIwOVhqTnlTOVVSZGNFWVZiWkgwM3R0eWJKTnF2TFNMLXd4ZU13a2hQRU5HT2RsckxuNmhtTzVrT0dqNFdVMFg1cDgwTXZDbHpuMEhRUmJWRmx6WHEyQnpMb04tRDFJNHAxRDE?oc=5",
-   "publicado": "2026-11-07T21:39-03:00",
+   "titulo": "Inflação, ata do Copom: os indicadores que movimentam os mercados na próxima semana",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnJXZjZza3Q0bjBXLVo4d2VhSkdZYlYwN21GY1RaNU5wZmgtNW9IdXdfYlVVdDY2S2kxc3NGUFNRTzNQS1ZfVFloSTRfS3NqS2JSb05QRVZpcHRUVFo5dmNMbzRvbXBkVlZxOUNmdngyWTlSblJIUEZlQnAtbDBtY1d5eU9xbjdzYTc3bllWaG9wSUpYR2pIY3A4MWF4SXVXUVB0UDRaU3Y3cnF1a1hGaTFB?oc=5",
+   "publicado": "2026-11-08T11:50-03:00",
    "impacto": "alto",
    "ativos": [
-    "WIN",
     "WDO",
     "DI"
    ],
