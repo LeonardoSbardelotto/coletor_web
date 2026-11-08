@@ -2,59 +2,56 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Integração de sistemas como o Pix aumenta em 4% comércio bilateral, diz Banco Central europeu",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/integracao-de-sistemas-como-o-pix-aumenta-em-4-comercio-bilateral-diz-banco-central-europeu.shtml",
-   "publicado": "2026-11-08T15:00-03:00",
+   "titulo": "Tenda derrete mais de 17% após balanço e lidera perdas do Ibovespa; veja maiores altas e baixas hoje",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdWpyX19kb0pweGZwbl9ma3FReG1ZMVNfV1ZLejFEaThSZW1PZXV6QVJTVWo0cFcxT2VGeTdOZnUwZ1NYR0cyME91RkUzOEN1LWszQXNTc0ptR09pUDJqS0o3X2k2OG5XcVBoWldrZ3pyRnd1UVBPamkwT1huU1VRVVVBR3hLWDRGSmFMT2J2QWNwRVRSX2V1T1FHSjQta211bk5nWV9mYWdEc0wxUjlIMG9OTmxkWmoyaUgyaTN3WWM0S21vTjgxd01KX3BUY3pFVElTc2FQNVRreTZ4ZUdIcEtoYVM5ZkF4VUVoMmFHaWF3WlZrak00Yw?oc=5",
+   "publicado": "2026-11-08T18:43-03:00",
    "impacto": "alto",
    "ativos": [
-    "WDO",
-    "DI"
+    "WIN"
    ],
    "tickers": []
   },
   {
-   "titulo": "Selic: Eleição estressou a curva de juros, diz economista do Daycoval",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlVCXy1aWmZkaHVzVE90LVVhS3paZ2dadzViclh5S21fOXYyaEd3VWNVenkzWWdFSmlpUXI2d1ZFMmkwXzV6VVlOYVJSbDlTZWZRc0c0c2xXbGtRNWxmZy0wWnlNeXBRR0RmNXozQ2pUYmNRZG1qZ3lpN0h6akxzbWFPekkxTXR5bEF3bWpNejNrX0ZRaWUzLWpsZ0F1dzIxVTVCWE5QbWd5MXF2bllVeXM3NTY2TDNMNkxnVkhyc0czRUoz?oc=5",
-   "publicado": "2026-11-08T16:08-03:00",
-   "impacto": "alto",
+   "titulo": "Ibovespa sobe pouco, mas ação dispara quase 24% na semana; o que explica o salto?",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQmpsYXJ5S0diZ21FREE1bktvWXhKY0F0N0pCWm9yajNjWUZiYXFzWkF3dXlDTE1HMXhyLVBob0Y0bDNIYVp1T1p5ME1MSHdvYm9uZFVicU5vVlh1VENfY2pvRkNNaEpCd241VG91TVJjVDQ5aFpacTVMUlg2OXNIMXA1WWRRRlFWWFhiTWp6WjZKZktDX2UzeFBzZU9nZ2lLNjNsSW9pWkM1NU1hS293V1FWZUNRZzcxdzBTYkNSWnMya2xyYU1iTWlfN3JrMXNMclh3RFRvdC00aWhi?oc=5",
+   "publicado": "2026-11-08T20:26-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WDO",
-    "DI"
+    "WIN"
    ],
    "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-08T16:58-03:00",
+ "atualizado_em": "2026-11-08T20:37-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
-  "CNN Brasil",
   "Estadão",
-  "Folha"
+  "Folha",
+  "InfoMoney"
  ],
  "noticias": [
   {
-   "titulo": "Selic: Eleição estressou a curva de juros, diz economista do Daycoval",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlVCXy1aWmZkaHVzVE90LVVhS3paZ2dadzViclh5S21fOXYyaEd3VWNVenkzWWdFSmlpUXI2d1ZFMmkwXzV6VVlOYVJSbDlTZWZRc0c0c2xXbGtRNWxmZy0wWnlNeXBRR0RmNXozQ2pUYmNRZG1qZ3lpN0h6akxzbWFPekkxTXR5bEF3bWpNejNrX0ZRaWUzLWpsZ0F1dzIxVTVCWE5QbWd5MXF2bllVeXM3NTY2TDNMNkxnVkhyc0czRUoz?oc=5",
-   "publicado": "2026-11-08T16:08-03:00",
-   "impacto": "alto",
+   "titulo": "Ibovespa sobe pouco, mas ação dispara quase 24% na semana; o que explica o salto?",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQmpsYXJ5S0diZ21FREE1bktvWXhKY0F0N0pCWm9yajNjWUZiYXFzWkF3dXlDTE1HMXhyLVBob0Y0bDNIYVp1T1p5ME1MSHdvYm9uZFVicU5vVlh1VENfY2pvRkNNaEpCd241VG91TVJjVDQ5aFpacTVMUlg2OXNIMXA1WWRRRlFWWFhiTWp6WjZKZktDX2UzeFBzZU9nZ2lLNjNsSW9pWkM1NU1hS293V1FWZUNRZzcxdzBTYkNSWnMya2xyYU1iTWlfN3JrMXNMclh3RFRvdC00aWhi?oc=5",
+   "publicado": "2026-11-08T20:26-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WDO",
-    "DI"
+    "WIN"
    ],
    "tickers": []
   },
   {
-   "titulo": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+   "titulo": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
    "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
-   "publicado": "2026-11-08T15:18-03:00",
+   "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+   "publicado": "2026-11-08T18:53-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN",
@@ -63,14 +60,13 @@
    "tickers": []
   },
   {
-   "titulo": "Integração de sistemas como o Pix aumenta em 4% comércio bilateral, diz Banco Central europeu",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/integracao-de-sistemas-como-o-pix-aumenta-em-4-comercio-bilateral-diz-banco-central-europeu.shtml",
-   "publicado": "2026-11-08T15:00-03:00",
+   "titulo": "Tenda derrete mais de 17% após balanço e lidera perdas do Ibovespa; veja maiores altas e baixas hoje",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdWpyX19kb0pweGZwbl9ma3FReG1ZMVNfV1ZLejFEaThSZW1PZXV6QVJTVWo0cFcxT2VGeTdOZnUwZ1NYR0cyME91RkUzOEN1LWszQXNTc0ptR09pUDJqS0o3X2k2OG5XcVBoWldrZ3pyRnd1UVBPamkwT1huU1VRVVVBR3hLWDRGSmFMT2J2QWNwRVRSX2V1T1FHSjQta211bk5nWV9mYWdEc0wxUjlIMG9OTmxkWmoyaUgyaTN3WWM0S21vTjgxd01KX3BUY3pFVElTc2FQNVRreTZ4ZUdIcEtoYVM5ZkF4VUVoMmFHaWF3WlZrak00Yw?oc=5",
+   "publicado": "2026-11-08T18:43-03:00",
    "impacto": "alto",
    "ativos": [
-    "WDO",
-    "DI"
+    "WIN"
    ],
    "tickers": []
   }
