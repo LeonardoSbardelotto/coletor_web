@@ -1,76 +1,908 @@
 {
- "mercado": {},
+ "mercado": {
+  "data": "2026-11-09",
+  "atualizado_em": "2026-11-09T16:49-03:00",
+  "ibov": {
+   "anterior": 168498.45,
+   "pontos": [
+    [
+     "10:00",
+     169662.0
+    ],
+    [
+     "10:05",
+     169477.0
+    ],
+    [
+     "10:10",
+     169341.0
+    ],
+    [
+     "10:15",
+     169826.0
+    ],
+    [
+     "10:20",
+     170002.0
+    ],
+    [
+     "10:25",
+     169890.0
+    ],
+    [
+     "10:30",
+     169708.0
+    ],
+    [
+     "10:35",
+     169950.0
+    ],
+    [
+     "10:40",
+     169789.0
+    ],
+    [
+     "10:45",
+     169603.0
+    ],
+    [
+     "10:50",
+     169470.0
+    ],
+    [
+     "10:55",
+     169464.0
+    ],
+    [
+     "11:00",
+     169526.0
+    ],
+    [
+     "11:05",
+     169736.0
+    ],
+    [
+     "11:10",
+     168498.0
+    ],
+    [
+     "11:15",
+     169605.0
+    ],
+    [
+     "11:20",
+     169489.0
+    ],
+    [
+     "11:25",
+     169482.0
+    ],
+    [
+     "11:30",
+     169437.0
+    ],
+    [
+     "11:35",
+     169225.0
+    ],
+    [
+     "11:40",
+     169492.0
+    ],
+    [
+     "11:45",
+     169729.0
+    ],
+    [
+     "11:50",
+     169550.0
+    ],
+    [
+     "11:55",
+     169765.0
+    ],
+    [
+     "12:00",
+     170152.0
+    ],
+    [
+     "12:05",
+     170082.0
+    ],
+    [
+     "12:10",
+     170120.0
+    ],
+    [
+     "12:15",
+     170173.0
+    ],
+    [
+     "12:20",
+     170313.0
+    ],
+    [
+     "12:25",
+     170299.0
+    ],
+    [
+     "12:30",
+     170390.0
+    ],
+    [
+     "12:35",
+     170283.0
+    ],
+    [
+     "12:40",
+     170372.0
+    ],
+    [
+     "12:45",
+     170422.0
+    ],
+    [
+     "12:50",
+     170335.0
+    ],
+    [
+     "12:55",
+     170375.0
+    ],
+    [
+     "13:00",
+     170463.0
+    ],
+    [
+     "13:05",
+     170475.0
+    ],
+    [
+     "13:10",
+     170494.0
+    ],
+    [
+     "13:15",
+     170495.0
+    ],
+    [
+     "13:20",
+     170523.0
+    ],
+    [
+     "13:25",
+     170602.0
+    ],
+    [
+     "13:30",
+     170691.0
+    ],
+    [
+     "13:35",
+     170772.0
+    ],
+    [
+     "13:40",
+     170968.0
+    ],
+    [
+     "13:45",
+     170966.0
+    ],
+    [
+     "13:50",
+     171103.0
+    ],
+    [
+     "13:55",
+     171185.0
+    ],
+    [
+     "14:00",
+     171060.0
+    ],
+    [
+     "14:05",
+     171170.0
+    ],
+    [
+     "14:10",
+     171261.0
+    ],
+    [
+     "14:15",
+     171291.0
+    ],
+    [
+     "14:20",
+     171284.0
+    ],
+    [
+     "14:25",
+     171305.0
+    ],
+    [
+     "14:30",
+     171136.0
+    ],
+    [
+     "14:35",
+     170988.0
+    ],
+    [
+     "14:40",
+     170943.0
+    ],
+    [
+     "14:45",
+     170983.0
+    ],
+    [
+     "14:50",
+     170962.0
+    ],
+    [
+     "14:55",
+     170985.0
+    ],
+    [
+     "15:00",
+     171075.0
+    ],
+    [
+     "15:05",
+     171085.0
+    ],
+    [
+     "15:10",
+     171102.0
+    ],
+    [
+     "15:15",
+     170951.0
+    ],
+    [
+     "15:20",
+     170880.0
+    ],
+    [
+     "15:25",
+     171049.0
+    ],
+    [
+     "15:30",
+     171025.0
+    ],
+    [
+     "15:35",
+     171062.0
+    ],
+    [
+     "15:40",
+     171120.0
+    ],
+    [
+     "15:45",
+     171102.0
+    ],
+    [
+     "15:50",
+     171162.0
+    ],
+    [
+     "15:55",
+     171209.0
+    ],
+    [
+     "16:00",
+     171147.0
+    ],
+    [
+     "16:05",
+     171195.0
+    ],
+    [
+     "16:10",
+     171175.0
+    ],
+    [
+     "16:15",
+     171022.0
+    ],
+    [
+     "16:20",
+     171190.0
+    ],
+    [
+     "16:25",
+     171183.0
+    ],
+    [
+     "16:30",
+     171405.0
+    ],
+    [
+     "16:34",
+     171377.0
+    ]
+   ]
+  },
+  "dolar": {
+   "anterior": 5.4959,
+   "pontos": [
+    [
+     "09:00",
+     5.4908
+    ],
+    [
+     "09:05",
+     5.4926
+    ],
+    [
+     "09:10",
+     5.4916
+    ],
+    [
+     "09:15",
+     5.4961
+    ],
+    [
+     "09:20",
+     5.5056
+    ],
+    [
+     "09:25",
+     5.5045
+    ],
+    [
+     "09:30",
+     5.503
+    ],
+    [
+     "09:35",
+     5.5086
+    ],
+    [
+     "09:40",
+     5.5073
+    ],
+    [
+     "09:45",
+     5.5007
+    ],
+    [
+     "09:50",
+     5.507
+    ],
+    [
+     "09:55",
+     5.5036
+    ],
+    [
+     "10:00",
+     5.5042
+    ],
+    [
+     "10:05",
+     5.5149
+    ],
+    [
+     "10:10",
+     5.5137
+    ],
+    [
+     "10:15",
+     5.5069
+    ],
+    [
+     "10:20",
+     5.5093
+    ],
+    [
+     "10:25",
+     5.5104
+    ],
+    [
+     "10:30",
+     5.5109
+    ],
+    [
+     "10:35",
+     5.5159
+    ],
+    [
+     "10:40",
+     5.5214
+    ],
+    [
+     "10:45",
+     5.519
+    ],
+    [
+     "10:50",
+     5.5163
+    ],
+    [
+     "10:55",
+     5.5169
+    ],
+    [
+     "11:00",
+     5.5104
+    ],
+    [
+     "11:05",
+     5.5097
+    ],
+    [
+     "11:10",
+     5.5099
+    ],
+    [
+     "11:15",
+     5.5079
+    ],
+    [
+     "11:20",
+     5.5084
+    ],
+    [
+     "11:25",
+     5.5108
+    ],
+    [
+     "11:30",
+     5.5084
+    ],
+    [
+     "11:35",
+     5.5168
+    ],
+    [
+     "11:40",
+     5.5179
+    ],
+    [
+     "11:45",
+     5.5164
+    ],
+    [
+     "11:50",
+     5.5143
+    ],
+    [
+     "11:55",
+     5.5159
+    ],
+    [
+     "12:00",
+     5.5133
+    ],
+    [
+     "12:05",
+     5.5142
+    ],
+    [
+     "12:10",
+     5.5143
+    ],
+    [
+     "12:15",
+     5.5123
+    ],
+    [
+     "12:20",
+     5.5151
+    ],
+    [
+     "12:25",
+     5.5213
+    ],
+    [
+     "12:30",
+     5.5184
+    ],
+    [
+     "12:35",
+     5.5223
+    ],
+    [
+     "12:40",
+     5.5238
+    ],
+    [
+     "12:45",
+     5.5243
+    ],
+    [
+     "12:50",
+     5.5223
+    ],
+    [
+     "12:55",
+     5.5226
+    ],
+    [
+     "13:00",
+     5.5242
+    ],
+    [
+     "13:05",
+     5.5231
+    ],
+    [
+     "13:10",
+     5.5186
+    ],
+    [
+     "13:15",
+     5.5185
+    ],
+    [
+     "13:20",
+     5.5178
+    ],
+    [
+     "13:25",
+     5.519
+    ],
+    [
+     "13:30",
+     5.5161
+    ],
+    [
+     "13:35",
+     5.5175
+    ],
+    [
+     "13:40",
+     5.5158
+    ],
+    [
+     "13:45",
+     5.5163
+    ],
+    [
+     "13:50",
+     5.5163
+    ],
+    [
+     "13:55",
+     5.5167
+    ],
+    [
+     "14:00",
+     5.5167
+    ],
+    [
+     "14:05",
+     5.5157
+    ],
+    [
+     "14:10",
+     5.5132
+    ],
+    [
+     "14:15",
+     5.5142
+    ],
+    [
+     "14:20",
+     5.5121
+    ],
+    [
+     "14:25",
+     5.5172
+    ],
+    [
+     "14:30",
+     5.5126
+    ],
+    [
+     "14:35",
+     5.5129
+    ],
+    [
+     "14:40",
+     5.5133
+    ],
+    [
+     "14:45",
+     5.5118
+    ],
+    [
+     "14:50",
+     5.5133
+    ],
+    [
+     "14:55",
+     5.5127
+    ],
+    [
+     "15:00",
+     5.5131
+    ],
+    [
+     "15:05",
+     5.5115
+    ],
+    [
+     "15:10",
+     5.5108
+    ],
+    [
+     "15:15",
+     5.5094
+    ],
+    [
+     "15:20",
+     5.5148
+    ],
+    [
+     "15:25",
+     5.5119
+    ],
+    [
+     "15:30",
+     5.5123
+    ],
+    [
+     "15:35",
+     5.5129
+    ],
+    [
+     "15:40",
+     5.5122
+    ],
+    [
+     "15:45",
+     5.5123
+    ],
+    [
+     "15:50",
+     5.5127
+    ],
+    [
+     "15:55",
+     5.5095
+    ],
+    [
+     "16:00",
+     5.5123
+    ],
+    [
+     "16:05",
+     5.5124
+    ],
+    [
+     "16:10",
+     5.5138
+    ],
+    [
+     "16:15",
+     5.5162
+    ],
+    [
+     "16:20",
+     5.5117
+    ],
+    [
+     "16:25",
+     5.5127
+    ],
+    [
+     "16:30",
+     5.5097
+    ],
+    [
+     "16:35",
+     5.5065
+    ],
+    [
+     "16:40",
+     5.5065
+    ],
+    [
+     "16:45",
+     5.504
+    ],
+    [
+     "16:49",
+     5.5065
+    ]
+   ]
+  },
+  "marcadores": [
+   {
+    "hora": "13:51",
+    "titulo": "Assaí acelera vendas após proibição das bets, mas analistas veem alívio incerto",
+    "fonte": "Bloomberg Línea",
+    "url": "https://www.bloomberglinea.com.br/negocios/assai-acelera-vendas-apos-proibicao-das-bets-mas-analistas-veem-alivio-incerto/",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "ASAI3"
+    ],
+    "ibov30": 0.11,
+    "dolar30": -0.08
+   },
+   {
+    "hora": "14:10",
+    "titulo": "Petrobras pede ao governo período sem multas na reforma tributária",
+    "fonte": "Folha",
+    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-pede-ao-governo-periodo-sem-multas-na-reforma-tributaria.shtml",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "PETR4"
+    ],
+    "ibov30": -0.16,
+    "dolar30": -0.01
+   },
+   {
+    "hora": "14:49",
+    "titulo": "Com tombo do petróleo, Brava cai quase 4% e lidera perdas do Ibovespa; veja maiores altas e baixas",
+    "fonte": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWg1c1FUNFIyTWtSVi16aWxIYnBRYmxQN0pTaUlkV0pOdnVKYkNMa1ZVS0ZfWGNXNnRrTnIwVm1CU0V4S25GSDFFb3hoeHhCUVR6bGE4dzgwdmpkeTZTbWxNUGEyOXpucXhCWDVDcFdNei0zZExuclc5NkNBRy01dWRickpaNTlnRkJiNVRqeDd0aDJtbnZHUmxXQUd4RDlrdXBvU3RpNW4yLTdPZ0xIdXNOc1A0ZFk5WUZiSHBTNlNPMklpMVFuR29NSjZtenM4VnfSAdcBQVVfeXFMT2JzRVR5QzNtbk5CNHpybXhQY3Vsa2tZWk95VFVOMHF5RldnTElyNkY2X3pycVN1VWhHRjE4V000bzJRRi1RVTF5ZHA3Rkx5VXI1X2JkbVhmU185X2ZyeFdwdXVnSDhtQlZRcHVVVlFNRU84OXc4VUFqZnZRX1VnTnNUZURKbzNELVFMUXFpbl9HSWVmaENzTFg4VF80X1UzdHU3aVEyS3NfZm5hYmNsVjhZUmJTdTJYT1pXVlZtNWVIdzFaSU9VYzd2U3BnSXQ5a3lxS2x2cWs?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WIN",
+     "WDO"
+    ],
+    "tickers": [],
+    "ibov30": -0.02,
+    "dolar30": -0.04
+   },
+   {
+    "hora": "15:22",
+    "titulo": "Petrobras (PETR4) se preocupa sobre transição na reforma tributária, diz CEO",
+    "fonte": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUU11c2FjY0w0bVhpaDlzRHJYVnpBd1VYTGR3clNDRDdYTERxQkViTXdkMmcxUW5CYzBmVFR5OHdORGRBMGlzOTJwLVVVZnp5dkZsdHdramNhY1ptVXJ1N2g5cE43ZjRfOFdHOVBKSDFKVndEMEtGb0VvaEVMazJMeTNXRTFOZWxGZXFaY19KV3pmbldRaTZMaWl2R1ZqelNhaEJfU3ln?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "PETR4"
+    ],
+    "ibov30": 0.17,
+    "dolar30": -0.04
+   },
+   {
+    "hora": "15:53",
+    "titulo": "Cosan dispara mais de 10% e lidera ganhos do Ibovespa hoje; veja maiores altas e baixas",
+    "fonte": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdENwaXQ1TjJmOFBVX2E1N201dWJZWHRlQy1MLUx1bnBSM3VPS2NlR0NXLVVBSE5FZnA3TXdqdXV1T1MzRklCaVFybWdmZ2ZyVUpiSE9oeDFWbHVaSzBuc0JaYWdlclY4SThkOGx4OERFR2FlOF9pQkJ4TGFkem9ETFlaMXBMZnlQRlJpaWotMXRmRTNLbDZ2cVF5N3hkbmRqZ1FfVmthNE9FR2loZDk2VGhEaHBKMy1xemZFZDBIRFR6TU5YVjlMRlVoQUl0Tng3N2pwODJ4anJMSjh2WUdEeXZUZlJ0dw?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "CSAN3"
+    ],
+    "ibov30": 0.02,
+    "dolar30": -0.02
+   },
+   {
+    "hora": "15:54",
+    "titulo": "Ibovespa: o gatilho que pode fazer o gringo voltar a comprar Brasil, segundo André Moor, do Bradesco BBI",
+    "fonte": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWWd6NnZBNnRZM1Q3SVN0bGJZa3BXY1duZUpscm9QTUlBcUhZbWxmdlBvcjhBRlhWYUFUaTZCbGlnb0Uza0xTbkxlQURTa3N5Yk5aSUJQeGhyZkxaTzhEVUhuZC1KdTdmUjlXcFFiSkpqand3c0E5Y0lpamRQYnlrTmxfWi01YmNSejlzZldsSGJQMEp2a3dCNHhkNlBoalJTelZrc1cxMEtTNFVrLXJ5dlFCTzlBVTlndkZvYXpJdmhnOWxuX28talJIbWdOSHFLM1RR?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "BBDC4"
+    ],
+    "ibov30": 0.02,
+    "dolar30": -0.02
+   },
+   {
+    "hora": "16:01",
+    "titulo": "Presidente do Paraguai nomeia novo presidente do Banco Central",
+    "fonte": "Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeEt4WFBtNXRwRjRpSmd5WS1hWWRodDNOMXZDR3hFNld1LURCSDZJN0dFM05OOUFabUk0TW9nMkJQNTdWNnFUeDlBUGstLTdzWFl6OTBielhPa0s2V25XbmdaWkRkTVMtaUdZc0FMbURmNmJKOElPWUtWMGZDNnoxTDRhREx3RVhRQjh0eW5kSFRaNFFXX2tlU1RJWFVXSHlkTlZhOC14OWJmOFJKVTJzZGFJRGc4M05BYlFIVWhlYjlWaW8?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WDO",
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": 0.15,
+    "dolar30": -0.05
+   }
+  ]
+ },
  "hoje": [
   {
-   "titulo": "3T26: Petrobras (PETR4), Banco do Brasil (BBAS3), B3 (B3SA3) e mais; veja quais empresas divulgam balanços nesta semana",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnZEajExZVN1TTRQN29ZaWhNQzJuWXVLXzhQdHJXbTdpUzUxczZIZ3pyeGFhNUQ1am1xT05fMmpMcFByem1kVnU3bUJWc042ZFFUbUpoQXBLOUF0ZVRhOHlSZjRfb2FQc0JwVDY0NW8xTXFjVS1SeWpxdGMtX0x2YldqbF80RW9BZ1lqTU1PNktweTlzaEJ4T05sejc0dXg1UkIwa0FCTFVFZlJuZFRESQ?oc=5",
-   "publicado": "2026-11-09T06:45-03:00",
-   "impacto": "alto",
+   "titulo": "Assaí acelera vendas após proibição das bets, mas analistas veem alívio incerto",
+   "fonte": "Bloomberg Línea",
+   "url": "https://www.bloomberglinea.com.br/negocios/assai-acelera-vendas-apos-proibicao-das-bets-mas-analistas-veem-alivio-incerto/",
+   "publicado": "2026-11-09T13:51-03:00",
+   "impacto": "medio",
    "ativos": [
     "WIN"
    ],
    "tickers": [
-    "B3SA3",
-    "BBAS3",
-    "PETR4"
+    "ASAI3"
    ]
   },
   {
-   "titulo": "Selic no governo Lula pode transformar R$ 5 mil investidos em R$ 10 mil? Entenda",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSzNzMkRaZHp2bzl4TEtvRE9zbG53UDlzQWlEVHhIQWZxMEhmY2NrUHJiZDQyUG5EcllCWTE5TWhqUEtaMGtrRlJhRjZUUzMzb0xweC1JQWk0bFFTTHlqSWI5aEJMNnIwbGxMNHA4dWRneTdONHRPcWZHV3FVSTVmSVJqdWZPWWVCaDc4YnNZYnJ2T3JBY3V6MC0wNWpMVl9YMTBBd2pHUVV6UU02ajIzMnJZNzhUM2ZhTnlfOFFGZzVjMThsY1FuWDNfQjBIaWN1UlBGc0doQVp4elU?oc=5",
-   "publicado": "2026-11-09T06:50-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Day Trade hoje (09): Ibovespa se aproxima dos 170 mil; pode subir mais?",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWFhBRTh0RjV1enZ4SHRSc0FBMXFLRFBoSHVFSDd6a0x0UlhzUHpBNGRLRWNMNEFNcFl1MVZPSVVHdGxZcWNuZVRQUHJQdEJ1VXdxUXNYWVQ1U2ltLVo3clRZb19MeldtOGN5alJJQUZfUGZpRHI4UDN5cTVTdzh0MERpQXlCekRk0gGOAUFVX3lxTE1hMTdvYjl0dktQLW1VWC1QNWRCbWFSVFh5WC1PczAzVjVjaUtMRHJCZFJfMTlZdVJsRjQ3cnlLWEhma0U5SUFsUVl1b2NybG1qMnpPZDRUS2JkSGJOZWhzRDM3RjhxNHBQYjBYVEd3allRUERuU0Z0aDM5QlhaSmhmRkVJd0M4OU9XVE5JUXc?oc=5",
-   "publicado": "2026-11-09T07:04-03:00",
+   "titulo": "Petrobras pede ao governo período sem multas na reforma tributária",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-pede-ao-governo-periodo-sem-multas-na-reforma-tributaria.shtml",
+   "publicado": "2026-11-09T14:10-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
-   "tickers": []
+   "tickers": [
+    "PETR4"
+   ]
   },
   {
-   "titulo": "Mercado digere discurso de Lula enquanto espera inflação; Ibovespa em dólar sobe nesta segunda-feira (9)",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd3BSMGg2X2R1LTN0X0xQcVhieEZKTktsR2QyZWNJN1hGeUFSZzdMSk12a1ZvNExMNzdvdi1vRWlzVjN6WW0zVDJQcHRNbU5BQThxZjB5MWYtb2U1RVlISjZOTEZacmdPelgzM3ZFNmNzNUFCSG9sdUpvMWdnc0ZVLWpwUU5oVkhBR09DVEFpSHFhaUY3Y1JQN2ViT2k1NkhJQjFCVjVocThFcFYzSTVCc1YtZXZuWHpRU3hISk9rdzBIRVlCaWNtWGhSdld2YmgyX2hV?oc=5",
-   "publicado": "2026-11-09T07:13-03:00",
+   "titulo": "Com tombo do petróleo, Brava cai quase 4% e lidera perdas do Ibovespa; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWg1c1FUNFIyTWtSVi16aWxIYnBRYmxQN0pTaUlkV0pOdnVKYkNMa1ZVS0ZfWGNXNnRrTnIwVm1CU0V4S25GSDFFb3hoeHhCUVR6bGE4dzgwdmpkeTZTbWxNUGEyOXpucXhCWDVDcFdNei0zZExuclc5NkNBRy01dWRickpaNTlnRkJiNVRqeDd0aDJtbnZHUmxXQUd4RDlrdXBvU3RpNW4yLTdPZ0xIdXNOc1A0ZFk5WUZiSHBTNlNPMklpMVFuR29NSjZtenM4VnfSAdcBQVVfeXFMT2JzRVR5QzNtbk5CNHpybXhQY3Vsa2tZWk95VFVOMHF5RldnTElyNkY2X3pycVN1VWhHRjE4V000bzJRRi1RVTF5ZHA3Rkx5VXI1X2JkbVhmU185X2ZyeFdwdXVnSDhtQlZRcHVVVlFNRU84OXc4VUFqZnZRX1VnTnNUZURKbzNELVFMUXFpbl9HSWVmaENzTFg4VF80X1UzdHU3aVEyS3NfZm5hYmNsVjhZUmJTdTJYT1pXVlZtNWVIdzFaSU9VYzd2U3BnSXQ5a3lxS2x2cWs?oc=5",
+   "publicado": "2026-11-09T14:49-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Minidólar (WDOZ26) tem cenário externo e política econômica no radar",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbmp1WWhDUFc0Nl9fZ3FsTHRNWTYtMlhDSXRUaENYUjlraHNra1doaDRvRXBuMDZreGcyLU1LX250a3laVVBjQTFQZmhQZjd4dkxkWW9UTDBHclVpeXpmZkMtbDhxcDFNZDhNWlBxNzN3OGhoY3EzaGdQdXVST0dYaFVkall6Y3FkamlpYzhR0gGTAUFVX3lxTE96MFdPcnpob0ltNEdrd2lCRnF3c2diWk13ZTlOWVpCTHNUdU5kWnIyMkV6eTJWRFphNGx4VjFBVWtOUjBUTlVmYldoN2tCNVRWVDJwTU1YLUc1cDFlT1I2QXBKbDZNR1R1LS1fVHVJV1Q2NU5meWtlS1lSWUZmcTJPZzFmazMtU0hlZ2tsZGZmZ0dBaw?oc=5",
-   "publicado": "2026-11-09T07:13-03:00",
-   "impacto": "medio",
-   "ativos": [
     "WDO"
    ],
    "tickers": []
   },
   {
-   "titulo": "BC vê recuo da inflação, mas alerta para choques de oferta com petróleo",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM1hOaFhudmxzdE5Hay1nTVlKUHFJeXIyRlVwbzFjeEk1S0NCanBneXpiVktHd0NtRWhpeFZNUXJ3cUZCZ1NUVEE5ZW1EMVVYUV9qWml0dS1ONXJSVEhIRGxQRDF3d2FvSGlaQVFQMzRfVmJaX2FTM3RvMlJyNWJJRjludElYejBxUk5qZ1lsTWhlaUtrQmFkV2drMXJxSURDZmoyN1dPeEdtc0dYemRDbkJJODVwLXJlUDRiRFhNckJha0hxbnNDOA?oc=5",
-   "publicado": "2026-11-09T07:46-03:00",
+   "titulo": "Petrobras (PETR4) se preocupa sobre transição na reforma tributária, diz CEO",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUU11c2FjY0w0bVhpaDlzRHJYVnpBd1VYTGR3clNDRDdYTERxQkViTXdkMmcxUW5CYzBmVFR5OHdORGRBMGlzOTJwLVVVZnp5dkZsdHdramNhY1ptVXJ1N2g5cE43ZjRfOFdHOVBKSDFKVndEMEtGb0VvaEVMazJMeTNXRTFOZWxGZXFaY19KV3pmbldRaTZMaWl2R1ZqelNhaEJfU3ln?oc=5",
+   "publicado": "2026-11-09T15:22-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Cosan dispara mais de 10% e lidera ganhos do Ibovespa hoje; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdENwaXQ1TjJmOFBVX2E1N201dWJZWHRlQy1MLUx1bnBSM3VPS2NlR0NXLVVBSE5FZnA3TXdqdXV1T1MzRklCaVFybWdmZ2ZyVUpiSE9oeDFWbHVaSzBuc0JaYWdlclY4SThkOGx4OERFR2FlOF9pQkJ4TGFkem9ETFlaMXBMZnlQRlJpaWotMXRmRTNLbDZ2cVF5N3hkbmRqZ1FfVmthNE9FR2loZDk2VGhEaHBKMy1xemZFZDBIRFR6TU5YVjlMRlVoQUl0Tng3N2pwODJ4anJMSjh2WUdEeXZUZlJ0dw?oc=5",
+   "publicado": "2026-11-09T15:53-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "CSAN3"
+   ]
+  },
+  {
+   "titulo": "Ibovespa: o gatilho que pode fazer o gringo voltar a comprar Brasil, segundo André Moor, do Bradesco BBI",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWWd6NnZBNnRZM1Q3SVN0bGJZa3BXY1duZUpscm9QTUlBcUhZbWxmdlBvcjhBRlhWYUFUaTZCbGlnb0Uza0xTbkxlQURTa3N5Yk5aSUJQeGhyZkxaTzhEVUhuZC1KdTdmUjlXcFFiSkpqand3c0E5Y0lpamRQYnlrTmxfWi01YmNSejlzZldsSGJQMEp2a3dCNHhkNlBoalJTelZrc1cxMEtTNFVrLXJ5dlFCTzlBVTlndkZvYXpJdmhnOWxuX28talJIbWdOSHFLM1RR?oc=5",
+   "publicado": "2026-11-09T15:54-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "BBDC4"
+   ]
+  },
+  {
+   "titulo": "Presidente do Paraguai nomeia novo presidente do Banco Central",
+   "fonte": "Agência Brasil",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeEt4WFBtNXRwRjRpSmd5WS1hWWRodDNOMXZDR3hFNld1LURCSDZJN0dFM05OOUFabUk0TW9nMkJQNTdWNnFUeDlBUGstLTdzWFl6OTBielhPa0s2V25XbmdaWkRkTVMtaUdZc0FMbURmNmJKOElPWUtWMGZDNnoxTDRhREx3RVhRQjh0eW5kSFRaNFFXX2tlU1RJWFVXSHlkTlZhOC14OWJmOFJKVTJzZGFJRGc4M05BYlFIVWhlYjlWaW8?oc=5",
+   "publicado": "2026-11-09T16:01-03:00",
    "impacto": "alto",
    "ativos": [
-    "WIN",
     "WDO",
     "DI"
    ],
@@ -78,25 +910,23 @@
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-09T08:17-03:00",
+ "atualizado_em": "2026-11-09T16:49-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
-  "CNN Brasil",
   "Estadão",
   "Folha",
   "InfoMoney",
-  "Money Times",
-  "Valor"
+  "Money Times"
  ],
  "noticias": [
   {
-   "titulo": "China nega que mulher que teve caso com Huang fosse espiã do país; ações da Nvidia desabam",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/china-nega-que-mulher-que-teve-caso-com-huang-fosse-espia-do-pais-acoes-da-nvidia-desabam.shtml",
-   "publicado": "2026-11-09T08:06-03:00",
+   "titulo": "Elizabeth Warren set to take over the Senate banking committee. Here's what she plans to do",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
+   "publicado": "2026-11-09T16:34-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN",
@@ -105,78 +935,104 @@
    "tickers": []
   },
   {
-   "titulo": "BC vê recuo da inflação, mas alerta para choques de oferta com petróleo",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM1hOaFhudmxzdE5Hay1nTVlKUHFJeXIyRlVwbzFjeEk1S0NCanBneXpiVktHd0NtRWhpeFZNUXJ3cUZCZ1NUVEE5ZW1EMVVYUV9qWml0dS1ONXJSVEhIRGxQRDF3d2FvSGlaQVFQMzRfVmJaX2FTM3RvMlJyNWJJRjludElYejBxUk5qZ1lsTWhlaUtrQmFkV2drMXJxSURDZmoyN1dPeEdtc0dYemRDbkJJODVwLXJlUDRiRFhNckJha0hxbnNDOA?oc=5",
-   "publicado": "2026-11-09T07:46-03:00",
+   "titulo": "Presidente do Paraguai nomeia novo presidente do Banco Central",
+   "fonte": "Agência Brasil",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeEt4WFBtNXRwRjRpSmd5WS1hWWRodDNOMXZDR3hFNld1LURCSDZJN0dFM05OOUFabUk0TW9nMkJQNTdWNnFUeDlBUGstLTdzWFl6OTBielhPa0s2V25XbmdaWkRkTVMtaUdZc0FMbURmNmJKOElPWUtWMGZDNnoxTDRhREx3RVhRQjh0eW5kSFRaNFFXX2tlU1RJWFVXSHlkTlZhOC14OWJmOFJKVTJzZGFJRGc4M05BYlFIVWhlYjlWaW8?oc=5",
+   "publicado": "2026-11-09T16:01-03:00",
    "impacto": "alto",
    "ativos": [
-    "WIN",
     "WDO",
     "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Mercado digere discurso de Lula enquanto espera inflação; Ibovespa em dólar sobe nesta segunda-feira (9)",
+   "titulo": "Ibovespa: o gatilho que pode fazer o gringo voltar a comprar Brasil, segundo André Moor, do Bradesco BBI",
    "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd3BSMGg2X2R1LTN0X0xQcVhieEZKTktsR2QyZWNJN1hGeUFSZzdMSk12a1ZvNExMNzdvdi1vRWlzVjN6WW0zVDJQcHRNbU5BQThxZjB5MWYtb2U1RVlISjZOTEZacmdPelgzM3ZFNmNzNUFCSG9sdUpvMWdnc0ZVLWpwUU5oVkhBR09DVEFpSHFhaUY3Y1JQN2ViT2k1NkhJQjFCVjVocThFcFYzSTVCc1YtZXZuWHpRU3hISk9rdzBIRVlCaWNtWGhSdld2YmgyX2hV?oc=5",
-   "publicado": "2026-11-09T07:13-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Minidólar (WDOZ26) tem cenário externo e política econômica no radar",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbmp1WWhDUFc0Nl9fZ3FsTHRNWTYtMlhDSXRUaENYUjlraHNra1doaDRvRXBuMDZreGcyLU1LX250a3laVVBjQTFQZmhQZjd4dkxkWW9UTDBHclVpeXpmZkMtbDhxcDFNZDhNWlBxNzN3OGhoY3EzaGdQdXVST0dYaFVkall6Y3FkamlpYzhR0gGTAUFVX3lxTE96MFdPcnpob0ltNEdrd2lCRnF3c2diWk13ZTlOWVpCTHNUdU5kWnIyMkV6eTJWRFphNGx4VjFBVWtOUjBUTlVmYldoN2tCNVRWVDJwTU1YLUc1cDFlT1I2QXBKbDZNR1R1LS1fVHVJV1Q2NU5meWtlS1lSWUZmcTJPZzFmazMtU0hlZ2tsZGZmZ0dBaw?oc=5",
-   "publicado": "2026-11-09T07:13-03:00",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWWd6NnZBNnRZM1Q3SVN0bGJZa3BXY1duZUpscm9QTUlBcUhZbWxmdlBvcjhBRlhWYUFUaTZCbGlnb0Uza0xTbkxlQURTa3N5Yk5aSUJQeGhyZkxaTzhEVUhuZC1KdTdmUjlXcFFiSkpqand3c0E5Y0lpamRQYnlrTmxfWi01YmNSejlzZldsSGJQMEp2a3dCNHhkNlBoalJTelZrc1cxMEtTNFVrLXJ5dlFCTzlBVTlndkZvYXpJdmhnOWxuX28talJIbWdOSHFLM1RR?oc=5",
+   "publicado": "2026-11-09T15:54-03:00",
    "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Day Trade hoje (09): Ibovespa se aproxima dos 170 mil; pode subir mais?",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWFhBRTh0RjV1enZ4SHRSc0FBMXFLRFBoSHVFSDd6a0x0UlhzUHpBNGRLRWNMNEFNcFl1MVZPSVVHdGxZcWNuZVRQUHJQdEJ1VXdxUXNYWVQ1U2ltLVo3clRZb19MeldtOGN5alJJQUZfUGZpRHI4UDN5cTVTdzh0MERpQXlCekRk0gGOAUFVX3lxTE1hMTdvYjl0dktQLW1VWC1QNWRCbWFSVFh5WC1PczAzVjVjaUtMRHJCZFJfMTlZdVJsRjQ3cnlLWEhma0U5SUFsUVl1b2NybG1qMnpPZDRUS2JkSGJOZWhzRDM3RjhxNHBQYjBYVEd3allRUERuU0Z0aDM5QlhaSmhmRkVJd0M4OU9XVE5JUXc?oc=5",
-   "publicado": "2026-11-09T07:04-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Selic no governo Lula pode transformar R$ 5 mil investidos em R$ 10 mil? Entenda",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSzNzMkRaZHp2bzl4TEtvRE9zbG53UDlzQWlEVHhIQWZxMEhmY2NrUHJiZDQyUG5EcllCWTE5TWhqUEtaMGtrRlJhRjZUUzMzb0xweC1JQWk0bFFTTHlqSWI5aEJMNnIwbGxMNHA4dWRneTdONHRPcWZHV3FVSTVmSVJqdWZPWWVCaDc4YnNZYnJ2T3JBY3V6MC0wNWpMVl9YMTBBd2pHUVV6UU02ajIzMnJZNzhUM2ZhTnlfOFFGZzVjMThsY1FuWDNfQjBIaWN1UlBGc0doQVp4elU?oc=5",
-   "publicado": "2026-11-09T06:50-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "3T26: Petrobras (PETR4), Banco do Brasil (BBAS3), B3 (B3SA3) e mais; veja quais empresas divulgam balanços nesta semana",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnZEajExZVN1TTRQN29ZaWhNQzJuWXVLXzhQdHJXbTdpUzUxczZIZ3pyeGFhNUQ1am1xT05fMmpMcFByem1kVnU3bUJWc042ZFFUbUpoQXBLOUF0ZVRhOHlSZjRfb2FQc0JwVDY0NW8xTXFjVS1SeWpxdGMtX0x2YldqbF80RW9BZ1lqTU1PNktweTlzaEJ4T05sejc0dXg1UkIwa0FCTFVFZlJuZFRESQ?oc=5",
-   "publicado": "2026-11-09T06:45-03:00",
-   "impacto": "alto",
    "ativos": [
     "WIN"
    ],
    "tickers": [
-    "B3SA3",
-    "BBAS3",
+    "BBDC4"
+   ]
+  },
+  {
+   "titulo": "Cosan dispara mais de 10% e lidera ganhos do Ibovespa hoje; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdENwaXQ1TjJmOFBVX2E1N201dWJZWHRlQy1MLUx1bnBSM3VPS2NlR0NXLVVBSE5FZnA3TXdqdXV1T1MzRklCaVFybWdmZ2ZyVUpiSE9oeDFWbHVaSzBuc0JaYWdlclY4SThkOGx4OERFR2FlOF9pQkJ4TGFkem9ETFlaMXBMZnlQRlJpaWotMXRmRTNLbDZ2cVF5N3hkbmRqZ1FfVmthNE9FR2loZDk2VGhEaHBKMy1xemZFZDBIRFR6TU5YVjlMRlVoQUl0Tng3N2pwODJ4anJMSjh2WUdEeXZUZlJ0dw?oc=5",
+   "publicado": "2026-11-09T15:53-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "CSAN3"
+   ]
+  },
+  {
+   "titulo": "Petrobras (PETR4) se preocupa sobre transição na reforma tributária, diz CEO",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUU11c2FjY0w0bVhpaDlzRHJYVnpBd1VYTGR3clNDRDdYTERxQkViTXdkMmcxUW5CYzBmVFR5OHdORGRBMGlzOTJwLVVVZnp5dkZsdHdramNhY1ptVXJ1N2g5cE43ZjRfOFdHOVBKSDFKVndEMEtGb0VvaEVMazJMeTNXRTFOZWxGZXFaY19KV3pmbldRaTZMaWl2R1ZqelNhaEJfU3ln?oc=5",
+   "publicado": "2026-11-09T15:22-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
     "PETR4"
+   ]
+  },
+  {
+   "titulo": "Com tombo do petróleo, Brava cai quase 4% e lidera perdas do Ibovespa; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWg1c1FUNFIyTWtSVi16aWxIYnBRYmxQN0pTaUlkV0pOdnVKYkNMa1ZVS0ZfWGNXNnRrTnIwVm1CU0V4S25GSDFFb3hoeHhCUVR6bGE4dzgwdmpkeTZTbWxNUGEyOXpucXhCWDVDcFdNei0zZExuclc5NkNBRy01dWRickpaNTlnRkJiNVRqeDd0aDJtbnZHUmxXQUd4RDlrdXBvU3RpNW4yLTdPZ0xIdXNOc1A0ZFk5WUZiSHBTNlNPMklpMVFuR29NSjZtenM4VnfSAdcBQVVfeXFMT2JzRVR5QzNtbk5CNHpybXhQY3Vsa2tZWk95VFVOMHF5RldnTElyNkY2X3pycVN1VWhHRjE4V000bzJRRi1RVTF5ZHA3Rkx5VXI1X2JkbVhmU185X2ZyeFdwdXVnSDhtQlZRcHVVVlFNRU84OXc4VUFqZnZRX1VnTnNUZURKbzNELVFMUXFpbl9HSWVmaENzTFg4VF80X1UzdHU3aVEyS3NfZm5hYmNsVjhZUmJTdTJYT1pXVlZtNWVIdzFaSU9VYzd2U3BnSXQ5a3lxS2x2cWs?oc=5",
+   "publicado": "2026-11-09T14:49-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Petrobras pede ao governo período sem multas na reforma tributária",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-pede-ao-governo-periodo-sem-multas-na-reforma-tributaria.shtml",
+   "publicado": "2026-11-09T14:10-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
+   "publicado": "2026-11-09T14:05-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Assaí acelera vendas após proibição das bets, mas analistas veem alívio incerto",
+   "fonte": "Bloomberg Línea",
+   "url": "https://www.bloomberglinea.com.br/negocios/assai-acelera-vendas-apos-proibicao-das-bets-mas-analistas-veem-alivio-incerto/",
+   "publicado": "2026-11-09T13:51-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "ASAI3"
    ]
   }
  ]
