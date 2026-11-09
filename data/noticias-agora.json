@@ -2,21 +2,68 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Ibovespa sobe pouco, mas ação dispara quase 24% na semana; o que explica o salto?",
+   "titulo": "Fala de Lula tem 99% do discurso focado em gastos e 1% em responsabilidade fiscal, dizem economistas",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQmpsYXJ5S0diZ21FREE1bktvWXhKY0F0N0pCWm9yajNjWUZiYXFzWkF3dXlDTE1HMXhyLVBob0Y0bDNIYVp1T1p5ME1MSHdvYm9uZFVicU5vVlh1VENfY2pvRkNNaEpCd241VG91TVJjVDQ5aFpacTVMUlg2OXNIMXA1WWRRRlFWWFhiTWp6WjZKZktDX2UzeFBzZU9nZ2lLNjNsSW9pWkM1NU1hS293V1FWZUNRZzcxdzBTYkNSWnMya2xyYU1iTWlfN3JrMXNMclh3RFRvdC00aWhi?oc=5",
-   "publicado": "2026-11-08T20:26-03:00",
+   "url": "https://www.estadao.com.br/economia/fala-de-lula-tem-99-do-discurso-focado-em-gastos-e-1-em-responsabilidade-fiscal-dizem-economistas/",
+   "publicado": "2026-11-08T22:06-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN"
+    "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Gleisi acusa Folha de 'terrorismo fiscal' e de querer recessão ao criticar reportagem",
+   "titulo": "Tesouro Direto hoje: taxas voltam a cair antes da decisão do Copom, com apoio de tombo do petróleo",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbVFuVVdoMU9NZEVJUVJFbWUxMk5BMjFKMnRDcDRoOVg0bjhmbE9lUEVidTFDYnFLdGJtVDVqWDNKb0g1d29JbHhNN3pNZzZlckdaN0tnZUp1Rk41NVJRNWIzd2xUMjBJZUVxcnlmRlZ2a3VRamdqUzJ5WDYxRDNnOWFILUxFQk5fY2dPWVdMdzU0ZVpsQjVLVS1neDdlWm53bmt4c2lNNklkTW1vZUlFSC1tUzJfSzh4NUVmajBzQ3BOQkRROVd5ekxjYk56NjlyR1U1LTE1alU5Ym1XeWhIdWNMWmR5dlE?oc=5",
+   "publicado": "2026-11-08T22:09-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Lula precisa convencer que compromisso fiscal vai além do discurso; leia análise",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/lula-precisa-convencer-que-compromisso-fiscal-vai-alem-do-discurso-leia-analise/",
+   "publicado": "2026-11-08T22:27-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Títulos atrelados à Selic dobram e colchão para rolar dívida pública de curto prazo diminui",
    "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/gleisi-acusa-folha-de-terrorismo-fiscal-e-de-querer-recessao-ao-criticar-reportagem.shtml",
-   "publicado": "2026-11-08T20:57-03:00",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/titulos-atrelados-a-selic-dobram-e-colchao-para-rolar-divida-publica-de-curto-prazo-diminui.shtml",
+   "publicado": "2026-11-08T23:00-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Vitória de Lula muda perspectivas para small caps, pressionadas por juros e risco fiscal",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/vitoria-de-lula-muda-perspectivas-para-small-caps-pressionadas-por-juros-e-risco-fiscal.shtml",
+   "publicado": "2026-11-08T23:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+   "publicado": "2026-11-08T23:50-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -27,22 +74,21 @@
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-08T21:02-03:00",
+ "atualizado_em": "2026-11-08T23:58-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
   "Estadão",
-  "Folha",
-  "InfoMoney"
+  "Folha"
  ],
  "noticias": [
   {
-   "titulo": "Gleisi acusa Folha de 'terrorismo fiscal' e de querer recessão ao criticar reportagem",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/gleisi-acusa-folha-de-terrorismo-fiscal-e-de-querer-recessao-ao-criticar-reportagem.shtml",
-   "publicado": "2026-11-08T20:57-03:00",
+   "titulo": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+   "publicado": "2026-11-08T23:50-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -52,37 +98,60 @@
    "tickers": []
   },
   {
-   "titulo": "Cotação do petróleo reabre em leve queda mesmo com ataques a navios perto de Hormuz",
+   "titulo": "Títulos atrelados à Selic dobram e colchão para rolar dívida pública de curto prazo diminui",
    "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/cotacao-do-petroleo-reabre-em-leve-queda-mesmo-com-ataques-a-navios-perto-de-hormuz.shtml",
-   "publicado": "2026-11-08T20:32-03:00",
-   "impacto": "medio",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/titulos-atrelados-a-selic-dobram-e-colchao-para-rolar-divida-publica-de-curto-prazo-diminui.shtml",
+   "publicado": "2026-11-08T23:00-03:00",
+   "impacto": "alto",
    "ativos": [
-    "WIN",
-    "WDO"
+    "WDO",
+    "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Ibovespa sobe pouco, mas ação dispara quase 24% na semana; o que explica o salto?",
+   "titulo": "Vitória de Lula muda perspectivas para small caps, pressionadas por juros e risco fiscal",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/vitoria-de-lula-muda-perspectivas-para-small-caps-pressionadas-por-juros-e-risco-fiscal.shtml",
+   "publicado": "2026-11-08T23:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Lula precisa convencer que compromisso fiscal vai além do discurso; leia análise",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQmpsYXJ5S0diZ21FREE1bktvWXhKY0F0N0pCWm9yajNjWUZiYXFzWkF3dXlDTE1HMXhyLVBob0Y0bDNIYVp1T1p5ME1MSHdvYm9uZFVicU5vVlh1VENfY2pvRkNNaEpCd241VG91TVJjVDQ5aFpacTVMUlg2OXNIMXA1WWRRRlFWWFhiTWp6WjZKZktDX2UzeFBzZU9nZ2lLNjNsSW9pWkM1NU1hS293V1FWZUNRZzcxdzBTYkNSWnMya2xyYU1iTWlfN3JrMXNMclh3RFRvdC00aWhi?oc=5",
-   "publicado": "2026-11-08T20:26-03:00",
+   "url": "https://www.estadao.com.br/economia/lula-precisa-convencer-que-compromisso-fiscal-vai-alem-do-discurso-leia-analise/",
+   "publicado": "2026-11-08T22:27-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN"
+    "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
-   "publicado": "2026-11-08T18:53-03:00",
-   "impacto": "medio",
+   "titulo": "Tesouro Direto hoje: taxas voltam a cair antes da decisão do Copom, com apoio de tombo do petróleo",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbVFuVVdoMU9NZEVJUVJFbWUxMk5BMjFKMnRDcDRoOVg0bjhmbE9lUEVidTFDYnFLdGJtVDVqWDNKb0g1d29JbHhNN3pNZzZlckdaN0tnZUp1Rk41NVJRNWIzd2xUMjBJZUVxcnlmRlZ2a3VRamdqUzJ5WDYxRDNnOWFILUxFQk5fY2dPWVdMdzU0ZVpsQjVLVS1neDdlWm53bmt4c2lNNklkTW1vZUlFSC1tUzJfSzh4NUVmajBzQ3BOQkRROVd5ekxjYk56NjlyR1U1LTE1alU5Ym1XeWhIdWNMWmR5dlE?oc=5",
+   "publicado": "2026-11-08T22:09-03:00",
+   "impacto": "alto",
    "ativos": [
     "WIN",
-    "WDO"
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Fala de Lula tem 99% do discurso focado em gastos e 1% em responsabilidade fiscal, dizem economistas",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/fala-de-lula-tem-99-do-discurso-focado-em-gastos-e-1-em-responsabilidade-fiscal-dizem-economistas/",
+   "publicado": "2026-11-08T22:06-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
    ],
    "tickers": []
   }
