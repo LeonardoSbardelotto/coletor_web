@@ -2,21 +2,48 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Fala de Lula tem 99% do discurso focado em gastos e 1% em responsabilidade fiscal, dizem economistas",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/fala-de-lula-tem-99-do-discurso-focado-em-gastos-e-1-em-responsabilidade-fiscal-dizem-economistas/",
-   "publicado": "2026-11-08T22:06-03:00",
-   "impacto": "medio",
+   "titulo": "3T26: Petrobras (PETR4), Banco do Brasil (BBAS3), B3 (B3SA3) e mais; veja quais empresas divulgam balanços nesta semana",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnZEajExZVN1TTRQN29ZaWhNQzJuWXVLXzhQdHJXbTdpUzUxczZIZ3pyeGFhNUQ1am1xT05fMmpMcFByem1kVnU3bUJWc042ZFFUbUpoQXBLOUF0ZVRhOHlSZjRfb2FQc0JwVDY0NW8xTXFjVS1SeWpxdGMtX0x2YldqbF80RW9BZ1lqTU1PNktweTlzaEJ4T05sejc0dXg1UkIwa0FCTFVFZlJuZFRESQ?oc=5",
+   "publicado": "2026-11-09T06:45-03:00",
+   "impacto": "alto",
    "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "B3SA3",
+    "BBAS3",
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Selic no governo Lula pode transformar R$ 5 mil investidos em R$ 10 mil? Entenda",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSzNzMkRaZHp2bzl4TEtvRE9zbG53UDlzQWlEVHhIQWZxMEhmY2NrUHJiZDQyUG5EcllCWTE5TWhqUEtaMGtrRlJhRjZUUzMzb0xweC1JQWk0bFFTTHlqSWI5aEJMNnIwbGxMNHA4dWRneTdONHRPcWZHV3FVSTVmSVJqdWZPWWVCaDc4YnNZYnJ2T3JBY3V6MC0wNWpMVl9YMTBBd2pHUVV6UU02ajIzMnJZNzhUM2ZhTnlfOFFGZzVjMThsY1FuWDNfQjBIaWN1UlBGc0doQVp4elU?oc=5",
+   "publicado": "2026-11-09T06:50-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
     "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Tesouro Direto hoje: taxas voltam a cair antes da decisão do Copom, com apoio de tombo do petróleo",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbVFuVVdoMU9NZEVJUVJFbWUxMk5BMjFKMnRDcDRoOVg0bjhmbE9lUEVidTFDYnFLdGJtVDVqWDNKb0g1d29JbHhNN3pNZzZlckdaN0tnZUp1Rk41NVJRNWIzd2xUMjBJZUVxcnlmRlZ2a3VRamdqUzJ5WDYxRDNnOWFILUxFQk5fY2dPWVdMdzU0ZVpsQjVLVS1neDdlWm53bmt4c2lNNklkTW1vZUlFSC1tUzJfSzh4NUVmajBzQ3BOQkRROVd5ekxjYk56NjlyR1U1LTE1alU5Ym1XeWhIdWNMWmR5dlE?oc=5",
-   "publicado": "2026-11-08T22:09-03:00",
+   "titulo": "Day Trade hoje (09): Ibovespa se aproxima dos 170 mil; pode subir mais?",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWFhBRTh0RjV1enZ4SHRSc0FBMXFLRFBoSHVFSDd6a0x0UlhzUHpBNGRLRWNMNEFNcFl1MVZPSVVHdGxZcWNuZVRQUHJQdEJ1VXdxUXNYWVQ1U2ltLVo3clRZb19MeldtOGN5alJJQUZfUGZpRHI4UDN5cTVTdzh0MERpQXlCekRk0gGOAUFVX3lxTE1hMTdvYjl0dktQLW1VWC1QNWRCbWFSVFh5WC1PczAzVjVjaUtMRHJCZFJfMTlZdVJsRjQ3cnlLWEhma0U5SUFsUVl1b2NybG1qMnpPZDRUS2JkSGJOZWhzRDM3RjhxNHBQYjBYVEd3allRUERuU0Z0aDM5QlhaSmhmRkVJd0M4OU9XVE5JUXc?oc=5",
+   "publicado": "2026-11-09T07:04-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Mercado digere discurso de Lula enquanto espera inflação; Ibovespa em dólar sobe nesta segunda-feira (9)",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd3BSMGg2X2R1LTN0X0xQcVhieEZKTktsR2QyZWNJN1hGeUFSZzdMSk12a1ZvNExMNzdvdi1vRWlzVjN6WW0zVDJQcHRNbU5BQThxZjB5MWYtb2U1RVlISjZOTEZacmdPelgzM3ZFNmNzNUFCSG9sdUpvMWdnc0ZVLWpwUU5oVkhBR09DVEFpSHFhaUY3Y1JQN2ViT2k1NkhJQjFCVjVocThFcFYzSTVCc1YtZXZuWHpRU3hISk9rdzBIRVlCaWNtWGhSdld2YmgyX2hV?oc=5",
+   "publicado": "2026-11-09T07:13-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -26,44 +53,21 @@
    "tickers": []
   },
   {
-   "titulo": "Lula precisa convencer que compromisso fiscal vai além do discurso; leia análise",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/lula-precisa-convencer-que-compromisso-fiscal-vai-alem-do-discurso-leia-analise/",
-   "publicado": "2026-11-08T22:27-03:00",
+   "titulo": "Minidólar (WDOZ26) tem cenário externo e política econômica no radar",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbmp1WWhDUFc0Nl9fZ3FsTHRNWTYtMlhDSXRUaENYUjlraHNra1doaDRvRXBuMDZreGcyLU1LX250a3laVVBjQTFQZmhQZjd4dkxkWW9UTDBHclVpeXpmZkMtbDhxcDFNZDhNWlBxNzN3OGhoY3EzaGdQdXVST0dYaFVkall6Y3FkamlpYzhR0gGTAUFVX3lxTE96MFdPcnpob0ltNEdrd2lCRnF3c2diWk13ZTlOWVpCTHNUdU5kWnIyMkV6eTJWRFphNGx4VjFBVWtOUjBUTlVmYldoN2tCNVRWVDJwTU1YLUc1cDFlT1I2QXBKbDZNR1R1LS1fVHVJV1Q2NU5meWtlS1lSWUZmcTJPZzFmazMtU0hlZ2tsZGZmZ0dBaw?oc=5",
+   "publicado": "2026-11-09T07:13-03:00",
    "impacto": "medio",
    "ativos": [
-    "DI"
+    "WDO"
    ],
    "tickers": []
   },
   {
-   "titulo": "Títulos atrelados à Selic dobram e colchão para rolar dívida pública de curto prazo diminui",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/titulos-atrelados-a-selic-dobram-e-colchao-para-rolar-divida-publica-de-curto-prazo-diminui.shtml",
-   "publicado": "2026-11-08T23:00-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Vitória de Lula muda perspectivas para small caps, pressionadas por juros e risco fiscal",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/vitoria-de-lula-muda-perspectivas-para-small-caps-pressionadas-por-juros-e-risco-fiscal.shtml",
-   "publicado": "2026-11-08T23:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
-   "publicado": "2026-11-08T23:50-03:00",
+   "titulo": "BC vê recuo da inflação, mas alerta para choques de oferta com petróleo",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM1hOaFhudmxzdE5Hay1nTVlKUHFJeXIyRlVwbzFjeEk1S0NCanBneXpiVktHd0NtRWhpeFZNUXJ3cUZCZ1NUVEE5ZW1EMVVYUV9qWml0dS1ONXJSVEhIRGxQRDF3d2FvSGlaQVFQMzRfVmJaX2FTM3RvMlJyNWJJRjludElYejBxUk5qZ1lsTWhlaUtrQmFkV2drMXJxSURDZmoyN1dPeEdtc0dYemRDbkJJODVwLXJlUDRiRFhNckJha0hxbnNDOA?oc=5",
+   "publicado": "2026-11-09T07:46-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -74,21 +78,37 @@
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-08T23:58-03:00",
+ "atualizado_em": "2026-11-09T08:17-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
+  "CNN Brasil",
   "Estadão",
-  "Folha"
+  "Folha",
+  "InfoMoney",
+  "Money Times",
+  "Valor"
  ],
  "noticias": [
   {
-   "titulo": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
-   "publicado": "2026-11-08T23:50-03:00",
+   "titulo": "China nega que mulher que teve caso com Huang fosse espiã do país; ações da Nvidia desabam",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/china-nega-que-mulher-que-teve-caso-com-huang-fosse-espia-do-pais-acoes-da-nvidia-desabam.shtml",
+   "publicado": "2026-11-09T08:06-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "BC vê recuo da inflação, mas alerta para choques de oferta com petróleo",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM1hOaFhudmxzdE5Hay1nTVlKUHFJeXIyRlVwbzFjeEk1S0NCanBneXpiVktHd0NtRWhpeFZNUXJ3cUZCZ1NUVEE5ZW1EMVVYUV9qWml0dS1ONXJSVEhIRGxQRDF3d2FvSGlaQVFQMzRfVmJaX2FTM3RvMlJyNWJJRjludElYejBxUk5qZ1lsTWhlaUtrQmFkV2drMXJxSURDZmoyN1dPeEdtc0dYemRDbkJJODVwLXJlUDRiRFhNckJha0hxbnNDOA?oc=5",
+   "publicado": "2026-11-09T07:46-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -98,44 +118,10 @@
    "tickers": []
   },
   {
-   "titulo": "Títulos atrelados à Selic dobram e colchão para rolar dívida pública de curto prazo diminui",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/titulos-atrelados-a-selic-dobram-e-colchao-para-rolar-divida-publica-de-curto-prazo-diminui.shtml",
-   "publicado": "2026-11-08T23:00-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Vitória de Lula muda perspectivas para small caps, pressionadas por juros e risco fiscal",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/vitoria-de-lula-muda-perspectivas-para-small-caps-pressionadas-por-juros-e-risco-fiscal.shtml",
-   "publicado": "2026-11-08T23:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Lula precisa convencer que compromisso fiscal vai além do discurso; leia análise",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/lula-precisa-convencer-que-compromisso-fiscal-vai-alem-do-discurso-leia-analise/",
-   "publicado": "2026-11-08T22:27-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Tesouro Direto hoje: taxas voltam a cair antes da decisão do Copom, com apoio de tombo do petróleo",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbVFuVVdoMU9NZEVJUVJFbWUxMk5BMjFKMnRDcDRoOVg0bjhmbE9lUEVidTFDYnFLdGJtVDVqWDNKb0g1d29JbHhNN3pNZzZlckdaN0tnZUp1Rk41NVJRNWIzd2xUMjBJZUVxcnlmRlZ2a3VRamdqUzJ5WDYxRDNnOWFILUxFQk5fY2dPWVdMdzU0ZVpsQjVLVS1neDdlWm53bmt4c2lNNklkTW1vZUlFSC1tUzJfSzh4NUVmajBzQ3BOQkRROVd5ekxjYk56NjlyR1U1LTE1alU5Ym1XeWhIdWNMWmR5dlE?oc=5",
-   "publicado": "2026-11-08T22:09-03:00",
+   "titulo": "Mercado digere discurso de Lula enquanto espera inflação; Ibovespa em dólar sobe nesta segunda-feira (9)",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd3BSMGg2X2R1LTN0X0xQcVhieEZKTktsR2QyZWNJN1hGeUFSZzdMSk12a1ZvNExMNzdvdi1vRWlzVjN6WW0zVDJQcHRNbU5BQThxZjB5MWYtb2U1RVlISjZOTEZacmdPelgzM3ZFNmNzNUFCSG9sdUpvMWdnc0ZVLWpwUU5oVkhBR09DVEFpSHFhaUY3Y1JQN2ViT2k1NkhJQjFCVjVocThFcFYzSTVCc1YtZXZuWHpRU3hISk9rdzBIRVlCaWNtWGhSdld2YmgyX2hV?oc=5",
+   "publicado": "2026-11-09T07:13-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -145,15 +131,53 @@
    "tickers": []
   },
   {
-   "titulo": "Fala de Lula tem 99% do discurso focado em gastos e 1% em responsabilidade fiscal, dizem economistas",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/fala-de-lula-tem-99-do-discurso-focado-em-gastos-e-1-em-responsabilidade-fiscal-dizem-economistas/",
-   "publicado": "2026-11-08T22:06-03:00",
+   "titulo": "Minidólar (WDOZ26) tem cenário externo e política econômica no radar",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbmp1WWhDUFc0Nl9fZ3FsTHRNWTYtMlhDSXRUaENYUjlraHNra1doaDRvRXBuMDZreGcyLU1LX250a3laVVBjQTFQZmhQZjd4dkxkWW9UTDBHclVpeXpmZkMtbDhxcDFNZDhNWlBxNzN3OGhoY3EzaGdQdXVST0dYaFVkall6Y3FkamlpYzhR0gGTAUFVX3lxTE96MFdPcnpob0ltNEdrd2lCRnF3c2diWk13ZTlOWVpCTHNUdU5kWnIyMkV6eTJWRFphNGx4VjFBVWtOUjBUTlVmYldoN2tCNVRWVDJwTU1YLUc1cDFlT1I2QXBKbDZNR1R1LS1fVHVJV1Q2NU5meWtlS1lSWUZmcTJPZzFmazMtU0hlZ2tsZGZmZ0dBaw?oc=5",
+   "publicado": "2026-11-09T07:13-03:00",
    "impacto": "medio",
    "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Day Trade hoje (09): Ibovespa se aproxima dos 170 mil; pode subir mais?",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWFhBRTh0RjV1enZ4SHRSc0FBMXFLRFBoSHVFSDd6a0x0UlhzUHpBNGRLRWNMNEFNcFl1MVZPSVVHdGxZcWNuZVRQUHJQdEJ1VXdxUXNYWVQ1U2ltLVo3clRZb19MeldtOGN5alJJQUZfUGZpRHI4UDN5cTVTdzh0MERpQXlCekRk0gGOAUFVX3lxTE1hMTdvYjl0dktQLW1VWC1QNWRCbWFSVFh5WC1PczAzVjVjaUtMRHJCZFJfMTlZdVJsRjQ3cnlLWEhma0U5SUFsUVl1b2NybG1qMnpPZDRUS2JkSGJOZWhzRDM3RjhxNHBQYjBYVEd3allRUERuU0Z0aDM5QlhaSmhmRkVJd0M4OU9XVE5JUXc?oc=5",
+   "publicado": "2026-11-09T07:04-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Selic no governo Lula pode transformar R$ 5 mil investidos em R$ 10 mil? Entenda",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSzNzMkRaZHp2bzl4TEtvRE9zbG53UDlzQWlEVHhIQWZxMEhmY2NrUHJiZDQyUG5EcllCWTE5TWhqUEtaMGtrRlJhRjZUUzMzb0xweC1JQWk0bFFTTHlqSWI5aEJMNnIwbGxMNHA4dWRneTdONHRPcWZHV3FVSTVmSVJqdWZPWWVCaDc4YnNZYnJ2T3JBY3V6MC0wNWpMVl9YMTBBd2pHUVV6UU02ajIzMnJZNzhUM2ZhTnlfOFFGZzVjMThsY1FuWDNfQjBIaWN1UlBGc0doQVp4elU?oc=5",
+   "publicado": "2026-11-09T06:50-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
     "DI"
    ],
    "tickers": []
+  },
+  {
+   "titulo": "3T26: Petrobras (PETR4), Banco do Brasil (BBAS3), B3 (B3SA3) e mais; veja quais empresas divulgam balanços nesta semana",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnZEajExZVN1TTRQN29ZaWhNQzJuWXVLXzhQdHJXbTdpUzUxczZIZ3pyeGFhNUQ1am1xT05fMmpMcFByem1kVnU3bUJWc042ZFFUbUpoQXBLOUF0ZVRhOHlSZjRfb2FQc0JwVDY0NW8xTXFjVS1SeWpxdGMtX0x2YldqbF80RW9BZ1lqTU1PNktweTlzaEJ4T05sejc0dXg1UkIwa0FCTFVFZlJuZFRESQ?oc=5",
+   "publicado": "2026-11-09T06:45-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "B3SA3",
+    "BBAS3",
+    "PETR4"
+   ]
   }
  ]
 }
