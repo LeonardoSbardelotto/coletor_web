@@ -2,17 +2,6 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Tenda derrete mais de 17% após balanço e lidera perdas do Ibovespa; veja maiores altas e baixas hoje",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdWpyX19kb0pweGZwbl9ma3FReG1ZMVNfV1ZLejFEaThSZW1PZXV6QVJTVWo0cFcxT2VGeTdOZnUwZ1NYR0cyME91RkUzOEN1LWszQXNTc0ptR09pUDJqS0o3X2k2OG5XcVBoWldrZ3pyRnd1UVBPamkwT1huU1VRVVVBR3hLWDRGSmFMT2J2QWNwRVRSX2V1T1FHSjQta211bk5nWV9mYWdEc0wxUjlIMG9OTmxkWmoyaUgyaTN3WWM0S21vTjgxd01KX3BUY3pFVElTc2FQNVRreTZ4ZUdIcEtoYVM5ZkF4VUVoMmFHaWF3WlZrak00Yw?oc=5",
-   "publicado": "2026-11-08T18:43-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
    "titulo": "Ibovespa sobe pouco, mas ação dispara quase 24% na semana; o que explica o salto?",
    "fonte": "Estadão",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQmpsYXJ5S0diZ21FREE1bktvWXhKY0F0N0pCWm9yajNjWUZiYXFzWkF3dXlDTE1HMXhyLVBob0Y0bDNIYVp1T1p5ME1MSHdvYm9uZFVicU5vVlh1VENfY2pvRkNNaEpCd241VG91TVJjVDQ5aFpacTVMUlg2OXNIMXA1WWRRRlFWWFhiTWp6WjZKZktDX2UzeFBzZU9nZ2lLNjNsSW9pWkM1NU1hS293V1FWZUNRZzcxdzBTYkNSWnMya2xyYU1iTWlfN3JrMXNMclh3RFRvdC00aWhi?oc=5",
@@ -22,10 +11,23 @@
     "WIN"
    ],
    "tickers": []
+  },
+  {
+   "titulo": "Gleisi acusa Folha de 'terrorismo fiscal' e de querer recessão ao criticar reportagem",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/gleisi-acusa-folha-de-terrorismo-fiscal-e-de-querer-recessao-ao-criticar-reportagem.shtml",
+   "publicado": "2026-11-08T20:57-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-08T20:37-03:00",
+ "atualizado_em": "2026-11-08T21:02-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -36,6 +38,31 @@
   "InfoMoney"
  ],
  "noticias": [
+  {
+   "titulo": "Gleisi acusa Folha de 'terrorismo fiscal' e de querer recessão ao criticar reportagem",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/gleisi-acusa-folha-de-terrorismo-fiscal-e-de-querer-recessao-ao-criticar-reportagem.shtml",
+   "publicado": "2026-11-08T20:57-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Cotação do petróleo reabre em leve queda mesmo com ataques a navios perto de Hormuz",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/cotacao-do-petroleo-reabre-em-leve-queda-mesmo-com-ataques-a-navios-perto-de-hormuz.shtml",
+   "publicado": "2026-11-08T20:32-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
   {
    "titulo": "Ibovespa sobe pouco, mas ação dispara quase 24% na semana; o que explica o salto?",
    "fonte": "Estadão",
@@ -56,17 +83,6 @@
    "ativos": [
     "WIN",
     "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Tenda derrete mais de 17% após balanço e lidera perdas do Ibovespa; veja maiores altas e baixas hoje",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdWpyX19kb0pweGZwbl9ma3FReG1ZMVNfV1ZLejFEaThSZW1PZXV6QVJTVWo0cFcxT2VGeTdOZnUwZ1NYR0cyME91RkUzOEN1LWszQXNTc0ptR09pUDJqS0o3X2k2OG5XcVBoWldrZ3pyRnd1UVBPamkwT1huU1VRVVVBR3hLWDRGSmFMT2J2QWNwRVRSX2V1T1FHSjQta211bk5nWV9mYWdEc0wxUjlIMG9OTmxkWmoyaUgyaTN3WWM0S21vTjgxd01KX3BUY3pFVElTc2FQNVRreTZ4ZUdIcEtoYVM5ZkF4VUVoMmFHaWF3WlZrak00Yw?oc=5",
-   "publicado": "2026-11-08T18:43-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
    ],
    "tickers": []
   }
