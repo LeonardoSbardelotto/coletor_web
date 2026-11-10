@@ -114,7 +114,10 @@ def checar():
     try:
         cal = dados('calendario.json')
         h = idade_h(cal['atualizado_em'])
-        r['Calendário econômico'] = (h < 28, f'atualizado há {h:.0f} h')
+        futuros = [e for e in cal.get('eventos', []) if e.get('data', '') >= hoje]
+        ok_cal = (h < 28) or bool(futuros)
+        msg_cal = f'atualizado há {h:.0f} h' if h < 28 else (f'{len(futuros)} eventos na agenda' if futuros else f'sem eventos futuros ({h:.0f} h)')
+        r['Calendário econômico'] = (ok_cal, msg_cal)
         feriado = any(e.get('data') == hoje and 'B3 fechada' in (e.get('evento') or '') for e in cal.get('eventos', []))
     except Exception as ex:
         r['Calendário econômico'] = (False, erro_legivel(ex))
