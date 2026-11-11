@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-09T22:28:00-03:00",
+  "atualizado_em": "2026-11-10T22:25:00-03:00",
   "eventos": [
     {
       "data": "2026-11-04",
@@ -253,12 +253,12 @@
       "importancia": 3,
       "anterior": null,
       "consenso": null,
-      "resultado": null,
+      "resultado": "divulgada",
       "impacto": {
         "di": "volatil",
         "wdo": "volatil"
       },
-      "nota": "Detalha o balanço de riscos e os sinais para as próximas reuniões.",
+      "nota": "Copom reforçou vigilância contra inflação e cautela fiscal.",
       "tipo": "ata-copom",
       "surpresa": null
     },
@@ -270,13 +270,63 @@
       "importancia": 3,
       "anterior": null,
       "consenso": null,
+      "resultado": "+0,4% m/m",
+      "impacto": {
+        "wdo": "volatil",
+        "di": "volatil"
+      },
+      "nota": "CPI subiu 0,4% em outubro, acima do esperado, complicando o corte de juros pelo Fed.",
+      "tipo": "cpi-eua",
+      "surpresa": null
+    },
+    {
+      "data": "2026-11-11",
+      "hora": "10h30",
+      "pais": "US",
+      "evento": "PPI — inflação ao produtor (out)",
+      "importancia": 2,
+      "anterior": "0,0% m/m",
+      "consenso": "0,2% m/m",
       "resultado": null,
       "impacto": {
         "wdo": "volatil",
         "di": "volatil"
       },
-      "nota": "Inflação americana mexe nas apostas para o Fed, nos Treasuries e no dólar global.",
-      "tipo": "cpi-eua",
+      "nota": "Mede pressões na cadeia produtiva americana.",
+      "tipo": "ppi-eua",
+      "surpresa": null
+    },
+    {
+      "data": "2026-11-12",
+      "hora": "09h",
+      "pais": "BR",
+      "evento": "IBC-Br — prévia do PIB (set)",
+      "importancia": 2,
+      "anterior": "+0,23%",
+      "consenso": "+0,30%",
+      "resultado": null,
+      "impacto": {
+        "win": "volatil",
+        "di": "volatil"
+      },
+      "nota": "Prévia da atividade econômica medida pelo Banco Central.",
+      "tipo": "ibc-br",
+      "surpresa": null
+    },
+    {
+      "data": "2026-11-13",
+      "hora": "10h30",
+      "pais": "US",
+      "evento": "Vendas no varejo (out, EUA)",
+      "importancia": 2,
+      "anterior": "+0,4%",
+      "consenso": "+0,3%",
+      "resultado": null,
+      "impacto": {
+        "wdo": "volatil"
+      },
+      "nota": "Termômetro do consumo e da força da demanda das famílias americanas.",
+      "tipo": "varejo-eua",
       "surpresa": null
     }
   ]
