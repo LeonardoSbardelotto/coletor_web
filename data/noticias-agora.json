@@ -1,11 +1,364 @@
 {
- "mercado": {},
+ "mercado": {
+  "data": "2026-11-11",
+  "atualizado_em": "2026-11-11T11:02-03:00",
+  "ibov": {
+   "anterior": 171336.98,
+   "pontos": [
+    [
+     "10:00",
+     172169.0
+    ],
+    [
+     "10:05",
+     172104.0
+    ],
+    [
+     "10:10",
+     172299.0
+    ],
+    [
+     "10:15",
+     172286.0
+    ],
+    [
+     "10:20",
+     172716.0
+    ],
+    [
+     "10:25",
+     172361.0
+    ],
+    [
+     "10:30",
+     172277.0
+    ],
+    [
+     "10:35",
+     172573.0
+    ],
+    [
+     "10:40",
+     172727.0
+    ],
+    [
+     "10:45",
+     172702.0
+    ],
+    [
+     "10:47",
+     172685.0
+    ]
+   ]
+  },
+  "dolar": {
+   "anterior": 5.5803,
+   "pontos": [
+    [
+     "09:00",
+     5.5724
+    ],
+    [
+     "09:05",
+     5.5755
+    ],
+    [
+     "09:10",
+     5.5779
+    ],
+    [
+     "09:15",
+     5.577
+    ],
+    [
+     "09:20",
+     5.5697
+    ],
+    [
+     "09:25",
+     5.5707
+    ],
+    [
+     "09:30",
+     5.5713
+    ],
+    [
+     "09:35",
+     5.5641
+    ],
+    [
+     "09:40",
+     5.5652
+    ],
+    [
+     "09:45",
+     5.5602
+    ],
+    [
+     "09:50",
+     5.5582
+    ],
+    [
+     "09:55",
+     5.5558
+    ],
+    [
+     "10:00",
+     5.5539
+    ],
+    [
+     "10:05",
+     5.5559
+    ],
+    [
+     "10:10",
+     5.5557
+    ],
+    [
+     "10:15",
+     5.5557
+    ],
+    [
+     "10:20",
+     5.5534
+    ],
+    [
+     "10:25",
+     5.5583
+    ],
+    [
+     "10:30",
+     5.5627
+    ],
+    [
+     "10:35",
+     5.5573
+    ],
+    [
+     "10:40",
+     5.5632
+    ],
+    [
+     "10:45",
+     5.5609
+    ],
+    [
+     "10:50",
+     5.5622
+    ],
+    [
+     "10:55",
+     5.5593
+    ],
+    [
+     "11:00",
+     5.5618
+    ],
+    [
+     "11:02",
+     5.5627
+    ]
+   ]
+  },
+  "marcadores": [
+   {
+    "hora": "09:12",
+    "titulo": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
+    "fonte": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
+    "impacto": "alto",
+    "ativos": [
+     "WIN",
+     "WDO"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": -0.23
+   },
+   {
+    "hora": "09:14",
+    "titulo": "Ibovespa Futuro avança com atenção à Petrobras, BC e notícias sobre fiscal",
+    "fonte": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnBtSDlZbjZfSUdvcURQamM4TUNVX2UzaUlLa2ZmUjJsRUFHMklEVWpZRU1XX3ZEdWNCZ09YeFBNOUcwYVYzS2U1dHVtYmRUN2pHYm5TRjBuUWRYOVdRY2I3MVBEM0NHMGhWUTYzd0duSWt3LVFuQ2FkejQ0bW9sc0VpUmp5Si1MRkZNU1Q4MzE5dkh4SGk3X2V6RkFIdVFrM0NhNzVQQjNvaExmNTZteHp30gG3AUFVX3lxTFB3Nnk1aFVPdTJyUUNsN0pHOWlTbzhBWlladG11d2cyaGtfTmdTQ3JRak5zaWVnNTUyU3ZKdjh1NW0wN0dMQlU4SlBXdU5vcmtRcldGWVhpdFh2Y1RQbkpyOC1HOTE1ei1QSmx1dlpXbGRlcFNVYkE3U1FRV3ZIV0FJUnVGdUd4SWpjOU9KYmFqaU9Td2xkTGx0SDREM3Y0eURJZHB1bl9EeVdocW1tbTZGOFBXQXVVMA?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WIN",
+     "DI"
+    ],
+    "tickers": [
+     "PETR4"
+    ],
+    "ibov30": null,
+    "dolar30": -0.23
+   },
+   {
+    "hora": "09:16",
+    "titulo": "Juros futuros recuam com plano de ajuste fiscal em dia de feriado nos EUA",
+    "fonte": "Valor",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeVAtUDJpRHA3SkZJZW9lN1VCSkM2WHlybVhhS0lxUFBHd2hmSzFhV3Y5cGFsUy1jMXlXNkxnMUJyNE1qYkRUQjUwSWh6MExoUmRwN3R5Z25nZWtVWDVTeXRxNGJYNnpXUmVKXzVBQktxTkFXdHBkeld3VFV0bG53RDZaeHJ0Rkw2RVFSbmtjSzJKZ1dVZWtYQU1HbGNGZHhzMFpYUk40cXU5Z1hOdmlyRHVXdUpqMFdXQVdkRU81Z1p5MmJmUHVJdkI3d9IB2gFBVV95cUxQSlZpWm5WRTV6YjR5TjBLVnV3MWU4ZWc2M3MweERaV01ubjc1cTMwZWFKNHphbHh5dTNRZ0dpUVBnUlpaUW5pUTAwdjA0ekRYTmZrSkpZaXBTSWQ5ZDRfYVhkVTIxWmxCUWRUeFBPYWxWTXZtdjhjam5ZUnJZOE5FbnFOMms2ekd0ZFpLOG5jOGN6TjdCWmZ6S256LURBdmI1NWRmbEtqM3U4cnp3R3k0Q084X3MxbC1zMzlKTWNDR1Q2bWZsc09wMndkcnVFYW5wM09pMEJ0N01XQQ?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": -0.3
+   },
+   {
+    "hora": "09:23",
+    "titulo": "Petrobras nega ter pedido para ANP adiar revisão tarifária do gás",
+    "fonte": "Folha",
+    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-nega-ter-pedido-para-anp-adiar-revisao-tarifaria-do-gas.shtml",
+    "impacto": "alto",
+    "ativos": [
+     "WIN",
+     "WDO"
+    ],
+    "tickers": [
+     "PETR4"
+    ],
+    "ibov30": null,
+    "dolar30": -0.21
+   },
+   {
+    "hora": "09:29",
+    "titulo": "Dólar hoje tem leve baixa de olho em plano fiscal",
+    "fonte": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGxsTVc2eGQ4VHU4VkRrTDBwdUM4aVhRVVRoMG8xdE5rcjY4MEpQNF83MUgxa2k2VzJnTzREYjJzMHBqZ2hNRnRlTGFwZDdqT09kaVdnOW9KSmhMVFNkQXZXNUlsNHpSVHhuVTdsbGJjTHBfR1RwVElCS00yT1BEUUxiaEVRR2JtSHE1djQ0NU41aExWNTVJTV9VVmLSAaIBQVVfeXFMTlpvZGlkZVVkQkRqVXh0UEcyem5mWEtOMWhfY3ZfMk9tdTdUU3lsSlVYU1BhU2lzSjZRVUFQVjNiejhfV0N3QzROcEViM09fVHEwdUh1dVg2aUotN0N0c2VuNTZNTG1PZG1MMDhfM1dhcXpBeHpSeTRQVmhHLWdLLWotRlJrQ0lGUzg2bWlzV2dxTmczbHM0U0oxb2ttWjlVQnNn?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WDO",
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": -0.27
+   },
+   {
+    "hora": "09:36",
+    "titulo": "Banco Central da China promete intensificar o apoio político à economia",
+    "fonte": "CNN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcnJJMkhBbnJmVGxzR3VZbnlIZHlHRHo5aUZvUWRHUFRnVERpcGRZYlBhM0t5V2tmMWFpT3NlZ2tRRnNDZkpmbEFqUTVsV1UzMWJUUUxXZ2V4d2FiTTZXblU3UUFNQ1VFOU9jVjNpanJOQXlkQ0xVXy1ER09QR1VDMXdTNVVPNTVkNk51ZkRwdGN2RkZ5LXJsT3dPNXNXN1lHajNnZ3Z4UjhnbGp2SkpUc3BOMnpNVzVYaFZRSmtHWkpzUHloUkk4NDBn?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WIN",
+     "WDO",
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": -0.15
+   },
+   {
+    "hora": "09:39",
+    "titulo": "Dólar recua após salto da véspera, de olho em possível ajuste fiscal",
+    "fonte": "Valor",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb0FCNkFCQVViRERyRHYxZVhaWUprcmtFWFp1NG9tU3M3Mm1kNF9tRkZGWVZob3Z0akkzZmxLTmlJcTMteHN3WXdmUDdnX0Y2QnljNm42SGxOTWJwb2hNVUU0UjJreGlldmJTQ3BWNWxSTXI3VXVoV3dhS19VRDVyNER2QXVtd3QyalhZRGFva0ozTWV3OHVRMDVLemM2TTRHWlV6N1NyT3ZsWjM4bjJYalNfaXlYdGxObUhUWkJmSDMzWFHSAdIBQVVfeXFMT1VLRE54Q25lOGdtYzZVQmJabFY4bmsxMU4wcU14SWwwMG5kaVpSN1NJdGl0MUg3TzZlUDZEVHc5WHItNnpjdEJfNlY4OGk5WkJ5U3dxenVQNENMaFI3cVFvcUVUdjF4QjhmMTNNRFVLRmpkRUlQZGJ0OTJraERIa3BXbnVBRGx5SVd5RzJkQTZKS21EcGZMakdTcFlEUjdEcC1VLUcxT2p2R0dLaHlaWm9sOGxLdmx6U3JzZThkbzlXRm5QckMtSVd3NGxKdUV2eW53?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WDO",
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": -0.15
+   },
+   {
+    "hora": "09:44",
+    "titulo": "Dólar abre em queda com plano de ajuste fiscal do governo Lula no radar",
+    "fonte": "Folha",
+    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-queda-com-plano-de-ajuste-fiscal-do-governo-lula-no-radar.shtml",
+    "impacto": "alto",
+    "ativos": [
+     "WDO",
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": -0.17
+   },
+   {
+    "hora": "09:48",
+    "titulo": "Economistas esperam que fim da escala 6x1 aumente inflação em 0,3 ponto percentual em 2027, diz BC",
+    "fonte": "Folha",
+    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/economistas-esperam-que-fim-da-escala-6x1-aumente-inflacao-em-03-ponto-percentual-em-2027-diz-bc.shtml",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": -0.08
+   },
+   {
+    "hora": "10:18",
+    "titulo": "Ibovespa avança e dólar recua com expectativa de ajuste fiscal; Petrobras perde força",
+    "fonte": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLS1PQktyTTVCbEVoMm1Ba1p3T0xyeFJtSkJNSTJfZlMzWFhvU1hGSWdmV2xhWklMZXU1Q2loU0JMTFRfa21jbGxxY0FDSUFyZi04WEVucEI5UHd4VEVpdzBlMGdhaEJ4aUlLR2VId0R4YnZWVnJPTUNGZmZPajkwQzN1MzJtSGdhWVhTQ1BLSDhjNkNUU3FsR3UwOC1Nc2FDQXJrWlAxNXpJRWNIc0NWaWpRbmZFMjJ1TzRlRUpZTjczenhwYXdFTGtXXzE4TzlMNGlSN2daeGJ6cjN5bU9EZ2VybjRZdk5odTNQetIB8gFBVV95cUxPX0hWWV9UWGdxVm9mX2lTZldhQzZmTmZGVms5eFl2NEVUNUVzNG5Vc1RGSFFaYnFVVHplYXQybGMxeUZ5VDdOcVktVGEtRnFzbV9WMzU3MWYyMjJtdjYxeDlzQ2VoVEwyb1d3eTgtRC12YXRLSEp1MGstSHZ3eG5zQ3V0d002X0VhUVZuYUN4cEp6NnFmWlZqUVptdExYdm5pZW90ZG9JY2ZySzBvTXp1bWs2M3Q5TzJzc1hFWkh5aTBGWlAwQU0tME1RcFZxLUYwbS1ZNC1wSHNlamcxdkI2SnRuVS14TFMxeHNFeDRjUUQ3QQ?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WIN",
+     "WDO",
+     "DI"
+    ],
+    "tickers": [
+     "PETR4"
+    ],
+    "ibov30": 0.24,
+    "dolar30": 0.09
+   },
+   {
+    "hora": "10:21",
+    "titulo": "Ibovespa sobe com alta do petróleo e ajuste fiscal; 5 coisas para saber antes de investir hoje (11)",
+    "fonte": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeVBPN2h6bEQzQ2Nac3JSdGxqY3BsZkxvWWJhZ21aQXBXZzRWWlREWjFaX3RXOFZGMVhsdTFaRnZqQmtodmxTeVA2T3VJSHVVZFJEZ216NXZqSHpsOHNDR0Y1WmJZRVZSWm5fd0VMQ3VZMUxKbk8wTkVCOUZiVWJMeG9Jc3NobHY4LW0zVVU3Q1JRYklFV2VVaU41QWNLR0FJb2ZjdllCMUFTTXpteF9nZG1HeFRNcDNvb2dqdWo0MzdCMUdWSE4xZ0xseE8?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WIN",
+     "WDO",
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": -0.02,
+    "dolar30": 0.16
+   },
+   {
+    "hora": "10:40",
+    "titulo": "Ibovespa avança de olho em ajuste fiscal e balanços, apesar de queda da Petrobras",
+    "fonte": "Valor",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1d6dy1zMkNNbHo0UXR5bXdhbzB6MV9qanNUUXNwTHFJWU9kX3dCcHFCLXRKVHdlV1RNNE9Yd0VkazYtVTJGOVNCRmxnYXZVbl9YeFZSU3VvZWlmTGN6aUlKakdDVjVyU2FNYmZ5M2xVMkxfdXhsWlpsRGxwVUtFbk1MLU5KVFJJWjdUelVBSTkybjA2MUdTa0QxS05HaHlJOVAtZHEtSWZQMjFFbm04cXo5SWtFSnU1ZGtMTmd4QllTbGRVQTZTT0JyVmRQbmdjZ25rMtIB4wFBVV95cUxOOFlTQ19vZDFhSTBEN1RzNzV3T3RvUTE2eG5OUlBkWDQ3Mmc1aEE4bEl3UGd2Q1hmaWgxeGFfWWNXdTR1MFcxQXkzZk14R1k1ZEdwQjJlNzZONDlVbGdqc084Vm5iUVF5WnhCUHd1WjQyQmNXWC10MUY3aUdNeXBaZUdVaXQ1N1lUNDY5bm80X0FLdGxyWXJjX3ZoRFBzMUFsSWNfS0dUUmptN3BSQlhyUFNaaE53V0taZ2djX3hILWFKWm9WZk5zQzRwTnRPNkxUWkRjNlphQUdNT0lQRHdMc21Lcw?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WIN",
+     "DI"
+    ],
+    "tickers": [
+     "PETR4"
+    ],
+    "ibov30": null,
+    "dolar30": null
+   },
+   {
+    "hora": "10:50",
+    "titulo": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+    "fonte": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": null
+   }
+  ]
+ },
  "hoje": [
   {
-   "titulo": "Petrobras anuncia pagamento de R$ 15,3 bilhões em proventos; veja valor por ação",
+   "titulo": "EWZ sobe mais de 1% após sinalizações fiscais do governo; ações da Petrobras recuam 2% em NY",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcTNXZzlBTmQzbkhOOGowcG5fcFY3RmZsOHVwT3JicUlXVVkweHN3OTRtZm5taUUtLXVNM01tUmcwcFpVWUJ5RDJ3bmppY05wX0JiNmJmUkY2a3A2a0JfQ3FyVmxzbW9yN194VUVkb3ZBVzFycGU3V2hQRVVhZkxXU2pYTHF4cDZ3N1JaaHZQYXRvYlBVaUF0TVRSLURHcVNtdFRRdmtMU2JyN05nZFpscVkwZDJOdkdpak9KSjVTeG0zcUN6YUp6bjFOSjc4Y2c3dGfSAdcBQVVfeXFMUC1CWGdqZEcxMUxNaFA3X01BTTlZeUhHZERUaE9BblY4N0JGbnlUSzVGUnpWNUs5VUF4UjFWQlp4TG83SVhkek5pX2F6UXdHaXhPMlgtVUltTDRSUHNYR2xOV0VjOVk0SE5fUEpHbEZ6WkdjX2FXU09mVW0xckNneS1BTl9ScXo3SDZFa1dMakU5Y2R4R3p4MnRhLXQ2M19PR05uWjYzRVZmZkg2V0lkck14XzNnd3BMV0M2dkJPMFdVRk1nbmdlR1ZBT2tMc1JFNEhCZVpHMHc?oc=5",
-   "publicado": "2026-11-10T20:19-03:00",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOUplaWc3NVZaZGJOdE9iWktDZU5BUVlzME9xVE5SU183NUNtb0EwdW9hMHg3V3lXUkFadE9zejlna3VSdVdRSkFMbmswRjJ4WWh5Q0lCbkM4VWprazFFN3pta3lBTUkzUG5CdFZiYjJLOFpDd21MWVMyZU43cExSbm1tNHFFRGYxMTJ6bjc5VGRnR1c0dy1HYmI0TVBXdDBUbGxRZUt6cEQ4bHRyaWZZN1VrZ1c2dDRiQjV5eVA1OHpaTlZDNUhZUUlUb2FQZVB3SUxpNm9FWnAzUGlEVlc2ak0zamNFTm_SAecBQVVfeXFMTTlKZWlnNzVWWmRiTnRPYlpLQ2VOQVFZczBPcVROUlNfNzVDbW9BMHVvYTB4N1d5V1JBWnRPc3o5Z2t1UnVXUUpBTG5rMEYyeFloeUNJQm5DOFVqa2sxRTd6bWt5QU1JM1BuQnRWYmIySzhaQ3dtTFlTMmVON3BMUm5tbTRxRURmMTEyem43OVRkZ0dXNHctR2JiNE1QV3QwVGxsUWVLenBEOGx0cmlmWTdVa2dXNnQ0YkI1eXlQNTh6Wk5WQzVIWVFJVG9hUGVQd0lMaTZvRVpwM1BpRFZXNmpNM2pjRU5v?oc=5",
+   "publicado": "2026-11-11T08:46-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
@@ -15,91 +368,172 @@
    ]
   },
   {
-   "titulo": "Dólar sobe 1,46% e fecha no maior valor em 15 meses",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-146-e-fecha-no-maior-valor-em-15-meses",
-   "publicado": "2026-11-10T20:25-03:00",
-   "impacto": "medio",
+   "titulo": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
+   "publicado": "2026-11-11T09:12-03:00",
+   "impacto": "alto",
    "ativos": [
+    "WIN",
     "WDO"
    ],
    "tickers": []
   },
   {
-   "titulo": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+   "titulo": "Ibovespa Futuro avança com atenção à Petrobras, BC e notícias sobre fiscal",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnBtSDlZbjZfSUdvcURQamM4TUNVX2UzaUlLa2ZmUjJsRUFHMklEVWpZRU1XX3ZEdWNCZ09YeFBNOUcwYVYzS2U1dHVtYmRUN2pHYm5TRjBuUWRYOVdRY2I3MVBEM0NHMGhWUTYzd0duSWt3LVFuQ2FkejQ0bW9sc0VpUmp5Si1MRkZNU1Q4MzE5dkh4SGk3X2V6RkFIdVFrM0NhNzVQQjNvaExmNTZteHp30gG3AUFVX3lxTFB3Nnk1aFVPdTJyUUNsN0pHOWlTbzhBWlladG11d2cyaGtfTmdTQ3JRak5zaWVnNTUyU3ZKdjh1NW0wN0dMQlU4SlBXdU5vcmtRcldGWVhpdFh2Y1RQbkpyOC1HOTE1ei1QSmx1dlpXbGRlcFNVYkE3U1FRV3ZIV0FJUnVGdUd4SWpjOU9KYmFqaU9Td2xkTGx0SDREM3Y0eURJZHB1bl9EeVdocW1tbTZGOFBXQXVVMA?oc=5",
+   "publicado": "2026-11-11T09:14-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "DI"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Juros futuros recuam com plano de ajuste fiscal em dia de feriado nos EUA",
+   "fonte": "Valor",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeVAtUDJpRHA3SkZJZW9lN1VCSkM2WHlybVhhS0lxUFBHd2hmSzFhV3Y5cGFsUy1jMXlXNkxnMUJyNE1qYkRUQjUwSWh6MExoUmRwN3R5Z25nZWtVWDVTeXRxNGJYNnpXUmVKXzVBQktxTkFXdHBkeld3VFV0bG53RDZaeHJ0Rkw2RVFSbmtjSzJKZ1dVZWtYQU1HbGNGZHhzMFpYUk40cXU5Z1hOdmlyRHVXdUpqMFdXQVdkRU81Z1p5MmJmUHVJdkI3d9IB2gFBVV95cUxQSlZpWm5WRTV6YjR5TjBLVnV3MWU4ZWc2M3MweERaV01ubjc1cTMwZWFKNHphbHh5dTNRZ0dpUVBnUlpaUW5pUTAwdjA0ekRYTmZrSkpZaXBTSWQ5ZDRfYVhkVTIxWmxCUWRUeFBPYWxWTXZtdjhjam5ZUnJZOE5FbnFOMms2ekd0ZFpLOG5jOGN6TjdCWmZ6S256LURBdmI1NWRmbEtqM3U4cnp3R3k0Q084X3MxbC1zMzlKTWNDR1Q2bWZsc09wMndkcnVFYW5wM09pMEJ0N01XQQ?oc=5",
+   "publicado": "2026-11-11T09:16-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Petrobras nega ter pedido para ANP adiar revisão tarifária do gás",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-nega-ter-pedido-para-anp-adiar-revisao-tarifaria-do-gas.shtml",
+   "publicado": "2026-11-11T09:23-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Dólar hoje tem leve baixa de olho em plano fiscal",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGxsTVc2eGQ4VHU4VkRrTDBwdUM4aVhRVVRoMG8xdE5rcjY4MEpQNF83MUgxa2k2VzJnTzREYjJzMHBqZ2hNRnRlTGFwZDdqT09kaVdnOW9KSmhMVFNkQXZXNUlsNHpSVHhuVTdsbGJjTHBfR1RwVElCS00yT1BEUUxiaEVRR2JtSHE1djQ0NU41aExWNTVJTV9VVmLSAaIBQVVfeXFMTlpvZGlkZVVkQkRqVXh0UEcyem5mWEtOMWhfY3ZfMk9tdTdUU3lsSlVYU1BhU2lzSjZRVUFQVjNiejhfV0N3QzROcEViM09fVHEwdUh1dVg2aUotN0N0c2VuNTZNTG1PZG1MMDhfM1dhcXpBeHpSeTRQVmhHLWdLLWotRlJrQ0lGUzg2bWlzV2dxTmczbHM0U0oxb2ttWjlVQnNn?oc=5",
+   "publicado": "2026-11-11T09:29-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Banco Central da China promete intensificar o apoio político à economia",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcnJJMkhBbnJmVGxzR3VZbnlIZHlHRHo5aUZvUWRHUFRnVERpcGRZYlBhM0t5V2tmMWFpT3NlZ2tRRnNDZkpmbEFqUTVsV1UzMWJUUUxXZ2V4d2FiTTZXblU3UUFNQ1VFOU9jVjNpanJOQXlkQ0xVXy1ER09QR1VDMXdTNVVPNTVkNk51ZkRwdGN2RkZ5LXJsT3dPNXNXN1lHajNnZ3Z4UjhnbGp2SkpUc3BOMnpNVzVYaFZRSmtHWkpzUHloUkk4NDBn?oc=5",
+   "publicado": "2026-11-11T09:36-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Dólar recua após salto da véspera, de olho em possível ajuste fiscal",
+   "fonte": "Valor",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb0FCNkFCQVViRERyRHYxZVhaWUprcmtFWFp1NG9tU3M3Mm1kNF9tRkZGWVZob3Z0akkzZmxLTmlJcTMteHN3WXdmUDdnX0Y2QnljNm42SGxOTWJwb2hNVUU0UjJreGlldmJTQ3BWNWxSTXI3VXVoV3dhS19VRDVyNER2QXVtd3QyalhZRGFva0ozTWV3OHVRMDVLemM2TTRHWlV6N1NyT3ZsWjM4bjJYalNfaXlYdGxObUhUWkJmSDMzWFHSAdIBQVVfeXFMT1VLRE54Q25lOGdtYzZVQmJabFY4bmsxMU4wcU14SWwwMG5kaVpSN1NJdGl0MUg3TzZlUDZEVHc5WHItNnpjdEJfNlY4OGk5WkJ5U3dxenVQNENMaFI3cVFvcUVUdjF4QjhmMTNNRFVLRmpkRUlQZGJ0OTJraERIa3BXbnVBRGx5SVd5RzJkQTZKS21EcGZMakdTcFlEUjdEcC1VLUcxT2p2R0dLaHlaWm9sOGxLdmx6U3JzZThkbzlXRm5QckMtSVd3NGxKdUV2eW53?oc=5",
+   "publicado": "2026-11-11T09:39-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Dólar abre em queda com plano de ajuste fiscal do governo Lula no radar",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-queda-com-plano-de-ajuste-fiscal-do-governo-lula-no-radar.shtml",
+   "publicado": "2026-11-11T09:44-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Economistas esperam que fim da escala 6x1 aumente inflação em 0,3 ponto percentual em 2027, diz BC",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/economistas-esperam-que-fim-da-escala-6x1-aumente-inflacao-em-03-ponto-percentual-em-2027-diz-bc.shtml",
+   "publicado": "2026-11-11T09:48-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ibovespa avança e dólar recua com expectativa de ajuste fiscal; Petrobras perde força",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLS1PQktyTTVCbEVoMm1Ba1p3T0xyeFJtSkJNSTJfZlMzWFhvU1hGSWdmV2xhWklMZXU1Q2loU0JMTFRfa21jbGxxY0FDSUFyZi04WEVucEI5UHd4VEVpdzBlMGdhaEJ4aUlLR2VId0R4YnZWVnJPTUNGZmZPajkwQzN1MzJtSGdhWVhTQ1BLSDhjNkNUU3FsR3UwOC1Nc2FDQXJrWlAxNXpJRWNIc0NWaWpRbmZFMjJ1TzRlRUpZTjczenhwYXdFTGtXXzE4TzlMNGlSN2daeGJ6cjN5bU9EZ2VybjRZdk5odTNQetIB8gFBVV95cUxPX0hWWV9UWGdxVm9mX2lTZldhQzZmTmZGVms5eFl2NEVUNUVzNG5Vc1RGSFFaYnFVVHplYXQybGMxeUZ5VDdOcVktVGEtRnFzbV9WMzU3MWYyMjJtdjYxeDlzQ2VoVEwyb1d3eTgtRC12YXRLSEp1MGstSHZ3eG5zQ3V0d002X0VhUVZuYUN4cEp6NnFmWlZqUVptdExYdm5pZW90ZG9JY2ZySzBvTXp1bWs2M3Q5TzJzc1hFWkh5aTBGWlAwQU0tME1RcFZxLUYwbS1ZNC1wSHNlamcxdkI2SnRuVS14TFMxeHNFeDRjUUQ3QQ?oc=5",
+   "publicado": "2026-11-11T10:18-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO",
+    "DI"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Ibovespa sobe com alta do petróleo e ajuste fiscal; 5 coisas para saber antes de investir hoje (11)",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeVBPN2h6bEQzQ2Nac3JSdGxqY3BsZkxvWWJhZ21aQXBXZzRWWlREWjFaX3RXOFZGMVhsdTFaRnZqQmtodmxTeVA2T3VJSHVVZFJEZ216NXZqSHpsOHNDR0Y1WmJZRVZSWm5fd0VMQ3VZMUxKbk8wTkVCOUZiVWJMeG9Jc3NobHY4LW0zVVU3Q1JRYklFV2VVaU41QWNLR0FJb2ZjdllCMUFTTXpteF9nZG1HeFRNcDNvb2dqdWo0MzdCMUdWSE4xZ0xseE8?oc=5",
+   "publicado": "2026-11-11T10:21-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ibovespa avança de olho em ajuste fiscal e balanços, apesar de queda da Petrobras",
+   "fonte": "Valor",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1d6dy1zMkNNbHo0UXR5bXdhbzB6MV9qanNUUXNwTHFJWU9kX3dCcHFCLXRKVHdlV1RNNE9Yd0VkazYtVTJGOVNCRmxnYXZVbl9YeFZSU3VvZWlmTGN6aUlKakdDVjVyU2FNYmZ5M2xVMkxfdXhsWlpsRGxwVUtFbk1MLU5KVFJJWjdUelVBSTkybjA2MUdTa0QxS05HaHlJOVAtZHEtSWZQMjFFbm04cXo5SWtFSnU1ZGtMTmd4QllTbGRVQTZTT0JyVmRQbmdjZ25rMtIB4wFBVV95cUxOOFlTQ19vZDFhSTBEN1RzNzV3T3RvUTE2eG5OUlBkWDQ3Mmc1aEE4bEl3UGd2Q1hmaWgxeGFfWWNXdTR1MFcxQXkzZk14R1k1ZEdwQjJlNzZONDlVbGdqc084Vm5iUVF5WnhCUHd1WjQyQmNXWC10MUY3aUdNeXBaZUdVaXQ1N1lUNDY5bm80X0FLdGxyWXJjX3ZoRFBzMUFsSWNfS0dUUmptN3BSQlhyUFNaaE53V0taZ2djX3hILWFKWm9WZk5zQzRwTnRPNkxUWkRjNlphQUdNT0lQRHdMc21Lcw?oc=5",
+   "publicado": "2026-11-11T10:40-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "DI"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
    "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-   "publicado": "2026-11-10T20:53-03:00",
+   "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+   "publicado": "2026-11-11T10:50-03:00",
    "impacto": "medio",
    "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Petrobras tem lucro de R$ 39,8 bilhões no 3º trimestre, alta de 21,5%",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-tem-lucro-de-r-398-bilhoes-alta-de-215",
-   "publicado": "2026-11-10T21:37-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Plano de negócios da Petrobras para 2027-2031 pode chegar a US$ 120 bi",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/coluna-da-broad/plano-de-negocios-da-petrobras-para-2027-2031-pode-chegar-a-us-120-bi/",
-   "publicado": "2026-11-10T22:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Responsabilidade fiscal não pode ser obrigação severa de quem paga e licença poética a quem promete",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/responsabilidade-fiscal-nao-pode-ser-obrigacao-severa-de-quem-paga-e-licenca-poetica-a-quem-promete/",
-   "publicado": "2026-11-10T22:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Waack: Banco Central alerta para a conta da escala 6x1",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUk81N2xiaFRjeUdHVjNoSk1ZUW9jRUh2YWp3dFBxU0V2NjIwakZPMzFiZXExUXdFNEQ2LUFINXNwOHhLRk5ING13UVM4UmJGZjNCN3NrOU9Idi1IVzdtZ3hqY0U5OXNBeTVEZDRDdU9fVWVzN19ncEpZVUQxSlhFbkZmUWRtWXhiQm0xV3FiVFhYT1dvTEFhU1JmdS1XQkYwTmE0T1BmTmxHNEtKUDJ1UmJB?oc=5",
-   "publicado": "2026-11-10T22:03-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "BC puxa freio e encerra ciclo após 5 cortes de juros; Selic fica em 13,75%",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNG9RUGJLRTJtcUROSGd5d3FnZm5QdG5WY2JzOFZfLWtpcmVGMjB6Y1JNSWUzT3RDTHhkQ0Q4UzlfbmdoQXphcFdHSFJRUU0wajEtX21tSDNYbFdMbTdNVW4wSEwtek5EM2loNmtoYnBUYU5lTkxKbmVVNnVmNm0xb25JZWg?oc=5",
-   "publicado": "2026-11-10T22:24-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
     "DI"
    ],
    "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-10T23:16-03:00",
+ "atualizado_em": "2026-11-11T11:02-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -107,75 +541,17 @@
   "CNBC",
   "CNN Brasil",
   "Estadão",
-  "Folha"
+  "Folha",
+  "InfoMoney",
+  "Money Times",
+  "Valor"
  ],
  "noticias": [
   {
-   "titulo": "BC puxa freio e encerra ciclo após 5 cortes de juros; Selic fica em 13,75%",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNG9RUGJLRTJtcUROSGd5d3FnZm5QdG5WY2JzOFZfLWtpcmVGMjB6Y1JNSWUzT3RDTHhkQ0Q4UzlfbmdoQXphcFdHSFJRUU0wajEtX21tSDNYbFdMbTdNVW4wSEwtek5EM2loNmtoYnBUYU5lTkxKbmVVNnVmNm0xb25JZWg?oc=5",
-   "publicado": "2026-11-10T22:24-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Waack: Banco Central alerta para a conta da escala 6x1",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUk81N2xiaFRjeUdHVjNoSk1ZUW9jRUh2YWp3dFBxU0V2NjIwakZPMzFiZXExUXdFNEQ2LUFINXNwOHhLRk5ING13UVM4UmJGZjNCN3NrOU9Idi1IVzdtZ3hqY0U5OXNBeTVEZDRDdU9fVWVzN19ncEpZVUQxSlhFbkZmUWRtWXhiQm0xV3FiVFhYT1dvTEFhU1JmdS1XQkYwTmE0T1BmTmxHNEtKUDJ1UmJB?oc=5",
-   "publicado": "2026-11-10T22:03-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Plano de negócios da Petrobras para 2027-2031 pode chegar a US$ 120 bi",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/coluna-da-broad/plano-de-negocios-da-petrobras-para-2027-2031-pode-chegar-a-us-120-bi/",
-   "publicado": "2026-11-10T22:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Responsabilidade fiscal não pode ser obrigação severa de quem paga e licença poética a quem promete",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/responsabilidade-fiscal-nao-pode-ser-obrigacao-severa-de-quem-paga-e-licenca-poetica-a-quem-promete/",
-   "publicado": "2026-11-10T22:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Petrobras tem lucro de R$ 39,8 bilhões no 3º trimestre, alta de 21,5%",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-tem-lucro-de-r-398-bilhoes-alta-de-215",
-   "publicado": "2026-11-10T21:37-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+   "titulo": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
    "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-   "publicado": "2026-11-10T20:53-03:00",
+   "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+   "publicado": "2026-11-11T10:50-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
@@ -183,21 +559,187 @@
    "tickers": []
   },
   {
-   "titulo": "Dólar sobe 1,46% e fecha no maior valor em 15 meses",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-146-e-fecha-no-maior-valor-em-15-meses",
-   "publicado": "2026-11-10T20:25-03:00",
+   "titulo": "Ibovespa avança de olho em ajuste fiscal e balanços, apesar de queda da Petrobras",
+   "fonte": "Valor",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1d6dy1zMkNNbHo0UXR5bXdhbzB6MV9qanNUUXNwTHFJWU9kX3dCcHFCLXRKVHdlV1RNNE9Yd0VkazYtVTJGOVNCRmxnYXZVbl9YeFZSU3VvZWlmTGN6aUlKakdDVjVyU2FNYmZ5M2xVMkxfdXhsWlpsRGxwVUtFbk1MLU5KVFJJWjdUelVBSTkybjA2MUdTa0QxS05HaHlJOVAtZHEtSWZQMjFFbm04cXo5SWtFSnU1ZGtMTmd4QllTbGRVQTZTT0JyVmRQbmdjZ25rMtIB4wFBVV95cUxOOFlTQ19vZDFhSTBEN1RzNzV3T3RvUTE2eG5OUlBkWDQ3Mmc1aEE4bEl3UGd2Q1hmaWgxeGFfWWNXdTR1MFcxQXkzZk14R1k1ZEdwQjJlNzZONDlVbGdqc084Vm5iUVF5WnhCUHd1WjQyQmNXWC10MUY3aUdNeXBaZUdVaXQ1N1lUNDY5bm80X0FLdGxyWXJjX3ZoRFBzMUFsSWNfS0dUUmptN3BSQlhyUFNaaE53V0taZ2djX3hILWFKWm9WZk5zQzRwTnRPNkxUWkRjNlphQUdNT0lQRHdMc21Lcw?oc=5",
+   "publicado": "2026-11-11T10:40-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "DI"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Ibovespa sobe com alta do petróleo e ajuste fiscal; 5 coisas para saber antes de investir hoje (11)",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeVBPN2h6bEQzQ2Nac3JSdGxqY3BsZkxvWWJhZ21aQXBXZzRWWlREWjFaX3RXOFZGMVhsdTFaRnZqQmtodmxTeVA2T3VJSHVVZFJEZ216NXZqSHpsOHNDR0Y1WmJZRVZSWm5fd0VMQ3VZMUxKbk8wTkVCOUZiVWJMeG9Jc3NobHY4LW0zVVU3Q1JRYklFV2VVaU41QWNLR0FJb2ZjdllCMUFTTXpteF9nZG1HeFRNcDNvb2dqdWo0MzdCMUdWSE4xZ0xseE8?oc=5",
+   "publicado": "2026-11-11T10:21-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Nissan cuts sales forecast again on China woes as CEO outlines plan to fight back",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/11/nissan-sales-forecast-earnings-china.html",
+   "publicado": "2026-11-11T10:18-03:00",
    "impacto": "medio",
    "ativos": [
+    "WIN",
     "WDO"
    ],
    "tickers": []
   },
   {
-   "titulo": "Petrobras anuncia pagamento de R$ 15,3 bilhões em proventos; veja valor por ação",
+   "titulo": "Ibovespa avança e dólar recua com expectativa de ajuste fiscal; Petrobras perde força",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcTNXZzlBTmQzbkhOOGowcG5fcFY3RmZsOHVwT3JicUlXVVkweHN3OTRtZm5taUUtLXVNM01tUmcwcFpVWUJ5RDJ3bmppY05wX0JiNmJmUkY2a3A2a0JfQ3FyVmxzbW9yN194VUVkb3ZBVzFycGU3V2hQRVVhZkxXU2pYTHF4cDZ3N1JaaHZQYXRvYlBVaUF0TVRSLURHcVNtdFRRdmtMU2JyN05nZFpscVkwZDJOdkdpak9KSjVTeG0zcUN6YUp6bjFOSjc4Y2c3dGfSAdcBQVVfeXFMUC1CWGdqZEcxMUxNaFA3X01BTTlZeUhHZERUaE9BblY4N0JGbnlUSzVGUnpWNUs5VUF4UjFWQlp4TG83SVhkek5pX2F6UXdHaXhPMlgtVUltTDRSUHNYR2xOV0VjOVk0SE5fUEpHbEZ6WkdjX2FXU09mVW0xckNneS1BTl9ScXo3SDZFa1dMakU5Y2R4R3p4MnRhLXQ2M19PR05uWjYzRVZmZkg2V0lkck14XzNnd3BMV0M2dkJPMFdVRk1nbmdlR1ZBT2tMc1JFNEhCZVpHMHc?oc=5",
-   "publicado": "2026-11-10T20:19-03:00",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLS1PQktyTTVCbEVoMm1Ba1p3T0xyeFJtSkJNSTJfZlMzWFhvU1hGSWdmV2xhWklMZXU1Q2loU0JMTFRfa21jbGxxY0FDSUFyZi04WEVucEI5UHd4VEVpdzBlMGdhaEJ4aUlLR2VId0R4YnZWVnJPTUNGZmZPajkwQzN1MzJtSGdhWVhTQ1BLSDhjNkNUU3FsR3UwOC1Nc2FDQXJrWlAxNXpJRWNIc0NWaWpRbmZFMjJ1TzRlRUpZTjczenhwYXdFTGtXXzE4TzlMNGlSN2daeGJ6cjN5bU9EZ2VybjRZdk5odTNQetIB8gFBVV95cUxPX0hWWV9UWGdxVm9mX2lTZldhQzZmTmZGVms5eFl2NEVUNUVzNG5Vc1RGSFFaYnFVVHplYXQybGMxeUZ5VDdOcVktVGEtRnFzbV9WMzU3MWYyMjJtdjYxeDlzQ2VoVEwyb1d3eTgtRC12YXRLSEp1MGstSHZ3eG5zQ3V0d002X0VhUVZuYUN4cEp6NnFmWlZqUVptdExYdm5pZW90ZG9JY2ZySzBvTXp1bWs2M3Q5TzJzc1hFWkh5aTBGWlAwQU0tME1RcFZxLUYwbS1ZNC1wSHNlamcxdkI2SnRuVS14TFMxeHNFeDRjUUQ3QQ?oc=5",
+   "publicado": "2026-11-11T10:18-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO",
+    "DI"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Escândalo com CEO da Nvidia expõe influência de Singapura para enviar chips à China",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/escandalo-com-ceo-da-nvidia-expoe-influencia-de-singapura-para-enviar-chips-a-china.shtml",
+   "publicado": "2026-11-11T09:53-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Economistas esperam que fim da escala 6x1 aumente inflação em 0,3 ponto percentual em 2027, diz BC",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/economistas-esperam-que-fim-da-escala-6x1-aumente-inflacao-em-03-ponto-percentual-em-2027-diz-bc.shtml",
+   "publicado": "2026-11-11T09:48-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Dólar abre em queda com plano de ajuste fiscal do governo Lula no radar",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-queda-com-plano-de-ajuste-fiscal-do-governo-lula-no-radar.shtml",
+   "publicado": "2026-11-11T09:44-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Dólar recua após salto da véspera, de olho em possível ajuste fiscal",
+   "fonte": "Valor",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb0FCNkFCQVViRERyRHYxZVhaWUprcmtFWFp1NG9tU3M3Mm1kNF9tRkZGWVZob3Z0akkzZmxLTmlJcTMteHN3WXdmUDdnX0Y2QnljNm42SGxOTWJwb2hNVUU0UjJreGlldmJTQ3BWNWxSTXI3VXVoV3dhS19VRDVyNER2QXVtd3QyalhZRGFva0ozTWV3OHVRMDVLemM2TTRHWlV6N1NyT3ZsWjM4bjJYalNfaXlYdGxObUhUWkJmSDMzWFHSAdIBQVVfeXFMT1VLRE54Q25lOGdtYzZVQmJabFY4bmsxMU4wcU14SWwwMG5kaVpSN1NJdGl0MUg3TzZlUDZEVHc5WHItNnpjdEJfNlY4OGk5WkJ5U3dxenVQNENMaFI3cVFvcUVUdjF4QjhmMTNNRFVLRmpkRUlQZGJ0OTJraERIa3BXbnVBRGx5SVd5RzJkQTZKS21EcGZMakdTcFlEUjdEcC1VLUcxT2p2R0dLaHlaWm9sOGxLdmx6U3JzZThkbzlXRm5QckMtSVd3NGxKdUV2eW53?oc=5",
+   "publicado": "2026-11-11T09:39-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Banco Central da China promete intensificar o apoio político à economia",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcnJJMkhBbnJmVGxzR3VZbnlIZHlHRHo5aUZvUWRHUFRnVERpcGRZYlBhM0t5V2tmMWFpT3NlZ2tRRnNDZkpmbEFqUTVsV1UzMWJUUUxXZ2V4d2FiTTZXblU3UUFNQ1VFOU9jVjNpanJOQXlkQ0xVXy1ER09QR1VDMXdTNVVPNTVkNk51ZkRwdGN2RkZ5LXJsT3dPNXNXN1lHajNnZ3Z4UjhnbGp2SkpUc3BOMnpNVzVYaFZRSmtHWkpzUHloUkk4NDBn?oc=5",
+   "publicado": "2026-11-11T09:36-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Dólar hoje tem leve baixa de olho em plano fiscal",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGxsTVc2eGQ4VHU4VkRrTDBwdUM4aVhRVVRoMG8xdE5rcjY4MEpQNF83MUgxa2k2VzJnTzREYjJzMHBqZ2hNRnRlTGFwZDdqT09kaVdnOW9KSmhMVFNkQXZXNUlsNHpSVHhuVTdsbGJjTHBfR1RwVElCS00yT1BEUUxiaEVRR2JtSHE1djQ0NU41aExWNTVJTV9VVmLSAaIBQVVfeXFMTlpvZGlkZVVkQkRqVXh0UEcyem5mWEtOMWhfY3ZfMk9tdTdUU3lsSlVYU1BhU2lzSjZRVUFQVjNiejhfV0N3QzROcEViM09fVHEwdUh1dVg2aUotN0N0c2VuNTZNTG1PZG1MMDhfM1dhcXpBeHpSeTRQVmhHLWdLLWotRlJrQ0lGUzg2bWlzV2dxTmczbHM0U0oxb2ttWjlVQnNn?oc=5",
+   "publicado": "2026-11-11T09:29-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Petrobras nega ter pedido para ANP adiar revisão tarifária do gás",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-nega-ter-pedido-para-anp-adiar-revisao-tarifaria-do-gas.shtml",
+   "publicado": "2026-11-11T09:23-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Juros futuros recuam com plano de ajuste fiscal em dia de feriado nos EUA",
+   "fonte": "Valor",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeVAtUDJpRHA3SkZJZW9lN1VCSkM2WHlybVhhS0lxUFBHd2hmSzFhV3Y5cGFsUy1jMXlXNkxnMUJyNE1qYkRUQjUwSWh6MExoUmRwN3R5Z25nZWtVWDVTeXRxNGJYNnpXUmVKXzVBQktxTkFXdHBkeld3VFV0bG53RDZaeHJ0Rkw2RVFSbmtjSzJKZ1dVZWtYQU1HbGNGZHhzMFpYUk40cXU5Z1hOdmlyRHVXdUpqMFdXQVdkRU81Z1p5MmJmUHVJdkI3d9IB2gFBVV95cUxQSlZpWm5WRTV6YjR5TjBLVnV3MWU4ZWc2M3MweERaV01ubjc1cTMwZWFKNHphbHh5dTNRZ0dpUVBnUlpaUW5pUTAwdjA0ekRYTmZrSkpZaXBTSWQ5ZDRfYVhkVTIxWmxCUWRUeFBPYWxWTXZtdjhjam5ZUnJZOE5FbnFOMms2ekd0ZFpLOG5jOGN6TjdCWmZ6S256LURBdmI1NWRmbEtqM3U4cnp3R3k0Q084X3MxbC1zMzlKTWNDR1Q2bWZsc09wMndkcnVFYW5wM09pMEJ0N01XQQ?oc=5",
+   "publicado": "2026-11-11T09:16-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ibovespa Futuro avança com atenção à Petrobras, BC e notícias sobre fiscal",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnBtSDlZbjZfSUdvcURQamM4TUNVX2UzaUlLa2ZmUjJsRUFHMklEVWpZRU1XX3ZEdWNCZ09YeFBNOUcwYVYzS2U1dHVtYmRUN2pHYm5TRjBuUWRYOVdRY2I3MVBEM0NHMGhWUTYzd0duSWt3LVFuQ2FkejQ0bW9sc0VpUmp5Si1MRkZNU1Q4MzE5dkh4SGk3X2V6RkFIdVFrM0NhNzVQQjNvaExmNTZteHp30gG3AUFVX3lxTFB3Nnk1aFVPdTJyUUNsN0pHOWlTbzhBWlladG11d2cyaGtfTmdTQ3JRak5zaWVnNTUyU3ZKdjh1NW0wN0dMQlU4SlBXdU5vcmtRcldGWVhpdFh2Y1RQbkpyOC1HOTE1ei1QSmx1dlpXbGRlcFNVYkE3U1FRV3ZIV0FJUnVGdUd4SWpjOU9KYmFqaU9Td2xkTGx0SDREM3Y0eURJZHB1bl9EeVdocW1tbTZGOFBXQXVVMA?oc=5",
+   "publicado": "2026-11-11T09:14-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "DI"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
+   "publicado": "2026-11-11T09:12-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "EWZ sobe mais de 1% após sinalizações fiscais do governo; ações da Petrobras recuam 2% em NY",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOUplaWc3NVZaZGJOdE9iWktDZU5BUVlzME9xVE5SU183NUNtb0EwdW9hMHg3V3lXUkFadE9zejlna3VSdVdRSkFMbmswRjJ4WWh5Q0lCbkM4VWprazFFN3pta3lBTUkzUG5CdFZiYjJLOFpDd21MWVMyZU43cExSbm1tNHFFRGYxMTJ6bjc5VGRnR1c0dy1HYmI0TVBXdDBUbGxRZUt6cEQ4bHRyaWZZN1VrZ1c2dDRiQjV5eVA1OHpaTlZDNUhZUUlUb2FQZVB3SUxpNm9FWnAzUGlEVlc2ak0zamNFTm_SAecBQVVfeXFMTTlKZWlnNzVWWmRiTnRPYlpLQ2VOQVFZczBPcVROUlNfNzVDbW9BMHVvYTB4N1d5V1JBWnRPc3o5Z2t1UnVXUUpBTG5rMEYyeFloeUNJQm5DOFVqa2sxRTd6bWt5QU1JM1BuQnRWYmIySzhaQ3dtTFlTMmVON3BMUm5tbTRxRURmMTEyem43OVRkZ0dXNHctR2JiNE1QV3QwVGxsUWVLenBEOGx0cmlmWTdVa2dXNnQ0YkI1eXlQNTh6Wk5WQzVIWVFJVG9hUGVQd0lMaTZvRVpwM1BpRFZXNmpNM2pjRU5v?oc=5",
+   "publicado": "2026-11-11T08:46-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
