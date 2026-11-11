@@ -1,342 +1,342 @@
 {
- "atualizado_em": "2026-11-10T21:52-03:00",
+ "atualizado_em": "2026-11-11T11:02-03:00",
  "fonte": "brapi.dev (atraso de ~30 min)",
  "itens": [
   {
    "ticker": "IBOV",
    "nome": "Ibovespa",
-   "preco": 171336.98,
-   "var_pct": -0.52,
-   "hora": "2026-11-11T00:52:05.000Z",
+   "preco": 172636.62,
+   "var_pct": 0.76,
+   "hora": "2026-11-11T14:01:19.000Z",
    "mcap": null
   },
   {
    "ticker": "PETR4",
    "nome": "Petrobras",
-   "preco": 44.95,
-   "var_pct": -0.53,
-   "hora": "2026-11-10T21:31:30.000Z",
-   "mcap": 619644192666.0
+   "preco": 43.79,
+   "var_pct": -2.58,
+   "hora": "2026-11-11T14:01:30.000Z",
+   "mcap": 617104312595.0
   },
   {
    "ticker": "VALE3",
    "nome": "Vale",
-   "preco": 64.8,
-   "var_pct": -1.98,
-   "hora": "2026-11-10T21:31:30.000Z",
-   "mcap": 263483651705.00003
+   "preco": 65.17,
+   "var_pct": 0.57,
+   "hora": "2026-11-11T14:01:30.000Z",
+   "mcap": 258262611964.0
   },
   {
    "ticker": "ITUB4",
    "nome": "Itaú",
-   "preco": 41.2,
-   "var_pct": -1.25,
-   "hora": "2026-11-10T21:31:30.000Z",
-   "mcap": 483915969393.0
+   "preco": 41.79,
+   "var_pct": 1.43,
+   "hora": "2026-11-11T14:00:30.000Z",
+   "mcap": 477239573907.0
   },
   {
    "ticker": "BBDC4",
    "nome": "Bradesco",
-   "preco": 14.54,
-   "var_pct": -0.95,
-   "hora": "2026-11-10T21:31:30.000Z",
-   "mcap": 156893797842.0
+   "preco": 14.75,
+   "var_pct": 1.44,
+   "hora": "2026-11-11T14:01:30.000Z",
+   "mcap": 155498050673.0
   },
   {
    "ticker": "BBAS3",
    "nome": "Banco do Brasil",
-   "preco": 17.1,
-   "var_pct": 0.47,
-   "hora": "2026-11-10T21:31:30.000Z",
-   "mcap": 97334257852.0
+   "preco": 17.22,
+   "var_pct": 0.7,
+   "hora": "2026-11-11T14:01:30.000Z",
+   "mcap": 97791762728.0
   },
   {
    "ticker": "B3SA3",
    "nome": "B3",
-   "preco": 14.48,
-   "var_pct": -2.49,
-   "hora": "2026-11-10T21:31:30.000Z",
-   "mcap": 72148625340.0
+   "preco": 14.8,
+   "var_pct": 2.21,
+   "hora": "2026-11-11T14:00:30.000Z",
+   "mcap": 70350978792.0
   },
   {
    "ticker": "ELET3",
    "nome": "Eletrobras",
-   "preco": 48.52,
-   "var_pct": -1.06,
-   "hora": "2026-11-10T21:31:30.000Z",
-   "mcap": 119321625548.0
+   "preco": 49.1,
+   "var_pct": 1.2,
+   "hora": "2026-11-11T14:01:30.000Z",
+   "mcap": 118056386993.0
   },
   {
    "ticker": "WEGE3",
    "nome": "WEG",
-   "preco": 50.95,
-   "var_pct": 0.41,
-   "hora": "2026-11-10T21:31:30.000Z",
-   "mcap": 212905641652.0
+   "preco": 51.21,
+   "var_pct": 0.51,
+   "hora": "2026-11-11T14:01:30.000Z",
+   "mcap": 213786800272.0
   },
   {
    "ticker": "ABEV3",
    "nome": "Ambev",
-   "preco": 15.79,
-   "var_pct": 1.15,
-   "hora": "2026-11-10T21:31:30.000Z",
-   "mcap": 241648495994.0
+   "preco": 15.85,
+   "var_pct": 0.38,
+   "hora": "2026-11-11T14:00:30.000Z",
+   "mcap": 244434966460.0
   },
   {
    "ticker": "PRIO3",
    "nome": "PRIO",
-   "preco": 60.02,
-   "var_pct": 1.06,
-   "hora": "2026-11-10T21:31:30.000Z",
-   "mcap": 49496674531.0
+   "preco": 61.56,
+   "var_pct": 2.57,
+   "hora": "2026-11-11T14:01:30.000Z",
+   "mcap": 50021728549.0
   }
  ],
- "mapa_em": "2026-11-10T17:26-03:00",
+ "mapa_em": "2026-11-11T11:02-03:00",
  "mapa": [
   {
    "ticker": "PETR4",
    "setor": "Petróleo e gás",
-   "preco": 45.05,
-   "var_pct": -0.31,
-   "mcap": 619644192666.0
+   "preco": 43.79,
+   "var_pct": -2.58,
+   "mcap": 617104312595.0
   },
   {
    "ticker": "PRIO3",
    "setor": "Petróleo e gás",
-   "preco": 59.95,
-   "var_pct": 0.94,
-   "mcap": 49496674531.0
+   "preco": 61.56,
+   "var_pct": 2.57,
+   "mcap": 50021728549.0
   },
   {
    "ticker": "VBBR3",
    "setor": "Petróleo e gás",
-   "preco": 28.69,
-   "var_pct": -0.73,
-   "mcap": 33190697047.0
+   "preco": 29.0,
+   "var_pct": 0.76,
+   "mcap": 33052882229.000004
   },
   {
    "ticker": "UGPA3",
    "setor": "Petróleo e gás",
-   "preco": 30.09,
-   "var_pct": -0.53,
-   "mcap": 33006084442.0
+   "preco": 30.51,
+   "var_pct": 0.63,
+   "mcap": 33082461825.0
   },
   {
    "ticker": "CSAN3",
    "setor": "Petróleo e gás",
-   "preco": 2.68,
-   "var_pct": -3.25,
-   "mcap": 10965533191.0
+   "preco": 2.81,
+   "var_pct": 4.85,
+   "mcap": 10609252667.0
   },
   {
    "ticker": "VALE3",
    "setor": "Mineração e siderurgia",
-   "preco": 64.85,
-   "var_pct": -1.91,
-   "mcap": 263483651705.00003
+   "preco": 65.17,
+   "var_pct": 0.57,
+   "mcap": 258262611964.0
   },
   {
    "ticker": "GGBR4",
    "setor": "Mineração e siderurgia",
-   "preco": 25.88,
-   "var_pct": 2.45,
-   "mcap": 46541671926.0
+   "preco": 25.62,
+   "var_pct": -0.81,
+   "mcap": 47451916217.0
   },
   {
    "ticker": "CMIN3",
    "setor": "Mineração e siderurgia",
-   "preco": 5.2,
-   "var_pct": -2.44,
-   "mcap": 28791876224.0
+   "preco": 5.28,
+   "var_pct": 0.38,
+   "mcap": 28413748160.0
   },
   {
    "ticker": "ITUB4",
    "setor": "Bancos e financeiro",
-   "preco": 41.31,
-   "var_pct": -0.98,
-   "mcap": 483915969393.0
+   "preco": 41.79,
+   "var_pct": 1.43,
+   "mcap": 477239573907.0
   },
   {
    "ticker": "BBDC4",
    "setor": "Bancos e financeiro",
-   "preco": 14.42,
-   "var_pct": -1.77,
-   "mcap": 156893797842.0
+   "preco": 14.75,
+   "var_pct": 1.44,
+   "mcap": 155498050673.0
   },
   {
    "ticker": "BBAS3",
    "setor": "Bancos e financeiro",
-   "preco": 17.1,
-   "var_pct": 0.47,
-   "mcap": 97334257852.0
+   "preco": 17.22,
+   "var_pct": 0.7,
+   "mcap": 97791762728.0
   },
   {
    "ticker": "ITSA4",
    "setor": "Bancos e financeiro",
-   "preco": 13.35,
-   "var_pct": -0.37,
-   "mcap": 150921569466.0
+   "preco": 13.56,
+   "var_pct": 1.42,
+   "mcap": 151548818686.0
   },
   {
    "ticker": "BPAC11",
    "setor": "Bancos e financeiro",
-   "preco": 55.84,
-   "var_pct": -2.8,
-   "mcap": 223481715373.90002
+   "preco": 56.92,
+   "var_pct": 2.15,
+   "mcap": 216751978775.17334
   },
   {
    "ticker": "B3SA3",
    "setor": "Bancos e financeiro",
-   "preco": 14.3,
-   "var_pct": -3.7,
-   "mcap": 72148625340.0
+   "preco": 14.8,
+   "var_pct": 2.21,
+   "mcap": 70350978792.0
   },
   {
    "ticker": "BBSE3",
    "setor": "Bancos e financeiro",
-   "preco": 39.85,
-   "var_pct": 3.27,
-   "mcap": 74790760177.0
+   "preco": 39.48,
+   "var_pct": -0.73,
+   "mcap": 77077702895.0
   },
   {
    "ticker": "CXSE3",
    "setor": "Bancos e financeiro",
-   "preco": 21.99,
-   "var_pct": 3.97,
-   "mcap": 63449998856.0
+   "preco": 21.8,
+   "var_pct": -0.82,
+   "mcap": 65939998626.99999
   },
   {
    "ticker": "ELET3",
    "setor": "Energia e saneamento",
-   "preco": 48.52,
-   "var_pct": -1.06,
-   "mcap": 119321625548.0
+   "preco": 49.1,
+   "var_pct": 1.2,
+   "mcap": 118056386993.0
   },
   {
    "ticker": "SBSP3",
    "setor": "Energia e saneamento",
-   "preco": 27.3,
-   "var_pct": -1.44,
-   "mcap": 97903136974.0
+   "preco": 27.47,
+   "var_pct": 0.29,
+   "mcap": 96807465274.0
   },
   {
    "ticker": "EQTL3",
    "setor": "Energia e saneamento",
-   "preco": 33.92,
-   "var_pct": -2.58,
-   "mcap": 42848394148.0
+   "preco": 34.5,
+   "var_pct": 1.92,
+   "mcap": 41654741219.0
   },
   {
    "ticker": "CMIG4",
    "setor": "Energia e saneamento",
-   "preco": 10.66,
-   "var_pct": -0.28,
-   "mcap": 36889495955.0
+   "preco": 10.77,
+   "var_pct": 0.94,
+   "mcap": 37109687417.0
   },
   {
    "ticker": "ENEV3",
    "setor": "Energia e saneamento",
-   "preco": 27.11,
-   "var_pct": -1.06,
-   "mcap": 52291628276.0
+   "preco": 27.35,
+   "var_pct": 1.11,
+   "mcap": 51623668783.0
   },
   {
    "ticker": "ABEV3",
    "setor": "Consumo e varejo",
-   "preco": 15.64,
-   "var_pct": 0.19,
-   "mcap": 241648495994.0
+   "preco": 15.85,
+   "var_pct": 0.38,
+   "mcap": 244434966460.0
   },
   {
    "ticker": "LREN3",
    "setor": "Consumo e varejo",
-   "preco": 9.59,
-   "var_pct": -5.42,
-   "mcap": 10177374884.0
+   "preco": 9.81,
+   "var_pct": 0.93,
+   "mcap": 9755826750.0
   },
   {
    "ticker": "MGLU3",
    "setor": "Consumo e varejo",
-   "preco": 6.38,
-   "var_pct": 9.25,
-   "mcap": 4116386698.9999995
+   "preco": 7.24,
+   "var_pct": 11.04,
+   "mcap": 4595691866.0
   },
   {
    "ticker": "ASAI3",
    "setor": "Consumo e varejo",
-   "preco": 9.16,
-   "var_pct": 2.0,
-   "mcap": 12162452405.0
+   "preco": 9.48,
+   "var_pct": 3.38,
+   "mcap": 12419787880.0
   },
   {
    "ticker": "RADL3",
    "setor": "Consumo e varejo",
-   "preco": 14.62,
-   "var_pct": -1.35,
-   "mcap": 25899387687.0
+   "preco": 14.81,
+   "var_pct": 1.58,
+   "mcap": 25479964796.0
   },
   {
    "ticker": "WEGE3",
    "setor": "Indústria e serviços",
-   "preco": 51.34,
-   "var_pct": 1.18,
-   "mcap": 212905641652.0
+   "preco": 51.21,
+   "var_pct": 0.51,
+   "mcap": 213786800272.0
   },
   {
    "ticker": "RENT3",
    "setor": "Indústria e serviços",
-   "preco": 29.93,
-   "var_pct": -2.92,
-   "mcap": 33183726655.0
+   "preco": 30.23,
+   "var_pct": 1.48,
+   "mcap": 32064328572.0
   },
   {
    "ticker": "TOTS3",
    "setor": "Indústria e serviços",
-   "preco": 32.42,
-   "var_pct": -4.22,
-   "mcap": 19304542150.0
+   "preco": 32.86,
+   "var_pct": 0.92,
+   "mcap": 18568861071.0
   },
   {
    "ticker": "RDOR3",
    "setor": "Saúde",
-   "preco": 33.25,
-   "var_pct": -2.06,
-   "mcap": 74736807258.0
+   "preco": 34.5,
+   "var_pct": 3.32,
+   "mcap": 73504032184.0
   },
   {
    "ticker": "HAPV3",
    "setor": "Saúde",
-   "preco": 4.26,
-   "var_pct": -10.69,
-   "mcap": 2373123174.0
+   "preco": 4.48,
+   "var_pct": 5.41,
+   "mcap": 2114417931.0
   },
   {
    "ticker": "SUZB3",
    "setor": "Papel e celulose",
-   "preco": 54.71,
-   "var_pct": 0.94,
-   "mcap": 67862503006.0
+   "preco": 54.43,
+   "var_pct": -0.06,
+   "mcap": 68188040582.0
   },
   {
    "ticker": "KLBN11",
    "setor": "Papel e celulose",
-   "preco": 17.71,
-   "var_pct": -0.78,
-   "mcap": 22282079494.5
+   "preco": 17.62,
+   "var_pct": -0.4,
+   "mcap": 22082352171.300003
   },
   {
    "ticker": "VIVT3",
    "setor": "Telecom",
-   "preco": 32.47,
-   "var_pct": 1.0,
-   "mcap": 103358314647.0
+   "preco": 33.64,
+   "var_pct": 3.51,
+   "mcap": 104483516846.0
   },
   {
    "ticker": "TIMS3",
    "setor": "Telecom",
-   "preco": 20.95,
-   "var_pct": 3.05,
-   "mcap": 48363317746.0
+   "preco": 21.32,
+   "var_pct": 1.72,
+   "mcap": 49862031455.0
   }
  ]
 }
