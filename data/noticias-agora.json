@@ -2,105 +2,6 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Plano fiscal crível pode melhorar cenário macro rapidamente, diz Honorato, do Bradesco",
-   "fonte": "Bloomberg Línea",
-   "url": "https://www.bloomberglinea.com.br/brasil/plano-fiscal-crivel-pode-melhorar-cenario-macro-rapidamente-diz-honorato-do-bradesco/",
-   "publicado": "2026-11-10T16:29-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": [
-    "BBDC4"
-   ]
-  },
-  {
-   "titulo": "Galípolo: Sempre desconfie se alguém oferecer solução simples a problemas complexos",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/galipolo-sempre-desconfie-se-alguem-oferecer-solucao-simples-a-problemas-complexos/",
-   "publicado": "2026-11-10T17:21-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar fecha no maior nível em mais de um ano após dado de inflação dos EUA; bolsa cai",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUDVVNGVjS09yNDQ2cGFkYmpwM194TkVLM2x1WlpsRTg3TWp6UllkcUZ5bWpMUXQya2xxd1E5TXNLVDZpVDJOaDlRMVlxYTBXM3g4MHVVNlZ0dWlyMFZmaER6YkxTYzM2RExjTlFTdjFDeXEwaS1PaG9NSTdWc3phQVlZVTJpSEhOcDhfdk1TTXBnZjdMV29DQ2JhUHpINzR3Vk4wTmF2ZDRZenctOXpPb08yNnhJZThmNlNiUXA0YWR0d1pjYUtma2k1Y3k3eWJqMV9TVW5mSFXSAd4BQVVfeXFMUElsVW1xZ1pESW5kd2dpTTliVW1rZWRvLXhlZU1MdmdYSzRGZndUUGJqNmNrSG9QOFF5czFoWHVpUnZZMnNDU1JQVU5DMWdRZXpOSFRWUmpuZ0o4bUU2TU1vUGQ0SU1yMFpUQ3ZBTzFKaDBhVmdiUC1DczQydWtwS29oZUhRc0pzcUxjTk9wMVRwdlgzZWt3SlFyWXFPTkdIU0NpcXFPY05xcFMteGJnRXgtQjRvNmNkWXJIeVZ1MlNpYkFIUFVqTWI5VWF0TWxOSG1jdHBfeFZFNDJjVGJ3?oc=5",
-   "publicado": "2026-11-10T17:24-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar salta quase 1,5% e fecha a R$ 5,60 após inflação nos EUA superar expectativas",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNXJVeEVBcGxzTTlGWmhpU2FTcXluWWlEZ3o4OE9CX3JnZkczVVFfMmRFZjBOWGt5RTFUc3hVQkxnUUVpbzR4ZGhzc3BGc1l3UklkQTExd0xoeTdibW1LWGtZaDl0Z2JOWGQ3SXNjaHI0bnVYemtSMnBBdHRUV05NTmx5TThoMW5yaFZJSElqQmYzNV9LMEhuM19DenPSAaIBQVVfeXFMT0lxSE50RHZWLUFIV2hjUmI2SUhhY3JOLXlabF9kY2ZaakZPU010MVhheUdlMjlvTmFsWXdVZURCZ0Q3c25WcEU4NTNLeXpuV043ZldFckdFNE5mQWJWV2JyRzAyTEVjVEppZkJDUk1IWU53S3M4V0Rzek9PY2hBeFNpUmJNWWFpS2IxLWR6WGRRUmxKeW9YbWpyUWZYZy1YZUh3?oc=5",
-   "publicado": "2026-11-10T17:25-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar sobe a R$ 5,5860 com inflação dos EUA acima do esperado",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93VE0tN2tWbm9DQjhzdll6NjdIQnRUN2JPNFpNY3NzTW5JVEFKYmZUaEJxOGRDRGRSc3k5MjhGTTJRVllTVW9YeDA0eDN4WFJUX1phaFVqQXMzYW1PRXhRaXBn?oc=5",
-   "publicado": "2026-11-10T17:52-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Taxas do Tesouro Direto hoje sobem com ata mais dura do Copom; Prefixado 2032 vai a 15,15%",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ0tYMXhEeUlnYTdrM0poc2JDdU5rT2VOeTdObkRMby01TmJCNzF6VzhGQS04YXRDOEY5dDJMTHlDQTJ4S1RtS0xBOVdhdkZrdHRZVjVuNDQ5UHc4eHpoaWU3VTZRVHBNazhMQ3BaM0FNZVpwX2Y2bENjbHR0dzF5a1NMZHlmTXB3ZUJMbXoyd21Db25qOHlzbnpJVWlaS05wOE1OQTFqNmxwdktKRG1rVEI1M0J4bmV0Mkd3WlJwT2NIaHlpbXUxdmk4ZTVKbzZ00gHWAUFVX3lxTE8ybnN6ZjFVbmtMTXktX0tYQ0ZWM0g1ektoVW82S3Z3ZnJhbnY0cUdsUjdwQzFmcFk4djB4d0p6ZWQzTGoySENvcU9OZzN2WXNUMGRGTXlTT2s3MWpzd3lYdHIwU0RUa1k5S0cweFVYM3IwWW51WEJTZ1hjSFl0UlpZTkhjTnAtVnhjMXVfZlNCXzlnUVJsSkVjMWhONGY1NFVRT0g3enBlWlN5dDhfVmM4c2JYS3k0ZXF0anBLNWNYTDhjcXR6TThUNHJpNWhSYllyMUNaMVE?oc=5",
-   "publicado": "2026-11-10T18:00-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Petróleo fecha em queda com indicação de moderação dos EUA em relação ao Irã e dólar",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXpLQjhoWjRwa3FIdnZwZHh2MGI5U0JpUmlRWmRHYjJhMUNKNGkyQnJBM0dPemlwbzlYb2lISThFcW9zMDdZQ2JDdFhOd1pJbXozZmFyVGdma29ON3VCZjFlZXdoN1hXVEZydnc3SFRJc254ZU5PaTlyd1V0YUdyUTZ0LXAxMjV4OVpXS9IBkgFBVV95cUxNaHVoZ2QyS19Eckd0OG5EQ2lVdTFCaHNMZ1FNT2lNaXN2ZkNwRW9NLU9jWGtrN1BnQTdqS2F0T25JRzY3d3BiVWdfVkMwNmVkcWpfTVlESFFlLUktUjVDVmVHSktiWEw3WndvVXFZelJyVHNQYi1XX0Z2V0x6cElUS1lnYkhjRjNET1FkMzVmck0ydw?oc=5",
-   "publicado": "2026-11-10T18:02-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Petróleo fecha em queda com negociações entre EUA e Irã e alta do dólar",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGJQNEs3WDlHNXE1RXFwdzBKRlRhZnJsbVJldWl2aTRRMHk2UkdBV3NYLUxyZnlYQ05SVThfNV9SSEhRajVoRWpQeHp5dXFrbVpNR2JRelROTVY5dWI2ZG0ySDMtemtBcW84bnhWeUMwSDZfNzF0Si1icHJiS0dsMVg4ZngyX1BtUGZYRUlWMmcydHoxcC1WRVJodWoxT2RUSElYc0xsWkJncDFVeW9ucU1sN1Q0WmZWTzJ1WA?oc=5",
-   "publicado": "2026-11-10T18:04-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
    "titulo": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
    "fonte": "CNBC",
    "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
@@ -113,13 +14,14 @@
    "tickers": []
   },
   {
-   "titulo": "Ibovespa recua com incertezas sobre política fiscal no Brasil e aversão a risco no exterior",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQjhpTGlYU1ZQYWdvRDRsZ08zMHJzRFVYWFZ5Z1NVZGxDT2dIYVNJSkhIajAyOUpMLUFYdHR4eEhqVWlNOV9oZUhFOVNXWVQ2VGlMbi1PYmRBT3M3VnlZWl8tdWQtYW9Qc3hTdmdJcU55NUpGejlCT0FTSVJYNFJ3dVgwSXB4NlhIMmMzNTRidWNrc2ZfaWhlMExsbEpYSHd1RWIzamxxSUVPMmpjSFlsaFZaUkhQRlAwNm00aEVWdGtYdWpKRWc3d2VlRk1FZS13bkVpclBYRHEwemZHdXZobTYwWdIB8gFBVV95cUxOb2Z5MExzcndpX29PRXNQTXZjVE96OWxNRVhUemZERFFFdEJmSW9RYlJrenFpQUJ4bkFfdWFiSF81VVRPZFBXWFgxSXkwYjNYbXhIOWR4dVNYbkU4elpjUE1hSk5yc3RNZnhvM2QyTFJFemhNQ3RLTU9YRmJRNFdKelFXN3F1aUpKbC1JSXVla2FfR00xdlEza0dmMnRydzI1NzVTVnphRFB3aFVNNEZTUXQ5bFVHa3ZHU0N2RzlXZk5nX2xFdklLQlZyY0lvRks2cnhvTkkwZjg5czVjWklJSmswSXpWcGxZbURBRkdxbkhWUQ?oc=5",
-   "publicado": "2026-11-10T18:34-03:00",
+   "titulo": "Ibovespa termina em queda, com inflação nos EUA e Copom; dólar dispara mais de 1%",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSG9wT3Q2NktUY0lNNUpXdDVucjJZMHoyYXdXeUVERW5fLVBTZ25XWnQtaUJRSm5xOU9sMFhLeElrR2RSMVVjMzFzU1lvc0RPd2ptRnNVRFNpMkdWYUluZFFlb0hWVFJzaUJ6X3V1amp0UnY2VHhhREpxeEliRDdSSm1EaEh5WERXbVpGRi1Taw?oc=5",
+   "publicado": "2026-11-10T18:26-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
+    "WDO",
     "DI"
    ],
    "tickers": []
@@ -149,14 +51,13 @@
    "tickers": []
   },
   {
-   "titulo": "Ibovespa reduz fôlego com inflação dos EUA e cai após superar 173 mil pontos",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbTJFS3FGamlQdWxlLWJFRzdhb2FtTjNSRXVpNEtKVjJXdnM4NzhJcVpxZmxmYzk2TkJIanpBdTRPaFZkRzh6N204aGdrMlp6TEw4RGY0dUNNNE9YS05HX1VnalMyYjB5Z2dTcVNqQWhKSkVYd0dtU0NOSlFQallkblF6SnR0aUJkOWtxUVNNTXhFVXlJNzJfWTdHZEVQak00RkxpSEdwTEhfeFJZZnE0R2Z0UU5qZ9IBuwFBVV95cUxQRDBKZUlCbmdNOTBCYXNVaHlEME1YMXhBbFlQdzJRTzRkNi1SUnlXWFZKdmZEWGFiUzJQT3ppdU12amdhNU9LdU4ybmNFT0UyekFKU2JFb2MwWWtCZGlmSnpkWXp5MlBXZmZvb0tab19rWWUyWjYzZjAwQ0VMelltNjZGSlRQVjE5RDZtV3pkcnlkYnYySW16cVNhUzZydzdzS1pVamJxaDB1NTVqNERqWXBqdHRacVl2WGI0?oc=5",
-   "publicado": "2026-11-10T18:49-03:00",
-   "impacto": "alto",
+   "titulo": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+   "publicado": "2026-11-10T18:45-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WIN",
-    "DI"
+    "WDO"
    ],
    "tickers": []
   },
@@ -173,19 +74,114 @@
    "tickers": []
   },
   {
-   "titulo": "Câmara aprova ampliação de até R$ 13,5 bi em crédito para empresas afetadas por tarifas dos EUA",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-aprova-ampliacao-de-ate-r-135-bi-em-credito-para-empresas-afetadas-por-tarifas-dos-eua.shtml",
-   "publicado": "2026-11-10T19:09-03:00",
+   "titulo": "Estudo indica que atuação do BNDES compensa custo fiscal",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/fernando-dantas/estudo-indica-que-atuacao-do-bndes-compensa-custo-fiscal/",
+   "publicado": "2026-11-10T19:18-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Dólar bate maior valor desde julho de 2025 e Bolsa cai com EUA e Copom",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0Z0cFExdVljSnNFejFqQllTRHF1ODVLMURCOHlpcXpnUzFQZ3Z3QS1qNUpIMU4xdExRNWk1ZGJSdEJJb3ZvQm51WVlrM0lWUl9ZTkRHZzRWS2d1MWVtSlFzSFFXNGY2Sk1jcDJMSFJWb2ppeHdWalFXRVhyMF84R2hoOHk4akVDWG9VNUpCM05ieUwyNXNfVy1jeDNvVzhSZGpXSlRn?oc=5",
+   "publicado": "2026-11-10T19:44-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Fracasso de não trazer inflação à meta cobra fatura amarga de consumidores e empresas também nos EUA",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/fabio-alves/fracasso-de-nao-trazer-inflacao-a-meta-cobra-fatura-amarga-de-consumidores-e-empresas-tambem-nos-eua/",
+   "publicado": "2026-11-10T20:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Câmara aprova MP que amplia em R$ 13,5 bi crédito para empresas afetadas pelo tarifaço",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/camara-aprova-mp-que-amplia-em-r-135-bi-credito-para-empresas-afetadas-pelo-tarifaco/",
+   "publicado": "2026-11-10T20:12-03:00",
    "impacto": "medio",
    "ativos": [
     "WDO"
    ],
    "tickers": []
+  },
+  {
+   "titulo": "Petrobras anuncia pagamento de R$ 15,3 bilhões em dividendos no 3º tri",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFB4eTcxVTlKRU91QVBqRldxMWJlVmZwMThhaTdjVVV2X1B4RERaNjBiLW9sUk9odjNUUFB5UXI0b1dEalAzUnBfbGFPdzl3MGR5T1BhME4yYzNHdEFuVEdTczV3X21hQnQ3M3NjdmtBdnFhU19Gc29hMHpkamIzZlZPOGp5TnBXOW11eVZDOWNMcnFyMG5WWkl6cHNHUi1oeXBJN1g0TQ?oc=5",
+   "publicado": "2026-11-10T20:13-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Petrobras tem R$ 39,75 bi de lucro líquido no 3º tri, alta de 21,5%",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGVWbGtVOU14NzlXQXVFMkNtazB3RFI2UWhzVDdmZGZtVGdkMTkybWJxc0hKVlpPZFNQdmlUYXl6R2lXY0c1ZEloN1oyV282NTNqUGgxMjduaDZ2RlR4S0JBSVZyVFZVakgxV1Bza0oyMUx0cmFTXzVaelByZ25QYm4xWHFDU1VISGV0dHJBbnhNbXVWTlJZT3BfRHFMTHM?oc=5",
+   "publicado": "2026-11-10T20:24-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Dólar sobe 1,46% e fecha no maior valor em 15 meses",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-146-e-fecha-no-maior-valor-em-15-meses",
+   "publicado": "2026-11-10T20:25-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Lucro da Petrobras cresce 21,5% no terceiro trimestre, para R$ 39,8 bilhões",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/lucro-da-petrobras-cresce-215-no-terceiro-trimestre-para-r-397-bilhoes.shtml",
+   "publicado": "2026-11-10T20:32-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+   "publicado": "2026-11-10T20:53-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-10T19:22-03:00",
+ "atualizado_em": "2026-11-10T21:02-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -193,18 +189,88 @@
   "CNBC",
   "CNN Brasil",
   "Estadão",
-  "Exame",
   "Folha",
   "InfoMoney",
-  "Money Times",
-  "Valor"
+  "Money Times"
  ],
  "noticias": [
   {
-   "titulo": "Reuters/Ipsos: 71% dos americanos querem fim da guerra no Irã",
+   "titulo": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+   "publicado": "2026-11-10T20:53-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Lucro da Petrobras cresce 21,5% no terceiro trimestre, para R$ 39,8 bilhões",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/lucro-da-petrobras-cresce-215-no-terceiro-trimestre-para-r-397-bilhoes.shtml",
+   "publicado": "2026-11-10T20:32-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Dólar sobe 1,46% e fecha no maior valor em 15 meses",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-146-e-fecha-no-maior-valor-em-15-meses",
+   "publicado": "2026-11-10T20:25-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Petrobras tem R$ 39,75 bi de lucro líquido no 3º tri, alta de 21,5%",
    "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3Q3Y3FlNGloUTBMNjVfMV9mbVY1LW1ZX2xZRDRIQUx3STBqcnNvU1ZtNURxZ0pKVzY0QzJlWnUyd0RVcUIyLWxIYlQzbF91SjBtbG81TEN5ZGZuZmNIOUQ2UURyOTRTa0V5SHE1QTVDR0UyRHdKVlFXT21zWkgzU1ViMjVqRnN2VmlLalRtZGxtTWlGcGhHZ2RQUEZybks5R0NnaEJR?oc=5",
-   "publicado": "2026-11-10T19:11-03:00",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGVWbGtVOU14NzlXQXVFMkNtazB3RFI2UWhzVDdmZGZtVGdkMTkybWJxc0hKVlpPZFNQdmlUYXl6R2lXY0c1ZEloN1oyV282NTNqUGgxMjduaDZ2RlR4S0JBSVZyVFZVakgxV1Bza0oyMUx0cmFTXzVaelByZ25QYm4xWHFDU1VISGV0dHJBbnhNbXVWTlJZT3BfRHFMTHM?oc=5",
+   "publicado": "2026-11-10T20:24-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Petrobras anuncia pagamento de R$ 15,3 bilhões em dividendos no 3º tri",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFB4eTcxVTlKRU91QVBqRldxMWJlVmZwMThhaTdjVVV2X1B4RERaNjBiLW9sUk9odjNUUFB5UXI0b1dEalAzUnBfbGFPdzl3MGR5T1BhME4yYzNHdEFuVEdTczV3X21hQnQ3M3NjdmtBdnFhU19Gc29hMHpkamIzZlZPOGp5TnBXOW11eVZDOWNMcnFyMG5WWkl6cHNHUi1oeXBJN1g0TQ?oc=5",
+   "publicado": "2026-11-10T20:13-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Câmara aprova MP que amplia em R$ 13,5 bi crédito para empresas afetadas pelo tarifaço",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/camara-aprova-mp-que-amplia-em-r-135-bi-credito-para-empresas-afetadas-pelo-tarifaco/",
+   "publicado": "2026-11-10T20:12-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
+   "publicado": "2026-11-10T20:03-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN",
@@ -213,13 +279,36 @@
    "tickers": []
   },
   {
-   "titulo": "Câmara aprova ampliação de até R$ 13,5 bi em crédito para empresas afetadas por tarifas dos EUA",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-aprova-ampliacao-de-ate-r-135-bi-em-credito-para-empresas-afetadas-por-tarifas-dos-eua.shtml",
-   "publicado": "2026-11-10T19:09-03:00",
+   "titulo": "Fracasso de não trazer inflação à meta cobra fatura amarga de consumidores e empresas também nos EUA",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/fabio-alves/fracasso-de-nao-trazer-inflacao-a-meta-cobra-fatura-amarga-de-consumidores-e-empresas-tambem-nos-eua/",
+   "publicado": "2026-11-10T20:00-03:00",
    "impacto": "medio",
    "ativos": [
-    "WDO"
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Dólar bate maior valor desde julho de 2025 e Bolsa cai com EUA e Copom",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0Z0cFExdVljSnNFejFqQllTRHF1ODVLMURCOHlpcXpnUzFQZ3Z3QS1qNUpIMU4xdExRNWk1ZGJSdEJJb3ZvQm51WVlrM0lWUl9ZTkRHZzRWS2d1MWVtSlFzSFFXNGY2Sk1jcDJMSFJWb2ppeHdWalFXRVhyMF84R2hoOHk4akVDWG9VNUpCM05ieUwyNXNfVy1jeDNvVzhSZGpXSlRn?oc=5",
+   "publicado": "2026-11-10T19:44-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Estudo indica que atuação do BNDES compensa custo fiscal",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/fernando-dantas/estudo-indica-que-atuacao-do-bndes-compensa-custo-fiscal/",
+   "publicado": "2026-11-10T19:18-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
    ],
    "tickers": []
   },
@@ -236,14 +325,13 @@
    "tickers": []
   },
   {
-   "titulo": "Ibovespa reduz fôlego com inflação dos EUA e cai após superar 173 mil pontos",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbTJFS3FGamlQdWxlLWJFRzdhb2FtTjNSRXVpNEtKVjJXdnM4NzhJcVpxZmxmYzk2TkJIanpBdTRPaFZkRzh6N204aGdrMlp6TEw4RGY0dUNNNE9YS05HX1VnalMyYjB5Z2dTcVNqQWhKSkVYd0dtU0NOSlFQallkblF6SnR0aUJkOWtxUVNNTXhFVXlJNzJfWTdHZEVQak00RkxpSEdwTEhfeFJZZnE0R2Z0UU5qZ9IBuwFBVV95cUxQRDBKZUlCbmdNOTBCYXNVaHlEME1YMXhBbFlQdzJRTzRkNi1SUnlXWFZKdmZEWGFiUzJQT3ppdU12amdhNU9LdU4ybmNFT0UyekFKU2JFb2MwWWtCZGlmSnpkWXp5MlBXZmZvb0tab19rWWUyWjYzZjAwQ0VMelltNjZGSlRQVjE5RDZtV3pkcnlkYnYySW16cVNhUzZydzdzS1pVamJxaDB1NTVqNERqWXBqdHRacVl2WGI0?oc=5",
-   "publicado": "2026-11-10T18:49-03:00",
-   "impacto": "alto",
+   "titulo": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+   "publicado": "2026-11-10T18:45-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WIN",
-    "DI"
+    "WDO"
    ],
    "tickers": []
   },
@@ -272,13 +360,14 @@
    "tickers": []
   },
   {
-   "titulo": "Ibovespa recua com incertezas sobre política fiscal no Brasil e aversão a risco no exterior",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQjhpTGlYU1ZQYWdvRDRsZ08zMHJzRFVYWFZ5Z1NVZGxDT2dIYVNJSkhIajAyOUpMLUFYdHR4eEhqVWlNOV9oZUhFOVNXWVQ2VGlMbi1PYmRBT3M3VnlZWl8tdWQtYW9Qc3hTdmdJcU55NUpGejlCT0FTSVJYNFJ3dVgwSXB4NlhIMmMzNTRidWNrc2ZfaWhlMExsbEpYSHd1RWIzamxxSUVPMmpjSFlsaFZaUkhQRlAwNm00aEVWdGtYdWpKRWc3d2VlRk1FZS13bkVpclBYRHEwemZHdXZobTYwWdIB8gFBVV95cUxOb2Z5MExzcndpX29PRXNQTXZjVE96OWxNRVhUemZERFFFdEJmSW9RYlJrenFpQUJ4bkFfdWFiSF81VVRPZFBXWFgxSXkwYjNYbXhIOWR4dVNYbkU4elpjUE1hSk5yc3RNZnhvM2QyTFJFemhNQ3RLTU9YRmJRNFdKelFXN3F1aUpKbC1JSXVla2FfR00xdlEza0dmMnRydzI1NzVTVnphRFB3aFVNNEZTUXQ5bFVHa3ZHU0N2RzlXZk5nX2xFdklLQlZyY0lvRks2cnhvTkkwZjg5czVjWklJSmswSXpWcGxZbURBRkdxbkhWUQ?oc=5",
-   "publicado": "2026-11-10T18:34-03:00",
+   "titulo": "Ibovespa termina em queda, com inflação nos EUA e Copom; dólar dispara mais de 1%",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSG9wT3Q2NktUY0lNNUpXdDVucjJZMHoyYXdXeUVERW5fLVBTZ25XWnQtaUJRSm5xOU9sMFhLeElrR2RSMVVjMzFzU1lvc0RPd2ptRnNVRFNpMkdWYUluZFFlb0hWVFJzaUJ6X3V1amp0UnY2VHhhREpxeEliRDdSSm1EaEh5WERXbVpGRi1Taw?oc=5",
+   "publicado": "2026-11-10T18:26-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
+    "WDO",
     "DI"
    ],
    "tickers": []
@@ -294,105 +383,6 @@
     "DI"
    ],
    "tickers": []
-  },
-  {
-   "titulo": "Petróleo fecha em queda com negociações entre EUA e Irã e alta do dólar",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGJQNEs3WDlHNXE1RXFwdzBKRlRhZnJsbVJldWl2aTRRMHk2UkdBV3NYLUxyZnlYQ05SVThfNV9SSEhRajVoRWpQeHp5dXFrbVpNR2JRelROTVY5dWI2ZG0ySDMtemtBcW84bnhWeUMwSDZfNzF0Si1icHJiS0dsMVg4ZngyX1BtUGZYRUlWMmcydHoxcC1WRVJodWoxT2RUSElYc0xsWkJncDFVeW9ucU1sN1Q0WmZWTzJ1WA?oc=5",
-   "publicado": "2026-11-10T18:04-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Petróleo fecha em queda com indicação de moderação dos EUA em relação ao Irã e dólar",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXpLQjhoWjRwa3FIdnZwZHh2MGI5U0JpUmlRWmRHYjJhMUNKNGkyQnJBM0dPemlwbzlYb2lISThFcW9zMDdZQ2JDdFhOd1pJbXozZmFyVGdma29ON3VCZjFlZXdoN1hXVEZydnc3SFRJc254ZU5PaTlyd1V0YUdyUTZ0LXAxMjV4OVpXS9IBkgFBVV95cUxNaHVoZ2QyS19Eckd0OG5EQ2lVdTFCaHNMZ1FNT2lNaXN2ZkNwRW9NLU9jWGtrN1BnQTdqS2F0T25JRzY3d3BiVWdfVkMwNmVkcWpfTVlESFFlLUktUjVDVmVHSktiWEw3WndvVXFZelJyVHNQYi1XX0Z2V0x6cElUS1lnYkhjRjNET1FkMzVmck0ydw?oc=5",
-   "publicado": "2026-11-10T18:02-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Taxas do Tesouro Direto hoje sobem com ata mais dura do Copom; Prefixado 2032 vai a 15,15%",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ0tYMXhEeUlnYTdrM0poc2JDdU5rT2VOeTdObkRMby01TmJCNzF6VzhGQS04YXRDOEY5dDJMTHlDQTJ4S1RtS0xBOVdhdkZrdHRZVjVuNDQ5UHc4eHpoaWU3VTZRVHBNazhMQ3BaM0FNZVpwX2Y2bENjbHR0dzF5a1NMZHlmTXB3ZUJMbXoyd21Db25qOHlzbnpJVWlaS05wOE1OQTFqNmxwdktKRG1rVEI1M0J4bmV0Mkd3WlJwT2NIaHlpbXUxdmk4ZTVKbzZ00gHWAUFVX3lxTE8ybnN6ZjFVbmtMTXktX0tYQ0ZWM0g1ektoVW82S3Z3ZnJhbnY0cUdsUjdwQzFmcFk4djB4d0p6ZWQzTGoySENvcU9OZzN2WXNUMGRGTXlTT2s3MWpzd3lYdHIwU0RUa1k5S0cweFVYM3IwWW51WEJTZ1hjSFl0UlpZTkhjTnAtVnhjMXVfZlNCXzlnUVJsSkVjMWhONGY1NFVRT0g3enBlWlN5dDhfVmM4c2JYS3k0ZXF0anBLNWNYTDhjcXR6TThUNHJpNWhSYllyMUNaMVE?oc=5",
-   "publicado": "2026-11-10T18:00-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar sobe a R$ 5,5860 com inflação dos EUA acima do esperado",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93VE0tN2tWbm9DQjhzdll6NjdIQnRUN2JPNFpNY3NzTW5JVEFKYmZUaEJxOGRDRGRSc3k5MjhGTTJRVllTVW9YeDA0eDN4WFJUX1phaFVqQXMzYW1PRXhRaXBn?oc=5",
-   "publicado": "2026-11-10T17:52-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar salta quase 1,5% e fecha a R$ 5,60 após inflação nos EUA superar expectativas",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNXJVeEVBcGxzTTlGWmhpU2FTcXluWWlEZ3o4OE9CX3JnZkczVVFfMmRFZjBOWGt5RTFUc3hVQkxnUUVpbzR4ZGhzc3BGc1l3UklkQTExd0xoeTdibW1LWGtZaDl0Z2JOWGQ3SXNjaHI0bnVYemtSMnBBdHRUV05NTmx5TThoMW5yaFZJSElqQmYzNV9LMEhuM19DenPSAaIBQVVfeXFMT0lxSE50RHZWLUFIV2hjUmI2SUhhY3JOLXlabF9kY2ZaakZPU010MVhheUdlMjlvTmFsWXdVZURCZ0Q3c25WcEU4NTNLeXpuV043ZldFckdFNE5mQWJWV2JyRzAyTEVjVEppZkJDUk1IWU53S3M4V0Rzek9PY2hBeFNpUmJNWWFpS2IxLWR6WGRRUmxKeW9YbWpyUWZYZy1YZUh3?oc=5",
-   "publicado": "2026-11-10T17:25-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar fecha no maior nível em mais de um ano após dado de inflação dos EUA; bolsa cai",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUDVVNGVjS09yNDQ2cGFkYmpwM194TkVLM2x1WlpsRTg3TWp6UllkcUZ5bWpMUXQya2xxd1E5TXNLVDZpVDJOaDlRMVlxYTBXM3g4MHVVNlZ0dWlyMFZmaER6YkxTYzM2RExjTlFTdjFDeXEwaS1PaG9NSTdWc3phQVlZVTJpSEhOcDhfdk1TTXBnZjdMV29DQ2JhUHpINzR3Vk4wTmF2ZDRZenctOXpPb08yNnhJZThmNlNiUXA0YWR0d1pjYUtma2k1Y3k3eWJqMV9TVW5mSFXSAd4BQVVfeXFMUElsVW1xZ1pESW5kd2dpTTliVW1rZWRvLXhlZU1MdmdYSzRGZndUUGJqNmNrSG9QOFF5czFoWHVpUnZZMnNDU1JQVU5DMWdRZXpOSFRWUmpuZ0o4bUU2TU1vUGQ0SU1yMFpUQ3ZBTzFKaDBhVmdiUC1DczQydWtwS29oZUhRc0pzcUxjTk9wMVRwdlgzZWt3SlFyWXFPTkdIU0NpcXFPY05xcFMteGJnRXgtQjRvNmNkWXJIeVZ1MlNpYkFIUFVqTWI5VWF0TWxOSG1jdHBfeFZFNDJjVGJ3?oc=5",
-   "publicado": "2026-11-10T17:24-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Galípolo: Sempre desconfie se alguém oferecer solução simples a problemas complexos",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/galipolo-sempre-desconfie-se-alguem-oferecer-solucao-simples-a-problemas-complexos/",
-   "publicado": "2026-11-10T17:21-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Plano fiscal crível pode melhorar cenário macro rapidamente, diz Honorato, do Bradesco",
-   "fonte": "Bloomberg Línea",
-   "url": "https://www.bloomberglinea.com.br/brasil/plano-fiscal-crivel-pode-melhorar-cenario-macro-rapidamente-diz-honorato-do-bradesco/",
-   "publicado": "2026-11-10T16:29-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": [
-    "BBDC4"
-   ]
   }
  ]
 }
