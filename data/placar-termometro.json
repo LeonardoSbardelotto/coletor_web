@@ -26,7 +26,20 @@
     "var_pct": 0.03,
     "acerto": true
    }
+  },
+  {
+   "data": "2026-11-10",
+   "win": {
+    "leitura": "neutro",
+    "var_pct": -0.52,
+    "acerto": false
+   },
+   "wdo": {
+    "leitura": "bullish",
+    "var_pct": 0.05,
+    "acerto": true
+   }
   }
  ],
- "atualizado_em": "2026-11-04T22:00:30-03:00"
+ "atualizado_em": "2026-11-10T22:44:28-03:00"
 }
