@@ -1,1101 +1,76 @@
 {
- "mercado": {
-  "data": "2026-11-11",
-  "atualizado_em": "2026-11-11T18:18-03:00",
-  "ibov": {
-   "anterior": 171336.98,
-   "pontos": [
-    [
-     "10:00",
-     172169.0
-    ],
-    [
-     "10:05",
-     172104.0
-    ],
-    [
-     "10:10",
-     172299.0
-    ],
-    [
-     "10:15",
-     172286.0
-    ],
-    [
-     "10:20",
-     172716.0
-    ],
-    [
-     "10:25",
-     172361.0
-    ],
-    [
-     "10:30",
-     172277.0
-    ],
-    [
-     "10:35",
-     172573.0
-    ],
-    [
-     "10:40",
-     172727.0
-    ],
-    [
-     "10:45",
-     172763.0
-    ],
-    [
-     "10:50",
-     172671.0
-    ],
-    [
-     "10:55",
-     172673.0
-    ],
-    [
-     "11:00",
-     172497.0
-    ],
-    [
-     "11:05",
-     172636.0
-    ],
-    [
-     "11:10",
-     172647.0
-    ],
-    [
-     "11:15",
-     172644.0
-    ],
-    [
-     "11:20",
-     172689.0
-    ],
-    [
-     "11:25",
-     172615.0
-    ],
-    [
-     "11:30",
-     172362.0
-    ],
-    [
-     "11:35",
-     172442.0
-    ],
-    [
-     "11:40",
-     172598.0
-    ],
-    [
-     "11:45",
-     172678.0
-    ],
-    [
-     "11:50",
-     172590.0
-    ],
-    [
-     "11:55",
-     172835.0
-    ],
-    [
-     "12:00",
-     172872.0
-    ],
-    [
-     "12:05",
-     172690.0
-    ],
-    [
-     "12:10",
-     172678.0
-    ],
-    [
-     "12:15",
-     172845.0
-    ],
-    [
-     "12:20",
-     172782.0
-    ],
-    [
-     "12:25",
-     172700.0
-    ],
-    [
-     "12:30",
-     172726.0
-    ],
-    [
-     "12:35",
-     172772.0
-    ],
-    [
-     "12:40",
-     172890.0
-    ],
-    [
-     "12:45",
-     172716.0
-    ],
-    [
-     "12:50",
-     172519.0
-    ],
-    [
-     "12:55",
-     172664.0
-    ],
-    [
-     "13:00",
-     172713.0
-    ],
-    [
-     "13:05",
-     172552.0
-    ],
-    [
-     "13:10",
-     172417.0
-    ],
-    [
-     "13:15",
-     172511.0
-    ],
-    [
-     "13:20",
-     172415.0
-    ],
-    [
-     "13:25",
-     172609.0
-    ],
-    [
-     "13:30",
-     172522.0
-    ],
-    [
-     "13:35",
-     172441.0
-    ],
-    [
-     "13:40",
-     172466.0
-    ],
-    [
-     "13:45",
-     172564.0
-    ],
-    [
-     "13:50",
-     172462.0
-    ],
-    [
-     "13:55",
-     172500.0
-    ],
-    [
-     "14:00",
-     172456.0
-    ],
-    [
-     "14:05",
-     172449.0
-    ],
-    [
-     "14:10",
-     172528.0
-    ],
-    [
-     "14:15",
-     172513.0
-    ],
-    [
-     "14:20",
-     172417.0
-    ],
-    [
-     "14:25",
-     172411.0
-    ],
-    [
-     "14:30",
-     172427.0
-    ],
-    [
-     "14:35",
-     172439.0
-    ],
-    [
-     "14:40",
-     172411.0
-    ],
-    [
-     "14:45",
-     172283.0
-    ],
-    [
-     "14:50",
-     172308.0
-    ],
-    [
-     "14:55",
-     172431.0
-    ],
-    [
-     "15:00",
-     172376.0
-    ],
-    [
-     "15:05",
-     172410.0
-    ],
-    [
-     "15:10",
-     172416.0
-    ],
-    [
-     "15:15",
-     172546.0
-    ],
-    [
-     "15:20",
-     172464.0
-    ],
-    [
-     "15:25",
-     172443.0
-    ],
-    [
-     "15:30",
-     172307.0
-    ],
-    [
-     "15:35",
-     172356.0
-    ],
-    [
-     "15:40",
-     172328.0
-    ],
-    [
-     "15:45",
-     172305.0
-    ],
-    [
-     "15:50",
-     172350.0
-    ],
-    [
-     "15:55",
-     172350.0
-    ],
-    [
-     "16:00",
-     172327.0
-    ],
-    [
-     "16:05",
-     172356.0
-    ],
-    [
-     "16:10",
-     172265.0
-    ],
-    [
-     "16:15",
-     172299.0
-    ],
-    [
-     "16:20",
-     172320.0
-    ],
-    [
-     "16:25",
-     172289.0
-    ],
-    [
-     "16:30",
-     172358.0
-    ],
-    [
-     "16:35",
-     172370.0
-    ],
-    [
-     "16:40",
-     172375.0
-    ],
-    [
-     "16:45",
-     172464.0
-    ],
-    [
-     "16:50",
-     172342.0
-    ],
-    [
-     "16:55",
-     172300.0
-    ],
-    [
-     "17:00",
-     172269.0
-    ]
-   ]
-  },
-  "dolar": {
-   "anterior": 5.5803,
-   "pontos": [
-    [
-     "09:00",
-     5.5724
-    ],
-    [
-     "09:05",
-     5.5755
-    ],
-    [
-     "09:10",
-     5.5779
-    ],
-    [
-     "09:15",
-     5.577
-    ],
-    [
-     "09:20",
-     5.5697
-    ],
-    [
-     "09:25",
-     5.5707
-    ],
-    [
-     "09:30",
-     5.5713
-    ],
-    [
-     "09:35",
-     5.5641
-    ],
-    [
-     "09:40",
-     5.5652
-    ],
-    [
-     "09:45",
-     5.5602
-    ],
-    [
-     "09:50",
-     5.5582
-    ],
-    [
-     "09:55",
-     5.5558
-    ],
-    [
-     "10:00",
-     5.5539
-    ],
-    [
-     "10:05",
-     5.5559
-    ],
-    [
-     "10:10",
-     5.5557
-    ],
-    [
-     "10:15",
-     5.5557
-    ],
-    [
-     "10:20",
-     5.5534
-    ],
-    [
-     "10:25",
-     5.5583
-    ],
-    [
-     "10:30",
-     5.5627
-    ],
-    [
-     "10:35",
-     5.5573
-    ],
-    [
-     "10:40",
-     5.5632
-    ],
-    [
-     "10:45",
-     5.5609
-    ],
-    [
-     "10:50",
-     5.5622
-    ],
-    [
-     "10:55",
-     5.5593
-    ],
-    [
-     "11:00",
-     5.5583
-    ],
-    [
-     "11:05",
-     5.5591
-    ],
-    [
-     "11:10",
-     5.5574
-    ],
-    [
-     "11:15",
-     5.5595
-    ],
-    [
-     "11:20",
-     5.566
-    ],
-    [
-     "11:25",
-     5.566
-    ],
-    [
-     "11:30",
-     5.5641
-    ],
-    [
-     "11:35",
-     5.5616
-    ],
-    [
-     "11:40",
-     5.5616
-    ],
-    [
-     "11:45",
-     5.5631
-    ],
-    [
-     "11:50",
-     5.5577
-    ],
-    [
-     "11:55",
-     5.5591
-    ],
-    [
-     "12:00",
-     5.5595
-    ],
-    [
-     "12:05",
-     5.553
-    ],
-    [
-     "12:10",
-     5.5541
-    ],
-    [
-     "12:15",
-     5.5522
-    ],
-    [
-     "12:20",
-     5.5571
-    ],
-    [
-     "12:25",
-     5.5616
-    ],
-    [
-     "12:30",
-     5.5646
-    ],
-    [
-     "12:35",
-     5.5646
-    ],
-    [
-     "12:40",
-     5.5675
-    ],
-    [
-     "12:45",
-     5.5654
-    ],
-    [
-     "12:50",
-     5.5686
-    ],
-    [
-     "12:55",
-     5.5671
-    ],
-    [
-     "13:00",
-     5.5631
-    ],
-    [
-     "13:05",
-     5.5643
-    ],
-    [
-     "13:10",
-     5.5654
-    ],
-    [
-     "13:15",
-     5.5646
-    ],
-    [
-     "13:20",
-     5.5641
-    ],
-    [
-     "13:25",
-     5.5636
-    ],
-    [
-     "13:30",
-     5.5611
-    ],
-    [
-     "13:35",
-     5.5636
-    ],
-    [
-     "13:40",
-     5.5606
-    ],
-    [
-     "13:45",
-     5.559
-    ],
-    [
-     "13:50",
-     5.56
-    ],
-    [
-     "13:55",
-     5.5611
-    ],
-    [
-     "14:00",
-     5.5601
-    ],
-    [
-     "14:05",
-     5.5615
-    ],
-    [
-     "14:10",
-     5.561
-    ],
-    [
-     "14:15",
-     5.559
-    ],
-    [
-     "14:20",
-     5.5593
-    ],
-    [
-     "14:25",
-     5.5615
-    ],
-    [
-     "14:30",
-     5.5636
-    ],
-    [
-     "14:35",
-     5.5611
-    ],
-    [
-     "14:40",
-     5.5626
-    ],
-    [
-     "14:45",
-     5.5631
-    ],
-    [
-     "14:50",
-     5.5625
-    ],
-    [
-     "14:55",
-     5.5632
-    ],
-    [
-     "15:00",
-     5.5626
-    ],
-    [
-     "15:05",
-     5.558
-    ],
-    [
-     "15:10",
-     5.5575
-    ],
-    [
-     "15:15",
-     5.5591
-    ],
-    [
-     "15:20",
-     5.5602
-    ],
-    [
-     "15:25",
-     5.5607
-    ],
-    [
-     "15:30",
-     5.5616
-    ],
-    [
-     "15:35",
-     5.5607
-    ],
-    [
-     "15:40",
-     5.5637
-    ],
-    [
-     "15:45",
-     5.563
-    ],
-    [
-     "15:50",
-     5.5602
-    ],
-    [
-     "15:55",
-     5.5611
-    ],
-    [
-     "16:00",
-     5.5613
-    ],
-    [
-     "16:05",
-     5.5612
-    ],
-    [
-     "16:10",
-     5.5592
-    ],
-    [
-     "16:15",
-     5.5626
-    ],
-    [
-     "16:20",
-     5.562
-    ],
-    [
-     "16:25",
-     5.5616
-    ],
-    [
-     "16:30",
-     5.561
-    ],
-    [
-     "16:35",
-     5.5602
-    ],
-    [
-     "16:40",
-     5.56
-    ],
-    [
-     "16:45",
-     5.5601
-    ],
-    [
-     "16:50",
-     5.5596
-    ],
-    [
-     "16:55",
-     5.561
-    ],
-    [
-     "17:00",
-     5.5618
-    ],
-    [
-     "17:05",
-     5.5612
-    ],
-    [
-     "17:10",
-     5.5626
-    ],
-    [
-     "17:15",
-     5.5626
-    ],
-    [
-     "17:20",
-     5.5631
-    ],
-    [
-     "17:25",
-     5.5592
-    ],
-    [
-     "17:30",
-     5.5593
-    ],
-    [
-     "17:35",
-     5.56
-    ],
-    [
-     "17:40",
-     5.5601
-    ],
-    [
-     "17:45",
-     5.561
-    ],
-    [
-     "17:50",
-     5.5627
-    ],
-    [
-     "17:55",
-     5.5639
-    ],
-    [
-     "18:00",
-     5.5656
-    ],
-    [
-     "18:05",
-     5.5691
-    ],
-    [
-     "18:10",
-     5.5732
-    ],
-    [
-     "18:15",
-     5.5774
-    ],
-    [
-     "18:18",
-     5.5789
-    ]
-   ]
-  },
-  "marcadores": [
-   {
-    "hora": "16:27",
-    "titulo": "Galípolo quer ampliar atuação do BC sobre distorções do crédito no Brasil",
-    "fonte": "Money Times",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUxHVW9XNHNKVXZhTnhYX2lwWmVwRk51b3NLZ3daaXJpTng1NzhVeGFiaDZJaWFCSmVnSEpmV3VGbW0tYjlYdmRrTkdKbjFscHA2TVljUk5WbmFEYndFTUhBVUVqd0pwUHNQNlhyY0kzRmhUZ3lqUmZIQUtCcV8yMFQtUmN1bUV3elpoVDBQaVBNTjJ2Uk9RdE5MWlFYYXdiZUZXY3hjYw?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": 0.01,
-    "dolar30": -0.01
-   },
-   {
-    "hora": "16:30",
-    "titulo": "Galípolo diz que BC foi até uma Selic alta e 'trincou os dentes'",
-    "fonte": "Valor",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORFREMDc4U0lNeEJGb21ZNkVwS1pXNm52NG9tbGhDdmtLRTJLWHRTNjVaMlN4OFRMbEZvMWxxUFRZREp5a3RXb1UtT05vN0xoa2UwVWpTWWlnMHJMVlB0cnZpT25tRnFpSm85Nm0zN04zSWxubjdwcjBkZFpLcHItZk9xVlBOTkw4RS1peFB5SGNabEJxSVFWMHdRSEgzZGRNWjhDbWRrVHRkakJkNk1qUnJtMWpCSVQ2akJLM3hsdWpZWnBwY1RwYjRzU0ZrcGFtZW9tS3VCWlJIYi1jT1FLSjBhVndvRVFOTHRiZXVVbDdBeG52QjJvdjNB0gGIAkFVX3lxTFB5ODdJTzRycFBhNGhSSV9JREhpREdHSHBuQ3RmZWozYUNHaEVURllHTjhLRjhySGpRRVVOTTBGVlJNNzhWZE1OUG5mMG1JUUJuTkxzM2JTZTVkXzlEdWxmVnQzVXE2UVFrVUFtUWRXQWptRnUxZ1JrTXZiLVp6Wk1qQ20yOW5IUm1ZY0Z0RlVna2ZIdHNxZzRTSllHVkdTYUlvZmNJdnFERVVDQmk1WC1LWlFoQXg0MS1BenRnYWJMRElIYzZDQ2VWNnJRR1JNVVpTam5QSktXMjdiVHE5TzFtOWNlQ0FsQ1hYNmhHVktoYVo1dk1aRkNZZE53ZEJWV3lNc29VeDJadw?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": -0.03,
-    "dolar30": 0.0
-   },
-   {
-    "hora": "16:35",
-    "titulo": "Petrobras avalia ajustes pontuais na política de preços dos combustíveis por guerra",
-    "fonte": "Folha",
-    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-avalia-ajustes-pontuais-na-politica-de-precos-dos-combustiveis-por-guerra.shtml",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "WDO"
-    ],
-    "tickers": [
-     "PETR4"
-    ],
-    "ibov30": -0.06,
-    "dolar30": 0.03
-   },
-   {
-    "hora": "16:44",
-    "titulo": "Galípolo defende que Banco Central não antecipe decisão sobre juros em meio a incertezas",
-    "fonte": "Folha",
-    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/galipolo-defende-que-banco-central-nao-antecipe-trajetoria-de-juros-em-meio-a-incertezas.shtml",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": 0.05
-   },
-   {
-    "hora": "16:54",
-    "titulo": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
-    "fonte": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/11/social-security-benefits-taxable-payroll-gdp.html",
-    "impacto": "alto",
-    "ativos": [
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": 0.06
-   },
-   {
-    "hora": "17:06",
-    "titulo": "Galípolo: Há segmentos de crédito com grande descolamento à taxa básica",
-    "fonte": "Estadão",
-    "url": "https://www.estadao.com.br/economia/galipolo-ha-segmentos-de-credito-com-grande-descolamento-a-taxa-basica/",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": -0.02
-   },
-   {
-    "hora": "17:16",
-    "titulo": "Dólar à vista recua com expectativa de ajuste fiscal e real é a melhor moeda do dia",
-    "fonte": "Valor",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb05wbzcxNFM3V3BsM3RncXZWbVF3THEzdzE3ajVXdHRlVl9QcVNLYk5YdnM5dWJpaWRGUlRSblVnMS1yekFMU3VfNkpwVWJMWjNqMkgyLXRXemtrMUl3Sko4eTc4MnhqazNDdFhrbDNMckNBZHR6MTFXdFBYNXA4UWt6NGtrYnl6bnhIWnZJN1l1dkt1Unl1cGpGcUJHdnQteExJWE45OHI0MEVtNzcwdW51cUJ3Wms5UXRfT1JoRS04d3NGU1JJMloyalRtVHJBQVM0VlVQT2zSAecBQVVfeXFMT1dSSEdYTTkwQjgxaXpKRXR0VmZwem5GQUdYbld6eW5jMi1YakpmTzg3NG5Lc2ZnRTVYdTBicXlmTmJfN1lHWmVmQ09XN3ZYZF9XX3RvTzNRcHZibnltZVpUTlZnc0Y0UTZtSjZfNDY3U21haHdSTzhfaGNRMXF3TTFnSlFqODgwdk1GdG4xRG94V2VKLWdaSXFVaGwyRFR0U2xTSnUwVUxycmVzbV9XdXhlN21xZUFfZnhac3hzVVJ2YjRyQXVhbEFpbGFUbFBqdDNwOVNTeXA3SXBLV3ZVTXBNUnlQeGRj?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": -0.03
-   },
-   {
-    "hora": "17:30",
-    "titulo": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
-    "fonte": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "WDO"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": 0.08
-   },
-   {
-    "hora": "17:31",
-    "titulo": "Economistas questionam alcance de pacote fiscal de cortes extras no Orçamento",
-    "fonte": "Folha",
-    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/economistas-questionam-alcance-de-pacote-fiscal-de-cortes-extras-no-orcamento.shtml",
-    "impacto": "medio",
-    "ativos": [
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": 0.11
-   },
-   {
-    "hora": "17:46",
-    "titulo": "Verde reduz posição em ações locais e compra dólar após eleição: ‘Não há boas notícias’",
-    "fonte": "Valor",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ1NETVNTNENHcEJxZWRiVDZUZ1VkWW85LXlvTjlhWW9MdHNyc2NuVGRvNXk0dzU1dTlrSFRhZjNFWmItbU03UDdvWFdYN1pKbWRWUTJJZk1GVXpwY25ORkxLTW5heHViNTBfMXMxYnhzdzRJNTRRNUZqbXJmTFFXbGFGci1Fd0lWbzJQS1ZDRmE0WWtHQVBjSXZHdlMwemhHd0pheWlTQjRuWkVGTTg5VFJZdDJSYUVHaXBnTzJlUWh3SDZCU19IUWRDSdIB2gFBVV95cUxQcG1IbGtGa256ZW4tY0UybkRPa3lFY0NDNVRyNWoxa2N0aHNhalpvdEg5M2w5MmhsOExlMFRxQm1ob240ZVN3bEhzaEw3Snd0WWVlM1Q1RE1ENEdQb1BUMVNDUUd3ZW9mcVJncTZma1pBaHI3Nzg4YVBTeF9Zd0FzT3lYUS0xZWlTbVcyMTBXZURmczJ4U1RpeERUOVpxX3J3Z0JhQThBQ3VPenV1WVp3OXp2SnJ2ZnFoMzRlckwyWVV5enVWTWdGYUFmckdIVU9BT0M2M0x1LXhtQQ?oc=5",
-    "impacto": "medio",
-    "ativos": [
-     "WDO"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": 0.29
-   },
-   {
-    "hora": "17:48",
-    "titulo": "Juros futuros recuam diante de possibilidade de ajuste fiscal",
-    "fonte": "Valor",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGpoZ3ZTLUsyRnI5UjdEc2ZpdFhfelBuQVA0YW1lNWFfcGtYVEUzelpfS3RYQVBHTlVpMEhnVWIyRGVTZ1VMN1o2M3lYeHBTWUc5NlJEMWM5MjkwWUF1MmtRZ190M0x5ZkJlek1mck5YUnIyTHNZb3oxVndtTGdlZ1RmOS1DQ2p1dlp2WWtRTkdoTmRaWXdaT19FajZpR0lpUXJnbEg5UVVwS284eXZzMVhDWGt5dHNPVlRJ0gHKAUFVX3lxTE4teDRQUllRNW9yR0twa29HUTV6NDQxOWx3WkVBeGJqV1l5amV1MU1MbnR1UG1OeXRQVUZnTEtiZmVNdmRZVW01dXd2ODlORjlPY2R1LWJaaS1XbXQxZ2R1VWx1MU56dC1wSU1hdWd4Ml9zWEV6WmZrMWRVRWFWb0lkdnN6WHRRYnRwdkZMZnpVRXVRNVF2Y2JNWWF3S1p0N2xzdnJwQjZOdjl4VWNOYVVDWWY3ellRRG52bThfaG5hTzQ0aU95NnJkbUE?oc=5",
-    "impacto": "medio",
-    "ativos": [
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": 0.29
-   },
-   {
-    "hora": "17:54",
-    "titulo": "Ibovespa avança e dólar recua com expectativa de ajuste fiscal; Petrobras cai forte",
-    "fonte": "Estadão",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLS1PQktyTTVCbEVoMm1Ba1p3T0xyeFJtSkJNSTJfZlMzWFhvU1hGSWdmV2xhWklMZXU1Q2loU0JMTFRfa21jbGxxY0FDSUFyZi04WEVucEI5UHd4VEVpdzBlMGdhaEJ4aUlLR2VId0R4YnZWVnJPTUNGZmZPajkwQzN1MzJtSGdhWVhTQ1BLSDhjNkNUU3FsR3UwOC1Nc2FDQXJrWlAxNXpJRWNIc0NWaWpRbmZFMjJ1TzRlRUpZTjczenhwYXdFTGtXXzE4TzlMNGlSN2daeGJ6cjN5bU9EZ2VybjRZdk5odTNQetIB8gFBVV95cUxPX0hWWV9UWGdxVm9mX2lTZldhQzZmTmZGVms5eFl2NEVUNUVzNG5Vc1RGSFFaYnFVVHplYXQybGMxeUZ5VDdOcVktVGEtRnFzbV9WMzU3MWYyMjJtdjYxeDlzQ2VoVEwyb1d3eTgtRC12YXRLSEp1MGstSHZ3eG5zQ3V0d002X0VhUVZuYUN4cEp6NnFmWlZqUVptdExYdm5pZW90ZG9JY2ZySzBvTXp1bWs2M3Q5TzJzc1hFWkh5aTBGWlAwQU0tME1RcFZxLUYwbS1ZNC1wSHNlamcxdkI2SnRuVS14TFMxeHNFeDRjUUQ3QQ?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "WDO",
-     "DI"
-    ],
-    "tickers": [
-     "PETR4"
-    ],
-    "ibov30": null,
-    "dolar30": null
-   },
-   {
-    "hora": "17:55",
-    "titulo": "Transmissão dos juros para a atividade ganha força, diz Galípolo",
-    "fonte": "CNN Brasil",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT19TbnZ4cGZsQ3ZhMWJqMXhSOUZMMDlOMWZiNE9iclJPZ0xqT0t6UXQ3WEJxVzhNRGFQUEs5VkZBN0hnYXFWMHRkcURobTIzczB4M2FZNmZ5b2NOYVhTd2N5UXk0WEs0dU5JcUJIdkNManJPaFladEhldE1fWmd0VzJHWFlZN25OQmVsSjBLejFwNWljSllXSEt2SVc5MkRESXRIOV9PR1NNcEQxOGZULWRGR1BkbktOaGsyckhyVQ?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": null
-   },
-   {
-    "hora": "18:00",
-    "titulo": "Vale a pena investir em empresas que estão fora da Bolsa?",
-    "fonte": "Folha",
-    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/vale-a-pena-investir-em-empresas-que-estao-fora-da-bolsa.shtml",
-    "impacto": "medio",
-    "ativos": [
-     "WIN"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": null
-   }
-  ]
- },
+ "mercado": {},
  "hoje": [
   {
-   "titulo": "Galípolo quer ampliar atuação do BC sobre distorções do crédito no Brasil",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUxHVW9XNHNKVXZhTnhYX2lwWmVwRk51b3NLZ3daaXJpTng1NzhVeGFiaDZJaWFCSmVnSEpmV3VGbW0tYjlYdmRrTkdKbjFscHA2TVljUk5WbmFEYndFTUhBVUVqd0pwUHNQNlhyY0kzRmhUZ3lqUmZIQUtCcV8yMFQtUmN1bUV3elpoVDBQaVBNTjJ2Uk9RdE5MWlFYYXdiZUZXY3hjYw?oc=5",
-   "publicado": "2026-11-11T16:27-03:00",
+   "titulo": "Ibovespa fecha em alta, com fiscal e exterior; Petrobras cai mais de 3% com balanço",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcmZXZEdGdEZTNVZJQ2tEeWljMmhoUFhMOEVOSGt5VldZTXZhVVVfREttOWttdjRfZ1I4TUl4NWJ0LWdTSTZwVnJqTDE0R1hDV2ZlWGtOT0xMMDU3Sk5idXZLNktacUlIallZWWdRMVZsUFhHOTdZNkNSME84SzhGQzVrVnJOaXRwZE81VGwyZw?oc=5",
+   "publicado": "2026-11-11T18:24-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
-    "WDO",
     "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Galípolo diz que BC foi até uma Selic alta e 'trincou os dentes'",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORFREMDc4U0lNeEJGb21ZNkVwS1pXNm52NG9tbGhDdmtLRTJLWHRTNjVaMlN4OFRMbEZvMWxxUFRZREp5a3RXb1UtT05vN0xoa2UwVWpTWWlnMHJMVlB0cnZpT25tRnFpSm85Nm0zN04zSWxubjdwcjBkZFpLcHItZk9xVlBOTkw4RS1peFB5SGNabEJxSVFWMHdRSEgzZGRNWjhDbWRrVHRkakJkNk1qUnJtMWpCSVQ2akJLM3hsdWpZWnBwY1RwYjRzU0ZrcGFtZW9tS3VCWlJIYi1jT1FLSjBhVndvRVFOTHRiZXVVbDdBeG52QjJvdjNB0gGIAkFVX3lxTFB5ODdJTzRycFBhNGhSSV9JREhpREdHSHBuQ3RmZWozYUNHaEVURllHTjhLRjhySGpRRVVOTTBGVlJNNzhWZE1OUG5mMG1JUUJuTkxzM2JTZTVkXzlEdWxmVnQzVXE2UVFrVUFtUWRXQWptRnUxZ1JrTXZiLVp6Wk1qQ20yOW5IUm1ZY0Z0RlVna2ZIdHNxZzRTSllHVkdTYUlvZmNJdnFERVVDQmk1WC1LWlFoQXg0MS1BenRnYWJMRElIYzZDQ2VWNnJRR1JNVVpTam5QSktXMjdiVHE5TzFtOWNlQ0FsQ1hYNmhHVktoYVo1dk1aRkNZZE53ZEJWV3lNc29VeDJadw?oc=5",
-   "publicado": "2026-11-11T16:30-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Petrobras avalia ajustes pontuais na política de preços dos combustíveis por guerra",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-avalia-ajustes-pontuais-na-politica-de-precos-dos-combustiveis-por-guerra.shtml",
-   "publicado": "2026-11-11T16:35-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
    ],
    "tickers": [
     "PETR4"
    ]
   },
   {
-   "titulo": "Galípolo defende que Banco Central não antecipe decisão sobre juros em meio a incertezas",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/galipolo-defende-que-banco-central-nao-antecipe-trajetoria-de-juros-em-meio-a-incertezas.shtml",
-   "publicado": "2026-11-11T16:44-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/11/social-security-benefits-taxable-payroll-gdp.html",
-   "publicado": "2026-11-11T16:54-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Galípolo: Há segmentos de crédito com grande descolamento à taxa básica",
+   "titulo": "Encrencas no radar: falta clareza sobre como o governo Lula lidará com a política fiscal",
    "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/galipolo-ha-segmentos-de-credito-com-grande-descolamento-a-taxa-basica/",
-   "publicado": "2026-11-11T17:06-03:00",
+   "url": "https://www.estadao.com.br/economia/celso-ming/encrencas-no-radar-falta-clareza-sobre-como-o-governo-lula-lidara-com-a-politica-fiscal/",
+   "publicado": "2026-11-11T18:28-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ibovespa acompanha Wall Street e fecha em alta com ajuste fiscal no radar",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTRjZExCY2JKNmZKdzQ4NlhIMThCLV9LdFlISFkwMDFDOUlkR3UzV196MV9yZlQ3d1pnSy04T3BMQTFaQ3dMS2RTTWVqUURYdTFER3lYNk1fUENud0pkTmlTVzRvZFJGY1NnVG9tZ0tsVVhYQnhwbElwUTM1NnJXTk5PdU9uUXh4RUdPNnBjSFVhOGNmR2ZmY3JFbU1KYmVDbU5tVlFXaFpJY2pFZGc?oc=5",
+   "publicado": "2026-11-11T18:35-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ibovespa avança e dólar recua com expectativa de ajuste fiscal; Petrobras desaba 3%",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLS1PQktyTTVCbEVoMm1Ba1p3T0xyeFJtSkJNSTJfZlMzWFhvU1hGSWdmV2xhWklMZXU1Q2loU0JMTFRfa21jbGxxY0FDSUFyZi04WEVucEI5UHd4VEVpdzBlMGdhaEJ4aUlLR2VId0R4YnZWVnJPTUNGZmZPajkwQzN1MzJtSGdhWVhTQ1BLSDhjNkNUU3FsR3UwOC1Nc2FDQXJrWlAxNXpJRWNIc0NWaWpRbmZFMjJ1TzRlRUpZTjczenhwYXdFTGtXXzE4TzlMNGlSN2daeGJ6cjN5bU9EZ2VybjRZdk5odTNQetIB8gFBVV95cUxPX0hWWV9UWGdxVm9mX2lTZldhQzZmTmZGVms5eFl2NEVUNUVzNG5Vc1RGSFFaYnFVVHplYXQybGMxeUZ5VDdOcVktVGEtRnFzbV9WMzU3MWYyMjJtdjYxeDlzQ2VoVEwyb1d3eTgtRC12YXRLSEp1MGstSHZ3eG5zQ3V0d002X0VhUVZuYUN4cEp6NnFmWlZqUVptdExYdm5pZW90ZG9JY2ZySzBvTXp1bWs2M3Q5TzJzc1hFWkh5aTBGWlAwQU0tME1RcFZxLUYwbS1ZNC1wSHNlamcxdkI2SnRuVS14TFMxeHNFeDRjUUQ3QQ?oc=5",
+   "publicado": "2026-11-11T18:51-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
     "WDO",
     "DI"
    ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Projeto de ajuste fiscal autoriza tirar até R$ 10,5 bi de subvenção ao diesel da meta de 2026",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/projeto-de-ajuste-fiscal-autoriza-tirar-ate-r-105-bi-de-subvencao-ao-diesel-da-meta-de-2026.shtml",
+   "publicado": "2026-11-11T19:09-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
    "tickers": []
   },
   {
-   "titulo": "Dólar à vista recua com expectativa de ajuste fiscal e real é a melhor moeda do dia",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb05wbzcxNFM3V3BsM3RncXZWbVF3THEzdzE3ajVXdHRlVl9QcVNLYk5YdnM5dWJpaWRGUlRSblVnMS1yekFMU3VfNkpwVWJMWjNqMkgyLXRXemtrMUl3Sko4eTc4MnhqazNDdFhrbDNMckNBZHR6MTFXdFBYNXA4UWt6NGtrYnl6bnhIWnZJN1l1dkt1Unl1cGpGcUJHdnQteExJWE45OHI0MEVtNzcwdW51cUJ3Wms5UXRfT1JoRS04d3NGU1JJMloyalRtVHJBQVM0VlVQT2zSAecBQVVfeXFMT1dSSEdYTTkwQjgxaXpKRXR0VmZwem5GQUdYbld6eW5jMi1YakpmTzg3NG5Lc2ZnRTVYdTBicXlmTmJfN1lHWmVmQ09XN3ZYZF9XX3RvTzNRcHZibnltZVpUTlZnc0Y0UTZtSjZfNDY3U21haHdSTzhfaGNRMXF3TTFnSlFqODgwdk1GdG4xRG94V2VKLWdaSXFVaGwyRFR0U2xTSnUwVUxycmVzbV9XdXhlN21xZUFfZnhac3hzVVJ2YjRyQXVhbEFpbGFUbFBqdDNwOVNTeXA3SXBLV3ZVTXBNUnlQeGRj?oc=5",
-   "publicado": "2026-11-11T17:16-03:00",
-   "impacto": "alto",
+   "titulo": "Projeto quer retirar R$ 10,5 bi em subsídios ao diesel da meta fiscal",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/projeto-quer-retirar-r-105-bi-em-subsidios-ao-diesel-da-meta-fiscal",
+   "publicado": "2026-11-11T19:13-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WDO",
     "DI"
    ],
    "tickers": []
@@ -1104,7 +79,7 @@
    "titulo": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
    "fonte": "CNBC",
    "url": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
-   "publicado": "2026-11-11T17:30-03:00",
+   "publicado": "2026-11-11T19:30-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -1113,105 +88,109 @@
    "tickers": []
   },
   {
-   "titulo": "Economistas questionam alcance de pacote fiscal de cortes extras no Orçamento",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/economistas-questionam-alcance-de-pacote-fiscal-de-cortes-extras-no-orcamento.shtml",
-   "publicado": "2026-11-11T17:31-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Verde reduz posição em ações locais e compra dólar após eleição: ‘Não há boas notícias’",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ1NETVNTNENHcEJxZWRiVDZUZ1VkWW85LXlvTjlhWW9MdHNyc2NuVGRvNXk0dzU1dTlrSFRhZjNFWmItbU03UDdvWFdYN1pKbWRWUTJJZk1GVXpwY25ORkxLTW5heHViNTBfMXMxYnhzdzRJNTRRNUZqbXJmTFFXbGFGci1Fd0lWbzJQS1ZDRmE0WWtHQVBjSXZHdlMwemhHd0pheWlTQjRuWkVGTTg5VFJZdDJSYUVHaXBnTzJlUWh3SDZCU19IUWRDSdIB2gFBVV95cUxQcG1IbGtGa256ZW4tY0UybkRPa3lFY0NDNVRyNWoxa2N0aHNhalpvdEg5M2w5MmhsOExlMFRxQm1ob240ZVN3bEhzaEw3Snd0WWVlM1Q1RE1ENEdQb1BUMVNDUUd3ZW9mcVJncTZma1pBaHI3Nzg4YVBTeF9Zd0FzT3lYUS0xZWlTbVcyMTBXZURmczJ4U1RpeERUOVpxX3J3Z0JhQThBQ3VPenV1WVp3OXp2SnJ2ZnFoMzRlckwyWVV5enVWTWdGYUFmckdIVU9BT0M2M0x1LXhtQQ?oc=5",
-   "publicado": "2026-11-11T17:46-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Juros futuros recuam diante de possibilidade de ajuste fiscal",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGpoZ3ZTLUsyRnI5UjdEc2ZpdFhfelBuQVA0YW1lNWFfcGtYVEUzelpfS3RYQVBHTlVpMEhnVWIyRGVTZ1VMN1o2M3lYeHBTWUc5NlJEMWM5MjkwWUF1MmtRZ190M0x5ZkJlek1mck5YUnIyTHNZb3oxVndtTGdlZ1RmOS1DQ2p1dlp2WWtRTkdoTmRaWXdaT19FajZpR0lpUXJnbEg5UVVwS284eXZzMVhDWGt5dHNPVlRJ0gHKAUFVX3lxTE4teDRQUllRNW9yR0twa29HUTV6NDQxOWx3WkVBeGJqV1l5amV1MU1MbnR1UG1OeXRQVUZnTEtiZmVNdmRZVW01dXd2ODlORjlPY2R1LWJaaS1XbXQxZ2R1VWx1MU56dC1wSU1hdWd4Ml9zWEV6WmZrMWRVRWFWb0lkdnN6WHRRYnRwdkZMZnpVRXVRNVF2Y2JNWWF3S1p0N2xzdnJwQjZOdjl4VWNOYVVDWWY3ellRRG52bThfaG5hTzQ0aU95NnJkbUE?oc=5",
-   "publicado": "2026-11-11T17:48-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa avança e dólar recua com expectativa de ajuste fiscal; Petrobras cai forte",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLS1PQktyTTVCbEVoMm1Ba1p3T0xyeFJtSkJNSTJfZlMzWFhvU1hGSWdmV2xhWklMZXU1Q2loU0JMTFRfa21jbGxxY0FDSUFyZi04WEVucEI5UHd4VEVpdzBlMGdhaEJ4aUlLR2VId0R4YnZWVnJPTUNGZmZPajkwQzN1MzJtSGdhWVhTQ1BLSDhjNkNUU3FsR3UwOC1Nc2FDQXJrWlAxNXpJRWNIc0NWaWpRbmZFMjJ1TzRlRUpZTjczenhwYXdFTGtXXzE4TzlMNGlSN2daeGJ6cjN5bU9EZ2VybjRZdk5odTNQetIB8gFBVV95cUxPX0hWWV9UWGdxVm9mX2lTZldhQzZmTmZGVms5eFl2NEVUNUVzNG5Vc1RGSFFaYnFVVHplYXQybGMxeUZ5VDdOcVktVGEtRnFzbV9WMzU3MWYyMjJtdjYxeDlzQ2VoVEwyb1d3eTgtRC12YXRLSEp1MGstSHZ3eG5zQ3V0d002X0VhUVZuYUN4cEp6NnFmWlZqUVptdExYdm5pZW90ZG9JY2ZySzBvTXp1bWs2M3Q5TzJzc1hFWkh5aTBGWlAwQU0tME1RcFZxLUYwbS1ZNC1wSHNlamcxdkI2SnRuVS14TFMxeHNFeDRjUUQ3QQ?oc=5",
-   "publicado": "2026-11-11T17:54-03:00",
+   "titulo": "Banco do Brasil (BBAS3) tem lucro de R$ 1,3 bilhão no 3º tri, queda anual de 66,5%",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmV5cWpWbHJuU2IzckRRRE9iM2tKdlJ5WkhINDZQRHBIQ1NLbldQZzBsYk5YaXFrNlVSeEhkWXQzYXN2OUxmaVRLQWwwOXphdEp3TVp3YkZITTBITkp0b0tkMkJXek50MFRoNHFndDk0VU16dXVTN0huNFd5VkUtbTZJYUZTZTVEWWIwdjFHOEJ5WEt2TDZvX3RxY9IBoAFBVV95cUxNRzMweVFvZ21OMHVtb2E2N0JQcXZtd3V1RWttLTVQdEhkTEEwVFhTY3ZTaThPVXlrazZoT1I2dFVYU2VQaDlUUldoS2tTREtYWU1GZml1SFEwQTVZS3pESGE1TVZLRVlvMk5GZjRXTVJPY2U0Tkl6NkVHZlNVbUFBa1hPS0s5VFI1UWxkV001SFY2a0d0dXotMTNXOFRJR2R6?oc=5",
+   "publicado": "2026-11-11T19:32-03:00",
    "impacto": "alto",
    "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
+    "WIN"
    ],
    "tickers": [
-    "PETR4"
+    "BBAS3"
    ]
   },
   {
-   "titulo": "Transmissão dos juros para a atividade ganha força, diz Galípolo",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT19TbnZ4cGZsQ3ZhMWJqMXhSOUZMMDlOMWZiNE9iclJPZ0xqT0t6UXQ3WEJxVzhNRGFQUEs5VkZBN0hnYXFWMHRkcURobTIzczB4M2FZNmZ5b2NOYVhTd2N5UXk0WEs0dU5JcUJIdkNManJPaFladEhldE1fWmd0VzJHWFlZN25OQmVsSjBLejFwNWljSllXSEt2SVc5MkRESXRIOV9PR1NNcEQxOGZULWRGR1BkbktOaGsyckhyVQ?oc=5",
-   "publicado": "2026-11-11T17:55-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Vale a pena investir em empresas que estão fora da Bolsa?",
+   "titulo": "Petrobras pode ter que devolver R$ 3,6 bi a compradores de gasodutos vendidos no governo Bolsonaro",
    "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/vale-a-pena-investir-em-empresas-que-estao-fora-da-bolsa.shtml",
-   "publicado": "2026-11-11T18:00-03:00",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-pode-ter-que-devolver-r-36-bi-a-compradores-de-gasodutos-vendidos-no-governo-bolsonaro.shtml",
+   "publicado": "2026-11-11T19:33-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
-   "tickers": []
-  },
-  {
-   "titulo": "Brent pode impactar positivamente o 4º trimestre, afirma CFO da Petrobras",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRmMwQlpNa053NWlxeV9QTjRlUGppT1ZOMnlqMmVPNG03X1hNRTVFRWYwMWVSQlhDb3FtWXFOcXJtTmlPOTFLbXVfY2pVeTI1NXBtUlV3Rlh2blRkcU5YYzcyQWlLMGpqa2NkMmwySzE5emIxVS1jdjZoV1hPc0lQN0E2S0tEOUZNUW4xaFJwT0NlMFVDTVZXVENoWVlHbmNRVGZMUEkxTEx6d3Nm?oc=5",
-   "publicado": "2026-11-11T18:09-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
    "tickers": [
     "PETR4"
    ]
   },
   {
-   "titulo": "Deputado do PT diz a ministro que ajuste fiscal não pode ser aprovado 'goela abaixo'",
+   "titulo": "Entenda os problemas do Banco do Brasil com empréstimos ao agronegócio",
    "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/deputado-do-pt-diz-a-ministro-que-ajuste-fiscal-nao-pode-ser-goela-abaixo.shtml",
-   "publicado": "2026-11-11T18:14-03:00",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/entenda-os-problemas-do-banco-do-brasil-com-emprestimos-ao-agronegocio.shtml",
+   "publicado": "2026-11-11T19:36-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "BBAS3"
+   ]
+  },
+  {
+   "titulo": "Pacote fiscal prevê 120 dias para Congresso discutir supersalários",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pacote-fiscal-preve-120-dias-para-congresso-discutir-supersalarios",
+   "publicado": "2026-11-11T19:40-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
    ],
    "tickers": []
+  },
+  {
+   "titulo": "Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-042-e-fecha-r-556-com-foco-em-pacote-fiscal",
+   "publicado": "2026-11-11T19:51-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Banco do Brasil (BBAS3) deixa acionistas sem dividendos no trimestre e derruba lucro distribuído para mínimo obrigatório",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNekF4WW1RZUhkT0N1X0hPbUt3Rko3V29CSTR4Y0pIWE93cmo2QmxDRVc1OGVMdHdpWWFYbHotWXNsZ2l3UXMyMUtjY3ctbWVteTBRRGRVaXdiMzI2QURraWlDcFlBenBuSExsdV9JTjZuLUIxd2ZIZFh0bGpPbXVGLXBNXy03ekFPUTh2bEhSZDRQVDFfZU5fTUVvc0NkZ2h6VjJmb19SOVJCWGF0OThYVElkR3lMUHZXVlZsdlZCRkVvLWhtWXFZdWVyRkJ1Q0E2aW8yNm5TaHZvYnRTMkNKS04wRQ?oc=5",
+   "publicado": "2026-11-11T19:55-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "BBAS3"
+   ]
+  },
+  {
+   "titulo": "Banco do Brasil anuncia corte de dividendos para preservar capital após nova queda do lucro",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/banco-do-brasil-anuncia-corte-de-dividendos-para-preservar-capital-apos-nova-queda-do-lucro.shtml",
+   "publicado": "2026-11-11T20:16-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "BBAS3"
+   ]
+  },
+  {
+   "titulo": "Petrobras amplia capacidade de 11 plataformas sem novos investimentos",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-amplia-capacidade-de-11-plataformas-sem-novos-investimentos",
+   "publicado": "2026-11-11T20:19-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-11T18:18-03:00",
+ "atualizado_em": "2026-11-11T20:27-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -1221,112 +200,127 @@
   "Estadão",
   "Folha",
   "InfoMoney",
-  "Money Times",
-  "Valor"
+  "Money Times"
  ],
  "noticias": [
   {
-   "titulo": "Deputado do PT diz a ministro que ajuste fiscal não pode ser aprovado 'goela abaixo'",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/deputado-do-pt-diz-a-ministro-que-ajuste-fiscal-nao-pode-ser-goela-abaixo.shtml",
-   "publicado": "2026-11-11T18:14-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Brent pode impactar positivamente o 4º trimestre, afirma CFO da Petrobras",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRmMwQlpNa053NWlxeV9QTjRlUGppT1ZOMnlqMmVPNG03X1hNRTVFRWYwMWVSQlhDb3FtWXFOcXJtTmlPOTFLbXVfY2pVeTI1NXBtUlV3Rlh2blRkcU5YYzcyQWlLMGpqa2NkMmwySzE5emIxVS1jdjZoV1hPc0lQN0E2S0tEOUZNUW4xaFJwT0NlMFVDTVZXVENoWVlHbmNRVGZMUEkxTEx6d3Nm?oc=5",
-   "publicado": "2026-11-11T18:09-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Vale a pena investir em empresas que estão fora da Bolsa?",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/vale-a-pena-investir-em-empresas-que-estao-fora-da-bolsa.shtml",
-   "publicado": "2026-11-11T18:00-03:00",
+   "titulo": "Petrobras amplia capacidade de 11 plataformas sem novos investimentos",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-amplia-capacidade-de-11-plataformas-sem-novos-investimentos",
+   "publicado": "2026-11-11T20:19-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
-   "tickers": []
+   "tickers": [
+    "PETR4"
+   ]
   },
   {
-   "titulo": "Transmissão dos juros para a atividade ganha força, diz Galípolo",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT19TbnZ4cGZsQ3ZhMWJqMXhSOUZMMDlOMWZiNE9iclJPZ0xqT0t6UXQ3WEJxVzhNRGFQUEs5VkZBN0hnYXFWMHRkcURobTIzczB4M2FZNmZ5b2NOYVhTd2N5UXk0WEs0dU5JcUJIdkNManJPaFladEhldE1fWmd0VzJHWFlZN25OQmVsSjBLejFwNWljSllXSEt2SVc5MkRESXRIOV9PR1NNcEQxOGZULWRGR1BkbktOaGsyckhyVQ?oc=5",
-   "publicado": "2026-11-11T17:55-03:00",
+   "titulo": "Banco do Brasil anuncia corte de dividendos para preservar capital após nova queda do lucro",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/banco-do-brasil-anuncia-corte-de-dividendos-para-preservar-capital-apos-nova-queda-do-lucro.shtml",
+   "publicado": "2026-11-11T20:16-03:00",
    "impacto": "alto",
    "ativos": [
-    "WIN",
+    "WIN"
+   ],
+   "tickers": [
+    "BBAS3"
+   ]
+  },
+  {
+   "titulo": "Banco do Brasil (BBAS3) deixa acionistas sem dividendos no trimestre e derruba lucro distribuído para mínimo obrigatório",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNekF4WW1RZUhkT0N1X0hPbUt3Rko3V29CSTR4Y0pIWE93cmo2QmxDRVc1OGVMdHdpWWFYbHotWXNsZ2l3UXMyMUtjY3ctbWVteTBRRGRVaXdiMzI2QURraWlDcFlBenBuSExsdV9JTjZuLUIxd2ZIZFh0bGpPbXVGLXBNXy03ekFPUTh2bEhSZDRQVDFfZU5fTUVvc0NkZ2h6VjJmb19SOVJCWGF0OThYVElkR3lMUHZXVlZsdlZCRkVvLWhtWXFZdWVyRkJ1Q0E2aW8yNm5TaHZvYnRTMkNKS04wRQ?oc=5",
+   "publicado": "2026-11-11T19:55-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "BBAS3"
+   ]
+  },
+  {
+   "titulo": "Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-042-e-fecha-r-556-com-foco-em-pacote-fiscal",
+   "publicado": "2026-11-11T19:51-03:00",
+   "impacto": "alto",
+   "ativos": [
     "WDO",
     "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Ibovespa avança e dólar recua com expectativa de ajuste fiscal; Petrobras cai forte",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLS1PQktyTTVCbEVoMm1Ba1p3T0xyeFJtSkJNSTJfZlMzWFhvU1hGSWdmV2xhWklMZXU1Q2loU0JMTFRfa21jbGxxY0FDSUFyZi04WEVucEI5UHd4VEVpdzBlMGdhaEJ4aUlLR2VId0R4YnZWVnJPTUNGZmZPajkwQzN1MzJtSGdhWVhTQ1BLSDhjNkNUU3FsR3UwOC1Nc2FDQXJrWlAxNXpJRWNIc0NWaWpRbmZFMjJ1TzRlRUpZTjczenhwYXdFTGtXXzE4TzlMNGlSN2daeGJ6cjN5bU9EZ2VybjRZdk5odTNQetIB8gFBVV95cUxPX0hWWV9UWGdxVm9mX2lTZldhQzZmTmZGVms5eFl2NEVUNUVzNG5Vc1RGSFFaYnFVVHplYXQybGMxeUZ5VDdOcVktVGEtRnFzbV9WMzU3MWYyMjJtdjYxeDlzQ2VoVEwyb1d3eTgtRC12YXRLSEp1MGstSHZ3eG5zQ3V0d002X0VhUVZuYUN4cEp6NnFmWlZqUVptdExYdm5pZW90ZG9JY2ZySzBvTXp1bWs2M3Q5TzJzc1hFWkh5aTBGWlAwQU0tME1RcFZxLUYwbS1ZNC1wSHNlamcxdkI2SnRuVS14TFMxeHNFeDRjUUQ3QQ?oc=5",
-   "publicado": "2026-11-11T17:54-03:00",
-   "impacto": "alto",
+   "titulo": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+   "publicado": "2026-11-11T19:46-03:00",
+   "impacto": "medio",
    "ativos": [
     "WIN",
-    "WDO",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Pacote fiscal prevê 120 dias para Congresso discutir supersalários",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pacote-fiscal-preve-120-dias-para-congresso-discutir-supersalarios",
+   "publicado": "2026-11-11T19:40-03:00",
+   "impacto": "medio",
+   "ativos": [
     "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Entenda os problemas do Banco do Brasil com empréstimos ao agronegócio",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/entenda-os-problemas-do-banco-do-brasil-com-emprestimos-ao-agronegocio.shtml",
+   "publicado": "2026-11-11T19:36-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "BBAS3"
+   ]
+  },
+  {
+   "titulo": "Petrobras pode ter que devolver R$ 3,6 bi a compradores de gasodutos vendidos no governo Bolsonaro",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-pode-ter-que-devolver-r-36-bi-a-compradores-de-gasodutos-vendidos-no-governo-bolsonaro.shtml",
+   "publicado": "2026-11-11T19:33-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
    ],
    "tickers": [
     "PETR4"
    ]
   },
   {
-   "titulo": "Juros futuros recuam diante de possibilidade de ajuste fiscal",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGpoZ3ZTLUsyRnI5UjdEc2ZpdFhfelBuQVA0YW1lNWFfcGtYVEUzelpfS3RYQVBHTlVpMEhnVWIyRGVTZ1VMN1o2M3lYeHBTWUc5NlJEMWM5MjkwWUF1MmtRZ190M0x5ZkJlek1mck5YUnIyTHNZb3oxVndtTGdlZ1RmOS1DQ2p1dlp2WWtRTkdoTmRaWXdaT19FajZpR0lpUXJnbEg5UVVwS284eXZzMVhDWGt5dHNPVlRJ0gHKAUFVX3lxTE4teDRQUllRNW9yR0twa29HUTV6NDQxOWx3WkVBeGJqV1l5amV1MU1MbnR1UG1OeXRQVUZnTEtiZmVNdmRZVW01dXd2ODlORjlPY2R1LWJaaS1XbXQxZ2R1VWx1MU56dC1wSU1hdWd4Ml9zWEV6WmZrMWRVRWFWb0lkdnN6WHRRYnRwdkZMZnpVRXVRNVF2Y2JNWWF3S1p0N2xzdnJwQjZOdjl4VWNOYVVDWWY3ellRRG52bThfaG5hTzQ0aU95NnJkbUE?oc=5",
-   "publicado": "2026-11-11T17:48-03:00",
-   "impacto": "medio",
+   "titulo": "Banco do Brasil (BBAS3) tem lucro de R$ 1,3 bilhão no 3º tri, queda anual de 66,5%",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmV5cWpWbHJuU2IzckRRRE9iM2tKdlJ5WkhINDZQRHBIQ1NLbldQZzBsYk5YaXFrNlVSeEhkWXQzYXN2OUxmaVRLQWwwOXphdEp3TVp3YkZITTBITkp0b0tkMkJXek50MFRoNHFndDk0VU16dXVTN0huNFd5VkUtbTZJYUZTZTVEWWIwdjFHOEJ5WEt2TDZvX3RxY9IBoAFBVV95cUxNRzMweVFvZ21OMHVtb2E2N0JQcXZtd3V1RWttLTVQdEhkTEEwVFhTY3ZTaThPVXlrazZoT1I2dFVYU2VQaDlUUldoS2tTREtYWU1GZml1SFEwQTVZS3pESGE1TVZLRVlvMk5GZjRXTVJPY2U0Tkl6NkVHZlNVbUFBa1hPS0s5VFI1UWxkV001SFY2a0d0dXotMTNXOFRJR2R6?oc=5",
+   "publicado": "2026-11-11T19:32-03:00",
+   "impacto": "alto",
    "ativos": [
-    "DI"
+    "WIN"
    ],
-   "tickers": []
-  },
-  {
-   "titulo": "Verde reduz posição em ações locais e compra dólar após eleição: ‘Não há boas notícias’",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ1NETVNTNENHcEJxZWRiVDZUZ1VkWW85LXlvTjlhWW9MdHNyc2NuVGRvNXk0dzU1dTlrSFRhZjNFWmItbU03UDdvWFdYN1pKbWRWUTJJZk1GVXpwY25ORkxLTW5heHViNTBfMXMxYnhzdzRJNTRRNUZqbXJmTFFXbGFGci1Fd0lWbzJQS1ZDRmE0WWtHQVBjSXZHdlMwemhHd0pheWlTQjRuWkVGTTg5VFJZdDJSYUVHaXBnTzJlUWh3SDZCU19IUWRDSdIB2gFBVV95cUxQcG1IbGtGa256ZW4tY0UybkRPa3lFY0NDNVRyNWoxa2N0aHNhalpvdEg5M2w5MmhsOExlMFRxQm1ob240ZVN3bEhzaEw3Snd0WWVlM1Q1RE1ENEdQb1BUMVNDUUd3ZW9mcVJncTZma1pBaHI3Nzg4YVBTeF9Zd0FzT3lYUS0xZWlTbVcyMTBXZURmczJ4U1RpeERUOVpxX3J3Z0JhQThBQ3VPenV1WVp3OXp2SnJ2ZnFoMzRlckwyWVV5enVWTWdGYUFmckdIVU9BT0M2M0x1LXhtQQ?oc=5",
-   "publicado": "2026-11-11T17:46-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Economistas questionam alcance de pacote fiscal de cortes extras no Orçamento",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/economistas-questionam-alcance-de-pacote-fiscal-de-cortes-extras-no-orcamento.shtml",
-   "publicado": "2026-11-11T17:31-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
+   "tickers": [
+    "BBAS3"
+   ]
   },
   {
    "titulo": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
    "fonte": "CNBC",
    "url": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
-   "publicado": "2026-11-11T17:30-03:00",
+   "publicado": "2026-11-11T19:30-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -1335,94 +329,78 @@
    "tickers": []
   },
   {
-   "titulo": "Dólar à vista recua com expectativa de ajuste fiscal e real é a melhor moeda do dia",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb05wbzcxNFM3V3BsM3RncXZWbVF3THEzdzE3ajVXdHRlVl9QcVNLYk5YdnM5dWJpaWRGUlRSblVnMS1yekFMU3VfNkpwVWJMWjNqMkgyLXRXemtrMUl3Sko4eTc4MnhqazNDdFhrbDNMckNBZHR6MTFXdFBYNXA4UWt6NGtrYnl6bnhIWnZJN1l1dkt1Unl1cGpGcUJHdnQteExJWE45OHI0MEVtNzcwdW51cUJ3Wms5UXRfT1JoRS04d3NGU1JJMloyalRtVHJBQVM0VlVQT2zSAecBQVVfeXFMT1dSSEdYTTkwQjgxaXpKRXR0VmZwem5GQUdYbld6eW5jMi1YakpmTzg3NG5Lc2ZnRTVYdTBicXlmTmJfN1lHWmVmQ09XN3ZYZF9XX3RvTzNRcHZibnltZVpUTlZnc0Y0UTZtSjZfNDY3U21haHdSTzhfaGNRMXF3TTFnSlFqODgwdk1GdG4xRG94V2VKLWdaSXFVaGwyRFR0U2xTSnUwVUxycmVzbV9XdXhlN21xZUFfZnhac3hzVVJ2YjRyQXVhbEFpbGFUbFBqdDNwOVNTeXA3SXBLV3ZVTXBNUnlQeGRj?oc=5",
-   "publicado": "2026-11-11T17:16-03:00",
-   "impacto": "alto",
+   "titulo": "Projeto quer retirar R$ 10,5 bi em subsídios ao diesel da meta fiscal",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/projeto-quer-retirar-r-105-bi-em-subsidios-ao-diesel-da-meta-fiscal",
+   "publicado": "2026-11-11T19:13-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WDO",
     "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Galípolo: Há segmentos de crédito com grande descolamento à taxa básica",
+   "titulo": "Projeto de ajuste fiscal autoriza tirar até R$ 10,5 bi de subvenção ao diesel da meta de 2026",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/projeto-de-ajuste-fiscal-autoriza-tirar-ate-r-105-bi-de-subvencao-ao-diesel-da-meta-de-2026.shtml",
+   "publicado": "2026-11-11T19:09-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ibovespa avança e dólar recua com expectativa de ajuste fiscal; Petrobras desaba 3%",
    "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/galipolo-ha-segmentos-de-credito-com-grande-descolamento-a-taxa-basica/",
-   "publicado": "2026-11-11T17:06-03:00",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLS1PQktyTTVCbEVoMm1Ba1p3T0xyeFJtSkJNSTJfZlMzWFhvU1hGSWdmV2xhWklMZXU1Q2loU0JMTFRfa21jbGxxY0FDSUFyZi04WEVucEI5UHd4VEVpdzBlMGdhaEJ4aUlLR2VId0R4YnZWVnJPTUNGZmZPajkwQzN1MzJtSGdhWVhTQ1BLSDhjNkNUU3FsR3UwOC1Nc2FDQXJrWlAxNXpJRWNIc0NWaWpRbmZFMjJ1TzRlRUpZTjczenhwYXdFTGtXXzE4TzlMNGlSN2daeGJ6cjN5bU9EZ2VybjRZdk5odTNQetIB8gFBVV95cUxPX0hWWV9UWGdxVm9mX2lTZldhQzZmTmZGVms5eFl2NEVUNUVzNG5Vc1RGSFFaYnFVVHplYXQybGMxeUZ5VDdOcVktVGEtRnFzbV9WMzU3MWYyMjJtdjYxeDlzQ2VoVEwyb1d3eTgtRC12YXRLSEp1MGstSHZ3eG5zQ3V0d002X0VhUVZuYUN4cEp6NnFmWlZqUVptdExYdm5pZW90ZG9JY2ZySzBvTXp1bWs2M3Q5TzJzc1hFWkh5aTBGWlAwQU0tME1RcFZxLUYwbS1ZNC1wSHNlamcxdkI2SnRuVS14TFMxeHNFeDRjUUQ3QQ?oc=5",
+   "publicado": "2026-11-11T18:51-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
     "WDO",
     "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/11/social-security-benefits-taxable-payroll-gdp.html",
-   "publicado": "2026-11-11T16:54-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Galípolo defende que Banco Central não antecipe decisão sobre juros em meio a incertezas",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/galipolo-defende-que-banco-central-nao-antecipe-trajetoria-de-juros-em-meio-a-incertezas.shtml",
-   "publicado": "2026-11-11T16:44-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Petrobras avalia ajustes pontuais na política de preços dos combustíveis por guerra",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-avalia-ajustes-pontuais-na-politica-de-precos-dos-combustiveis-por-guerra.shtml",
-   "publicado": "2026-11-11T16:35-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
    ],
    "tickers": [
     "PETR4"
    ]
   },
   {
-   "titulo": "Galípolo diz que BC foi até uma Selic alta e 'trincou os dentes'",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORFREMDc4U0lNeEJGb21ZNkVwS1pXNm52NG9tbGhDdmtLRTJLWHRTNjVaMlN4OFRMbEZvMWxxUFRZREp5a3RXb1UtT05vN0xoa2UwVWpTWWlnMHJMVlB0cnZpT25tRnFpSm85Nm0zN04zSWxubjdwcjBkZFpLcHItZk9xVlBOTkw4RS1peFB5SGNabEJxSVFWMHdRSEgzZGRNWjhDbWRrVHRkakJkNk1qUnJtMWpCSVQ2akJLM3hsdWpZWnBwY1RwYjRzU0ZrcGFtZW9tS3VCWlJIYi1jT1FLSjBhVndvRVFOTHRiZXVVbDdBeG52QjJvdjNB0gGIAkFVX3lxTFB5ODdJTzRycFBhNGhSSV9JREhpREdHSHBuQ3RmZWozYUNHaEVURllHTjhLRjhySGpRRVVOTTBGVlJNNzhWZE1OUG5mMG1JUUJuTkxzM2JTZTVkXzlEdWxmVnQzVXE2UVFrVUFtUWRXQWptRnUxZ1JrTXZiLVp6Wk1qQ20yOW5IUm1ZY0Z0RlVna2ZIdHNxZzRTSllHVkdTYUlvZmNJdnFERVVDQmk1WC1LWlFoQXg0MS1BenRnYWJMRElIYzZDQ2VWNnJRR1JNVVpTam5QSktXMjdiVHE5TzFtOWNlQ0FsQ1hYNmhHVktoYVo1dk1aRkNZZE53ZEJWV3lNc29VeDJadw?oc=5",
-   "publicado": "2026-11-11T16:30-03:00",
+   "titulo": "Ibovespa acompanha Wall Street e fecha em alta com ajuste fiscal no radar",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTRjZExCY2JKNmZKdzQ4NlhIMThCLV9LdFlISFkwMDFDOUlkR3UzV196MV9yZlQ3d1pnSy04T3BMQTFaQ3dMS2RTTWVqUURYdTFER3lYNk1fUENud0pkTmlTVzRvZFJGY1NnVG9tZ0tsVVhYQnhwbElwUTM1NnJXTk5PdU9uUXh4RUdPNnBjSFVhOGNmR2ZmY3JFbU1KYmVDbU5tVlFXaFpJY2pFZGc?oc=5",
+   "publicado": "2026-11-11T18:35-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
-    "WDO",
     "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Galípolo quer ampliar atuação do BC sobre distorções do crédito no Brasil",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUxHVW9XNHNKVXZhTnhYX2lwWmVwRk51b3NLZ3daaXJpTng1NzhVeGFiaDZJaWFCSmVnSEpmV3VGbW0tYjlYdmRrTkdKbjFscHA2TVljUk5WbmFEYndFTUhBVUVqd0pwUHNQNlhyY0kzRmhUZ3lqUmZIQUtCcV8yMFQtUmN1bUV3elpoVDBQaVBNTjJ2Uk9RdE5MWlFYYXdiZUZXY3hjYw?oc=5",
-   "publicado": "2026-11-11T16:27-03:00",
-   "impacto": "alto",
+   "titulo": "Encrencas no radar: falta clareza sobre como o governo Lula lidará com a política fiscal",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/celso-ming/encrencas-no-radar-falta-clareza-sobre-como-o-governo-lula-lidara-com-a-politica-fiscal/",
+   "publicado": "2026-11-11T18:28-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WIN",
-    "WDO",
     "DI"
    ],
    "tickers": []
+  },
+  {
+   "titulo": "Ibovespa fecha em alta, com fiscal e exterior; Petrobras cai mais de 3% com balanço",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcmZXZEdGdEZTNVZJQ2tEeWljMmhoUFhMOEVOSGt5VldZTXZhVVVfREttOWttdjRfZ1I4TUl4NWJ0LWdTSTZwVnJqTDE0R1hDV2ZlWGtOT0xMMDU3Sk5idXZLNktacUlIallZWWdRMVZsUFhHOTdZNkNSME84SzhGQzVrVnJOaXRwZE81VGwyZw?oc=5",
+   "publicado": "2026-11-11T18:24-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "DI"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
   }
  ]
 }
