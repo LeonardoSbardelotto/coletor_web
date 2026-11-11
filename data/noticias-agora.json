@@ -2,141 +2,11 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
-   "publicado": "2026-11-10T18:06-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa termina em queda, com inflação nos EUA e Copom; dólar dispara mais de 1%",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSG9wT3Q2NktUY0lNNUpXdDVucjJZMHoyYXdXeUVERW5fLVBTZ25XWnQtaUJRSm5xOU9sMFhLeElrR2RSMVVjMzFzU1lvc0RPd2ptRnNVRFNpMkdWYUluZFFlb0hWVFJzaUJ6X3V1amp0UnY2VHhhREpxeEliRDdSSm1EaEh5WERXbVpGRi1Taw?oc=5",
-   "publicado": "2026-11-10T18:26-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "GE Vernova sellers have it all wrong — plus, why Fed rate hike odds are soaring",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
-   "publicado": "2026-11-10T18:36-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
-   "publicado": "2026-11-10T18:37-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
-   "publicado": "2026-11-10T18:45-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa fecha em queda após inflação dos EUA reforçar expectativa de alta dos juros",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tYzlzTVBWZ29DM3ZJdDU3NVlhZFVmRUktRTNZdU01TXVUekgzeU1qbTdzSmlKR2RLU080YzEzUlluRVZna3BLTGVTMXlZdm5jX3JLZFUtTFo3aUE5aEZwSVNzUk9BQQ?oc=5",
-   "publicado": "2026-11-10T19:04-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Estudo indica que atuação do BNDES compensa custo fiscal",
+   "titulo": "Petrobras anuncia pagamento de R$ 15,3 bilhões em proventos; veja valor por ação",
    "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/fernando-dantas/estudo-indica-que-atuacao-do-bndes-compensa-custo-fiscal/",
-   "publicado": "2026-11-10T19:18-03:00",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcTNXZzlBTmQzbkhOOGowcG5fcFY3RmZsOHVwT3JicUlXVVkweHN3OTRtZm5taUUtLXVNM01tUmcwcFpVWUJ5RDJ3bmppY05wX0JiNmJmUkY2a3A2a0JfQ3FyVmxzbW9yN194VUVkb3ZBVzFycGU3V2hQRVVhZkxXU2pYTHF4cDZ3N1JaaHZQYXRvYlBVaUF0TVRSLURHcVNtdFRRdmtMU2JyN05nZFpscVkwZDJOdkdpak9KSjVTeG0zcUN6YUp6bjFOSjc4Y2c3dGfSAdcBQVVfeXFMUC1CWGdqZEcxMUxNaFA3X01BTTlZeUhHZERUaE9BblY4N0JGbnlUSzVGUnpWNUs5VUF4UjFWQlp4TG83SVhkek5pX2F6UXdHaXhPMlgtVUltTDRSUHNYR2xOV0VjOVk0SE5fUEpHbEZ6WkdjX2FXU09mVW0xckNneS1BTl9ScXo3SDZFa1dMakU5Y2R4R3p4MnRhLXQ2M19PR05uWjYzRVZmZkg2V0lkck14XzNnd3BMV0M2dkJPMFdVRk1nbmdlR1ZBT2tMc1JFNEhCZVpHMHc?oc=5",
+   "publicado": "2026-11-10T20:19-03:00",
    "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar bate maior valor desde julho de 2025 e Bolsa cai com EUA e Copom",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0Z0cFExdVljSnNFejFqQllTRHF1ODVLMURCOHlpcXpnUzFQZ3Z3QS1qNUpIMU4xdExRNWk1ZGJSdEJJb3ZvQm51WVlrM0lWUl9ZTkRHZzRWS2d1MWVtSlFzSFFXNGY2Sk1jcDJMSFJWb2ppeHdWalFXRVhyMF84R2hoOHk4akVDWG9VNUpCM05ieUwyNXNfVy1jeDNvVzhSZGpXSlRn?oc=5",
-   "publicado": "2026-11-10T19:44-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Fracasso de não trazer inflação à meta cobra fatura amarga de consumidores e empresas também nos EUA",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/fabio-alves/fracasso-de-nao-trazer-inflacao-a-meta-cobra-fatura-amarga-de-consumidores-e-empresas-tambem-nos-eua/",
-   "publicado": "2026-11-10T20:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Câmara aprova MP que amplia em R$ 13,5 bi crédito para empresas afetadas pelo tarifaço",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/camara-aprova-mp-que-amplia-em-r-135-bi-credito-para-empresas-afetadas-pelo-tarifaco/",
-   "publicado": "2026-11-10T20:12-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Petrobras anuncia pagamento de R$ 15,3 bilhões em dividendos no 3º tri",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFB4eTcxVTlKRU91QVBqRldxMWJlVmZwMThhaTdjVVV2X1B4RERaNjBiLW9sUk9odjNUUFB5UXI0b1dEalAzUnBfbGFPdzl3MGR5T1BhME4yYzNHdEFuVEdTczV3X21hQnQ3M3NjdmtBdnFhU19Gc29hMHpkamIzZlZPOGp5TnBXOW11eVZDOWNMcnFyMG5WWkl6cHNHUi1oeXBJN1g0TQ?oc=5",
-   "publicado": "2026-11-10T20:13-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Petrobras tem R$ 39,75 bi de lucro líquido no 3º tri, alta de 21,5%",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGVWbGtVOU14NzlXQXVFMkNtazB3RFI2UWhzVDdmZGZtVGdkMTkybWJxc0hKVlpPZFNQdmlUYXl6R2lXY0c1ZEloN1oyV282NTNqUGgxMjduaDZ2RlR4S0JBSVZyVFZVakgxV1Bza0oyMUx0cmFTXzVaelByZ25QYm4xWHFDU1VISGV0dHJBbnhNbXVWTlJZT3BfRHFMTHM?oc=5",
-   "publicado": "2026-11-10T20:24-03:00",
-   "impacto": "alto",
    "ativos": [
     "WIN"
    ],
@@ -156,19 +26,6 @@
    "tickers": []
   },
   {
-   "titulo": "Lucro da Petrobras cresce 21,5% no terceiro trimestre, para R$ 39,8 bilhões",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/lucro-da-petrobras-cresce-215-no-terceiro-trimestre-para-r-397-bilhoes.shtml",
-   "publicado": "2026-11-10T20:32-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
    "titulo": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
    "fonte": "CNBC",
    "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
@@ -178,10 +35,71 @@
     "DI"
    ],
    "tickers": []
+  },
+  {
+   "titulo": "Petrobras tem lucro de R$ 39,8 bilhões no 3º trimestre, alta de 21,5%",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-tem-lucro-de-r-398-bilhoes-alta-de-215",
+   "publicado": "2026-11-10T21:37-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Plano de negócios da Petrobras para 2027-2031 pode chegar a US$ 120 bi",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/coluna-da-broad/plano-de-negocios-da-petrobras-para-2027-2031-pode-chegar-a-us-120-bi/",
+   "publicado": "2026-11-10T22:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Responsabilidade fiscal não pode ser obrigação severa de quem paga e licença poética a quem promete",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/responsabilidade-fiscal-nao-pode-ser-obrigacao-severa-de-quem-paga-e-licenca-poetica-a-quem-promete/",
+   "publicado": "2026-11-10T22:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Waack: Banco Central alerta para a conta da escala 6x1",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUk81N2xiaFRjeUdHVjNoSk1ZUW9jRUh2YWp3dFBxU0V2NjIwakZPMzFiZXExUXdFNEQ2LUFINXNwOHhLRk5ING13UVM4UmJGZjNCN3NrOU9Idi1IVzdtZ3hqY0U5OXNBeTVEZDRDdU9fVWVzN19ncEpZVUQxSlhFbkZmUWRtWXhiQm0xV3FiVFhYT1dvTEFhU1JmdS1XQkYwTmE0T1BmTmxHNEtKUDJ1UmJB?oc=5",
+   "publicado": "2026-11-10T22:03-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "BC puxa freio e encerra ciclo após 5 cortes de juros; Selic fica em 13,75%",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNG9RUGJLRTJtcUROSGd5d3FnZm5QdG5WY2JzOFZfLWtpcmVGMjB6Y1JNSWUzT3RDTHhkQ0Q4UzlfbmdoQXphcFdHSFJRUU0wajEtX21tSDNYbFdMbTdNVW4wSEwtek5EM2loNmtoYnBUYU5lTkxKbmVVNnVmNm0xb25JZWg?oc=5",
+   "publicado": "2026-11-10T22:24-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-10T21:02-03:00",
+ "atualizado_em": "2026-11-10T23:16-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -189,11 +107,70 @@
   "CNBC",
   "CNN Brasil",
   "Estadão",
-  "Folha",
-  "InfoMoney",
-  "Money Times"
+  "Folha"
  ],
  "noticias": [
+  {
+   "titulo": "BC puxa freio e encerra ciclo após 5 cortes de juros; Selic fica em 13,75%",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNG9RUGJLRTJtcUROSGd5d3FnZm5QdG5WY2JzOFZfLWtpcmVGMjB6Y1JNSWUzT3RDTHhkQ0Q4UzlfbmdoQXphcFdHSFJRUU0wajEtX21tSDNYbFdMbTdNVW4wSEwtek5EM2loNmtoYnBUYU5lTkxKbmVVNnVmNm0xb25JZWg?oc=5",
+   "publicado": "2026-11-10T22:24-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Waack: Banco Central alerta para a conta da escala 6x1",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUk81N2xiaFRjeUdHVjNoSk1ZUW9jRUh2YWp3dFBxU0V2NjIwakZPMzFiZXExUXdFNEQ2LUFINXNwOHhLRk5ING13UVM4UmJGZjNCN3NrOU9Idi1IVzdtZ3hqY0U5OXNBeTVEZDRDdU9fVWVzN19ncEpZVUQxSlhFbkZmUWRtWXhiQm0xV3FiVFhYT1dvTEFhU1JmdS1XQkYwTmE0T1BmTmxHNEtKUDJ1UmJB?oc=5",
+   "publicado": "2026-11-10T22:03-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Plano de negócios da Petrobras para 2027-2031 pode chegar a US$ 120 bi",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/coluna-da-broad/plano-de-negocios-da-petrobras-para-2027-2031-pode-chegar-a-us-120-bi/",
+   "publicado": "2026-11-10T22:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Responsabilidade fiscal não pode ser obrigação severa de quem paga e licença poética a quem promete",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/responsabilidade-fiscal-nao-pode-ser-obrigacao-severa-de-quem-paga-e-licenca-poetica-a-quem-promete/",
+   "publicado": "2026-11-10T22:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Petrobras tem lucro de R$ 39,8 bilhões no 3º trimestre, alta de 21,5%",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-tem-lucro-de-r-398-bilhoes-alta-de-215",
+   "publicado": "2026-11-10T21:37-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
   {
    "titulo": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
    "fonte": "CNBC",
@@ -204,19 +181,6 @@
     "DI"
    ],
    "tickers": []
-  },
-  {
-   "titulo": "Lucro da Petrobras cresce 21,5% no terceiro trimestre, para R$ 39,8 bilhões",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/lucro-da-petrobras-cresce-215-no-terceiro-trimestre-para-r-397-bilhoes.shtml",
-   "publicado": "2026-11-10T20:32-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
   },
   {
    "titulo": "Dólar sobe 1,46% e fecha no maior valor em 15 meses",
@@ -230,159 +194,17 @@
    "tickers": []
   },
   {
-   "titulo": "Petrobras tem R$ 39,75 bi de lucro líquido no 3º tri, alta de 21,5%",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGVWbGtVOU14NzlXQXVFMkNtazB3RFI2UWhzVDdmZGZtVGdkMTkybWJxc0hKVlpPZFNQdmlUYXl6R2lXY0c1ZEloN1oyV282NTNqUGgxMjduaDZ2RlR4S0JBSVZyVFZVakgxV1Bza0oyMUx0cmFTXzVaelByZ25QYm4xWHFDU1VISGV0dHJBbnhNbXVWTlJZT3BfRHFMTHM?oc=5",
-   "publicado": "2026-11-10T20:24-03:00",
-   "impacto": "alto",
+   "titulo": "Petrobras anuncia pagamento de R$ 15,3 bilhões em proventos; veja valor por ação",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcTNXZzlBTmQzbkhOOGowcG5fcFY3RmZsOHVwT3JicUlXVVkweHN3OTRtZm5taUUtLXVNM01tUmcwcFpVWUJ5RDJ3bmppY05wX0JiNmJmUkY2a3A2a0JfQ3FyVmxzbW9yN194VUVkb3ZBVzFycGU3V2hQRVVhZkxXU2pYTHF4cDZ3N1JaaHZQYXRvYlBVaUF0TVRSLURHcVNtdFRRdmtMU2JyN05nZFpscVkwZDJOdkdpak9KSjVTeG0zcUN6YUp6bjFOSjc4Y2c3dGfSAdcBQVVfeXFMUC1CWGdqZEcxMUxNaFA3X01BTTlZeUhHZERUaE9BblY4N0JGbnlUSzVGUnpWNUs5VUF4UjFWQlp4TG83SVhkek5pX2F6UXdHaXhPMlgtVUltTDRSUHNYR2xOV0VjOVk0SE5fUEpHbEZ6WkdjX2FXU09mVW0xckNneS1BTl9ScXo3SDZFa1dMakU5Y2R4R3p4MnRhLXQ2M19PR05uWjYzRVZmZkg2V0lkck14XzNnd3BMV0M2dkJPMFdVRk1nbmdlR1ZBT2tMc1JFNEhCZVpHMHc?oc=5",
+   "publicado": "2026-11-10T20:19-03:00",
+   "impacto": "medio",
    "ativos": [
     "WIN"
    ],
    "tickers": [
     "PETR4"
    ]
-  },
-  {
-   "titulo": "Petrobras anuncia pagamento de R$ 15,3 bilhões em dividendos no 3º tri",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFB4eTcxVTlKRU91QVBqRldxMWJlVmZwMThhaTdjVVV2X1B4RERaNjBiLW9sUk9odjNUUFB5UXI0b1dEalAzUnBfbGFPdzl3MGR5T1BhME4yYzNHdEFuVEdTczV3X21hQnQ3M3NjdmtBdnFhU19Gc29hMHpkamIzZlZPOGp5TnBXOW11eVZDOWNMcnFyMG5WWkl6cHNHUi1oeXBJN1g0TQ?oc=5",
-   "publicado": "2026-11-10T20:13-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Câmara aprova MP que amplia em R$ 13,5 bi crédito para empresas afetadas pelo tarifaço",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/camara-aprova-mp-que-amplia-em-r-135-bi-credito-para-empresas-afetadas-pelo-tarifaco/",
-   "publicado": "2026-11-10T20:12-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
-   "publicado": "2026-11-10T20:03-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Fracasso de não trazer inflação à meta cobra fatura amarga de consumidores e empresas também nos EUA",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/fabio-alves/fracasso-de-nao-trazer-inflacao-a-meta-cobra-fatura-amarga-de-consumidores-e-empresas-tambem-nos-eua/",
-   "publicado": "2026-11-10T20:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar bate maior valor desde julho de 2025 e Bolsa cai com EUA e Copom",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0Z0cFExdVljSnNFejFqQllTRHF1ODVLMURCOHlpcXpnUzFQZ3Z3QS1qNUpIMU4xdExRNWk1ZGJSdEJJb3ZvQm51WVlrM0lWUl9ZTkRHZzRWS2d1MWVtSlFzSFFXNGY2Sk1jcDJMSFJWb2ppeHdWalFXRVhyMF84R2hoOHk4akVDWG9VNUpCM05ieUwyNXNfVy1jeDNvVzhSZGpXSlRn?oc=5",
-   "publicado": "2026-11-10T19:44-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Estudo indica que atuação do BNDES compensa custo fiscal",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/fernando-dantas/estudo-indica-que-atuacao-do-bndes-compensa-custo-fiscal/",
-   "publicado": "2026-11-10T19:18-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa fecha em queda após inflação dos EUA reforçar expectativa de alta dos juros",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tYzlzTVBWZ29DM3ZJdDU3NVlhZFVmRUktRTNZdU01TXVUekgzeU1qbTdzSmlKR2RLU080YzEzUlluRVZna3BLTGVTMXlZdm5jX3JLZFUtTFo3aUE5aEZwSVNzUk9BQQ?oc=5",
-   "publicado": "2026-11-10T19:04-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
-   "publicado": "2026-11-10T18:45-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
-   "publicado": "2026-11-10T18:37-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "GE Vernova sellers have it all wrong — plus, why Fed rate hike odds are soaring",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
-   "publicado": "2026-11-10T18:36-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa termina em queda, com inflação nos EUA e Copom; dólar dispara mais de 1%",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSG9wT3Q2NktUY0lNNUpXdDVucjJZMHoyYXdXeUVERW5fLVBTZ25XWnQtaUJRSm5xOU9sMFhLeElrR2RSMVVjMzFzU1lvc0RPd2ptRnNVRFNpMkdWYUluZFFlb0hWVFJzaUJ6X3V1amp0UnY2VHhhREpxeEliRDdSSm1EaEh5WERXbVpGRi1Taw?oc=5",
-   "publicado": "2026-11-10T18:26-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
-   "publicado": "2026-11-10T18:06-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
   }
  ]
 }
