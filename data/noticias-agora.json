@@ -1,22 +1,226 @@
 {
  "mercado": {},
- "hoje": [],
+ "hoje": [
+  {
+   "titulo": "Treasury yields edge higher as investors await fresh inflation and housing data",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
+   "publicado": "2026-11-12T04:38-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Perspectiva de Fed mais restritivo fortalece dólar em âmbito global",
+   "fonte": "Valor",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVVpaNVA4WUlHMl9BMzFUMExLMTBvYi1teFd2eDRwc0RabkFpUTNzb3k0VDRoa1h4SmJna2xHclFlYVQxNFpwU3B5TUI2N285QW9NbzRyZHhkMHY0NllDeTdKYkRib0JyTnk0OHZ0YU8wV0d5a0FMcU9HMXNscTh2b3lHNXU3NEQyZ29FOTExZjFveHRjU1F5dm5Ma0R6RU83QlhPSXJvdk5fRk42UlE4dDZ2bjlIZTV3U0NoZlExLWEwd0xIVWhhTVF2QnZESGpjUEHSAdIBQVVfeXFMT1VaWjVQOFlJRzJfQTMxVDBMSzEwb2ItbXhXdng0cHNEWm5BaVEzc295NFQ0aGtYeEpiZ2tsR3JRZWFUMTRacFNweU1CNjdvOUFvTW80cmR4ZDB2NDZZQ3k3SmJEYm9Cck55NDh2dGFPMFdHeWtBTHFPRzFzbHE4dm95RzV1NzREMmdvRTkxMWYxb3h0Y1NReXZuTGtEekVPN0JYT0lyb3ZOX0ZONlJROHQ2dm45SGU1d1NDaGZRMS1hMHdMSFVoYU1RdkJ2REhqY1BB?oc=5",
+   "publicado": "2026-11-12T05:00-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Maior alta do Ibovespa em 2025, Cogna cai 52% em 2026; CEO explica o que mudou",
+   "fonte": "Exame",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFR4ekh0V21kNk85MDdzRjNMUjc1Q0wxZzBGdmZ6bTZqdTJPWUJvTzZ5ZTIxRXMwZDRqZldETzNyOXRLZ3paQXlxRzhDTVUtQnNoTWc0bXNOSkptU2VNWTVHVGtYV2lab1Z3SHkyVlBtYUt0SURJMkswYmFvSFFWVU85UHpXRjUta1dmTV9oWUNyZlBBUW1qOWJJUzFsRnRlNWJXX2dFdmFOSmI3V3Qw?oc=5",
+   "publicado": "2026-11-12T05:03-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Chance de ajuste fiscal reduz prêmio de risco nos ativos",
+   "fonte": "Valor",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLXRWQXpwbURMSmkxM0hjMTVuUmFMazNBN0c4aGhTMmZsQnZ6bFFQTm5DOXBZczhBNkw4RE5IbElvVG1POEVfUnIyUVRMQVNzNjFEMkRaUnYwMmZoQkN3TzZ0OVVzWmQxQ2xIWWgya2RLSlBSZ1NvQ0IzYUFsdVRQVC02OGhSeVMyajhZLU1Fa004RkNlaGJ5VlhZR19Da1F3c0tSUjBubzBlWjJUdG5RbHZZNWw?oc=5",
+   "publicado": "2026-11-12T05:08-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Governo ganha tempo com pacote fiscal, mas nem de longe supera a crise de confiança",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/alvaro-gribel/governo-ganha-tempo-com-pacote-fiscal-mas-nem-de-longe-supera-a-crise-de-confianca/",
+   "publicado": "2026-11-12T05:30-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Tempo real: Ibovespa reage ao IPCA de outubro",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KS0JSVjdFaWdXNk1fRml1amlFd3Jhd2V1bHFfR3pHaElQaUpCYnVvSGRuY0U3RU1nVW9VWmlMZnB1UHFSLVBNS1lNZ1VEOERVd1NrcWZQTDdTUkc2NC1TOGJ3b3VMdw?oc=5",
+   "publicado": "2026-11-12T06:00-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Pacote fiscal, reação ao balanço do BB, IPCA e mais destaques desta quinta-feira",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSVpYZTRtaHpJVS1DcG14SmljR3JTRklXaEhaZHF3aGxvMndrU3NWcmxvRDJ1NmVHOUVZeFZFODRyeG1Od080VEVBenpLeUc2OFhfSHJmZVExeWF2WG9nU0JqTTgzU1JSQzZwSXZaazBhaDlaSGxYNVJJYUFQaWN1aGdjQ1p3UXNKM1pJatIBkgFBVV95cUxOVUtFeGQyVFNCZ0xiNjBDR0dac1ZySFVGd1FtdW5FX3kxWlVLbWJGY0VpV2JlamIwNkhKaC1tbVAzbVZDcEh2U0lHYXF5MW9uVjBKZGRpbkhBZEE3eE83cTZ6SFhJNnczZ3NQaHJvSXBtbDlSeW03WDBWVjh6SENkVlB2akRPT3ZISkZ4RUVsVmsyQQ?oc=5",
+   "publicado": "2026-11-12T06:14-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Agenda econômica: IPCA do Brasil e PIB do Reino Unido podem movimentar bolsa e dólar nesta quinta-feira (12)",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdWhlZ3NnU3NPR0lWMVhrRGl5azJ4V01rSlh3S3NsSDU0S3VPSm9vNGdHTDl4WExNOEJQTXJ5andKckYzR2F4cjBQeElnOG03R1pDSEUtQXVVQkVfRURObHNPZW8wUG9JZzNVY3B3THlQNWFnbDc2VGpIejAxTFN6MzliYlU0YW9HTGozSDRlVldVRHVESWQ4bGNPemlDR0ZMTU03alRPbGJCYXNGYnVONjlnUEdmS2NQNzVWZlVtdFlSa3c5dC1n?oc=5",
+   "publicado": "2026-11-12T06:30-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "BTG Pactual supera projeções com lucro recorde no 3º tri e aprova recompra de R$ 2 bi",
+   "fonte": "Bloomberg Línea",
+   "url": "https://www.bloomberglinea.com.br/negocios/btg-pactual-supera-projecoes-com-lucro-recorde-no-3-tri-e-aprova-recompra-de-r-2-bi/",
+   "publicado": "2026-11-12T06:35-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "BPAC11"
+   ]
+  }
+ ],
  "enviadas": [],
- "atualizado_em": "2026-11-12T01:18-03:00",
+ "atualizado_em": "2026-11-12T06:58-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
   "Estadão",
-  "Folha"
+  "Exame",
+  "Folha",
+  "InfoMoney",
+  "Money Times",
+  "Valor"
  ],
  "noticias": [
   {
-   "titulo": "Entenda ponto a ponto o Plano Moretti, proposta de ajuste fiscal do governo Lula",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entenda-ponto-a-ponto-o-plano-moretti-proposta-de-ajuste-fiscal-do-governo-lula.shtml",
-   "publicado": "2026-11-11T23:00-03:00",
+   "titulo": "BTG Pactual supera projeções com lucro recorde no 3º tri e aprova recompra de R$ 2 bi",
+   "fonte": "Bloomberg Línea",
+   "url": "https://www.bloomberglinea.com.br/negocios/btg-pactual-supera-projecoes-com-lucro-recorde-no-3-tri-e-aprova-recompra-de-r-2-bi/",
+   "publicado": "2026-11-12T06:35-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "BPAC11"
+   ]
+  },
+  {
+   "titulo": "Agenda econômica: IPCA do Brasil e PIB do Reino Unido podem movimentar bolsa e dólar nesta quinta-feira (12)",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdWhlZ3NnU3NPR0lWMVhrRGl5azJ4V01rSlh3S3NsSDU0S3VPSm9vNGdHTDl4WExNOEJQTXJ5andKckYzR2F4cjBQeElnOG03R1pDSEUtQXVVQkVfRURObHNPZW8wUG9JZzNVY3B3THlQNWFnbDc2VGpIejAxTFN6MzliYlU0YW9HTGozSDRlVldVRHVESWQ4bGNPemlDR0ZMTU03alRPbGJCYXNGYnVONjlnUEdmS2NQNzVWZlVtdFlSa3c5dC1n?oc=5",
+   "publicado": "2026-11-12T06:30-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Pacote fiscal, reação ao balanço do BB, IPCA e mais destaques desta quinta-feira",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSVpYZTRtaHpJVS1DcG14SmljR3JTRklXaEhaZHF3aGxvMndrU3NWcmxvRDJ1NmVHOUVZeFZFODRyeG1Od080VEVBenpLeUc2OFhfSHJmZVExeWF2WG9nU0JqTTgzU1JSQzZwSXZaazBhaDlaSGxYNVJJYUFQaWN1aGdjQ1p3UXNKM1pJatIBkgFBVV95cUxOVUtFeGQyVFNCZ0xiNjBDR0dac1ZySFVGd1FtdW5FX3kxWlVLbWJGY0VpV2JlamIwNkhKaC1tbVAzbVZDcEh2U0lHYXF5MW9uVjBKZGRpbkhBZEE3eE83cTZ6SFhJNnczZ3NQaHJvSXBtbDlSeW03WDBWVjh6SENkVlB2akRPT3ZISkZ4RUVsVmsyQQ?oc=5",
+   "publicado": "2026-11-12T06:14-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Tempo real: Ibovespa reage ao IPCA de outubro",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KS0JSVjdFaWdXNk1fRml1amlFd3Jhd2V1bHFfR3pHaElQaUpCYnVvSGRuY0U3RU1nVW9VWmlMZnB1UHFSLVBNS1lNZ1VEOERVd1NrcWZQTDdTUkc2NC1TOGJ3b3VMdw?oc=5",
+   "publicado": "2026-11-12T06:00-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Governo ganha tempo com pacote fiscal, mas nem de longe supera a crise de confiança",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/alvaro-gribel/governo-ganha-tempo-com-pacote-fiscal-mas-nem-de-longe-supera-a-crise-de-confianca/",
+   "publicado": "2026-11-12T05:30-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Chance de ajuste fiscal reduz prêmio de risco nos ativos",
+   "fonte": "Valor",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLXRWQXpwbURMSmkxM0hjMTVuUmFMazNBN0c4aGhTMmZsQnZ6bFFQTm5DOXBZczhBNkw4RE5IbElvVG1POEVfUnIyUVRMQVNzNjFEMkRaUnYwMmZoQkN3TzZ0OVVzWmQxQ2xIWWgya2RLSlBSZ1NvQ0IzYUFsdVRQVC02OGhSeVMyajhZLU1Fa004RkNlaGJ5VlhZR19Da1F3c0tSUjBubzBlWjJUdG5RbHZZNWw?oc=5",
+   "publicado": "2026-11-12T05:08-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Maior alta do Ibovespa em 2025, Cogna cai 52% em 2026; CEO explica o que mudou",
+   "fonte": "Exame",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFR4ekh0V21kNk85MDdzRjNMUjc1Q0wxZzBGdmZ6bTZqdTJPWUJvTzZ5ZTIxRXMwZDRqZldETzNyOXRLZ3paQXlxRzhDTVUtQnNoTWc0bXNOSkptU2VNWTVHVGtYV2lab1Z3SHkyVlBtYUt0SURJMkswYmFvSFFWVU85UHpXRjUta1dmTV9oWUNyZlBBUW1qOWJJUzFsRnRlNWJXX2dFdmFOSmI3V3Qw?oc=5",
+   "publicado": "2026-11-12T05:03-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Perspectiva de Fed mais restritivo fortalece dólar em âmbito global",
+   "fonte": "Valor",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVVpaNVA4WUlHMl9BMzFUMExLMTBvYi1teFd2eDRwc0RabkFpUTNzb3k0VDRoa1h4SmJna2xHclFlYVQxNFpwU3B5TUI2N285QW9NbzRyZHhkMHY0NllDeTdKYkRib0JyTnk0OHZ0YU8wV0d5a0FMcU9HMXNscTh2b3lHNXU3NEQyZ29FOTExZjFveHRjU1F5dm5Ma0R6RU83QlhPSXJvdk5fRk42UlE4dDZ2bjlIZTV3U0NoZlExLWEwd0xIVWhhTVF2QnZESGpjUEHSAdIBQVVfeXFMT1VaWjVQOFlJRzJfQTMxVDBMSzEwb2ItbXhXdng0cHNEWm5BaVEzc295NFQ0aGtYeEpiZ2tsR3JRZWFUMTRacFNweU1CNjdvOUFvTW80cmR4ZDB2NDZZQ3k3SmJEYm9Cck55NDh2dGFPMFdHeWtBTHFPRzFzbHE4dm95RzV1NzREMmdvRTkxMWYxb3h0Y1NReXZuTGtEekVPN0JYT0lyb3ZOX0ZONlJROHQ2dm45SGU1d1NDaGZRMS1hMHdMSFVoYU1RdkJ2REhqY1BB?oc=5",
+   "publicado": "2026-11-12T05:00-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Treasury yields edge higher as investors await fresh inflation and housing data",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
+   "publicado": "2026-11-12T04:38-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
