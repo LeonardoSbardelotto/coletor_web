@@ -1,11 +1,717 @@
 {
- "mercado": {},
+ "mercado": {
+  "data": "2026-11-12",
+  "atualizado_em": "2026-11-12T14:36-03:00",
+  "ibov": {
+   "anterior": 172060.44,
+   "pontos": [
+    [
+     "10:00",
+     171173.0
+    ],
+    [
+     "10:05",
+     170673.0
+    ],
+    [
+     "10:10",
+     170098.0
+    ],
+    [
+     "10:15",
+     170635.0
+    ],
+    [
+     "10:20",
+     170848.0
+    ],
+    [
+     "10:25",
+     171108.0
+    ],
+    [
+     "10:30",
+     171186.0
+    ],
+    [
+     "10:35",
+     171265.0
+    ],
+    [
+     "10:40",
+     171117.0
+    ],
+    [
+     "10:45",
+     171127.0
+    ],
+    [
+     "10:50",
+     170888.0
+    ],
+    [
+     "10:55",
+     170877.0
+    ],
+    [
+     "11:00",
+     170757.0
+    ],
+    [
+     "11:05",
+     170812.0
+    ],
+    [
+     "11:10",
+     170762.0
+    ],
+    [
+     "11:15",
+     170810.0
+    ],
+    [
+     "11:20",
+     170913.0
+    ],
+    [
+     "11:25",
+     170735.0
+    ],
+    [
+     "11:30",
+     170820.0
+    ],
+    [
+     "11:35",
+     170877.0
+    ],
+    [
+     "11:40",
+     170626.0
+    ],
+    [
+     "11:45",
+     170209.0
+    ],
+    [
+     "11:50",
+     170256.0
+    ],
+    [
+     "11:55",
+     170531.0
+    ],
+    [
+     "12:00",
+     170755.0
+    ],
+    [
+     "12:05",
+     170872.0
+    ],
+    [
+     "12:10",
+     170765.0
+    ],
+    [
+     "12:15",
+     170860.0
+    ],
+    [
+     "12:20",
+     170881.0
+    ],
+    [
+     "12:25",
+     171000.0
+    ],
+    [
+     "12:30",
+     171068.0
+    ],
+    [
+     "12:35",
+     170963.0
+    ],
+    [
+     "12:40",
+     171256.0
+    ],
+    [
+     "12:45",
+     171181.0
+    ],
+    [
+     "12:50",
+     171248.0
+    ],
+    [
+     "12:55",
+     171188.0
+    ],
+    [
+     "13:00",
+     171420.0
+    ],
+    [
+     "13:05",
+     171532.0
+    ],
+    [
+     "13:10",
+     171638.0
+    ],
+    [
+     "13:15",
+     171430.0
+    ],
+    [
+     "13:20",
+     171364.0
+    ],
+    [
+     "13:25",
+     171721.0
+    ],
+    [
+     "13:30",
+     171614.0
+    ],
+    [
+     "13:35",
+     171448.0
+    ],
+    [
+     "13:40",
+     171372.0
+    ],
+    [
+     "13:45",
+     171398.0
+    ],
+    [
+     "13:50",
+     171409.0
+    ],
+    [
+     "13:55",
+     171385.0
+    ],
+    [
+     "14:00",
+     171270.0
+    ],
+    [
+     "14:05",
+     171370.0
+    ],
+    [
+     "14:10",
+     171252.0
+    ],
+    [
+     "14:15",
+     171281.0
+    ],
+    [
+     "14:20",
+     171285.0
+    ],
+    [
+     "14:21",
+     171240.0
+    ]
+   ]
+  },
+  "dolar": {
+   "anterior": 5.5829,
+   "pontos": [
+    [
+     "09:00",
+     5.5836
+    ],
+    [
+     "09:05",
+     5.5873
+    ],
+    [
+     "09:10",
+     5.5965
+    ],
+    [
+     "09:15",
+     5.5892
+    ],
+    [
+     "09:20",
+     5.5987
+    ],
+    [
+     "09:25",
+     5.5987
+    ],
+    [
+     "09:30",
+     5.5957
+    ],
+    [
+     "09:35",
+     5.5942
+    ],
+    [
+     "09:40",
+     5.5979
+    ],
+    [
+     "09:45",
+     5.5974
+    ],
+    [
+     "09:50",
+     5.5984
+    ],
+    [
+     "09:55",
+     5.6008
+    ],
+    [
+     "10:00",
+     5.6042
+    ],
+    [
+     "10:05",
+     5.6166
+    ],
+    [
+     "10:10",
+     5.6163
+    ],
+    [
+     "10:15",
+     5.6107
+    ],
+    [
+     "10:20",
+     5.6049
+    ],
+    [
+     "10:25",
+     5.607
+    ],
+    [
+     "10:30",
+     5.6096
+    ],
+    [
+     "10:35",
+     5.6067
+    ],
+    [
+     "10:40",
+     5.6044
+    ],
+    [
+     "10:45",
+     5.6044
+    ],
+    [
+     "10:50",
+     5.6028
+    ],
+    [
+     "10:55",
+     5.6018
+    ],
+    [
+     "11:00",
+     5.6049
+    ],
+    [
+     "11:05",
+     5.6031
+    ],
+    [
+     "11:10",
+     5.6021
+    ],
+    [
+     "11:15",
+     5.6034
+    ],
+    [
+     "11:20",
+     5.6023
+    ],
+    [
+     "11:25",
+     5.6062
+    ],
+    [
+     "11:30",
+     5.6034
+    ],
+    [
+     "11:35",
+     5.6044
+    ],
+    [
+     "11:40",
+     5.609
+    ],
+    [
+     "11:45",
+     5.6148
+    ],
+    [
+     "11:50",
+     5.6153
+    ],
+    [
+     "11:55",
+     5.6174
+    ],
+    [
+     "12:00",
+     5.6203
+    ],
+    [
+     "12:05",
+     5.6233
+    ],
+    [
+     "12:10",
+     5.6233
+    ],
+    [
+     "12:15",
+     5.6223
+    ],
+    [
+     "12:20",
+     5.6209
+    ],
+    [
+     "12:25",
+     5.6193
+    ],
+    [
+     "12:30",
+     5.6281
+    ],
+    [
+     "12:35",
+     5.6303
+    ],
+    [
+     "12:40",
+     5.6298
+    ],
+    [
+     "12:45",
+     5.6313
+    ],
+    [
+     "12:50",
+     5.6301
+    ],
+    [
+     "12:55",
+     5.6304
+    ],
+    [
+     "13:00",
+     5.6248
+    ],
+    [
+     "13:05",
+     5.6218
+    ],
+    [
+     "13:10",
+     5.6164
+    ],
+    [
+     "13:15",
+     5.6219
+    ],
+    [
+     "13:20",
+     5.6253
+    ],
+    [
+     "13:25",
+     5.6209
+    ],
+    [
+     "13:30",
+     5.6234
+    ],
+    [
+     "13:35",
+     5.6255
+    ],
+    [
+     "13:40",
+     5.6293
+    ],
+    [
+     "13:45",
+     5.6285
+    ],
+    [
+     "13:50",
+     5.6318
+    ],
+    [
+     "13:55",
+     5.6304
+    ],
+    [
+     "14:00",
+     5.6303
+    ],
+    [
+     "14:05",
+     5.6321
+    ],
+    [
+     "14:10",
+     5.6353
+    ],
+    [
+     "14:15",
+     5.635
+    ],
+    [
+     "14:20",
+     5.6388
+    ],
+    [
+     "14:25",
+     5.6415
+    ],
+    [
+     "14:30",
+     5.6397
+    ],
+    [
+     "14:35",
+     5.6385
+    ],
+    [
+     "14:36",
+     5.6401
+    ]
+   ]
+  },
+  "marcadores": [
+   {
+    "hora": "11:40",
+    "titulo": "Inflação de alimentos é a maior em quatro anos, com destaque para alta de tomate e cebola",
+    "fonte": "Folha",
+    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/inflacao-de-alimentos-e-a-maior-em-quatro-anos-com-destaque-para-alta-de-tomate-e-cebola.shtml",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": 0.14,
+    "dolar30": 0.25
+   },
+   {
+    "hora": "12:00",
+    "titulo": "Lula não parece convencido a conciliar ajuste fiscal moderado e promessas de campanha, diz Giambiagi",
+    "fonte": "Estadão",
+    "url": "https://www.estadao.com.br/economia/entrevista-fabio-giambiagi-lula-ajuste-fiscal-promessas-de-campanha/",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": 0.14,
+    "dolar30": -0.02
+   },
+   {
+    "hora": "12:15",
+    "titulo": "Hapvida (HAPV3): ações disparam 15% mesmo com queda de 68% no lucro do 3º trimestre; o que dizem analistas?",
+    "fonte": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZkpmMXl0alB6dzMwd1g4MGI0RkRKQ1g4cF9oX1BKcFpTSkVWeHlpWllPQXQ5ZzNwcm1Ea3k3ZHAxU3o4VlVwTDBkQ21BSnRVX3Budjh4RXRhNHliWWhOY21GSFhWWEdLcHVBb0lTSFJsMmVlNW9YYkdoaTJjYlVjMXp1aTFSSGRwV0VIM0dENWVnenQxQndja3hvRnBsYk8teWtFWUFwaG1qMW5wM1lJeVE4TDlvTFNxVmE5emFpRHhFYTk3QjllcC1fcGU2VkwxQXc?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "HAPV3"
+    ],
+    "ibov30": 0.23,
+    "dolar30": 0.13
+   },
+   {
+    "hora": "12:16",
+    "titulo": "Azul reduz prejuízo no 3º trimestre, mas custos mantêm pressão sobre as operações",
+    "fonte": "Bloomberg Línea",
+    "url": "https://www.bloomberglinea.com.br/negocios/azul-reduz-prejuizo-no-3-trimestre-mas-custos-mantem-pressao-sobre-as-operacoes/",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "AZUL4"
+    ],
+    "ibov30": 0.19,
+    "dolar30": 0.16
+   },
+   {
+    "hora": "12:25",
+    "titulo": "O que explica a disparada de Azzas 2154 (AZZA3) após o balanço do 3T26? Citi e BTG respondem",
+    "fonte": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNzF3dk9YOTRGV0wxV0xEZzk1S2JCeE9wN19qYmJNeEtqakp2WTB2WWVnZzc5V3V4b0U0X3ZCMFFEVWhqVkgycWlwSWlTSjdTME5wOUVkTFhldlZxcTJ6RnVPZGlBSmxybnBHelpoeFVaQ0RkaUFEZEhDeURGdVVSTHFJelFFc1Zoa0ZrYldxR1NfTHFyQmRCclN1VG55TVgxN3FhSVZTVEdOVDh3UEpSMlhkV285VGhEMDhjOEpiNVVMY0E?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "AZZA3",
+     "BPAC11"
+    ],
+    "ibov30": 0.15,
+    "dolar30": 0.19
+   },
+   {
+    "hora": "12:29",
+    "titulo": "Ibovespa cai: fiscal, cautela com juros nos EUA e balanço do BB pesam no índice",
+    "fonte": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVGRHWkJ1d05FYXBOeGdoOXJfWEFVczJWRjY3MGxEeUowd2pkdGI0a0VSbEx6UFhVU2FVRk9GbmdWMDYzUWlzTHI3UkpaRS1iMTIxLUo1LVExVGNRVE9YYkJEZkxSbW92WmdjcUxFUlgyWUFiWWVQa1RNbkpkcGNmMkRqUGFzRlJOakZ0SjhzR1FwQWZoYzZwb3RCRlY2MGdzNFRHeTBlZVJ0bXNrcHRLSGdObEtBZ1nSAbwBQVVfeXFMTzV1LVZIa3g4ZDNWd2dweC1qbmxraGI5ZFlMNldncEtRejJ0Z0UwZElqQXJ6R1E0MzdfbVBXTnIzS0xMRC0taFpVRTdGX3Zkem84TEJ0RFRaSHVCckg0Uk9ObmJRSXNPVUFkTDEta1RkUUNLTnBVSF9RYnZiVjlobThlTlZnTzl5Q1Rid0pZcjFZbXFxZmZ1R2lLdE9ZLXp4RFloSnlocDZIQjZ1UTc2QmtrQy1SRFU3bXgxR2s?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WIN",
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": 0.11,
+    "dolar30": 0.2
+   },
+   {
+    "hora": "13:04",
+    "titulo": "Governo quer tirar subvenção ao diesel da meta fiscal para evitar contenção extra de gastos neste ano",
+    "fonte": "Folha",
+    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-quer-tirar-subvencao-ao-diesel-da-meta-fiscal-para-evitar-contencao-extra-de-gastos-neste-ano.shtml",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": 0.11,
+    "dolar30": -0.02
+   },
+   {
+    "hora": "13:09",
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com pressão de BBAS3 e IPCA; fiscal segue no radar",
+    "fonte": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNTY4RS10S0VHVVVielFWNmJEMFdPcUhFS19NRDVNbElFYlRSYzVuS2Jra1BoSEJsUUlua0dWZWV6WGNDNU5KMDVjUnRBcktMaFRuakxoVGp5eHZlcGlpNjVBVm51YXdraXJaUVIyYUY2QWNFZ1BYRE1SZmlkYzB0d0dLUVFYUFNUU2J2ckM2dw?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "BBAS3"
+    ],
+    "ibov30": -0.05,
+    "dolar30": 0.07
+   },
+   {
+    "hora": "13:17",
+    "titulo": "Bain Capital’s head of real estate uses this strategy to counter the economy’s ‘cocktail of disruption'",
+    "fonte": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html",
+    "impacto": "medio",
+    "ativos": [
+     "WDO"
+    ],
+    "tickers": [],
+    "ibov30": -0.02,
+    "dolar30": 0.12
+   },
+   {
+    "hora": "13:25",
+    "titulo": "Petrobras faz acordo para deter 100% da transportadora de etanol Logum",
+    "fonte": "Agência Brasil",
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-faz-acordo-para-deter-100-da-transportadora-de-etanol-logum",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "PETR4"
+    ],
+    "ibov30": -0.18,
+    "dolar30": 0.19
+   },
+   {
+    "hora": "13:36",
+    "titulo": "Além da Bolsa: como dólar e juros altos podem ameaçar investimentos e empregos",
+    "fonte": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNGw2Yk03aTZpamtKdHN3LWFzblZTVDFqQjkwbVNhZFByRnNrTnQycS1BblNkUUVnekNaaVFtZ0I2U3paVFRwdWVrY2Q4RTdtYjRGa3FDTlAxY2RDTDdkTDJmTFZlZzZRb25mQzZvMHF1Y0h5NFFMV054WVVjMWphRHh4NENUNlpmX1JvOEJVMFNqMzVkWEVFUHBFMDNYTTR0VkdYYkphLTl6S3hSeGowYjd30gG3AUFVX3lxTE1WejhSMWFfVXlIRzRyU1dISm15d3J3OEplYmNIZTNFR29malBrV0ZCUmtLNkNEVDJybTYwaTdQclZ0UFVraFQzQThzejZwUXdCTU1ocHhrb3FFaGxoZHFtYmJJSHdWZGl6alA2QmdNOHptQW1IVzVNQlBOR0FPMzZtLUtNQ1FEb1JVWVVWVVVnOHBBOG12ZjR1aldZUTlQaGZNWlRCem1pUHoxMlMwdHRXWThPcWJaMA?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WDO",
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": -0.05,
+    "dolar30": 0.12
+   },
+   {
+    "hora": "13:44",
+    "titulo": "Petrobras avalia alterar regras para atender política de preços de combustíveis",
+    "fonte": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlBVVU9rMjBxRzJTZW1JWmR5WTVHWEk1UXJPNWwwY3ZtWFd3WU9CQTVjRDVZelFiS21xVjZETHRVLTQ5OFlUdm9lNXpkR3VITFd2OWlZbk56X25HMGRjT2NCNklEbExGY1V1cUE4cWhMR3ZjUWYxMUU3UC1GSFAzSnl5bF9oaXZHY0w1a1pHT0FnU3RBZGZoVzJ0MU4wUDBTckRtSm5aM29uWFkzWjhr?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "PETR4"
+    ],
+    "ibov30": -0.07,
+    "dolar30": 0.11
+   },
+   {
+    "hora": "14:05",
+    "titulo": "Azul tem queda de 1,8% na receita líquida no terceiro trimestre",
+    "fonte": "Folha",
+    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/azul-tem-queda-de-18-na-receita-liquida-no-terceiro-trimestre.shtml",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "AZUL4"
+    ],
+    "ibov30": null,
+    "dolar30": 0.13
+   },
+   {
+    "hora": "14:06",
+    "titulo": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
+    "fonte": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": 0.11
+   }
+  ]
+ },
  "hoje": [
   {
-   "titulo": "Treasury yields edge higher as investors await fresh inflation and housing data",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
-   "publicado": "2026-11-12T04:38-03:00",
+   "titulo": "Inflação de alimentos é a maior em quatro anos, com destaque para alta de tomate e cebola",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/inflacao-de-alimentos-e-a-maior-em-quatro-anos-com-destaque-para-alta-de-tomate-e-cebola.shtml",
+   "publicado": "2026-11-12T11:40-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
@@ -13,44 +719,10 @@
    "tickers": []
   },
   {
-   "titulo": "Perspectiva de Fed mais restritivo fortalece dólar em âmbito global",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVVpaNVA4WUlHMl9BMzFUMExLMTBvYi1teFd2eDRwc0RabkFpUTNzb3k0VDRoa1h4SmJna2xHclFlYVQxNFpwU3B5TUI2N285QW9NbzRyZHhkMHY0NllDeTdKYkRib0JyTnk0OHZ0YU8wV0d5a0FMcU9HMXNscTh2b3lHNXU3NEQyZ29FOTExZjFveHRjU1F5dm5Ma0R6RU83QlhPSXJvdk5fRk42UlE4dDZ2bjlIZTV3U0NoZlExLWEwd0xIVWhhTVF2QnZESGpjUEHSAdIBQVVfeXFMT1VaWjVQOFlJRzJfQTMxVDBMSzEwb2ItbXhXdng0cHNEWm5BaVEzc295NFQ0aGtYeEpiZ2tsR3JRZWFUMTRacFNweU1CNjdvOUFvTW80cmR4ZDB2NDZZQ3k3SmJEYm9Cck55NDh2dGFPMFdHeWtBTHFPRzFzbHE4dm95RzV1NzREMmdvRTkxMWYxb3h0Y1NReXZuTGtEekVPN0JYT0lyb3ZOX0ZONlJROHQ2dm45SGU1d1NDaGZRMS1hMHdMSFVoYU1RdkJ2REhqY1BB?oc=5",
-   "publicado": "2026-11-12T05:00-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Maior alta do Ibovespa em 2025, Cogna cai 52% em 2026; CEO explica o que mudou",
-   "fonte": "Exame",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFR4ekh0V21kNk85MDdzRjNMUjc1Q0wxZzBGdmZ6bTZqdTJPWUJvTzZ5ZTIxRXMwZDRqZldETzNyOXRLZ3paQXlxRzhDTVUtQnNoTWc0bXNOSkptU2VNWTVHVGtYV2lab1Z3SHkyVlBtYUt0SURJMkswYmFvSFFWVU85UHpXRjUta1dmTV9oWUNyZlBBUW1qOWJJUzFsRnRlNWJXX2dFdmFOSmI3V3Qw?oc=5",
-   "publicado": "2026-11-12T05:03-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Chance de ajuste fiscal reduz prêmio de risco nos ativos",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLXRWQXpwbURMSmkxM0hjMTVuUmFMazNBN0c4aGhTMmZsQnZ6bFFQTm5DOXBZczhBNkw4RE5IbElvVG1POEVfUnIyUVRMQVNzNjFEMkRaUnYwMmZoQkN3TzZ0OVVzWmQxQ2xIWWgya2RLSlBSZ1NvQ0IzYUFsdVRQVC02OGhSeVMyajhZLU1Fa004RkNlaGJ5VlhZR19Da1F3c0tSUjBubzBlWjJUdG5RbHZZNWw?oc=5",
-   "publicado": "2026-11-12T05:08-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Governo ganha tempo com pacote fiscal, mas nem de longe supera a crise de confiança",
+   "titulo": "Lula não parece convencido a conciliar ajuste fiscal moderado e promessas de campanha, diz Giambiagi",
    "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/alvaro-gribel/governo-ganha-tempo-com-pacote-fiscal-mas-nem-de-longe-supera-a-crise-de-confianca/",
-   "publicado": "2026-11-12T05:30-03:00",
+   "url": "https://www.estadao.com.br/economia/entrevista-fabio-giambiagi-lula-ajuste-fiscal-promessas-de-campanha/",
+   "publicado": "2026-11-12T12:00-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
@@ -58,157 +730,222 @@
    "tickers": []
   },
   {
-   "titulo": "Tempo real: Ibovespa reage ao IPCA de outubro",
+   "titulo": "Hapvida (HAPV3): ações disparam 15% mesmo com queda de 68% no lucro do 3º trimestre; o que dizem analistas?",
    "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KS0JSVjdFaWdXNk1fRml1amlFd3Jhd2V1bHFfR3pHaElQaUpCYnVvSGRuY0U3RU1nVW9VWmlMZnB1UHFSLVBNS1lNZ1VEOERVd1NrcWZQTDdTUkc2NC1TOGJ3b3VMdw?oc=5",
-   "publicado": "2026-11-12T06:00-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Pacote fiscal, reação ao balanço do BB, IPCA e mais destaques desta quinta-feira",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSVpYZTRtaHpJVS1DcG14SmljR3JTRklXaEhaZHF3aGxvMndrU3NWcmxvRDJ1NmVHOUVZeFZFODRyeG1Od080VEVBenpLeUc2OFhfSHJmZVExeWF2WG9nU0JqTTgzU1JSQzZwSXZaazBhaDlaSGxYNVJJYUFQaWN1aGdjQ1p3UXNKM1pJatIBkgFBVV95cUxOVUtFeGQyVFNCZ0xiNjBDR0dac1ZySFVGd1FtdW5FX3kxWlVLbWJGY0VpV2JlamIwNkhKaC1tbVAzbVZDcEh2U0lHYXF5MW9uVjBKZGRpbkhBZEE3eE83cTZ6SFhJNnczZ3NQaHJvSXBtbDlSeW03WDBWVjh6SENkVlB2akRPT3ZISkZ4RUVsVmsyQQ?oc=5",
-   "publicado": "2026-11-12T06:14-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Agenda econômica: IPCA do Brasil e PIB do Reino Unido podem movimentar bolsa e dólar nesta quinta-feira (12)",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdWhlZ3NnU3NPR0lWMVhrRGl5azJ4V01rSlh3S3NsSDU0S3VPSm9vNGdHTDl4WExNOEJQTXJ5andKckYzR2F4cjBQeElnOG03R1pDSEUtQXVVQkVfRURObHNPZW8wUG9JZzNVY3B3THlQNWFnbDc2VGpIejAxTFN6MzliYlU0YW9HTGozSDRlVldVRHVESWQ4bGNPemlDR0ZMTU03alRPbGJCYXNGYnVONjlnUEdmS2NQNzVWZlVtdFlSa3c5dC1n?oc=5",
-   "publicado": "2026-11-12T06:30-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "BTG Pactual supera projeções com lucro recorde no 3º tri e aprova recompra de R$ 2 bi",
-   "fonte": "Bloomberg Línea",
-   "url": "https://www.bloomberglinea.com.br/negocios/btg-pactual-supera-projecoes-com-lucro-recorde-no-3-tri-e-aprova-recompra-de-r-2-bi/",
-   "publicado": "2026-11-12T06:35-03:00",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZkpmMXl0alB6dzMwd1g4MGI0RkRKQ1g4cF9oX1BKcFpTSkVWeHlpWllPQXQ5ZzNwcm1Ea3k3ZHAxU3o4VlVwTDBkQ21BSnRVX3Budjh4RXRhNHliWWhOY21GSFhWWEdLcHVBb0lTSFJsMmVlNW9YYkdoaTJjYlVjMXp1aTFSSGRwV0VIM0dENWVnenQxQndja3hvRnBsYk8teWtFWUFwaG1qMW5wM1lJeVE4TDlvTFNxVmE5emFpRHhFYTk3QjllcC1fcGU2VkwxQXc?oc=5",
+   "publicado": "2026-11-12T12:15-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
    "tickers": [
+    "HAPV3"
+   ]
+  },
+  {
+   "titulo": "Azul reduz prejuízo no 3º trimestre, mas custos mantêm pressão sobre as operações",
+   "fonte": "Bloomberg Línea",
+   "url": "https://www.bloomberglinea.com.br/negocios/azul-reduz-prejuizo-no-3-trimestre-mas-custos-mantem-pressao-sobre-as-operacoes/",
+   "publicado": "2026-11-12T12:16-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "AZUL4"
+   ]
+  },
+  {
+   "titulo": "O que explica a disparada de Azzas 2154 (AZZA3) após o balanço do 3T26? Citi e BTG respondem",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNzF3dk9YOTRGV0wxV0xEZzk1S2JCeE9wN19qYmJNeEtqakp2WTB2WWVnZzc5V3V4b0U0X3ZCMFFEVWhqVkgycWlwSWlTSjdTME5wOUVkTFhldlZxcTJ6RnVPZGlBSmxybnBHelpoeFVaQ0RkaUFEZEhDeURGdVVSTHFJelFFc1Zoa0ZrYldxR1NfTHFyQmRCclN1VG55TVgxN3FhSVZTVEdOVDh3UEpSMlhkV285VGhEMDhjOEpiNVVMY0E?oc=5",
+   "publicado": "2026-11-12T12:25-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "AZZA3",
     "BPAC11"
    ]
+  },
+  {
+   "titulo": "Ibovespa cai: fiscal, cautela com juros nos EUA e balanço do BB pesam no índice",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVGRHWkJ1d05FYXBOeGdoOXJfWEFVczJWRjY3MGxEeUowd2pkdGI0a0VSbEx6UFhVU2FVRk9GbmdWMDYzUWlzTHI3UkpaRS1iMTIxLUo1LVExVGNRVE9YYkJEZkxSbW92WmdjcUxFUlgyWUFiWWVQa1RNbkpkcGNmMkRqUGFzRlJOakZ0SjhzR1FwQWZoYzZwb3RCRlY2MGdzNFRHeTBlZVJ0bXNrcHRLSGdObEtBZ1nSAbwBQVVfeXFMTzV1LVZIa3g4ZDNWd2dweC1qbmxraGI5ZFlMNldncEtRejJ0Z0UwZElqQXJ6R1E0MzdfbVBXTnIzS0xMRC0taFpVRTdGX3Zkem84TEJ0RFRaSHVCckg0Uk9ObmJRSXNPVUFkTDEta1RkUUNLTnBVSF9RYnZiVjlobThlTlZnTzl5Q1Rid0pZcjFZbXFxZmZ1R2lLdE9ZLXp4RFloSnlocDZIQjZ1UTc2QmtrQy1SRFU3bXgxR2s?oc=5",
+   "publicado": "2026-11-12T12:29-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Governo quer tirar subvenção ao diesel da meta fiscal para evitar contenção extra de gastos neste ano",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-quer-tirar-subvencao-ao-diesel-da-meta-fiscal-para-evitar-contencao-extra-de-gastos-neste-ano.shtml",
+   "publicado": "2026-11-12T13:04-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com pressão de BBAS3 e IPCA; fiscal segue no radar",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNTY4RS10S0VHVVVielFWNmJEMFdPcUhFS19NRDVNbElFYlRSYzVuS2Jra1BoSEJsUUlua0dWZWV6WGNDNU5KMDVjUnRBcktMaFRuakxoVGp5eHZlcGlpNjVBVm51YXdraXJaUVIyYUY2QWNFZ1BYRE1SZmlkYzB0d0dLUVFYUFNUU2J2ckM2dw?oc=5",
+   "publicado": "2026-11-12T13:09-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "BBAS3"
+   ]
+  },
+  {
+   "titulo": "Bain Capital’s head of real estate uses this strategy to counter the economy’s ‘cocktail of disruption'",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html",
+   "publicado": "2026-11-12T13:17-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Petrobras faz acordo para deter 100% da transportadora de etanol Logum",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-faz-acordo-para-deter-100-da-transportadora-de-etanol-logum",
+   "publicado": "2026-11-12T13:25-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Além da Bolsa: como dólar e juros altos podem ameaçar investimentos e empregos",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNGw2Yk03aTZpamtKdHN3LWFzblZTVDFqQjkwbVNhZFByRnNrTnQycS1BblNkUUVnekNaaVFtZ0I2U3paVFRwdWVrY2Q4RTdtYjRGa3FDTlAxY2RDTDdkTDJmTFZlZzZRb25mQzZvMHF1Y0h5NFFMV054WVVjMWphRHh4NENUNlpmX1JvOEJVMFNqMzVkWEVFUHBFMDNYTTR0VkdYYkphLTl6S3hSeGowYjd30gG3AUFVX3lxTE1WejhSMWFfVXlIRzRyU1dISm15d3J3OEplYmNIZTNFR29malBrV0ZCUmtLNkNEVDJybTYwaTdQclZ0UFVraFQzQThzejZwUXdCTU1ocHhrb3FFaGxoZHFtYmJJSHdWZGl6alA2QmdNOHptQW1IVzVNQlBOR0FPMzZtLUtNQ1FEb1JVWVVWVVVnOHBBOG12ZjR1aldZUTlQaGZNWlRCem1pUHoxMlMwdHRXWThPcWJaMA?oc=5",
+   "publicado": "2026-11-12T13:36-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Petrobras avalia alterar regras para atender política de preços de combustíveis",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlBVVU9rMjBxRzJTZW1JWmR5WTVHWEk1UXJPNWwwY3ZtWFd3WU9CQTVjRDVZelFiS21xVjZETHRVLTQ5OFlUdm9lNXpkR3VITFd2OWlZbk56X25HMGRjT2NCNklEbExGY1V1cUE4cWhMR3ZjUWYxMUU3UC1GSFAzSnl5bF9oaXZHY0w1a1pHT0FnU3RBZGZoVzJ0MU4wUDBTckRtSm5aM29uWFkzWjhr?oc=5",
+   "publicado": "2026-11-12T13:44-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Azul tem queda de 1,8% na receita líquida no terceiro trimestre",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/azul-tem-queda-de-18-na-receita-liquida-no-terceiro-trimestre.shtml",
+   "publicado": "2026-11-12T14:05-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "AZUL4"
+   ]
+  },
+  {
+   "titulo": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
+   "publicado": "2026-11-12T14:06-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-12T06:58-03:00",
+ "atualizado_em": "2026-11-12T14:36-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
   "Estadão",
-  "Exame",
   "Folha",
   "InfoMoney",
-  "Money Times",
-  "Valor"
+  "Money Times"
  ],
  "noticias": [
   {
-   "titulo": "BTG Pactual supera projeções com lucro recorde no 3º tri e aprova recompra de R$ 2 bi",
-   "fonte": "Bloomberg Línea",
-   "url": "https://www.bloomberglinea.com.br/negocios/btg-pactual-supera-projecoes-com-lucro-recorde-no-3-tri-e-aprova-recompra-de-r-2-bi/",
-   "publicado": "2026-11-12T06:35-03:00",
+   "titulo": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html",
+   "publicado": "2026-11-12T14:23-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
+   "publicado": "2026-11-12T14:06-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Azul tem queda de 1,8% na receita líquida no terceiro trimestre",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/azul-tem-queda-de-18-na-receita-liquida-no-terceiro-trimestre.shtml",
+   "publicado": "2026-11-12T14:05-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
    "tickers": [
-    "BPAC11"
+    "AZUL4"
    ]
   },
   {
-   "titulo": "Agenda econômica: IPCA do Brasil e PIB do Reino Unido podem movimentar bolsa e dólar nesta quinta-feira (12)",
+   "titulo": "Petrobras avalia alterar regras para atender política de preços de combustíveis",
    "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdWhlZ3NnU3NPR0lWMVhrRGl5azJ4V01rSlh3S3NsSDU0S3VPSm9vNGdHTDl4WExNOEJQTXJ5andKckYzR2F4cjBQeElnOG03R1pDSEUtQXVVQkVfRURObHNPZW8wUG9JZzNVY3B3THlQNWFnbDc2VGpIejAxTFN6MzliYlU0YW9HTGozSDRlVldVRHVESWQ4bGNPemlDR0ZMTU03alRPbGJCYXNGYnVONjlnUEdmS2NQNzVWZlVtdFlSa3c5dC1n?oc=5",
-   "publicado": "2026-11-12T06:30-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Pacote fiscal, reação ao balanço do BB, IPCA e mais destaques desta quinta-feira",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSVpYZTRtaHpJVS1DcG14SmljR3JTRklXaEhaZHF3aGxvMndrU3NWcmxvRDJ1NmVHOUVZeFZFODRyeG1Od080VEVBenpLeUc2OFhfSHJmZVExeWF2WG9nU0JqTTgzU1JSQzZwSXZaazBhaDlaSGxYNVJJYUFQaWN1aGdjQ1p3UXNKM1pJatIBkgFBVV95cUxOVUtFeGQyVFNCZ0xiNjBDR0dac1ZySFVGd1FtdW5FX3kxWlVLbWJGY0VpV2JlamIwNkhKaC1tbVAzbVZDcEh2U0lHYXF5MW9uVjBKZGRpbkhBZEE3eE83cTZ6SFhJNnczZ3NQaHJvSXBtbDlSeW03WDBWVjh6SENkVlB2akRPT3ZISkZ4RUVsVmsyQQ?oc=5",
-   "publicado": "2026-11-12T06:14-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Tempo real: Ibovespa reage ao IPCA de outubro",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KS0JSVjdFaWdXNk1fRml1amlFd3Jhd2V1bHFfR3pHaElQaUpCYnVvSGRuY0U3RU1nVW9VWmlMZnB1UHFSLVBNS1lNZ1VEOERVd1NrcWZQTDdTUkc2NC1TOGJ3b3VMdw?oc=5",
-   "publicado": "2026-11-12T06:00-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Governo ganha tempo com pacote fiscal, mas nem de longe supera a crise de confiança",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/alvaro-gribel/governo-ganha-tempo-com-pacote-fiscal-mas-nem-de-longe-supera-a-crise-de-confianca/",
-   "publicado": "2026-11-12T05:30-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Chance de ajuste fiscal reduz prêmio de risco nos ativos",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLXRWQXpwbURMSmkxM0hjMTVuUmFMazNBN0c4aGhTMmZsQnZ6bFFQTm5DOXBZczhBNkw4RE5IbElvVG1POEVfUnIyUVRMQVNzNjFEMkRaUnYwMmZoQkN3TzZ0OVVzWmQxQ2xIWWgya2RLSlBSZ1NvQ0IzYUFsdVRQVC02OGhSeVMyajhZLU1Fa004RkNlaGJ5VlhZR19Da1F3c0tSUjBubzBlWjJUdG5RbHZZNWw?oc=5",
-   "publicado": "2026-11-12T05:08-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Maior alta do Ibovespa em 2025, Cogna cai 52% em 2026; CEO explica o que mudou",
-   "fonte": "Exame",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFR4ekh0V21kNk85MDdzRjNMUjc1Q0wxZzBGdmZ6bTZqdTJPWUJvTzZ5ZTIxRXMwZDRqZldETzNyOXRLZ3paQXlxRzhDTVUtQnNoTWc0bXNOSkptU2VNWTVHVGtYV2lab1Z3SHkyVlBtYUt0SURJMkswYmFvSFFWVU85UHpXRjUta1dmTV9oWUNyZlBBUW1qOWJJUzFsRnRlNWJXX2dFdmFOSmI3V3Qw?oc=5",
-   "publicado": "2026-11-12T05:03-03:00",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlBVVU9rMjBxRzJTZW1JWmR5WTVHWEk1UXJPNWwwY3ZtWFd3WU9CQTVjRDVZelFiS21xVjZETHRVLTQ5OFlUdm9lNXpkR3VITFd2OWlZbk56X25HMGRjT2NCNklEbExGY1V1cUE4cWhMR3ZjUWYxMUU3UC1GSFAzSnl5bF9oaXZHY0w1a1pHT0FnU3RBZGZoVzJ0MU4wUDBTckRtSm5aM29uWFkzWjhr?oc=5",
+   "publicado": "2026-11-12T13:44-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
-   "tickers": []
+   "tickers": [
+    "PETR4"
+   ]
   },
   {
-   "titulo": "Perspectiva de Fed mais restritivo fortalece dólar em âmbito global",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVVpaNVA4WUlHMl9BMzFUMExLMTBvYi1teFd2eDRwc0RabkFpUTNzb3k0VDRoa1h4SmJna2xHclFlYVQxNFpwU3B5TUI2N285QW9NbzRyZHhkMHY0NllDeTdKYkRib0JyTnk0OHZ0YU8wV0d5a0FMcU9HMXNscTh2b3lHNXU3NEQyZ29FOTExZjFveHRjU1F5dm5Ma0R6RU83QlhPSXJvdk5fRk42UlE4dDZ2bjlIZTV3U0NoZlExLWEwd0xIVWhhTVF2QnZESGpjUEHSAdIBQVVfeXFMT1VaWjVQOFlJRzJfQTMxVDBMSzEwb2ItbXhXdng0cHNEWm5BaVEzc295NFQ0aGtYeEpiZ2tsR3JRZWFUMTRacFNweU1CNjdvOUFvTW80cmR4ZDB2NDZZQ3k3SmJEYm9Cck55NDh2dGFPMFdHeWtBTHFPRzFzbHE4dm95RzV1NzREMmdvRTkxMWYxb3h0Y1NReXZuTGtEekVPN0JYT0lyb3ZOX0ZONlJROHQ2dm45SGU1d1NDaGZRMS1hMHdMSFVoYU1RdkJ2REhqY1BB?oc=5",
-   "publicado": "2026-11-12T05:00-03:00",
+   "titulo": "Além da Bolsa: como dólar e juros altos podem ameaçar investimentos e empregos",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNGw2Yk03aTZpamtKdHN3LWFzblZTVDFqQjkwbVNhZFByRnNrTnQycS1BblNkUUVnekNaaVFtZ0I2U3paVFRwdWVrY2Q4RTdtYjRGa3FDTlAxY2RDTDdkTDJmTFZlZzZRb25mQzZvMHF1Y0h5NFFMV054WVVjMWphRHh4NENUNlpmX1JvOEJVMFNqMzVkWEVFUHBFMDNYTTR0VkdYYkphLTl6S3hSeGowYjd30gG3AUFVX3lxTE1WejhSMWFfVXlIRzRyU1dISm15d3J3OEplYmNIZTNFR29malBrV0ZCUmtLNkNEVDJybTYwaTdQclZ0UFVraFQzQThzejZwUXdCTU1ocHhrb3FFaGxoZHFtYmJJSHdWZGl6alA2QmdNOHptQW1IVzVNQlBOR0FPMzZtLUtNQ1FEb1JVWVVWVVVnOHBBOG12ZjR1aldZUTlQaGZNWlRCem1pUHoxMlMwdHRXWThPcWJaMA?oc=5",
+   "publicado": "2026-11-12T13:36-03:00",
    "impacto": "alto",
    "ativos": [
     "WDO",
@@ -217,10 +954,133 @@
    "tickers": []
   },
   {
-   "titulo": "Treasury yields edge higher as investors await fresh inflation and housing data",
+   "titulo": "EUA receberam US$ 12 bilhões em receitas do petróleo venezuelano, indica relatório secreto",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/eua-receberam-us-12-bilhoes-em-receitas-do-petroleo-venezuelano-indica-relatorio-secreto.shtml",
+   "publicado": "2026-11-12T13:34-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Petrobras faz acordo para deter 100% da transportadora de etanol Logum",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-faz-acordo-para-deter-100-da-transportadora-de-etanol-logum",
+   "publicado": "2026-11-12T13:25-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Bain Capital’s head of real estate uses this strategy to counter the economy’s ‘cocktail of disruption'",
    "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
-   "publicado": "2026-11-12T04:38-03:00",
+   "url": "https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html",
+   "publicado": "2026-11-12T13:17-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com pressão de BBAS3 e IPCA; fiscal segue no radar",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNTY4RS10S0VHVVVielFWNmJEMFdPcUhFS19NRDVNbElFYlRSYzVuS2Jra1BoSEJsUUlua0dWZWV6WGNDNU5KMDVjUnRBcktMaFRuakxoVGp5eHZlcGlpNjVBVm51YXdraXJaUVIyYUY2QWNFZ1BYRE1SZmlkYzB0d0dLUVFYUFNUU2J2ckM2dw?oc=5",
+   "publicado": "2026-11-12T13:09-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "BBAS3"
+   ]
+  },
+  {
+   "titulo": "Governo quer tirar subvenção ao diesel da meta fiscal para evitar contenção extra de gastos neste ano",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-quer-tirar-subvencao-ao-diesel-da-meta-fiscal-para-evitar-contencao-extra-de-gastos-neste-ano.shtml",
+   "publicado": "2026-11-12T13:04-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ibovespa cai: fiscal, cautela com juros nos EUA e balanço do BB pesam no índice",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVGRHWkJ1d05FYXBOeGdoOXJfWEFVczJWRjY3MGxEeUowd2pkdGI0a0VSbEx6UFhVU2FVRk9GbmdWMDYzUWlzTHI3UkpaRS1iMTIxLUo1LVExVGNRVE9YYkJEZkxSbW92WmdjcUxFUlgyWUFiWWVQa1RNbkpkcGNmMkRqUGFzRlJOakZ0SjhzR1FwQWZoYzZwb3RCRlY2MGdzNFRHeTBlZVJ0bXNrcHRLSGdObEtBZ1nSAbwBQVVfeXFMTzV1LVZIa3g4ZDNWd2dweC1qbmxraGI5ZFlMNldncEtRejJ0Z0UwZElqQXJ6R1E0MzdfbVBXTnIzS0xMRC0taFpVRTdGX3Zkem84TEJ0RFRaSHVCckg0Uk9ObmJRSXNPVUFkTDEta1RkUUNLTnBVSF9RYnZiVjlobThlTlZnTzl5Q1Rid0pZcjFZbXFxZmZ1R2lLdE9ZLXp4RFloSnlocDZIQjZ1UTc2QmtrQy1SRFU3bXgxR2s?oc=5",
+   "publicado": "2026-11-12T12:29-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "O que explica a disparada de Azzas 2154 (AZZA3) após o balanço do 3T26? Citi e BTG respondem",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNzF3dk9YOTRGV0wxV0xEZzk1S2JCeE9wN19qYmJNeEtqakp2WTB2WWVnZzc5V3V4b0U0X3ZCMFFEVWhqVkgycWlwSWlTSjdTME5wOUVkTFhldlZxcTJ6RnVPZGlBSmxybnBHelpoeFVaQ0RkaUFEZEhDeURGdVVSTHFJelFFc1Zoa0ZrYldxR1NfTHFyQmRCclN1VG55TVgxN3FhSVZTVEdOVDh3UEpSMlhkV285VGhEMDhjOEpiNVVMY0E?oc=5",
+   "publicado": "2026-11-12T12:25-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "AZZA3",
+    "BPAC11"
+   ]
+  },
+  {
+   "titulo": "Azul reduz prejuízo no 3º trimestre, mas custos mantêm pressão sobre as operações",
+   "fonte": "Bloomberg Línea",
+   "url": "https://www.bloomberglinea.com.br/negocios/azul-reduz-prejuizo-no-3-trimestre-mas-custos-mantem-pressao-sobre-as-operacoes/",
+   "publicado": "2026-11-12T12:16-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "AZUL4"
+   ]
+  },
+  {
+   "titulo": "Hapvida (HAPV3): ações disparam 15% mesmo com queda de 68% no lucro do 3º trimestre; o que dizem analistas?",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZkpmMXl0alB6dzMwd1g4MGI0RkRKQ1g4cF9oX1BKcFpTSkVWeHlpWllPQXQ5ZzNwcm1Ea3k3ZHAxU3o4VlVwTDBkQ21BSnRVX3Budjh4RXRhNHliWWhOY21GSFhWWEdLcHVBb0lTSFJsMmVlNW9YYkdoaTJjYlVjMXp1aTFSSGRwV0VIM0dENWVnenQxQndja3hvRnBsYk8teWtFWUFwaG1qMW5wM1lJeVE4TDlvTFNxVmE5emFpRHhFYTk3QjllcC1fcGU2VkwxQXc?oc=5",
+   "publicado": "2026-11-12T12:15-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "HAPV3"
+   ]
+  },
+  {
+   "titulo": "Lula não parece convencido a conciliar ajuste fiscal moderado e promessas de campanha, diz Giambiagi",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/entrevista-fabio-giambiagi-lula-ajuste-fiscal-promessas-de-campanha/",
+   "publicado": "2026-11-12T12:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Inflação de alimentos é a maior em quatro anos, com destaque para alta de tomate e cebola",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/inflacao-de-alimentos-e-a-maior-em-quatro-anos-com-destaque-para-alta-de-tomate-e-cebola.shtml",
+   "publicado": "2026-11-12T11:40-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
