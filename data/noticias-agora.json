@@ -2,135 +2,24 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Ibovespa fecha em alta, com fiscal e exterior; Petrobras cai mais de 3% com balanço",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcmZXZEdGdEZTNVZJQ2tEeWljMmhoUFhMOEVOSGt5VldZTXZhVVVfREttOWttdjRfZ1I4TUl4NWJ0LWdTSTZwVnJqTDE0R1hDV2ZlWGtOT0xMMDU3Sk5idXZLNktacUlIallZWWdRMVZsUFhHOTdZNkNSME84SzhGQzVrVnJOaXRwZE81VGwyZw?oc=5",
-   "publicado": "2026-11-11T18:24-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Encrencas no radar: falta clareza sobre como o governo Lula lidará com a política fiscal",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/celso-ming/encrencas-no-radar-falta-clareza-sobre-como-o-governo-lula-lidara-com-a-politica-fiscal/",
-   "publicado": "2026-11-11T18:28-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa acompanha Wall Street e fecha em alta com ajuste fiscal no radar",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTRjZExCY2JKNmZKdzQ4NlhIMThCLV9LdFlISFkwMDFDOUlkR3UzV196MV9yZlQ3d1pnSy04T3BMQTFaQ3dMS2RTTWVqUURYdTFER3lYNk1fUENud0pkTmlTVzRvZFJGY1NnVG9tZ0tsVVhYQnhwbElwUTM1NnJXTk5PdU9uUXh4RUdPNnBjSFVhOGNmR2ZmY3JFbU1KYmVDbU5tVlFXaFpJY2pFZGc?oc=5",
-   "publicado": "2026-11-11T18:35-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa avança e dólar recua com expectativa de ajuste fiscal; Petrobras desaba 3%",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLS1PQktyTTVCbEVoMm1Ba1p3T0xyeFJtSkJNSTJfZlMzWFhvU1hGSWdmV2xhWklMZXU1Q2loU0JMTFRfa21jbGxxY0FDSUFyZi04WEVucEI5UHd4VEVpdzBlMGdhaEJ4aUlLR2VId0R4YnZWVnJPTUNGZmZPajkwQzN1MzJtSGdhWVhTQ1BLSDhjNkNUU3FsR3UwOC1Nc2FDQXJrWlAxNXpJRWNIc0NWaWpRbmZFMjJ1TzRlRUpZTjczenhwYXdFTGtXXzE4TzlMNGlSN2daeGJ6cjN5bU9EZ2VybjRZdk5odTNQetIB8gFBVV95cUxPX0hWWV9UWGdxVm9mX2lTZldhQzZmTmZGVms5eFl2NEVUNUVzNG5Vc1RGSFFaYnFVVHplYXQybGMxeUZ5VDdOcVktVGEtRnFzbV9WMzU3MWYyMjJtdjYxeDlzQ2VoVEwyb1d3eTgtRC12YXRLSEp1MGstSHZ3eG5zQ3V0d002X0VhUVZuYUN4cEp6NnFmWlZqUVptdExYdm5pZW90ZG9JY2ZySzBvTXp1bWs2M3Q5TzJzc1hFWkh5aTBGWlAwQU0tME1RcFZxLUYwbS1ZNC1wSHNlamcxdkI2SnRuVS14TFMxeHNFeDRjUUQ3QQ?oc=5",
-   "publicado": "2026-11-11T18:51-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Projeto de ajuste fiscal autoriza tirar até R$ 10,5 bi de subvenção ao diesel da meta de 2026",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/projeto-de-ajuste-fiscal-autoriza-tirar-ate-r-105-bi-de-subvencao-ao-diesel-da-meta-de-2026.shtml",
-   "publicado": "2026-11-11T19:09-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Projeto quer retirar R$ 10,5 bi em subsídios ao diesel da meta fiscal",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/projeto-quer-retirar-r-105-bi-em-subsidios-ao-diesel-da-meta-fiscal",
-   "publicado": "2026-11-11T19:13-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
-   "publicado": "2026-11-11T19:30-03:00",
+   "titulo": "Petrobras defende política de preços atual diante da alta volatilidade do Brent",
+   "fonte": "Bloomberg Línea",
+   "url": "https://www.bloomberglinea.com.br/negocios/petrobras-defende-politica-de-precos-atual-diante-da-alta-volatilidade-do-brent/",
+   "publicado": "2026-11-11T21:15-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
     "WDO"
    ],
-   "tickers": []
-  },
-  {
-   "titulo": "Banco do Brasil (BBAS3) tem lucro de R$ 1,3 bilhão no 3º tri, queda anual de 66,5%",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmV5cWpWbHJuU2IzckRRRE9iM2tKdlJ5WkhINDZQRHBIQ1NLbldQZzBsYk5YaXFrNlVSeEhkWXQzYXN2OUxmaVRLQWwwOXphdEp3TVp3YkZITTBITkp0b0tkMkJXek50MFRoNHFndDk0VU16dXVTN0huNFd5VkUtbTZJYUZTZTVEWWIwdjFHOEJ5WEt2TDZvX3RxY9IBoAFBVV95cUxNRzMweVFvZ21OMHVtb2E2N0JQcXZtd3V1RWttLTVQdEhkTEEwVFhTY3ZTaThPVXlrazZoT1I2dFVYU2VQaDlUUldoS2tTREtYWU1GZml1SFEwQTVZS3pESGE1TVZLRVlvMk5GZjRXTVJPY2U0Tkl6NkVHZlNVbUFBa1hPS0s5VFI1UWxkV001SFY2a0d0dXotMTNXOFRJR2R6?oc=5",
-   "publicado": "2026-11-11T19:32-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BBAS3"
-   ]
-  },
-  {
-   "titulo": "Petrobras pode ter que devolver R$ 3,6 bi a compradores de gasodutos vendidos no governo Bolsonaro",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-pode-ter-que-devolver-r-36-bi-a-compradores-de-gasodutos-vendidos-no-governo-bolsonaro.shtml",
-   "publicado": "2026-11-11T19:33-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
    "tickers": [
     "PETR4"
    ]
   },
   {
-   "titulo": "Entenda os problemas do Banco do Brasil com empréstimos ao agronegócio",
+   "titulo": "Remendo fiscal para Lula 4 não muda nada, mas não é irrelevante",
    "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/entenda-os-problemas-do-banco-do-brasil-com-emprestimos-ao-agronegocio.shtml",
-   "publicado": "2026-11-11T19:36-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BBAS3"
-   ]
-  },
-  {
-   "titulo": "Pacote fiscal prevê 120 dias para Congresso discutir supersalários",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pacote-fiscal-preve-120-dias-para-congresso-discutir-supersalarios",
-   "publicado": "2026-11-11T19:40-03:00",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/remendo-fiscal-para-lula-4-nao-muda-nada-mas-nao-e-irrelevante.shtml",
+   "publicado": "2026-11-11T21:37-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
@@ -138,59 +27,41 @@
    "tickers": []
   },
   {
-   "titulo": "Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-042-e-fecha-r-556-com-foco-em-pacote-fiscal",
-   "publicado": "2026-11-11T19:51-03:00",
-   "impacto": "alto",
+   "titulo": "Incerteza fiscal faz gestoras elevarem caixa e reverem aposta em ativos locais",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/coluna-da-broad/incerteza-fiscal-faz-gestoras-elevar-caixa-e-rever-aposta-em-ativos-locais/",
+   "publicado": "2026-11-11T22:00-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WDO",
     "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Banco do Brasil (BBAS3) deixa acionistas sem dividendos no trimestre e derruba lucro distribuído para mínimo obrigatório",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNekF4WW1RZUhkT0N1X0hPbUt3Rko3V29CSTR4Y0pIWE93cmo2QmxDRVc1OGVMdHdpWWFYbHotWXNsZ2l3UXMyMUtjY3ctbWVteTBRRGRVaXdiMzI2QURraWlDcFlBenBuSExsdV9JTjZuLUIxd2ZIZFh0bGpPbXVGLXBNXy03ekFPUTh2bEhSZDRQVDFfZU5fTUVvc0NkZ2h6VjJmb19SOVJCWGF0OThYVElkR3lMUHZXVlZsdlZCRkVvLWhtWXFZdWVyRkJ1Q0E2aW8yNm5TaHZvYnRTMkNKS04wRQ?oc=5",
-   "publicado": "2026-11-11T19:55-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BBAS3"
-   ]
-  },
-  {
-   "titulo": "Banco do Brasil anuncia corte de dividendos para preservar capital após nova queda do lucro",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/banco-do-brasil-anuncia-corte-de-dividendos-para-preservar-capital-apos-nova-queda-do-lucro.shtml",
-   "publicado": "2026-11-11T20:16-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BBAS3"
-   ]
-  },
-  {
-   "titulo": "Petrobras amplia capacidade de 11 plataformas sem novos investimentos",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-amplia-capacidade-de-11-plataformas-sem-novos-investimentos",
-   "publicado": "2026-11-11T20:19-03:00",
+   "titulo": "Queda no Ibovespa após vitória de Lula ainda não acabou, alertam gestoras",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmdKREc3MzV6WXVKWV9uN294clFVMm1sSVgzOHRSZ2lhaF94Nmg5RlhzSjI3bkxJUVpRNnlvaVFUNnlaQnNDVVNoRW5qTndtR2ljSkd6OGVrNW9QRkhNZ21BdndBMHUwNkRVd3BHLUZNa21GMjBjU0M4ODVnVzZqSHQtS3dFMXJNTkY5OWlSbXlVM3ZJWHM4aEx4SUtfdlQ3bXdmOXk1dUxNNkJZZzZlUg?oc=5",
+   "publicado": "2026-11-11T22:41-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
-   "tickers": [
-    "PETR4"
-   ]
+   "tickers": []
+  },
+  {
+   "titulo": "Entenda ponto a ponto o Plano Moretti, proposta de ajuste fiscal do governo Lula",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entenda-ponto-a-ponto-o-plano-moretti-proposta-de-ajuste-fiscal-do-governo-lula.shtml",
+   "publicado": "2026-11-11T23:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-11T20:27-03:00",
+ "atualizado_em": "2026-11-11T23:19-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -198,79 +69,14 @@
   "CNBC",
   "CNN Brasil",
   "Estadão",
-  "Folha",
-  "InfoMoney",
-  "Money Times"
+  "Folha"
  ],
  "noticias": [
   {
-   "titulo": "Petrobras amplia capacidade de 11 plataformas sem novos investimentos",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-amplia-capacidade-de-11-plataformas-sem-novos-investimentos",
-   "publicado": "2026-11-11T20:19-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Banco do Brasil anuncia corte de dividendos para preservar capital após nova queda do lucro",
+   "titulo": "Entenda ponto a ponto o Plano Moretti, proposta de ajuste fiscal do governo Lula",
    "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/banco-do-brasil-anuncia-corte-de-dividendos-para-preservar-capital-apos-nova-queda-do-lucro.shtml",
-   "publicado": "2026-11-11T20:16-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BBAS3"
-   ]
-  },
-  {
-   "titulo": "Banco do Brasil (BBAS3) deixa acionistas sem dividendos no trimestre e derruba lucro distribuído para mínimo obrigatório",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNekF4WW1RZUhkT0N1X0hPbUt3Rko3V29CSTR4Y0pIWE93cmo2QmxDRVc1OGVMdHdpWWFYbHotWXNsZ2l3UXMyMUtjY3ctbWVteTBRRGRVaXdiMzI2QURraWlDcFlBenBuSExsdV9JTjZuLUIxd2ZIZFh0bGpPbXVGLXBNXy03ekFPUTh2bEhSZDRQVDFfZU5fTUVvc0NkZ2h6VjJmb19SOVJCWGF0OThYVElkR3lMUHZXVlZsdlZCRkVvLWhtWXFZdWVyRkJ1Q0E2aW8yNm5TaHZvYnRTMkNKS04wRQ?oc=5",
-   "publicado": "2026-11-11T19:55-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BBAS3"
-   ]
-  },
-  {
-   "titulo": "Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-042-e-fecha-r-556-com-foco-em-pacote-fiscal",
-   "publicado": "2026-11-11T19:51-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
-   "publicado": "2026-11-11T19:46-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Pacote fiscal prevê 120 dias para Congresso discutir supersalários",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pacote-fiscal-preve-120-dias-para-congresso-discutir-supersalarios",
-   "publicado": "2026-11-11T19:40-03:00",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entenda-ponto-a-ponto-o-plano-moretti-proposta-de-ajuste-fiscal-do-governo-lula.shtml",
+   "publicado": "2026-11-11T23:00-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
@@ -278,125 +84,47 @@
    "tickers": []
   },
   {
-   "titulo": "Entenda os problemas do Banco do Brasil com empréstimos ao agronegócio",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/entenda-os-problemas-do-banco-do-brasil-com-emprestimos-ao-agronegocio.shtml",
-   "publicado": "2026-11-11T19:36-03:00",
+   "titulo": "Queda no Ibovespa após vitória de Lula ainda não acabou, alertam gestoras",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmdKREc3MzV6WXVKWV9uN294clFVMm1sSVgzOHRSZ2lhaF94Nmg5RlhzSjI3bkxJUVpRNnlvaVFUNnlaQnNDVVNoRW5qTndtR2ljSkd6OGVrNW9QRkhNZ21BdndBMHUwNkRVd3BHLUZNa21GMjBjU0M4ODVnVzZqSHQtS3dFMXJNTkY5OWlSbXlVM3ZJWHM4aEx4SUtfdlQ3bXdmOXk1dUxNNkJZZzZlUg?oc=5",
+   "publicado": "2026-11-11T22:41-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
-   "tickers": [
-    "BBAS3"
-   ]
+   "tickers": []
   },
   {
-   "titulo": "Petrobras pode ter que devolver R$ 3,6 bi a compradores de gasodutos vendidos no governo Bolsonaro",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-pode-ter-que-devolver-r-36-bi-a-compradores-de-gasodutos-vendidos-no-governo-bolsonaro.shtml",
-   "publicado": "2026-11-11T19:33-03:00",
+   "titulo": "Incerteza fiscal faz gestoras elevarem caixa e reverem aposta em ativos locais",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/coluna-da-broad/incerteza-fiscal-faz-gestoras-elevar-caixa-e-rever-aposta-em-ativos-locais/",
+   "publicado": "2026-11-11T22:00-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN"
+    "DI"
    ],
-   "tickers": [
-    "PETR4"
-   ]
+   "tickers": []
   },
   {
-   "titulo": "Banco do Brasil (BBAS3) tem lucro de R$ 1,3 bilhão no 3º tri, queda anual de 66,5%",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmV5cWpWbHJuU2IzckRRRE9iM2tKdlJ5WkhINDZQRHBIQ1NLbldQZzBsYk5YaXFrNlVSeEhkWXQzYXN2OUxmaVRLQWwwOXphdEp3TVp3YkZITTBITkp0b0tkMkJXek50MFRoNHFndDk0VU16dXVTN0huNFd5VkUtbTZJYUZTZTVEWWIwdjFHOEJ5WEt2TDZvX3RxY9IBoAFBVV95cUxNRzMweVFvZ21OMHVtb2E2N0JQcXZtd3V1RWttLTVQdEhkTEEwVFhTY3ZTaThPVXlrazZoT1I2dFVYU2VQaDlUUldoS2tTREtYWU1GZml1SFEwQTVZS3pESGE1TVZLRVlvMk5GZjRXTVJPY2U0Tkl6NkVHZlNVbUFBa1hPS0s5VFI1UWxkV001SFY2a0d0dXotMTNXOFRJR2R6?oc=5",
-   "publicado": "2026-11-11T19:32-03:00",
-   "impacto": "alto",
+   "titulo": "Remendo fiscal para Lula 4 não muda nada, mas não é irrelevante",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/remendo-fiscal-para-lula-4-nao-muda-nada-mas-nao-e-irrelevante.shtml",
+   "publicado": "2026-11-11T21:37-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WIN"
+    "DI"
    ],
-   "tickers": [
-    "BBAS3"
-   ]
+   "tickers": []
   },
   {
-   "titulo": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
-   "publicado": "2026-11-11T19:30-03:00",
+   "titulo": "Petrobras defende política de preços atual diante da alta volatilidade do Brent",
+   "fonte": "Bloomberg Línea",
+   "url": "https://www.bloomberglinea.com.br/negocios/petrobras-defende-politica-de-precos-atual-diante-da-alta-volatilidade-do-brent/",
+   "publicado": "2026-11-11T21:15-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
     "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Projeto quer retirar R$ 10,5 bi em subsídios ao diesel da meta fiscal",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/projeto-quer-retirar-r-105-bi-em-subsidios-ao-diesel-da-meta-fiscal",
-   "publicado": "2026-11-11T19:13-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Projeto de ajuste fiscal autoriza tirar até R$ 10,5 bi de subvenção ao diesel da meta de 2026",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/projeto-de-ajuste-fiscal-autoriza-tirar-ate-r-105-bi-de-subvencao-ao-diesel-da-meta-de-2026.shtml",
-   "publicado": "2026-11-11T19:09-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa avança e dólar recua com expectativa de ajuste fiscal; Petrobras desaba 3%",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLS1PQktyTTVCbEVoMm1Ba1p3T0xyeFJtSkJNSTJfZlMzWFhvU1hGSWdmV2xhWklMZXU1Q2loU0JMTFRfa21jbGxxY0FDSUFyZi04WEVucEI5UHd4VEVpdzBlMGdhaEJ4aUlLR2VId0R4YnZWVnJPTUNGZmZPajkwQzN1MzJtSGdhWVhTQ1BLSDhjNkNUU3FsR3UwOC1Nc2FDQXJrWlAxNXpJRWNIc0NWaWpRbmZFMjJ1TzRlRUpZTjczenhwYXdFTGtXXzE4TzlMNGlSN2daeGJ6cjN5bU9EZ2VybjRZdk5odTNQetIB8gFBVV95cUxPX0hWWV9UWGdxVm9mX2lTZldhQzZmTmZGVms5eFl2NEVUNUVzNG5Vc1RGSFFaYnFVVHplYXQybGMxeUZ5VDdOcVktVGEtRnFzbV9WMzU3MWYyMjJtdjYxeDlzQ2VoVEwyb1d3eTgtRC12YXRLSEp1MGstSHZ3eG5zQ3V0d002X0VhUVZuYUN4cEp6NnFmWlZqUVptdExYdm5pZW90ZG9JY2ZySzBvTXp1bWs2M3Q5TzJzc1hFWkh5aTBGWlAwQU0tME1RcFZxLUYwbS1ZNC1wSHNlamcxdkI2SnRuVS14TFMxeHNFeDRjUUQ3QQ?oc=5",
-   "publicado": "2026-11-11T18:51-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Ibovespa acompanha Wall Street e fecha em alta com ajuste fiscal no radar",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTRjZExCY2JKNmZKdzQ4NlhIMThCLV9LdFlISFkwMDFDOUlkR3UzV196MV9yZlQ3d1pnSy04T3BMQTFaQ3dMS2RTTWVqUURYdTFER3lYNk1fUENud0pkTmlTVzRvZFJGY1NnVG9tZ0tsVVhYQnhwbElwUTM1NnJXTk5PdU9uUXh4RUdPNnBjSFVhOGNmR2ZmY3JFbU1KYmVDbU5tVlFXaFpJY2pFZGc?oc=5",
-   "publicado": "2026-11-11T18:35-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Encrencas no radar: falta clareza sobre como o governo Lula lidará com a política fiscal",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/celso-ming/encrencas-no-radar-falta-clareza-sobre-como-o-governo-lula-lidara-com-a-politica-fiscal/",
-   "publicado": "2026-11-11T18:28-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa fecha em alta, com fiscal e exterior; Petrobras cai mais de 3% com balanço",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcmZXZEdGdEZTNVZJQ2tEeWljMmhoUFhMOEVOSGt5VldZTXZhVVVfREttOWttdjRfZ1I4TUl4NWJ0LWdTSTZwVnJqTDE0R1hDV2ZlWGtOT0xMMDU3Sk5idXZLNktacUlIallZWWdRMVZsUFhHOTdZNkNSME84SzhGQzVrVnJOaXRwZE81VGwyZw?oc=5",
-   "publicado": "2026-11-11T18:24-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
    ],
    "tickers": [
     "PETR4"
