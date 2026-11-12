@@ -1609,7 +1609,35 @@
    "surpresa": "acima",
    "win": null,
    "wdo": 0.056
+  },
+  {
+   "id": "2026-11-10|08h|ata-copom",
+   "data": "2026-11-10",
+   "hora": "08h",
+   "tipo": "ata-copom",
+   "evento": "Ata do Copom",
+   "pais": "BR",
+   "resultado": "divulgada",
+   "consenso": null,
+   "surpresa": null,
+   "win": 0.486,
+   "win_abertura": true,
+   "wdo": -0.007,
+   "wdo_abertura": true
+  },
+  {
+   "id": "2026-11-10|10h30|cpi-eua",
+   "data": "2026-11-10",
+   "hora": "10h30",
+   "tipo": "cpi-eua",
+   "evento": "CPI — inflação ao consumidor (out)",
+   "pais": "US",
+   "resultado": "+0,4% m/m",
+   "consenso": null,
+   "surpresa": null,
+   "win": -0.255,
+   "wdo": 0.18
   }
  ],
- "atualizado_em": "2026-11-04T03:00:24-03:00"
+ "atualizado_em": "2026-11-12T15:08:01-03:00"
 }
