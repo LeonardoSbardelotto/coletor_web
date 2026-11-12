@@ -1,73 +1,13 @@
 {
  "mercado": {},
- "hoje": [
-  {
-   "titulo": "Petrobras defende política de preços atual diante da alta volatilidade do Brent",
-   "fonte": "Bloomberg Línea",
-   "url": "https://www.bloomberglinea.com.br/negocios/petrobras-defende-politica-de-precos-atual-diante-da-alta-volatilidade-do-brent/",
-   "publicado": "2026-11-11T21:15-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Remendo fiscal para Lula 4 não muda nada, mas não é irrelevante",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/remendo-fiscal-para-lula-4-nao-muda-nada-mas-nao-e-irrelevante.shtml",
-   "publicado": "2026-11-11T21:37-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Incerteza fiscal faz gestoras elevarem caixa e reverem aposta em ativos locais",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/coluna-da-broad/incerteza-fiscal-faz-gestoras-elevar-caixa-e-rever-aposta-em-ativos-locais/",
-   "publicado": "2026-11-11T22:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Queda no Ibovespa após vitória de Lula ainda não acabou, alertam gestoras",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmdKREc3MzV6WXVKWV9uN294clFVMm1sSVgzOHRSZ2lhaF94Nmg5RlhzSjI3bkxJUVpRNnlvaVFUNnlaQnNDVVNoRW5qTndtR2ljSkd6OGVrNW9QRkhNZ21BdndBMHUwNkRVd3BHLUZNa21GMjBjU0M4ODVnVzZqSHQtS3dFMXJNTkY5OWlSbXlVM3ZJWHM4aEx4SUtfdlQ3bXdmOXk1dUxNNkJZZzZlUg?oc=5",
-   "publicado": "2026-11-11T22:41-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Entenda ponto a ponto o Plano Moretti, proposta de ajuste fiscal do governo Lula",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entenda-ponto-a-ponto-o-plano-moretti-proposta-de-ajuste-fiscal-do-governo-lula.shtml",
-   "publicado": "2026-11-11T23:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  }
- ],
+ "hoje": [],
  "enviadas": [],
- "atualizado_em": "2026-11-11T23:19-03:00",
+ "atualizado_em": "2026-11-12T01:18-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
-  "CNN Brasil",
   "Estadão",
   "Folha"
  ],
@@ -82,53 +22,6 @@
     "DI"
    ],
    "tickers": []
-  },
-  {
-   "titulo": "Queda no Ibovespa após vitória de Lula ainda não acabou, alertam gestoras",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmdKREc3MzV6WXVKWV9uN294clFVMm1sSVgzOHRSZ2lhaF94Nmg5RlhzSjI3bkxJUVpRNnlvaVFUNnlaQnNDVVNoRW5qTndtR2ljSkd6OGVrNW9QRkhNZ21BdndBMHUwNkRVd3BHLUZNa21GMjBjU0M4ODVnVzZqSHQtS3dFMXJNTkY5OWlSbXlVM3ZJWHM4aEx4SUtfdlQ3bXdmOXk1dUxNNkJZZzZlUg?oc=5",
-   "publicado": "2026-11-11T22:41-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Incerteza fiscal faz gestoras elevarem caixa e reverem aposta em ativos locais",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/coluna-da-broad/incerteza-fiscal-faz-gestoras-elevar-caixa-e-rever-aposta-em-ativos-locais/",
-   "publicado": "2026-11-11T22:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Remendo fiscal para Lula 4 não muda nada, mas não é irrelevante",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/remendo-fiscal-para-lula-4-nao-muda-nada-mas-nao-e-irrelevante.shtml",
-   "publicado": "2026-11-11T21:37-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Petrobras defende política de preços atual diante da alta volatilidade do Brent",
-   "fonte": "Bloomberg Línea",
-   "url": "https://www.bloomberglinea.com.br/negocios/petrobras-defende-politica-de-precos-atual-diante-da-alta-volatilidade-do-brent/",
-   "publicado": "2026-11-11T21:15-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
   }
  ]
 }
