@@ -1,291 +1,22 @@
 {
  "mercado": {},
- "hoje": [
-  {
-   "titulo": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
-   "publicado": "2026-11-12T18:20-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa volta a cair, com foco no fiscal, IPCA e exterior; dólar sobe mais de 1%",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNTY4RS10S0VHVVVielFWNmJEMFdPcUhFS19NRDVNbElFYlRSYzVuS2Jra1BoSEJsUUlua0dWZWV6WGNDNU5KMDVjUnRBcktMaFRuakxoVGp5eHZlcGlpNjVBVm51YXdraXJaUVIyYUY2QWNFZ1BYRE1SZmlkYzB0d0dLUVFYUFNUU2J2ckM2dw?oc=5",
-   "publicado": "2026-11-12T18:28-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Senado inicia votação do 'plano Moretti' de ajuste fiscal, apesar de protesto da oposição",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-inicia-votacao-do-plano-moretti-de-ajuste-fiscal-apesar-de-protesto-da-oposicao.shtml",
-   "publicado": "2026-11-12T18:34-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa fecha em queda com mau humor local e baixa nas ações do BB",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQalFoVDNabHQzUGliZTFVQ3U0NDlTOHptYURKZVhWdkN0T25pYXBMb2hFckVSczIwZW9LRWc2TE5Yc1Rpb1VJd0FwcmEzSDU1SDhldXdfektXaGNMYlhCV0RQYjltZHpUc05NWURSVGp4Mkg3TS1GUkVhbzRfdHF6NGlOVFl5NG1nRGU0UGp4VHpZQkhIVzd4Nm8zRVBNNXJjOEJVZVhHVE9UbGRWSVMzZDBHOXE5VE40T1oxMzJfSzJ3Z1nSAdIBQVVfeXFMTUxQQ0h0bjJwekFOdGRoQW8wUmNlSjQ5NnNQTXlrOE44RFhYdWJGZy1QOXY3X015Y2MyTEdDYWdlZGh5Z2M1QTRwTFFvdGlUSWRNcFllZ2pubGc2dHFsc0ZDcUxITTRWNW81cU52ZWk1UnoySUcyV2F2dlp1RzhnN05CZ3lkNHNVN1FSdkRWdDF3NEF3Z0daaDVPZHNyanYzZjdJcVhsNHYxQW9VZDllMVlfcmhObGJEZFhGaXoxZmI1SW15LWZhX0VyaVZveGVXbEx3?oc=5",
-   "publicado": "2026-11-12T18:38-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa recua com fiscal no Brasil e juros nos EUA; dólar atinge maior nível em 17 meses",
-   "fonte": "Exame",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjVPVTJ1UHlhMTgxV3lDY0lBM1VHYUN5RVJUSUlPVEh6N24xSHR0QUkwcVZSX2V5dVNLemNFWkVOVmY1bGFNTUd2dmpDODl2b1dub2dKejBsUFhiUloySi1vVV9OYjROZVVpTjJEbjJOeEhINlBCTXM1VUxjWUU3Z1VvcGRlenVIbFlQbHl1MW93N0NacTZIT2RfdnMwU0Rxakh1SWN0MGhkZlJNeWNnVE5iWHVaR201dU5CZWRNX3o?oc=5",
-   "publicado": "2026-11-12T18:40-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa fecha no vermelho em meio a preocupações com o ajuste fiscal e à temporada de balanços",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZTGZwc25zdGttQ1dhRUpVVllRdGVrSF9zWWs3eU5TN3k1c3ZNbEcxUDZHc2N0SDhrTDZYVTVFN0U1MUY5SWJXUnBwUTluTHg1ZnB5M3RRZjYtWm9KbHB3MkJRNThBZw?oc=5",
-   "publicado": "2026-11-12T18:51-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Bolsas de Nova York caem com pressão de crise da Nvidia; dólar e petróleo avançam",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaWFHR3hFYkl3UDZYTkJMYUtPSE1Xc2ZKVlg4MTZUSlVOekYwYXJkNDNMNnNPMmZYcFdsMUdMUTRGdUYyUEQ0RGFSc2xkNXRzb0Vjd3FGb2FXUi1ObFA5RW03UFg2aFFwc0pFODR4UEtPcDhGU1FlMDd3RDdoSVBrNzVTalBKdVhGeTlySFNUZWlfQURKcy01cllzeUtHNjJKYTA3MjI3WXJ3bG1NcFJQMFpmallLNS14Q0FpNDVtTGVaQ1VEWWotN014d0JkWnhHeDZJS2FhNmY4aXljNC1kbEMwN0tkUdIB6wFBVV95cUxQVzkyWWlfalN5anZBdGNZY0RLX3Y2dzdESTFfX3VCUUhjRXFXVnlmQXNVZldENTJCeVctd1VQemZZUjQyNE1UT3RTZXVvZWxYRTNrUlhpY2FxaUlnSzF4ZnU4ZjhXWTlWWElqRmdvdXpHZVBFS2lfT1JxbzdpcHNXVi1MblhzUGJBbFh0ejFtRXZiWmJhSUIyTmp6QzNldktoa2RfVjRsWFZoWl9jWTRPejBPMVB0cF9Hbk9QV2VGbElaZnJUTTdCNVJSWWw0OEJrRjZuSnFwdHZ1MDZsWDNkN1BfWUoxSzFyUGc0?oc=5",
-   "publicado": "2026-11-12T18:52-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Senado aprova urgência para votar projeto de lei com ajuste fiscal que pode chegar a R$ 56 bilhões",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/senado-projeto-lei-ajuste-fiscal/",
-   "publicado": "2026-11-12T18:56-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Estoque de renda fixa na B3 supera R$ 10 tri pela primeira vez",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/estoque-de-renda-fixa-na-b3-supera-r-10-tri-pela-primeira-vez.shtml",
-   "publicado": "2026-11-12T19:20-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "B3SA3"
-   ]
-  },
-  {
-   "titulo": "Banco do Brasil tem maior queda diária em 18 meses perde R$ 8 bi na bolsa",
-   "fonte": "Exame",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnZGaVNKbHJ6XzdiWUZhblZiblEtdGU2aGltZVlxQ3N1VmttRFRKUHBlRmZkMTFYc2xDakFDVmF2VWl6S2ZqYklyYjRoaFlzRVJYMl9rNEhVSWp0UGt3RVFEUlFZcDd2SFlwLUxXZUhKRE5LQmNVTVB4ZE41TDl6SEkweklnd3ktRUFZTEs5ZEttaXFzRjJ3WUxpQmFZVHpOeGdTSTZVYkNBTW8?oc=5",
-   "publicado": "2026-11-12T19:33-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BBAS3"
-   ]
-  },
-  {
-   "titulo": "B3 (B3SA3) tem lucro líquido recorrente de R$ 1,4 bilhão, alta anual de 10%",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYnB3QTdyVThmNkRPdUNSdExGazRwYTd3cVFkaUxIM3JJckNGd25icTBCNEhpN3Fvd0tUNUNaSjVwOU5PRjVvWFFPTE9xdEh6NFpVbzgtMGpoUm1ad0U2ZDVvQkJXajJMRnhoSERuQUV3S2Y0aC1sdjFPdEJac1BNWlpIR1pQOW9sN1HSAY8BQVVfeXFMTWtJcGNHX1R1UURUbjlJaDRPc0JJd3JWT1JVSmthempTbjRnN2Z1YXpTamJBeXQ0LVVHeDdaTWVYSW1ETUFsaXlZRkdoTjlOQmpINXBFa1FTQW1PR2VjRHdrS1M4QWVXRWRzZ1RDMlVCMXA3QjU3N2kzdGVINnFmYlh4Vm1wc2tzZjBrTUdySjQ?oc=5",
-   "publicado": "2026-11-12T19:41-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "B3SA3"
-   ]
-  },
-  {
-   "titulo": "Lucro da B3 vai a R$ 1,38 bi e administração espera ‘ressaca’ pós-eleição",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVEtHbmZzSHJhaXhiaXpWclE3cG5oTnMyZGtmUVhYVmJ2bDkySVp3X01MeVoyNHVVX3pCY1Y1Y0RWX3c0azdEbmdILW1JNEE3cnhsbTdkM0NUSW0xelY4R0FQWDN6Qk1kc2Nwbks0V1BiYk1VLXpRY3RFMGVEVzBRblY5RzE5UXdTMlBiZUY5VTRXcmoxTVczdU5fWHhxVllQVXpYRkQ2eHM2bjRzSTRRNmdGR2RnU0dEcG9lZDFGc9IBzgFBVV95cUxPMzh3cndBRTByUUg5VXV4OHZCLVNjWW9Bb0pneGZTYURZSjVZV1hkcVR6dlVJX2xmbUpDMkVVa2pRcFBDZXJMMHBOcVhVYlRHRGdOY1E2TTctejU4OU1kOVRXbHpxaUowYllMZnJ0UFZLVlBWOHg0ZktINDdsNEw1M2h2SzJYa2gzVld0cUEzUkhNSTRIRTQzckdYQjBBLUduMHZ3a1ZLQ1Q4TTViNGlzYzJ0Q3l1bG01WHI5eElRNzhrQm91a0k5cTlwQnIxQQ?oc=5",
-   "publicado": "2026-11-12T19:53-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "B3SA3"
-   ]
-  },
-  {
-   "titulo": "Copel (CPLE6) tem salto de 80% no lucro do 3º trimestre, a R$ 673 milhões",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmNFU3ZValJSRzVmRW9LWnJzYi0wZy1zWEpKU1hiVUhyc0FZVHFoYWNqSjRXWWczNVFKUmhqUVZJSC1ZeGEtMHVZd3BIUHF5UjZ0RGFIZXJ2eGFBMTVtMGZiLTBESW84dzJLcE1jYVVWSXd2WklTNjlHZGJFdHQ2UEU3SlcwNTc1dWZMY1Rn0gGTAUFVX3lxTE1JOGJfbFRGa2xyVFRGOWJnUkVaaDFnM3JzM1k2ak03QUR0U2plSnZGSWxZaUhuNFgzS01SckVuaWM4ZXdKdlE5a3NNTUc5M19Jd1p0Z3BGdjh5VTZYNEtnYXlPMUJXQjlqYlZralF1SUFvX1ktUVBXX1BhTG1kZENjbmJnckZxdVMtc2dTbTFnNjNSdw?oc=5",
-   "publicado": "2026-11-12T20:01-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "CPLE6"
-   ]
-  },
-  {
-   "titulo": "Caixa Seguridade informa ataque cibernético e vazamento de dados",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/caixa-seguridade-informa-ataque-cibernetico-e-vazamento-de-dados",
-   "publicado": "2026-11-12T20:06-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "CXSE3"
-   ]
-  },
-  {
-   "titulo": "Lucro da B3 (B3SA3) fica dentro do esperado no 3º tri, a R$ 1,4 bi",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkVlMEdJSS1HVGFuUDdFZHhnc1V3REhvWGx6NkN4eFNRRTZsZ2xtbndHWXRWaTRVV0l1ZjZJelpWRTMzVXh3eDJLbDRwZ1lRb2hsTGF4b19QVlZHSGxfVEcyN0NaMnZydmJXVkJOS3l4UUo3S2VoWlBWZkpwbGZHM1N3bDdsbHdNWHJaNHdJeFRoQlZLa0lZ?oc=5",
-   "publicado": "2026-11-12T20:09-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "B3SA3"
-   ]
-  }
- ],
+ "hoje": [],
  "enviadas": [],
- "atualizado_em": "2026-11-12T20:36-03:00",
+ "atualizado_em": "2026-11-13T00:25-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
-  "CNN Brasil",
   "Estadão",
-  "Exame",
-  "Folha",
-  "InfoMoney",
-  "Money Times",
-  "Valor"
+  "Folha"
  ],
  "noticias": [
   {
-   "titulo": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-   "publicado": "2026-11-12T20:29-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Lucro da B3 (B3SA3) fica dentro do esperado no 3º tri, a R$ 1,4 bi",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkVlMEdJSS1HVGFuUDdFZHhnc1V3REhvWGx6NkN4eFNRRTZsZ2xtbndHWXRWaTRVV0l1ZjZJelpWRTMzVXh3eDJLbDRwZ1lRb2hsTGF4b19QVlZHSGxfVEcyN0NaMnZydmJXVkJOS3l4UUo3S2VoWlBWZkpwbGZHM1N3bDdsbHdNWHJaNHdJeFRoQlZLa0lZ?oc=5",
-   "publicado": "2026-11-12T20:09-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "B3SA3"
-   ]
-  },
-  {
-   "titulo": "Caixa Seguridade informa ataque cibernético e vazamento de dados",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/caixa-seguridade-informa-ataque-cibernetico-e-vazamento-de-dados",
-   "publicado": "2026-11-12T20:06-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "CXSE3"
-   ]
-  },
-  {
-   "titulo": "Copel (CPLE6) tem salto de 80% no lucro do 3º trimestre, a R$ 673 milhões",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmNFU3ZValJSRzVmRW9LWnJzYi0wZy1zWEpKU1hiVUhyc0FZVHFoYWNqSjRXWWczNVFKUmhqUVZJSC1ZeGEtMHVZd3BIUHF5UjZ0RGFIZXJ2eGFBMTVtMGZiLTBESW84dzJLcE1jYVVWSXd2WklTNjlHZGJFdHQ2UEU3SlcwNTc1dWZMY1Rn0gGTAUFVX3lxTE1JOGJfbFRGa2xyVFRGOWJnUkVaaDFnM3JzM1k2ak03QUR0U2plSnZGSWxZaUhuNFgzS01SckVuaWM4ZXdKdlE5a3NNTUc5M19Jd1p0Z3BGdjh5VTZYNEtnYXlPMUJXQjlqYlZralF1SUFvX1ktUVBXX1BhTG1kZENjbmJnckZxdVMtc2dTbTFnNjNSdw?oc=5",
-   "publicado": "2026-11-12T20:01-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "CPLE6"
-   ]
-  },
-  {
-   "titulo": "Lucro da B3 vai a R$ 1,38 bi e administração espera ‘ressaca’ pós-eleição",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVEtHbmZzSHJhaXhiaXpWclE3cG5oTnMyZGtmUVhYVmJ2bDkySVp3X01MeVoyNHVVX3pCY1Y1Y0RWX3c0azdEbmdILW1JNEE3cnhsbTdkM0NUSW0xelY4R0FQWDN6Qk1kc2Nwbks0V1BiYk1VLXpRY3RFMGVEVzBRblY5RzE5UXdTMlBiZUY5VTRXcmoxTVczdU5fWHhxVllQVXpYRkQ2eHM2bjRzSTRRNmdGR2RnU0dEcG9lZDFGc9IBzgFBVV95cUxPMzh3cndBRTByUUg5VXV4OHZCLVNjWW9Bb0pneGZTYURZSjVZV1hkcVR6dlVJX2xmbUpDMkVVa2pRcFBDZXJMMHBOcVhVYlRHRGdOY1E2TTctejU4OU1kOVRXbHpxaUowYllMZnJ0UFZLVlBWOHg0ZktINDdsNEw1M2h2SzJYa2gzVld0cUEzUkhNSTRIRTQzckdYQjBBLUduMHZ3a1ZLQ1Q4TTViNGlzYzJ0Q3l1bG01WHI5eElRNzhrQm91a0k5cTlwQnIxQQ?oc=5",
-   "publicado": "2026-11-12T19:53-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "B3SA3"
-   ]
-  },
-  {
-   "titulo": "B3 (B3SA3) tem lucro líquido recorrente de R$ 1,4 bilhão, alta anual de 10%",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYnB3QTdyVThmNkRPdUNSdExGazRwYTd3cVFkaUxIM3JJckNGd25icTBCNEhpN3Fvd0tUNUNaSjVwOU5PRjVvWFFPTE9xdEh6NFpVbzgtMGpoUm1ad0U2ZDVvQkJXajJMRnhoSERuQUV3S2Y0aC1sdjFPdEJac1BNWlpIR1pQOW9sN1HSAY8BQVVfeXFMTWtJcGNHX1R1UURUbjlJaDRPc0JJd3JWT1JVSmthempTbjRnN2Z1YXpTamJBeXQ0LVVHeDdaTWVYSW1ETUFsaXlZRkdoTjlOQmpINXBFa1FTQW1PR2VjRHdrS1M4QWVXRWRzZ1RDMlVCMXA3QjU3N2kzdGVINnFmYlh4Vm1wc2tzZjBrTUdySjQ?oc=5",
-   "publicado": "2026-11-12T19:41-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "B3SA3"
-   ]
-  },
-  {
-   "titulo": "Banco do Brasil tem maior queda diária em 18 meses perde R$ 8 bi na bolsa",
-   "fonte": "Exame",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnZGaVNKbHJ6XzdiWUZhblZiblEtdGU2aGltZVlxQ3N1VmttRFRKUHBlRmZkMTFYc2xDakFDVmF2VWl6S2ZqYklyYjRoaFlzRVJYMl9rNEhVSWp0UGt3RVFEUlFZcDd2SFlwLUxXZUhKRE5LQmNVTVB4ZE41TDl6SEkweklnd3ktRUFZTEs5ZEttaXFzRjJ3WUxpQmFZVHpOeGdTSTZVYkNBTW8?oc=5",
-   "publicado": "2026-11-12T19:33-03:00",
+   "titulo": "Entidades do agro criticam declarações da direção do Banco do Brasil sobre inadimplência do setor",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/entidades-do-agro-criticam-declaracoes-da-direcao-do-banco-do-brasil-sobre-inadimplencia-do-setor.shtml",
+   "publicado": "2026-11-12T23:30-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
@@ -295,23 +26,34 @@
    ]
   },
   {
-   "titulo": "Estoque de renda fixa na B3 supera R$ 10 tri pela primeira vez",
+   "titulo": "Fiscal pesa, mas não explica tudo sobre juro alto no Brasil",
    "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/estoque-de-renda-fixa-na-b3-supera-r-10-tri-pela-primeira-vez.shtml",
-   "publicado": "2026-11-12T19:20-03:00",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/braulio-borges/2026/11/fiscal-pesa-mas-nao-explica-tudo-sobre-juro-alto-no-brasil.shtml",
+   "publicado": "2026-11-12T23:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Braskem tem prejuízo líquido de R$ 1,1 bilhão no 3º tri",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/braskem-tem-prejuizo-liquido-de-r-11-bilhao-no-3o-tri.shtml",
+   "publicado": "2026-11-12T22:26-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
    "tickers": [
-    "B3SA3"
+    "BRKM5"
    ]
   },
   {
-   "titulo": "Senado aprova urgência para votar projeto de lei com ajuste fiscal que pode chegar a R$ 56 bilhões",
+   "titulo": "Veja como votou cada senador no projeto de lei com medidas de ajuste fiscal",
    "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/senado-projeto-lei-ajuste-fiscal/",
-   "publicado": "2026-11-12T18:56-03:00",
+   "url": "https://www.estadao.com.br/economia/veja-como-votou-cada-senador-no-projeto-de-lei-com-medidas-de-ajuste-fiscal/",
+   "publicado": "2026-11-12T22:08-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
@@ -319,86 +61,24 @@
    "tickers": []
   },
   {
-   "titulo": "Bolsas de Nova York caem com pressão de crise da Nvidia; dólar e petróleo avançam",
+   "titulo": "Ajuste fiscal: entenda, ponto a ponto, o projeto do governo aprovado no Senado",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaWFHR3hFYkl3UDZYTkJMYUtPSE1Xc2ZKVlg4MTZUSlVOekYwYXJkNDNMNnNPMmZYcFdsMUdMUTRGdUYyUEQ0RGFSc2xkNXRzb0Vjd3FGb2FXUi1ObFA5RW03UFg2aFFwc0pFODR4UEtPcDhGU1FlMDd3RDdoSVBrNzVTalBKdVhGeTlySFNUZWlfQURKcy01cllzeUtHNjJKYTA3MjI3WXJ3bG1NcFJQMFpmallLNS14Q0FpNDVtTGVaQ1VEWWotN014d0JkWnhHeDZJS2FhNmY4aXljNC1kbEMwN0tkUdIB6wFBVV95cUxQVzkyWWlfalN5anZBdGNZY0RLX3Y2dzdESTFfX3VCUUhjRXFXVnlmQXNVZldENTJCeVctd1VQemZZUjQyNE1UT3RTZXVvZWxYRTNrUlhpY2FxaUlnSzF4ZnU4ZjhXWTlWWElqRmdvdXpHZVBFS2lfT1JxbzdpcHNXVi1MblhzUGJBbFh0ejFtRXZiWmJhSUIyTmp6QzNldktoa2RfVjRsWFZoWl9jWTRPejBPMVB0cF9Hbk9QV2VGbElaZnJUTTdCNVJSWWw0OEJrRjZuSnFwdHZ1MDZsWDNkN1BfWUoxSzFyUGc0?oc=5",
-   "publicado": "2026-11-12T18:52-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa fecha no vermelho em meio a preocupações com o ajuste fiscal e à temporada de balanços",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZTGZwc25zdGttQ1dhRUpVVllRdGVrSF9zWWs3eU5TN3k1c3ZNbEcxUDZHc2N0SDhrTDZYVTVFN0U1MUY5SWJXUnBwUTluTHg1ZnB5M3RRZjYtWm9KbHB3MkJRNThBZw?oc=5",
-   "publicado": "2026-11-12T18:51-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa recua com fiscal no Brasil e juros nos EUA; dólar atinge maior nível em 17 meses",
-   "fonte": "Exame",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjVPVTJ1UHlhMTgxV3lDY0lBM1VHYUN5RVJUSUlPVEh6N24xSHR0QUkwcVZSX2V5dVNLemNFWkVOVmY1bGFNTUd2dmpDODl2b1dub2dKejBsUFhiUloySi1vVV9OYjROZVVpTjJEbjJOeEhINlBCTXM1VUxjWUU3Z1VvcGRlenVIbFlQbHl1MW93N0NacTZIT2RfdnMwU0Rxakh1SWN0MGhkZlJNeWNnVE5iWHVaR201dU5CZWRNX3o?oc=5",
-   "publicado": "2026-11-12T18:40-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa fecha em queda com mau humor local e baixa nas ações do BB",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQalFoVDNabHQzUGliZTFVQ3U0NDlTOHptYURKZVhWdkN0T25pYXBMb2hFckVSczIwZW9LRWc2TE5Yc1Rpb1VJd0FwcmEzSDU1SDhldXdfektXaGNMYlhCV0RQYjltZHpUc05NWURSVGp4Mkg3TS1GUkVhbzRfdHF6NGlOVFl5NG1nRGU0UGp4VHpZQkhIVzd4Nm8zRVBNNXJjOEJVZVhHVE9UbGRWSVMzZDBHOXE5VE40T1oxMzJfSzJ3Z1nSAdIBQVVfeXFMTUxQQ0h0bjJwekFOdGRoQW8wUmNlSjQ5NnNQTXlrOE44RFhYdWJGZy1QOXY3X015Y2MyTEdDYWdlZGh5Z2M1QTRwTFFvdGlUSWRNcFllZ2pubGc2dHFsc0ZDcUxITTRWNW81cU52ZWk1UnoySUcyV2F2dlp1RzhnN05CZ3lkNHNVN1FSdkRWdDF3NEF3Z0daaDVPZHNyanYzZjdJcVhsNHYxQW9VZDllMVlfcmhObGJEZFhGaXoxZmI1SW15LWZhX0VyaVZveGVXbEx3?oc=5",
-   "publicado": "2026-11-12T18:38-03:00",
+   "url": "https://www.estadao.com.br/economia/ajuste-fiscal-entenda-ponto-a-ponto-o-projeto-do-governo-aprovado-no-senado/",
+   "publicado": "2026-11-12T21:53-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN"
+    "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Senado inicia votação do 'plano Moretti' de ajuste fiscal, apesar de protesto da oposição",
+   "titulo": "Qual é o preço do dólar que vai fazer governo e políticos acordarem? R$ 6?",
    "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-inicia-votacao-do-plano-moretti-de-ajuste-fiscal-apesar-de-protesto-da-oposicao.shtml",
-   "publicado": "2026-11-12T18:34-03:00",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/qual-e-o-preco-do-dolar-que-vai-fazer-governo-e-politicos-acordarem-r-6.shtml",
+   "publicado": "2026-11-12T21:43-03:00",
    "impacto": "medio",
    "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa volta a cair, com foco no fiscal, IPCA e exterior; dólar sobe mais de 1%",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNTY4RS10S0VHVVVielFWNmJEMFdPcUhFS19NRDVNbElFYlRSYzVuS2Jra1BoSEJsUUlua0dWZWV6WGNDNU5KMDVjUnRBcktMaFRuakxoVGp5eHZlcGlpNjVBVm51YXdraXJaUVIyYUY2QWNFZ1BYRE1SZmlkYzB0d0dLUVFYUFNUU2J2ckM2dw?oc=5",
-   "publicado": "2026-11-12T18:28-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
-   "publicado": "2026-11-12T18:20-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
+    "WDO"
    ],
    "tickers": []
   }
