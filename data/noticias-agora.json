@@ -2,31 +2,6 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Galípolo afirma ter 'desafio pedagógico' de explicar política monetária e diz que 'verdade custa caro'",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/galipolo-afirma-ter-desafio-pedagogico-de-explicar-politica-monetaria-e-diz-que-verdade-custa-caro.shtml",
-   "publicado": "2026-11-13T17:03-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar sobe a R$ 5,65, com reação a pacote fiscal; na semana, alta foi de 2,6%",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOakIwN1ZneWFjMTlUOWx6VjItUERCWEN5RjM4eWI3WVNJeVEycmQ4ekxtaEpJMWZUMThCQjltcXdUNFY5THBqNTQzVkl0Y0puNDNQVU5JSExWaVNRdURlU3BzQTFMaUtmOEY5VFAwR3k5bFpOa3JDX1FCcUIwWFBVWXdiMkp0aUNRcVRGQmpEM1I5X3c2SHZZcjVGQkjSAaIBQVVfeXFMT2ZISV9Ic0pkbFJueDZKSXhad1p3MGdySWplR0llTVJ5TGdyOXBRdzBrVU1mNWd5SmVJWndNbkRaZncxaEdualY0ME54a3JZSGZoalV1U1hrbjFiVi13MW9vRnp0UmZjY01fLVlEUHAtb19IUHdxcVFOM0RNa3NsX2NIV05GczZSdUg0RGlaSGlLLXZOQm1xVUZiVnYxRE1ieFhn?oc=5",
-   "publicado": "2026-11-13T17:42-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
    "titulo": "É possível investir em ações internacionais sem apostar no dólar?",
    "fonte": "Folha",
    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/e-possivel-investir-em-acoes-internacionais-sem-apostar-no-dolar.shtml",
@@ -88,17 +63,6 @@
    ]
   },
   {
-   "titulo": "Ibovespa contraria índices dos EUA e sobe de olho em balanços; Nubank salta em NY",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU2lTMHljclVvY3FWQTVCTkJrbFpQUHNEVmZwNm9VVDdPZ1dCWGJDRWFmcEltemtYRXFHcUlFREQ0QUhOc09SYjlTZHJ5UDVzRzFJYTExMjJoNWRadjBLNm5lU0NwMDdfdEFhQ3lPTi1tdmc2NkMtai1ZN00wTVNOYlBxZmowQUF3bW1XTTBWR3BaeVI5aVp0QmRWVkV5WXBobDdGWG9sRXlkb0M2NG9nZjl1UWVsMFhGZEZfQlpCMnM0dzBlQTlOdy1naW11b0M0bUNwbDFWampwREgxajNGZ09NLUdpczBN0gHuAUFVX3lxTE5TQzBUbmFpdk8tNFR0NnozNDJSOU51MWx2MWpQVzRDTzhSbjZCOVhmWHR2bHN1S250R0d1a25mZUx2RnViLWNOQkNBNll5M3E5Vi0zOE5iemtSd24xMTl4TEN4QW9kZWZCbXBab0VyNU5EOEtieWJpM0psdXdCS3JJMUdEQUg3dzFLaEt2U3RmZnpMY0M0VmxaMEJYQ3hKSUhMWVI1V3ZBeGpZaFFWbklZMFB2Q3lXSGthREJTV21kVTdFbG9YZUtvSktiT3RtNWNZV3h1ZWtOVW1wS280bkNMS29ENkpvU3g5dThDSkE?oc=5",
-   "publicado": "2026-11-13T18:28-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
    "titulo": "Ibovespa retoma o caminho da vitória e tem segunda semana positiva; dólar sobe",
    "fonte": "InfoMoney",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUF94d1lCTTNSVFQ3NTFXUkFWUjFLV2I4Qi1rREVaaDBLZHFXT01uR2dhNjdLcV9sSWV5M3ptTXoyWHplOGsyTmRxTngwbHhXTUpmXzZ5VVF2b3QzRVdaR1hLeHFhVlN6V1dVQl8xZ3Zya1ByU0FTMnptUWlOazN4NFBMUkNNdklHcHF4QTJ3SQ?oc=5",
@@ -107,31 +71,6 @@
    "ativos": [
     "WIN",
     "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa sobe com Petrobras, Itaú e balanços e acumula alta de 2,35% na semana",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeWM4VEZ2TVlGTkRudjJRajRzZW5UUWZxWHBFNGxubW5VcThUZ0MyRVRRdlA1OXZqb1RyRXBtZUl1MXFyN3E5T0JMRVBmM1JycjFweDQycnNVNmxMcTNNVkQwWVV6dDhJM3FiYjZkZ1pqRWNCN3I2UnhNVFB3NkFidHpodlFEMnp4ZWZYQ2pJOWtrOHZFMmxJZ0pRQzZHT3JsQXktOEhGN19QbmtSZnVjLWpEMm1SeFl0RjBJbjdLMG12Y1VlcTNOaEZVR3FrRUV3RzBrZG9rc9IB5gFBVV95cUxOUWU4U0VoZWx0ZTVrTkhwb0xhejZJRjg0V3hmSlEwWnc2dWd3Z0hQUnJJSDB4b2IwUm5qRVR0cXYzQkRoTURfMWRaYzk2X1lqVWpXUGdhRmNWQktJQ1JTeEctLUZ4SHl3OXFidlBXbExNNzF0cENBTF9weTh3blZ6cXpYYThka19sR2d5TmxELWVxU0pMc1ZSWjFHT2pBcExrZml3SU9VVmlBY1JMVzM3UXotLTFFSlkwaDRLN28xWXhxTi1YU25UU0hMSld2aW9tVWV2NHpuY3g0NkM1VFlBV28xM1M4QQ?oc=5",
-   "publicado": "2026-11-13T18:31-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "ITUB4",
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Tesouro Direto tem alívio nas taxas com aprovação de ajuste fiscal; veja como foi a sexta-feira",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY1h3RnlRUGhHcS1DN24wdGgyWG1XUzg2RFEzQlRpVV9sQWxRMHVpOXMweXFSNUx2eWRRWjBTUUhfaHk0a01RalZEb3Jud1FlN2pRU0wyTE9wWHFjRnFfOGRLVzZPUjJHNV9qTGdrY0lFLTNERjdDRHV3eHdnS0d2Qk04VVNwQ0JlWW5MYnlnM0p3OVZ1OWZVU0NZYTFhTE5KUXMwckdlODFmNzJjRlJ5bEQ0VkloX0tRcnNrWDBjU3pWNmRqRTdlMmJ1bWF5ZnA0NTFv0gHYAUFVX3lxTE5kWWJWWV9KRE9XUF8wZm9uemVPay1CQ2RfbS1qRDIteWZHTENBU3QybnIyYWpjdmNpdnRHR01LWnFXdVo3Z3BIMFhPOWMyWjZmaUV4TzJjTmtob043MUlTVHU5eXJ3aVMxYXpxTEZlM2pGYVBxTnBaRDRrR2ctMkNnN1daNm9jYzY4WU1teFQxQUp4SVdCQ2lmMHlfVVBSNFhUQmdLUENRVDFFTHVUcWRBZGlMWVZ0ZG43cTN0UjNJcnlfcnlFVmk1VU00U0NQajZUek1NOHBUYg?oc=5",
-   "publicado": "2026-11-13T18:33-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
    ],
    "tickers": []
   },
@@ -174,6 +113,17 @@
    "tickers": []
   },
   {
+   "titulo": "Projeto fiscal: Setor produtivo ainda vai tentar barrar limite a compensações tributárias no Senado",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/projeto-fiscal-setor-produtivo-ainda-vai-tentar-barrar-limite-a-compensacoes-tributarias-no-senado/",
+   "publicado": "2026-11-13T19:26-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
    "titulo": "Tesouro prevê normalizar sistemas fora do ar até segunda-feira",
    "fonte": "Agência Brasil",
    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/tesouro-preve-normalizar-sistemas-fora-do-ar-ate-segunda-feira",
@@ -196,10 +146,32 @@
    "tickers": [
     "MGLU3"
    ]
+  },
+  {
+   "titulo": "Nubank recebe aval do BC para comprar Banco Porto Real e, assim, obter licença bancária no Brasil",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/negocios/nubank-recebe-aval-do-bc-para-comprar-banco-porto-real-e-assim-obter-licenca-bancaria-no-brasil/",
+   "publicado": "2026-11-13T20:06-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Juros futuros caem com pacote fiscal aprovado pelo Senado no radar",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY2xsc0djWUdlOXJWb0xsY0VCUTJ5RkZzbzZ3MkF4U2ZLVlRkYlQxZ0YwMmp5cm1DVDZHclRKNlR3WmFHTzQ2dlNTMlE0ZnpXUThoMXFsZmxfQXVldDNtSEpoajlFSEsxS3RaV293bXY3ZE1Oc05nOThRcVdHcHIydzRHSWliTjdpZVJDYVU0UGhPa1pGNlJ3elZFX3p0akJKWkd2V2RMQUlfdndZVE5pZ0NlU2FsYlBCNlJB?oc=5",
+   "publicado": "2026-11-13T20:47-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-13T19:41-03:00",
+ "atualizado_em": "2026-11-13T20:57-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -210,10 +182,43 @@
   "Exame",
   "Folha",
   "InfoMoney",
-  "Money Times",
-  "Valor"
+  "Money Times"
  ],
  "noticias": [
+  {
+   "titulo": "Juros futuros caem com pacote fiscal aprovado pelo Senado no radar",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY2xsc0djWUdlOXJWb0xsY0VCUTJ5RkZzbzZ3MkF4U2ZLVlRkYlQxZ0YwMmp5cm1DVDZHclRKNlR3WmFHTzQ2dlNTMlE0ZnpXUThoMXFsZmxfQXVldDNtSEpoajlFSEsxS3RaV293bXY3ZE1Oc05nOThRcVdHcHIydzRHSWliTjdpZVJDYVU0UGhPa1pGNlJ3elZFX3p0akJKWkd2V2RMQUlfdndZVE5pZ0NlU2FsYlBCNlJB?oc=5",
+   "publicado": "2026-11-13T20:47-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Nubank recebe aval do BC para comprar Banco Porto Real e, assim, obter licença bancária no Brasil",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/negocios/nubank-recebe-aval-do-bc-para-comprar-banco-porto-real-e-assim-obter-licenca-bancaria-no-brasil/",
+   "publicado": "2026-11-13T20:06-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Como Trump fracassou na tentativa de conter a China e restaurar a hegemonia americana",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/celso-ming/como-trump-fracassou-na-tentativa-de-conter-a-china-e-restaurar-a-hegemonia-americana/",
+   "publicado": "2026-11-13T20:03-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
   {
    "titulo": "Ibovespa na semana: balanços ditam rumos e CSN e BB são destaques de baixa; Magalu salta quase 40%",
    "fonte": "Estadão",
@@ -232,6 +237,17 @@
    "fonte": "Agência Brasil",
    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/tesouro-preve-normalizar-sistemas-fora-do-ar-ate-segunda-feira",
    "publicado": "2026-11-13T19:27-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Projeto fiscal: Setor produtivo ainda vai tentar barrar limite a compensações tributárias no Senado",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/projeto-fiscal-setor-produtivo-ainda-vai-tentar-barrar-limite-a-compensacoes-tributarias-no-senado/",
+   "publicado": "2026-11-13T19:26-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
@@ -273,42 +289,6 @@
    "ativos": [
     "WIN",
     "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Tesouro Direto tem alívio nas taxas com aprovação de ajuste fiscal; veja como foi a sexta-feira",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY1h3RnlRUGhHcS1DN24wdGgyWG1XUzg2RFEzQlRpVV9sQWxRMHVpOXMweXFSNUx2eWRRWjBTUUhfaHk0a01RalZEb3Jud1FlN2pRU0wyTE9wWHFjRnFfOGRLVzZPUjJHNV9qTGdrY0lFLTNERjdDRHV3eHdnS0d2Qk04VVNwQ0JlWW5MYnlnM0p3OVZ1OWZVU0NZYTFhTE5KUXMwckdlODFmNzJjRlJ5bEQ0VkloX0tRcnNrWDBjU3pWNmRqRTdlMmJ1bWF5ZnA0NTFv0gHYAUFVX3lxTE5kWWJWWV9KRE9XUF8wZm9uemVPay1CQ2RfbS1qRDIteWZHTENBU3QybnIyYWpjdmNpdnRHR01LWnFXdVo3Z3BIMFhPOWMyWjZmaUV4TzJjTmtob043MUlTVHU5eXJ3aVMxYXpxTEZlM2pGYVBxTnBaRDRrR2ctMkNnN1daNm9jYzY4WU1teFQxQUp4SVdCQ2lmMHlfVVBSNFhUQmdLUENRVDFFTHVUcWRBZGlMWVZ0ZG43cTN0UjNJcnlfcnlFVmk1VU00U0NQajZUek1NOHBUYg?oc=5",
-   "publicado": "2026-11-13T18:33-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa sobe com Petrobras, Itaú e balanços e acumula alta de 2,35% na semana",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeWM4VEZ2TVlGTkRudjJRajRzZW5UUWZxWHBFNGxubW5VcThUZ0MyRVRRdlA1OXZqb1RyRXBtZUl1MXFyN3E5T0JMRVBmM1JycjFweDQycnNVNmxMcTNNVkQwWVV6dDhJM3FiYjZkZ1pqRWNCN3I2UnhNVFB3NkFidHpodlFEMnp4ZWZYQ2pJOWtrOHZFMmxJZ0pRQzZHT3JsQXktOEhGN19QbmtSZnVjLWpEMm1SeFl0RjBJbjdLMG12Y1VlcTNOaEZVR3FrRUV3RzBrZG9rc9IB5gFBVV95cUxOUWU4U0VoZWx0ZTVrTkhwb0xhejZJRjg0V3hmSlEwWnc2dWd3Z0hQUnJJSDB4b2IwUm5qRVR0cXYzQkRoTURfMWRaYzk2X1lqVWpXUGdhRmNWQktJQ1JTeEctLUZ4SHl3OXFidlBXbExNNzF0cENBTF9weTh3blZ6cXpYYThka19sR2d5TmxELWVxU0pMc1ZSWjFHT2pBcExrZml3SU9VVmlBY1JMVzM3UXotLTFFSlkwaDRLN28xWXhxTi1YU25UU0hMSld2aW9tVWV2NHpuY3g0NkM1VFlBV28xM1M4QQ?oc=5",
-   "publicado": "2026-11-13T18:31-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "ITUB4",
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Ibovespa contraria índices dos EUA e sobe de olho em balanços; Nubank salta em NY",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU2lTMHljclVvY3FWQTVCTkJrbFpQUHNEVmZwNm9VVDdPZ1dCWGJDRWFmcEltemtYRXFHcUlFREQ0QUhOc09SYjlTZHJ5UDVzRzFJYTExMjJoNWRadjBLNm5lU0NwMDdfdEFhQ3lPTi1tdmc2NkMtai1ZN00wTVNOYlBxZmowQUF3bW1XTTBWR3BaeVI5aVp0QmRWVkV5WXBobDdGWG9sRXlkb0M2NG9nZjl1UWVsMFhGZEZfQlpCMnM0dzBlQTlOdy1naW11b0M0bUNwbDFWampwREgxajNGZ09NLUdpczBN0gHuAUFVX3lxTE5TQzBUbmFpdk8tNFR0NnozNDJSOU51MWx2MWpQVzRDTzhSbjZCOVhmWHR2bHN1S250R0d1a25mZUx2RnViLWNOQkNBNll5M3E5Vi0zOE5iemtSd24xMTl4TEN4QW9kZWZCbXBab0VyNU5EOEtieWJpM0psdXdCS3JJMUdEQUg3dzFLaEt2U3RmZnpMY0M0VmxaMEJYQ3hKSUhMWVI1V3ZBeGpZaFFWbklZMFB2Q3lXSGthREJTV21kVTdFbG9YZUtvSktiT3RtNWNZV3h1ZWtOVW1wS280bkNMS29ENkpvU3g5dThDSkE?oc=5",
-   "publicado": "2026-11-13T18:28-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
    ],
    "tickers": []
   },
@@ -382,31 +362,6 @@
    "impacto": "medio",
    "ativos": [
     "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar sobe a R$ 5,65, com reação a pacote fiscal; na semana, alta foi de 2,6%",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOakIwN1ZneWFjMTlUOWx6VjItUERCWEN5RjM4eWI3WVNJeVEycmQ4ekxtaEpJMWZUMThCQjltcXdUNFY5THBqNTQzVkl0Y0puNDNQVU5JSExWaVNRdURlU3BzQTFMaUtmOEY5VFAwR3k5bFpOa3JDX1FCcUIwWFBVWXdiMkp0aUNRcVRGQmpEM1I5X3c2SHZZcjVGQkjSAaIBQVVfeXFMT2ZISV9Ic0pkbFJueDZKSXhad1p3MGdySWplR0llTVJ5TGdyOXBRdzBrVU1mNWd5SmVJWndNbkRaZncxaEdualY0ME54a3JZSGZoalV1U1hrbjFiVi13MW9vRnp0UmZjY01fLVlEUHAtb19IUHdxcVFOM0RNa3NsX2NIV05GczZSdUg0RGlaSGlLLXZOQm1xVUZiVnYxRE1ieFhn?oc=5",
-   "publicado": "2026-11-13T17:42-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Galípolo afirma ter 'desafio pedagógico' de explicar política monetária e diz que 'verdade custa caro'",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/galipolo-afirma-ter-desafio-pedagogico-de-explicar-politica-monetaria-e-diz-que-verdade-custa-caro.shtml",
-   "publicado": "2026-11-13T17:03-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
    ],
    "tickers": []
   }
