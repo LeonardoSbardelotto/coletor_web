@@ -1,7 +1,7 @@
 {
  "mercado": {
   "data": "2026-11-13",
-  "atualizado_em": "2026-11-13T14:13-03:00",
+  "atualizado_em": "2026-11-13T15:46-03:00",
   "ibov": {
    "anterior": 171324.31,
    "pontos": [
@@ -195,11 +195,87 @@
     ],
     [
      "13:55",
-     172118.0
+     172128.0
     ],
     [
-     "13:58",
-     172121.0
+     "14:00",
+     172173.0
+    ],
+    [
+     "14:05",
+     172385.0
+    ],
+    [
+     "14:10",
+     172414.0
+    ],
+    [
+     "14:15",
+     172441.0
+    ],
+    [
+     "14:20",
+     172277.0
+    ],
+    [
+     "14:25",
+     172235.0
+    ],
+    [
+     "14:30",
+     172243.0
+    ],
+    [
+     "14:35",
+     172351.0
+    ],
+    [
+     "14:40",
+     172345.0
+    ],
+    [
+     "14:45",
+     172290.0
+    ],
+    [
+     "14:50",
+     172275.0
+    ],
+    [
+     "14:55",
+     172289.0
+    ],
+    [
+     "15:00",
+     172307.0
+    ],
+    [
+     "15:05",
+     172366.0
+    ],
+    [
+     "15:10",
+     172404.0
+    ],
+    [
+     "15:15",
+     172275.0
+    ],
+    [
+     "15:20",
+     172442.0
+    ],
+    [
+     "15:25",
+     172425.0
+    ],
+    [
+     "15:30",
+     172431.0
+    ],
+    [
+     "15:31",
+     172420.0
     ]
    ]
   },
@@ -456,82 +532,91 @@
     ],
     [
      "14:10",
-     5.6394
+     5.6405
     ],
     [
-     "14:13",
+     "14:15",
+     5.6406
+    ],
+    [
+     "14:20",
+     5.6426
+    ],
+    [
+     "14:25",
+     5.6426
+    ],
+    [
+     "14:30",
+     5.641
+    ],
+    [
+     "14:35",
+     5.6406
+    ],
+    [
+     "14:40",
+     5.6395
+    ],
+    [
+     "14:45",
      5.6396
+    ],
+    [
+     "14:50",
+     5.6412
+    ],
+    [
+     "14:55",
+     5.6401
+    ],
+    [
+     "15:00",
+     5.6438
+    ],
+    [
+     "15:05",
+     5.6421
+    ],
+    [
+     "15:10",
+     5.6445
+    ],
+    [
+     "15:15",
+     5.6448
+    ],
+    [
+     "15:20",
+     5.6428
+    ],
+    [
+     "15:25",
+     5.6436
+    ],
+    [
+     "15:30",
+     5.6414
+    ],
+    [
+     "15:35",
+     5.6453
+    ],
+    [
+     "15:40",
+     5.6471
+    ],
+    [
+     "15:45",
+     5.6449
+    ],
+    [
+     "15:46",
+     5.6469
     ]
    ]
   },
   "marcadores": [
-   {
-    "hora": "11:26",
-    "titulo": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
-    "fonte": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": 0.62,
-    "dolar30": -0.28
-   },
-   {
-    "hora": "12:30",
-    "titulo": "Dólar hoje vira para baixa de olho no fiscal e dados econômicos",
-    "fonte": "InfoMoney",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOakIwN1ZneWFjMTlUOWx6VjItUERCWEN5RjM4eWI3WVNJeVEycmQ4ekxtaEpJMWZUMThCQjltcXdUNFY5THBqNTQzVkl0Y0puNDNQVU5JSExWaVNRdURlU3BzQTFMaUtmOEY5VFAwR3k5bFpOa3JDX1FCcUIwWFBVWXdiMkp0aUNRcVRGQmpEM1I5X3c2SHZZcjVGQkjSAaIBQVVfeXFMT2ZISV9Ic0pkbFJueDZKSXhad1p3MGdySWplR0llTVJ5TGdyOXBRdzBrVU1mNWd5SmVJWndNbkRaZncxaEdualY0ME54a3JZSGZoalV1U1hrbjFiVi13MW9vRnp0UmZjY01fLVlEUHAtb19IUHdxcVFOM0RNa3NsX2NIV05GczZSdUg0RGlaSGlLLXZOQm1xVUZiVnYxRE1ieFhn?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": 0.1,
-    "dolar30": 0.06
-   },
-   {
-    "hora": "12:38",
-    "titulo": "Governo tomará medidas em acréscimo para garantir cenário fiscal benigno, diz Moretti",
-    "fonte": "Estadão",
-    "url": "https://www.estadao.com.br/economia/governo-medidas-acrescimo-cenario-fiscal-benigno-moretti/",
-    "impacto": "medio",
-    "ativos": [
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": 0.2,
-    "dolar30": -0.03
-   },
-   {
-    "hora": "12:40",
-    "titulo": "10-year Treasury yield moves to 5.15% as traders weigh producer price report",
-    "fonte": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
-    "impacto": "medio",
-    "ativos": [
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": 0.22,
-    "dolar30": -0.03
-   },
-   {
-    "hora": "12:43",
-    "titulo": "Juros futuros têm leve alta após pacote fiscal e varejo acima do esperado",
-    "fonte": "CNN Brasil",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVnlvQ2RyZDVBQVNibVUzMUFDeHc1cDQxeGxrc0c3R3d2OWFzdnhESVdGMlhfREhaRW1ucDlSaHd2UU5wM05fbUlNY3NmSmZqREJiaGZpRDhfNzlfM0w1WU5UODVKLVI1c003YW5FR3NJNlhpRkNhajRtYkd5VUdRQkxCM2NiNE44aGhLVGJoOVIzaFl4akJnRHFtUDh3TVc3X0o1VXJSUUsyNnk4MElHSWNmaVIzTjFmTlV1SHgwSm05SlVtSmo2aF9IZkc?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": 0.27,
-    "dolar30": -0.06
-   },
    {
     "hora": "13:05",
     "titulo": "Nubank salta 8% em NY após entregar lucro recorde; BDR também dispara na B3",
@@ -548,23 +633,23 @@
     "dolar30": 0.04
    },
    {
-    "hora": "13:07",
+    "hora": "13:05",
     "titulo": "CSN desaba 10% após balanço e lidera perdas do Ibovespa; veja maiores altas e baixas",
     "fonte": "Estadão",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeHBUR2dPbkhsdktwWjJqdkM4eXBYdmE4NWJjVVI3bzBYTFNIeWNiR0NYWXZ2OFFhMVRiYXpTeVctcU9Yc2NTSERwdkl2YVpRX3ZSUHVfbE9zd1c0WFd1Q0QtcGRleG9kVkI0ekp1NGhrNVNYRHJRUDhFdVBwLUs1ZWFMSHh1R2lZQ1BOaXV4M2VFQnZOY2VuSXdVZWtzMlBMZm5EVFI1TjRXN1ZtMzlFMVU2WFBoSW1rMERrczUzZld0NXluSDY5aVBreHIyZFV3X205akZEMW9VMmZtQ0R6dkxBdw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMnhvamE3aENHMUgtc00tT3o1Y2FOMWZVSGhtQ0JaQVRneGM4TkxaYzVPNEtxQl9CeUdSNkp1T1EtcWZVTlhneVV1d2dzVG9pS3dCVUtveTBIUThHVXh5clZGMFVJbkExbTZ2Z3dwVklpR2JZQjBQVE1Db0I2VTJ3YVJrVWZJcW9kYU56YjJkQ2FzZE1COXRXUnBJSlA3THJ3WVVXaDVtWmZmSG1ueThFNmYydGV1NmFaeFVYV0laOUNlcVMtSExCdHRPR3hqb0lWT09GRUFBbVcwSEJDeWfSAd4BQVVfeXFMTTJ4b2phN2hDRzFILXNNLU96NWNhTjFmVUhobUNCWkFUZ3hjOE5MWmM1TzRLcUJfQnlHUjZKdU9RLXFmVU5YZ3lVdXdnc1RvaUt3QlVLb3kwSFE4R1V4eXJWRjBVSW5BMW02dmd3cFZJaUdiWUIwUFRNQ29CNlUyd2FSa1VmSXFvZGFOemIyZENhc2RNQjl0V1JwSUpQN0xyd1lVV2g1bVpmZkhtbnk4RTZmMnRldTZhWnhVWFdJWjlDZXFTLUhMQnR0T0d4am9JVk9PRkVBQW1XMEhCQ3ln?oc=5",
     "impacto": "alto",
     "ativos": [
      "WIN"
     ],
     "tickers": [],
-    "ibov30": -0.1,
-    "dolar30": 0.09
+    "ibov30": 0.0,
+    "dolar30": 0.04
    },
    {
     "hora": "13:07",
     "titulo": "Banco do Brasil volta a cair; BTG e Ativa cortam preço-alvo para ação",
     "fonte": "Estadão",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM3dXMFRRNnc0UXRjQi02OG1oY2I2OG12VHkwbWRKSjRpY3BQUlRMNXdibF9tTE9EM1R0RUJ2T2NRUlBiTjVLTC1nMnRCcTR3Zy14UU9RVzF0bS1Ndmc5UEJScExRQkg5TGxvSDFpR1htaU02dWdXZGhyQ0Vac2JMOWJKelRUQzdfVEhCY0xSbVlRNHFkVmdkSGk0aWw2NHYyeFdHbEdOSk5FVGNlN0Y4UnUxS0hVWDVoR3h3bElLNV91YjJSTmtwWjBnUdIBywFBVV95cUxQM3dXMFRRNnc0UXRjQi02OG1oY2I2OG12VHkwbWRKSjRpY3BQUlRMNXdibF9tTE9EM1R0RUJ2T2NRUlBiTjVLTC1nMnRCcTR3Zy14UU9RVzF0bS1Ndmc5UEJScExRQkg5TGxvSDFpR1htaU02dWdXZGhyQ0Vac2JMOWJKelRUQzdfVEhCY0xSbVlRNHFkVmdkSGk0aWw2NHYyeFdHbEdOSk5FVGNlN0Y4UnUxS0hVWDVoR3h3bElLNV91YjJSTmtwWjBnUQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR3QwYnpfcVZkUVcwSjNyY3ZQOG0ySTItdE00UEMxOWE0SUlOZHljMHB6TFI1clRNY1Zla2gtMThEMm5hRGlfNnY3V09oTm1pUVh0elE4VGVCWU5obkJhcm9RNjJXa2h4a0pyX0hsN1d6QmFobkFYRFpyOTV2WTVsTzhtaW1kdjlWckt6dFdFeVNHSzc5bk9jRms5M005eEQ3SjZnUkxhcFhTS04zeThtaGtWMGNoMVFwXzZDVG5Ddm9lMG03cHfSAcsBQVVfeXFMUDN3VzBUUTZ3NFF0Y0ItNjhtaGNiNjhtdlR5MG1kSko0aWNwUFJUTDV3YmxfbUxPRDNUdEVCdk9jUVJQYk41S0wtZzJ0QnE0d2cteFFPUVcxdG0tTXZnOVBCUnBMUUJIOUxsb0gxaUdYbWlNNnVnV2RockNFWnNiTDliSnpUVEM3X1RIQmNMUm1ZUTRxZFZnZEhpNGlsNjR2MnhXR2xHTkpORVRjZTdGOFJ1MUtIVVg1aEd4d2xJSzVfdWIyUk5rcFowZ1E?oc=5",
     "impacto": "medio",
     "ativos": [
      "WIN"
@@ -591,47 +676,6 @@
     "dolar30": 0.09
    },
    {
-    "hora": "13:12",
-    "titulo": "Ibovespa contraria índices dos EUA e sobe quase 1%; Nubank salta em NY",
-    "fonte": "Estadão",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU2lTMHljclVvY3FWQTVCTkJrbFpQUHNEVmZwNm9VVDdPZ1dCWGJDRWFmcEltemtYRXFHcUlFREQ0QUhOc09SYjlTZHJ5UDVzRzFJYTExMjJoNWRadjBLNm5lU0NwMDdfdEFhQ3lPTi1tdmc2NkMtai1ZN00wTVNOYlBxZmowQUF3bW1XTTBWR3BaeVI5aVp0QmRWVkV5WXBobDdGWG9sRXlkb0M2NG9nZjl1UWVsMFhGZEZfQlpCMnM0dzBlQTlOdy1naW11b0M0bUNwbDFWampwREgxajNGZ09NLUdpczBN0gHuAUFVX3lxTE5TQzBUbmFpdk8tNFR0NnozNDJSOU51MWx2MWpQVzRDTzhSbjZCOVhmWHR2bHN1S250R0d1a25mZUx2RnViLWNOQkNBNll5M3E5Vi0zOE5iemtSd24xMTl4TEN4QW9kZWZCbXBab0VyNU5EOEtieWJpM0psdXdCS3JJMUdEQUg3dzFLaEt2U3RmZnpMY0M0VmxaMEJYQ3hKSUhMWVI1V3ZBeGpZaFFWbklZMFB2Q3lXSGthREJTV21kVTdFbG9YZUtvSktiT3RtNWNZV3h1ZWtOVW1wS280bkNMS29ENkpvU3g5dThDSkE?oc=5",
-    "impacto": "medio",
-    "ativos": [
-     "WIN"
-    ],
-    "tickers": [],
-    "ibov30": -0.19,
-    "dolar30": 0.12
-   },
-   {
-    "hora": "13:30",
-    "titulo": "Santander vê PIB mais fraco e inflação mais teimosa no Brasil até 2027, mas mantém projeção para a Selic",
-    "fonte": "Money Times",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2RzSTJEU3hnUGQ1eDRQc3lCVnZ6bzlWS1BpNU9VYXlWR2djY0szcm9JR3pXME9DM1pxMlFmeGVmVTFzTnNNUG5YVE1MUnRTaWEtOE1ydEZnTWJwdjdFbWdyQnNjZ1hDWWcyQ09XVWd1MV9kMU5xMDdRYS1vdE1RckFZUlo0TDV1UFlDNnM2WHM3bUZUbzZ1cnVOYWVYV1dmc2RhVm9nOWNNbVdLbVI2V2pwQVltQTNzNmNFSzR5Ny0?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": -0.27,
-    "dolar30": 0.11
-   },
-   {
-    "hora": "13:30",
-    "titulo": "Risco fiscal: como as contas públicas podem influenciar dólar, juros e Bolsa?",
-    "fonte": "InfoMoney",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWktbTd4NEdtU3c3ZFUtMHRPYU5uc1laQWxZWlFnQnRZM0NfYWQ4U0ZxVjV1LW5OV0pIWWJMSGhTaWZmZFJWQUNmZ3o4aXhIYmdKUWplSzZ5Z1IwMWhqeVNQcWZxa29ZbE9NekxPWWh5U2xKd3BPVFVJZ203bWZVbUxDX1ZpOG0wU1pUcGlGbGE4VklESW5CbkJzbjRXSlRmLTdWaWRhZ3pCeGEwcWRsetIBtgFBVV95cUxQRXJhM2VRV3hvM2hxUXliWXhONUQzMW1uTE1RQUQxZ25zN0g5bG03bjkwbWVqODU4WTljdUFqamtsNk51TlJ0UFZBaFJVTTdzQ1Utc19iNGpMRzNmTVhMWFFmOERQNFRDSnRSOW5DRzFhR0hERjBHWGpVM01yLTE5MjVxTVpwUUpYTUtnbVM3Y3d2b0w2M0U4MDFSU21pQW94SUdHVE1iZEpZdFlSclE2b1QyV1hKQQ?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": -0.27,
-    "dolar30": 0.11
-   },
-   {
     "hora": "13:45",
     "titulo": "Braskem vê margens menores em 2027 e 'segue engajada' em acordo com credores, diz diretoria",
     "fonte": "Folha",
@@ -643,8 +687,8 @@
     "tickers": [
      "BRKM5"
     ],
-    "ibov30": null,
-    "dolar30": -0.05
+    "ibov30": 0.1,
+    "dolar30": -0.03
    },
    {
     "hora": "13:54",
@@ -656,8 +700,8 @@
      "WIN"
     ],
     "tickers": [],
-    "ibov30": null,
-    "dolar30": null
+    "ibov30": 0.03,
+    "dolar30": 0.04
    },
    {
     "hora": "14:05",
@@ -671,69 +715,108 @@
     "tickers": [
      "BBAS3"
     ],
+    "ibov30": -0.08,
+    "dolar30": 0.02
+   },
+   {
+    "hora": "14:21",
+    "titulo": "Ajuste fiscal não é incompatível com promessas do governo Lula 4, diz André Esteves",
+    "fonte": "Folha",
+    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ajuste-fiscal-nao-e-incompativel-com-promessas-do-governo-lula-4-diz-andre-esteves.shtml",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": -0.0,
+    "dolar30": -0.02
+   },
+   {
+    "hora": "14:39",
+    "titulo": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
+    "fonte": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": 0.01,
+    "dolar30": 0.03
+   },
+   {
+    "hora": "14:47",
+    "titulo": "Ibovespa ensaia recuperação, enquanto dólar renova máxima",
+    "fonte": "Exame",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMEI3S3Q2OVQxTzV5NjhURjg3UWVXVkhRT19CSF9haF9ocVlwaGNWZldHQ05VWFE2T1E0OE4xdGdtdEdmcjVHUk1oVmRQTk83Rk1fZkk4YXc1RklDTTdjYlNLTzIwdTBWSktUUHRuM3lsWG1YdEgxX1hjNERrMjlYQXlfRGw4TFFTM29yWTZDZmhVUXNZeFE?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WIN",
+     "WDO"
+    ],
+    "tickers": [],
+    "ibov30": -0.01,
+    "dolar30": 0.09
+   },
+   {
+    "hora": "14:51",
+    "titulo": "Metade do ganho do pacote fiscal do governo deve vir de aumento de arrecadação",
+    "fonte": "Estadão",
+    "url": "https://www.estadao.com.br/economia/pacote-fiscal-governo-aumento-arrecadacao/",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": 0.1,
+    "dolar30": 0.03
+   },
+   {
+    "hora": "15:11",
+    "titulo": "The common theme driving stocks lower — plus, 3 trades and another we want to make",
+    "fonte": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/13/the-common-theme-driving-stocks-lower-plus-3-trades-and-another-we-want-to-make.html",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": 0.05
+   },
+   {
+    "hora": "15:13",
+    "titulo": "Pacote fiscal quer gasto crescendo abaixo de 2%, mas sem afetar política do salário mínimo; entenda",
+    "fonte": "Estadão",
+    "url": "https://www.estadao.com.br/economia/pacote-fiscal-quer-gasto-crescendo-abaixo-de-2-mas-sem-afetar-politica-do-salario-minimo-entenda/",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": 0.05
+   },
+   {
+    "hora": "15:28",
+    "titulo": "Jalles (JALL3) dispara após balanço e vai na contramão de Raízen (RAIZ4) e São Martinho (SMTO3); o que agradou o mercado?",
+    "fonte": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNnZwdEFia2ZiekFSSDBvS3l1S291eXZsdjVvRjNhR2kwbTRKTFA5QV8xSUpMd245VVd4T1J3bkVTaGpWZlExdWUtcjBaMlVibEtZYVlFN3dja0l4UHlCQ1VIMGV0QW9FWHdNRHBsV3J6TDlzS2p1Q3FFUEJ2T2F3NnZhOGRwVVZCVnpQY2gtMEJCOGs2NzMzYlhuQmx1V3Ayei12TjZ1bG40WWV0b0Ytc2ZHMldWSndWc3dUODBDcWo1T1ktVUVkdmtxbG4tYTgtV2tLZkExUTN6bnJ1XzFnV1Yxbw?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "JALL3",
+     "RAIZ4",
+     "SMTO3"
+    ],
     "ibov30": null,
     "dolar30": null
    }
   ]
  },
  "hoje": [
-  {
-   "titulo": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
-   "publicado": "2026-11-13T11:26-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar hoje vira para baixa de olho no fiscal e dados econômicos",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOakIwN1ZneWFjMTlUOWx6VjItUERCWEN5RjM4eWI3WVNJeVEycmQ4ekxtaEpJMWZUMThCQjltcXdUNFY5THBqNTQzVkl0Y0puNDNQVU5JSExWaVNRdURlU3BzQTFMaUtmOEY5VFAwR3k5bFpOa3JDX1FCcUIwWFBVWXdiMkp0aUNRcVRGQmpEM1I5X3c2SHZZcjVGQkjSAaIBQVVfeXFMT2ZISV9Ic0pkbFJueDZKSXhad1p3MGdySWplR0llTVJ5TGdyOXBRdzBrVU1mNWd5SmVJWndNbkRaZncxaEdualY0ME54a3JZSGZoalV1U1hrbjFiVi13MW9vRnp0UmZjY01fLVlEUHAtb19IUHdxcVFOM0RNa3NsX2NIV05GczZSdUg0RGlaSGlLLXZOQm1xVUZiVnYxRE1ieFhn?oc=5",
-   "publicado": "2026-11-13T12:30-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Governo tomará medidas em acréscimo para garantir cenário fiscal benigno, diz Moretti",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/governo-medidas-acrescimo-cenario-fiscal-benigno-moretti/",
-   "publicado": "2026-11-13T12:38-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "10-year Treasury yield moves to 5.15% as traders weigh producer price report",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
-   "publicado": "2026-11-13T12:40-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Juros futuros têm leve alta após pacote fiscal e varejo acima do esperado",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVnlvQ2RyZDVBQVNibVUzMUFDeHc1cDQxeGxrc0c3R3d2OWFzdnhESVdGMlhfREhaRW1ucDlSaHd2UU5wM05fbUlNY3NmSmZqREJiaGZpRDhfNzlfM0w1WU5UODVKLVI1c003YW5FR3NJNlhpRkNhajRtYkd5VUdRQkxCM2NiNE44aGhLVGJoOVIzaFl4akJnRHFtUDh3TVc3X0o1VXJSUUsyNnk4MElHSWNmaVIzTjFmTlV1SHgwSm05SlVtSmo2aF9IZkc?oc=5",
-   "publicado": "2026-11-13T12:43-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
   {
    "titulo": "Nubank salta 8% em NY após entregar lucro recorde; BDR também dispara na B3",
    "fonte": "Estadão",
@@ -750,8 +833,8 @@
   {
    "titulo": "CSN desaba 10% após balanço e lidera perdas do Ibovespa; veja maiores altas e baixas",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeHBUR2dPbkhsdktwWjJqdkM4eXBYdmE4NWJjVVI3bzBYTFNIeWNiR0NYWXZ2OFFhMVRiYXpTeVctcU9Yc2NTSERwdkl2YVpRX3ZSUHVfbE9zd1c0WFd1Q0QtcGRleG9kVkI0ekp1NGhrNVNYRHJRUDhFdVBwLUs1ZWFMSHh1R2lZQ1BOaXV4M2VFQnZOY2VuSXdVZWtzMlBMZm5EVFI1TjRXN1ZtMzlFMVU2WFBoSW1rMERrczUzZld0NXluSDY5aVBreHIyZFV3X205akZEMW9VMmZtQ0R6dkxBdw?oc=5",
-   "publicado": "2026-11-13T13:07-03:00",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMnhvamE3aENHMUgtc00tT3o1Y2FOMWZVSGhtQ0JaQVRneGM4TkxaYzVPNEtxQl9CeUdSNkp1T1EtcWZVTlhneVV1d2dzVG9pS3dCVUtveTBIUThHVXh5clZGMFVJbkExbTZ2Z3dwVklpR2JZQjBQVE1Db0I2VTJ3YVJrVWZJcW9kYU56YjJkQ2FzZE1COXRXUnBJSlA3THJ3WVVXaDVtWmZmSG1ueThFNmYydGV1NmFaeFVYV0laOUNlcVMtSExCdHRPR3hqb0lWT09GRUFBbVcwSEJDeWfSAd4BQVVfeXFMTTJ4b2phN2hDRzFILXNNLU96NWNhTjFmVUhobUNCWkFUZ3hjOE5MWmM1TzRLcUJfQnlHUjZKdU9RLXFmVU5YZ3lVdXdnc1RvaUt3QlVLb3kwSFE4R1V4eXJWRjBVSW5BMW02dmd3cFZJaUdiWUIwUFRNQ29CNlUyd2FSa1VmSXFvZGFOemIyZENhc2RNQjl0V1JwSUpQN0xyd1lVV2g1bVpmZkhtbnk4RTZmMnRldTZhWnhVWFdJWjlDZXFTLUhMQnR0T0d4am9JVk9PRkVBQW1XMEhCQ3ln?oc=5",
+   "publicado": "2026-11-13T13:05-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN"
@@ -761,7 +844,7 @@
   {
    "titulo": "Banco do Brasil volta a cair; BTG e Ativa cortam preço-alvo para ação",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM3dXMFRRNnc0UXRjQi02OG1oY2I2OG12VHkwbWRKSjRpY3BQUlRMNXdibF9tTE9EM1R0RUJ2T2NRUlBiTjVLTC1nMnRCcTR3Zy14UU9RVzF0bS1Ndmc5UEJScExRQkg5TGxvSDFpR1htaU02dWdXZGhyQ0Vac2JMOWJKelRUQzdfVEhCY0xSbVlRNHFkVmdkSGk0aWw2NHYyeFdHbEdOSk5FVGNlN0Y4UnUxS0hVWDVoR3h3bElLNV91YjJSTmtwWjBnUdIBywFBVV95cUxQM3dXMFRRNnc0UXRjQi02OG1oY2I2OG12VHkwbWRKSjRpY3BQUlRMNXdibF9tTE9EM1R0RUJ2T2NRUlBiTjVLTC1nMnRCcTR3Zy14UU9RVzF0bS1Ndmc5UEJScExRQkg5TGxvSDFpR1htaU02dWdXZGhyQ0Vac2JMOWJKelRUQzdfVEhCY0xSbVlRNHFkVmdkSGk0aWw2NHYyeFdHbEdOSk5FVGNlN0Y4UnUxS0hVWDVoR3h3bElLNV91YjJSTmtwWjBnUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR3QwYnpfcVZkUVcwSjNyY3ZQOG0ySTItdE00UEMxOWE0SUlOZHljMHB6TFI1clRNY1Zla2gtMThEMm5hRGlfNnY3V09oTm1pUVh0elE4VGVCWU5obkJhcm9RNjJXa2h4a0pyX0hsN1d6QmFobkFYRFpyOTV2WTVsTzhtaW1kdjlWckt6dFdFeVNHSzc5bk9jRms5M005eEQ3SjZnUkxhcFhTS04zeThtaGtWMGNoMVFwXzZDVG5Ddm9lMG03cHfSAcsBQVVfeXFMUDN3VzBUUTZ3NFF0Y0ItNjhtaGNiNjhtdlR5MG1kSko0aWNwUFJUTDV3YmxfbUxPRDNUdEVCdk9jUVJQYk41S0wtZzJ0QnE0d2cteFFPUVcxdG0tTXZnOVBCUnBMUUJIOUxsb0gxaUdYbWlNNnVnV2RockNFWnNiTDliSnpUVEM3X1RIQmNMUm1ZUTRxZFZnZEhpNGlsNjR2MnhXR2xHTkpORVRjZTdGOFJ1MUtIVVg1aEd4d2xJSzVfdWIyUk5rcFowZ1E?oc=5",
    "publicado": "2026-11-13T13:07-03:00",
    "impacto": "medio",
    "ativos": [
@@ -777,41 +860,6 @@
    "fonte": "Folha",
    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/apos-bancos-privados-caixa-faz-as-contas-para-subir-taxa-de-juros-do-credito-imobiliario.shtml",
    "publicado": "2026-11-13T13:09-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa contraria índices dos EUA e sobe quase 1%; Nubank salta em NY",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU2lTMHljclVvY3FWQTVCTkJrbFpQUHNEVmZwNm9VVDdPZ1dCWGJDRWFmcEltemtYRXFHcUlFREQ0QUhOc09SYjlTZHJ5UDVzRzFJYTExMjJoNWRadjBLNm5lU0NwMDdfdEFhQ3lPTi1tdmc2NkMtai1ZN00wTVNOYlBxZmowQUF3bW1XTTBWR3BaeVI5aVp0QmRWVkV5WXBobDdGWG9sRXlkb0M2NG9nZjl1UWVsMFhGZEZfQlpCMnM0dzBlQTlOdy1naW11b0M0bUNwbDFWampwREgxajNGZ09NLUdpczBN0gHuAUFVX3lxTE5TQzBUbmFpdk8tNFR0NnozNDJSOU51MWx2MWpQVzRDTzhSbjZCOVhmWHR2bHN1S250R0d1a25mZUx2RnViLWNOQkNBNll5M3E5Vi0zOE5iemtSd24xMTl4TEN4QW9kZWZCbXBab0VyNU5EOEtieWJpM0psdXdCS3JJMUdEQUg3dzFLaEt2U3RmZnpMY0M0VmxaMEJYQ3hKSUhMWVI1V3ZBeGpZaFFWbklZMFB2Q3lXSGthREJTV21kVTdFbG9YZUtvSktiT3RtNWNZV3h1ZWtOVW1wS280bkNMS29ENkpvU3g5dThDSkE?oc=5",
-   "publicado": "2026-11-13T13:12-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Santander vê PIB mais fraco e inflação mais teimosa no Brasil até 2027, mas mantém projeção para a Selic",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2RzSTJEU3hnUGQ1eDRQc3lCVnZ6bzlWS1BpNU9VYXlWR2djY0szcm9JR3pXME9DM1pxMlFmeGVmVTFzTnNNUG5YVE1MUnRTaWEtOE1ydEZnTWJwdjdFbWdyQnNjZ1hDWWcyQ09XVWd1MV9kMU5xMDdRYS1vdE1RckFZUlo0TDV1UFlDNnM2WHM3bUZUbzZ1cnVOYWVYV1dmc2RhVm9nOWNNbVdLbVI2V2pwQVltQTNzNmNFSzR5Ny0?oc=5",
-   "publicado": "2026-11-13T13:30-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Risco fiscal: como as contas públicas podem influenciar dólar, juros e Bolsa?",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWktbTd4NEdtU3c3ZFUtMHRPYU5uc1laQWxZWlFnQnRZM0NfYWQ4U0ZxVjV1LW5OV0pIWWJMSGhTaWZmZFJWQUNmZ3o4aXhIYmdKUWplSzZ5Z1IwMWhqeVNQcWZxa29ZbE9NekxPWWh5U2xKd3BPVFVJZ203bWZVbUxDX1ZpOG0wU1pUcGlGbGE4VklESW5CbkJzbjRXSlRmLTdWaWRhZ3pCeGEwcWRsetIBtgFBVV95cUxQRXJhM2VRV3hvM2hxUXliWXhONUQzMW1uTE1RQUQxZ25zN0g5bG03bjkwbWVqODU4WTljdUFqamtsNk51TlJ0UFZBaFJVTTdzQ1Utc19iNGpMRzNmTVhMWFFmOERQNFRDSnRSOW5DRzFhR0hERjBHWGpVM01yLTE5MjVxTVpwUUpYTUtnbVM3Y3d2b0w2M0U4MDFSU21pQW94SUdHVE1iZEpZdFlSclE2b1QyV1hKQQ?oc=5",
-   "publicado": "2026-11-13T13:30-03:00",
    "impacto": "alto",
    "ativos": [
     "WDO",
@@ -855,22 +903,186 @@
    "tickers": [
     "BBAS3"
    ]
+  },
+  {
+   "titulo": "Ajuste fiscal não é incompatível com promessas do governo Lula 4, diz André Esteves",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ajuste-fiscal-nao-e-incompativel-com-promessas-do-governo-lula-4-diz-andre-esteves.shtml",
+   "publicado": "2026-11-13T14:21-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+   "publicado": "2026-11-13T14:39-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ibovespa ensaia recuperação, enquanto dólar renova máxima",
+   "fonte": "Exame",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMEI3S3Q2OVQxTzV5NjhURjg3UWVXVkhRT19CSF9haF9ocVlwaGNWZldHQ05VWFE2T1E0OE4xdGdtdEdmcjVHUk1oVmRQTk83Rk1fZkk4YXc1RklDTTdjYlNLTzIwdTBWSktUUHRuM3lsWG1YdEgxX1hjNERrMjlYQXlfRGw4TFFTM29yWTZDZmhVUXNZeFE?oc=5",
+   "publicado": "2026-11-13T14:47-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Metade do ganho do pacote fiscal do governo deve vir de aumento de arrecadação",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/pacote-fiscal-governo-aumento-arrecadacao/",
+   "publicado": "2026-11-13T14:51-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "The common theme driving stocks lower — plus, 3 trades and another we want to make",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/investingclub/2026/11/13/the-common-theme-driving-stocks-lower-plus-3-trades-and-another-we-want-to-make.html",
+   "publicado": "2026-11-13T15:11-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Pacote fiscal quer gasto crescendo abaixo de 2%, mas sem afetar política do salário mínimo; entenda",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/pacote-fiscal-quer-gasto-crescendo-abaixo-de-2-mas-sem-afetar-politica-do-salario-minimo-entenda/",
+   "publicado": "2026-11-13T15:13-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Jalles (JALL3) dispara após balanço e vai na contramão de Raízen (RAIZ4) e São Martinho (SMTO3); o que agradou o mercado?",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNnZwdEFia2ZiekFSSDBvS3l1S291eXZsdjVvRjNhR2kwbTRKTFA5QV8xSUpMd245VVd4T1J3bkVTaGpWZlExdWUtcjBaMlVibEtZYVlFN3dja0l4UHlCQ1VIMGV0QW9FWHdNRHBsV3J6TDlzS2p1Q3FFUEJ2T2F3NnZhOGRwVVZCVnpQY2gtMEJCOGs2NzMzYlhuQmx1V3Ayei12TjZ1bG40WWV0b0Ytc2ZHMldWSndWc3dUODBDcWo1T1ktVUVkdmtxbG4tYTgtV2tLZkExUTN6bnJ1XzFnV1Yxbw?oc=5",
+   "publicado": "2026-11-13T15:28-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "JALL3",
+    "RAIZ4",
+    "SMTO3"
+   ]
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-13T14:13-03:00",
+ "atualizado_em": "2026-11-13T15:46-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
-  "CNN Brasil",
   "Estadão",
+  "Exame",
   "Folha",
   "InfoMoney",
   "Money Times"
  ],
  "noticias": [
+  {
+   "titulo": "Jalles (JALL3) dispara após balanço e vai na contramão de Raízen (RAIZ4) e São Martinho (SMTO3); o que agradou o mercado?",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNnZwdEFia2ZiekFSSDBvS3l1S291eXZsdjVvRjNhR2kwbTRKTFA5QV8xSUpMd245VVd4T1J3bkVTaGpWZlExdWUtcjBaMlVibEtZYVlFN3dja0l4UHlCQ1VIMGV0QW9FWHdNRHBsV3J6TDlzS2p1Q3FFUEJ2T2F3NnZhOGRwVVZCVnpQY2gtMEJCOGs2NzMzYlhuQmx1V3Ayei12TjZ1bG40WWV0b0Ytc2ZHMldWSndWc3dUODBDcWo1T1ktVUVkdmtxbG4tYTgtV2tLZkExUTN6bnJ1XzFnV1Yxbw?oc=5",
+   "publicado": "2026-11-13T15:28-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "JALL3",
+    "RAIZ4",
+    "SMTO3"
+   ]
+  },
+  {
+   "titulo": "Pacote fiscal quer gasto crescendo abaixo de 2%, mas sem afetar política do salário mínimo; entenda",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/pacote-fiscal-quer-gasto-crescendo-abaixo-de-2-mas-sem-afetar-politica-do-salario-minimo-entenda/",
+   "publicado": "2026-11-13T15:13-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "The common theme driving stocks lower — plus, 3 trades and another we want to make",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/investingclub/2026/11/13/the-common-theme-driving-stocks-lower-plus-3-trades-and-another-we-want-to-make.html",
+   "publicado": "2026-11-13T15:11-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Metade do ganho do pacote fiscal do governo deve vir de aumento de arrecadação",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/pacote-fiscal-governo-aumento-arrecadacao/",
+   "publicado": "2026-11-13T14:51-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ibovespa ensaia recuperação, enquanto dólar renova máxima",
+   "fonte": "Exame",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMEI3S3Q2OVQxTzV5NjhURjg3UWVXVkhRT19CSF9haF9ocVlwaGNWZldHQ05VWFE2T1E0OE4xdGdtdEdmcjVHUk1oVmRQTk83Rk1fZkk4YXc1RklDTTdjYlNLTzIwdTBWSktUUHRuM3lsWG1YdEgxX1hjNERrMjlYQXlfRGw4TFFTM29yWTZDZmhVUXNZeFE?oc=5",
+   "publicado": "2026-11-13T14:47-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+   "publicado": "2026-11-13T14:39-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ajuste fiscal não é incompatível com promessas do governo Lula 4, diz André Esteves",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ajuste-fiscal-nao-e-incompativel-com-promessas-do-governo-lula-4-diz-andre-esteves.shtml",
+   "publicado": "2026-11-13T14:21-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
   {
    "titulo": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
    "fonte": "CNBC",
@@ -921,41 +1133,6 @@
    ]
   },
   {
-   "titulo": "Santander vê PIB mais fraco e inflação mais teimosa no Brasil até 2027, mas mantém projeção para a Selic",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2RzSTJEU3hnUGQ1eDRQc3lCVnZ6bzlWS1BpNU9VYXlWR2djY0szcm9JR3pXME9DM1pxMlFmeGVmVTFzTnNNUG5YVE1MUnRTaWEtOE1ydEZnTWJwdjdFbWdyQnNjZ1hDWWcyQ09XVWd1MV9kMU5xMDdRYS1vdE1RckFZUlo0TDV1UFlDNnM2WHM3bUZUbzZ1cnVOYWVYV1dmc2RhVm9nOWNNbVdLbVI2V2pwQVltQTNzNmNFSzR5Ny0?oc=5",
-   "publicado": "2026-11-13T13:30-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Risco fiscal: como as contas públicas podem influenciar dólar, juros e Bolsa?",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWktbTd4NEdtU3c3ZFUtMHRPYU5uc1laQWxZWlFnQnRZM0NfYWQ4U0ZxVjV1LW5OV0pIWWJMSGhTaWZmZFJWQUNmZ3o4aXhIYmdKUWplSzZ5Z1IwMWhqeVNQcWZxa29ZbE9NekxPWWh5U2xKd3BPVFVJZ203bWZVbUxDX1ZpOG0wU1pUcGlGbGE4VklESW5CbkJzbjRXSlRmLTdWaWRhZ3pCeGEwcWRsetIBtgFBVV95cUxQRXJhM2VRV3hvM2hxUXliWXhONUQzMW1uTE1RQUQxZ25zN0g5bG03bjkwbWVqODU4WTljdUFqamtsNk51TlJ0UFZBaFJVTTdzQ1Utc19iNGpMRzNmTVhMWFFmOERQNFRDSnRSOW5DRzFhR0hERjBHWGpVM01yLTE5MjVxTVpwUUpYTUtnbVM3Y3d2b0w2M0U4MDFSU21pQW94SUdHVE1iZEpZdFlSclE2b1QyV1hKQQ?oc=5",
-   "publicado": "2026-11-13T13:30-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa contraria índices dos EUA e sobe quase 1%; Nubank salta em NY",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU2lTMHljclVvY3FWQTVCTkJrbFpQUHNEVmZwNm9VVDdPZ1dCWGJDRWFmcEltemtYRXFHcUlFREQ0QUhOc09SYjlTZHJ5UDVzRzFJYTExMjJoNWRadjBLNm5lU0NwMDdfdEFhQ3lPTi1tdmc2NkMtai1ZN00wTVNOYlBxZmowQUF3bW1XTTBWR3BaeVI5aVp0QmRWVkV5WXBobDdGWG9sRXlkb0M2NG9nZjl1UWVsMFhGZEZfQlpCMnM0dzBlQTlOdy1naW11b0M0bUNwbDFWampwREgxajNGZ09NLUdpczBN0gHuAUFVX3lxTE5TQzBUbmFpdk8tNFR0NnozNDJSOU51MWx2MWpQVzRDTzhSbjZCOVhmWHR2bHN1S250R0d1a25mZUx2RnViLWNOQkNBNll5M3E5Vi0zOE5iemtSd24xMTl4TEN4QW9kZWZCbXBab0VyNU5EOEtieWJpM0psdXdCS3JJMUdEQUg3dzFLaEt2U3RmZnpMY0M0VmxaMEJYQ3hKSUhMWVI1V3ZBeGpZaFFWbklZMFB2Q3lXSGthREJTV21kVTdFbG9YZUtvSktiT3RtNWNZV3h1ZWtOVW1wS280bkNMS29ENkpvU3g5dThDSkE?oc=5",
-   "publicado": "2026-11-13T13:12-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
    "titulo": "Após bancos privados, Caixa faz as contas para subir taxa de juros do crédito imobiliário",
    "fonte": "Folha",
    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/apos-bancos-privados-caixa-faz-as-contas-para-subir-taxa-de-juros-do-credito-imobiliario.shtml",
@@ -968,20 +1145,9 @@
    "tickers": []
   },
   {
-   "titulo": "CSN desaba 10% após balanço e lidera perdas do Ibovespa; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeHBUR2dPbkhsdktwWjJqdkM4eXBYdmE4NWJjVVI3bzBYTFNIeWNiR0NYWXZ2OFFhMVRiYXpTeVctcU9Yc2NTSERwdkl2YVpRX3ZSUHVfbE9zd1c0WFd1Q0QtcGRleG9kVkI0ekp1NGhrNVNYRHJRUDhFdVBwLUs1ZWFMSHh1R2lZQ1BOaXV4M2VFQnZOY2VuSXdVZWtzMlBMZm5EVFI1TjRXN1ZtMzlFMVU2WFBoSW1rMERrczUzZld0NXluSDY5aVBreHIyZFV3X205akZEMW9VMmZtQ0R6dkxBdw?oc=5",
-   "publicado": "2026-11-13T13:07-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
    "titulo": "Banco do Brasil volta a cair; BTG e Ativa cortam preço-alvo para ação",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM3dXMFRRNnc0UXRjQi02OG1oY2I2OG12VHkwbWRKSjRpY3BQUlRMNXdibF9tTE9EM1R0RUJ2T2NRUlBiTjVLTC1nMnRCcTR3Zy14UU9RVzF0bS1Ndmc5UEJScExRQkg5TGxvSDFpR1htaU02dWdXZGhyQ0Vac2JMOWJKelRUQzdfVEhCY0xSbVlRNHFkVmdkSGk0aWw2NHYyeFdHbEdOSk5FVGNlN0Y4UnUxS0hVWDVoR3h3bElLNV91YjJSTmtwWjBnUdIBywFBVV95cUxQM3dXMFRRNnc0UXRjQi02OG1oY2I2OG12VHkwbWRKSjRpY3BQUlRMNXdibF9tTE9EM1R0RUJ2T2NRUlBiTjVLTC1nMnRCcTR3Zy14UU9RVzF0bS1Ndmc5UEJScExRQkg5TGxvSDFpR1htaU02dWdXZGhyQ0Vac2JMOWJKelRUQzdfVEhCY0xSbVlRNHFkVmdkSGk0aWw2NHYyeFdHbEdOSk5FVGNlN0Y4UnUxS0hVWDVoR3h3bElLNV91YjJSTmtwWjBnUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR3QwYnpfcVZkUVcwSjNyY3ZQOG0ySTItdE00UEMxOWE0SUlOZHljMHB6TFI1clRNY1Zla2gtMThEMm5hRGlfNnY3V09oTm1pUVh0elE4VGVCWU5obkJhcm9RNjJXa2h4a0pyX0hsN1d6QmFobkFYRFpyOTV2WTVsTzhtaW1kdjlWckt6dFdFeVNHSzc5bk9jRms5M005eEQ3SjZnUkxhcFhTS04zeThtaGtWMGNoMVFwXzZDVG5Ddm9lMG03cHfSAcsBQVVfeXFMUDN3VzBUUTZ3NFF0Y0ItNjhtaGNiNjhtdlR5MG1kSko0aWNwUFJUTDV3YmxfbUxPRDNUdEVCdk9jUVJQYk41S0wtZzJ0QnE0d2cteFFPUVcxdG0tTXZnOVBCUnBMUUJIOUxsb0gxaUdYbWlNNnVnV2RockNFWnNiTDliSnpUVEM3X1RIQmNMUm1ZUTRxZFZnZEhpNGlsNjR2MnhXR2xHTkpORVRjZTdGOFJ1MUtIVVg1aEd4d2xJSzVfdWIyUk5rcFowZ1E?oc=5",
    "publicado": "2026-11-13T13:07-03:00",
    "impacto": "medio",
    "ativos": [
@@ -1006,59 +1172,25 @@
    ]
   },
   {
-   "titulo": "Juros futuros têm leve alta após pacote fiscal e varejo acima do esperado",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVnlvQ2RyZDVBQVNibVUzMUFDeHc1cDQxeGxrc0c3R3d2OWFzdnhESVdGMlhfREhaRW1ucDlSaHd2UU5wM05fbUlNY3NmSmZqREJiaGZpRDhfNzlfM0w1WU5UODVKLVI1c003YW5FR3NJNlhpRkNhajRtYkd5VUdRQkxCM2NiNE44aGhLVGJoOVIzaFl4akJnRHFtUDh3TVc3X0o1VXJSUUsyNnk4MElHSWNmaVIzTjFmTlV1SHgwSm05SlVtSmo2aF9IZkc?oc=5",
-   "publicado": "2026-11-13T12:43-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "10-year Treasury yield moves to 5.15% as traders weigh producer price report",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
-   "publicado": "2026-11-13T12:40-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Governo tomará medidas em acréscimo para garantir cenário fiscal benigno, diz Moretti",
+   "titulo": "CSN desaba 10% após balanço e lidera perdas do Ibovespa; veja maiores altas e baixas",
    "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/governo-medidas-acrescimo-cenario-fiscal-benigno-moretti/",
-   "publicado": "2026-11-13T12:38-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar hoje vira para baixa de olho no fiscal e dados econômicos",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOakIwN1ZneWFjMTlUOWx6VjItUERCWEN5RjM4eWI3WVNJeVEycmQ4ekxtaEpJMWZUMThCQjltcXdUNFY5THBqNTQzVkl0Y0puNDNQVU5JSExWaVNRdURlU3BzQTFMaUtmOEY5VFAwR3k5bFpOa3JDX1FCcUIwWFBVWXdiMkp0aUNRcVRGQmpEM1I5X3c2SHZZcjVGQkjSAaIBQVVfeXFMT2ZISV9Ic0pkbFJueDZKSXhad1p3MGdySWplR0llTVJ5TGdyOXBRdzBrVU1mNWd5SmVJWndNbkRaZncxaEdualY0ME54a3JZSGZoalV1U1hrbjFiVi13MW9vRnp0UmZjY01fLVlEUHAtb19IUHdxcVFOM0RNa3NsX2NIV05GczZSdUg0RGlaSGlLLXZOQm1xVUZiVnYxRE1ieFhn?oc=5",
-   "publicado": "2026-11-13T12:30-03:00",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMnhvamE3aENHMUgtc00tT3o1Y2FOMWZVSGhtQ0JaQVRneGM4TkxaYzVPNEtxQl9CeUdSNkp1T1EtcWZVTlhneVV1d2dzVG9pS3dCVUtveTBIUThHVXh5clZGMFVJbkExbTZ2Z3dwVklpR2JZQjBQVE1Db0I2VTJ3YVJrVWZJcW9kYU56YjJkQ2FzZE1COXRXUnBJSlA3THJ3WVVXaDVtWmZmSG1ueThFNmYydGV1NmFaeFVYV0laOUNlcVMtSExCdHRPR3hqb0lWT09GRUFBbVcwSEJDeWfSAd4BQVVfeXFMTTJ4b2phN2hDRzFILXNNLU96NWNhTjFmVUhobUNCWkFUZ3hjOE5MWmM1TzRLcUJfQnlHUjZKdU9RLXFmVU5YZ3lVdXdnc1RvaUt3QlVLb3kwSFE4R1V4eXJWRjBVSW5BMW02dmd3cFZJaUdiWUIwUFRNQ29CNlUyd2FSa1VmSXFvZGFOemIyZENhc2RNQjl0V1JwSUpQN0xyd1lVV2g1bVpmZkhtbnk4RTZmMnRldTZhWnhVWFdJWjlDZXFTLUhMQnR0T0d4am9JVk9PRkVBQW1XMEhCQ3ln?oc=5",
+   "publicado": "2026-11-13T13:05-03:00",
    "impacto": "alto",
    "ativos": [
-    "WDO",
-    "DI"
+    "WIN"
    ],
    "tickers": []
   },
   {
-   "titulo": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+   "titulo": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
    "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
-   "publicado": "2026-11-13T11:26-03:00",
-   "impacto": "alto",
+   "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
+   "publicado": "2026-11-13T12:49-03:00",
+   "impacto": "medio",
    "ativos": [
     "WIN",
-    "DI"
+    "WDO"
    ],
    "tickers": []
   }
