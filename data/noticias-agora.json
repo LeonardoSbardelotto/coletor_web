@@ -2,167 +2,21 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "É possível investir em ações internacionais sem apostar no dólar?",
+   "titulo": "Desancoragem e risco de reinflação",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/fernando-dantas/desancoragem-e-risco-de-reinflacao/",
+   "publicado": "2026-11-13T21:02-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Equipe econômica quer propor a Lula PEC para mirar gastos fora dos limites do arcabouço",
    "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/e-possivel-investir-em-acoes-internacionais-sem-apostar-no-dolar.shtml",
-   "publicado": "2026-11-13T18:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
-   "publicado": "2026-11-13T18:08-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "AI risks are the biggest threat to the financial system, Fed survey finds",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
-   "publicado": "2026-11-13T18:18-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Nubank salta quase 12% em NY após entregar lucro recorde; BDR também dispara na B3",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcGNKd1RadWtnYnI2NHJVX0hrRTJjMjVkalJRU29ZT0k1T1hYZm1DQmdIc3FadWRRTVoyS3hwQktRY29vUzQtSkRPR1AycU84OTlFLWFVZ1JxNF9acWJXdUE0cWdZNjZ6Wk96VnJVdW5Qam1CNWRnbFNiVDRSMHFjeVN2RDc1MjIyLUJoU0lKdmh2WDBJMWd2dGwtUnFxZlpzZElYNWFrVFQ1UVZWam50Ykl1QkliSTJKQ0gzYUtsVzR2Z3NqSXJZ0gHMAUFVX3lxTE55amlpVzhTRUk4LXpTQmxlemIwOGxzUmFZTU5pRm5HZndHV2FsVTBfMlc3QlBldnVMRmhCcy1pSEhHY1RlT09SSmdTbmhEREJPdDB5QkNobnFKcFg1eXNHLUxLT2xXMS1oMGV0c1RjWTlMZVZqSk5nVzR2VDlWcjEyWnlnTG1FSG8tRzd4UHIwRXllTFRHVV9OUTBrU203OWxZRjllZEM5SnJMaHJwWDJHSU5zcDRfQ2pVWnQ0azRscjcyVnBjdVYtZmRXOA?oc=5",
-   "publicado": "2026-11-13T18:25-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "B3SA3"
-   ]
-  },
-  {
-   "titulo": "Banco do Brasil volta a cair; BTG e Ativa cortam preço-alvo para ação",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR3QwYnpfcVZkUVcwSjNyY3ZQOG0ySTItdE00UEMxOWE0SUlOZHljMHB6TFI1clRNY1Zla2gtMThEMm5hRGlfNnY3V09oTm1pUVh0elE4VGVCWU5obkJhcm9RNjJXa2h4a0pyX0hsN1d6QmFobkFYRFpyOTV2WTVsTzhtaW1kdjlWckt6dFdFeVNHSzc5bk9jRms5M005eEQ3SjZnUkxhcFhTS04zeThtaGtWMGNoMVFwXzZDVG5Ddm9lMG03cHfSAcsBQVVfeXFMUDN3VzBUUTZ3NFF0Y0ItNjhtaGNiNjhtdlR5MG1kSko0aWNwUFJUTDV3YmxfbUxPRDNUdEVCdk9jUVJQYk41S0wtZzJ0QnE0d2cteFFPUVcxdG0tTXZnOVBCUnBMUUJIOUxsb0gxaUdYbWlNNnVnV2RockNFWnNiTDliSnpUVEM3X1RIQmNMUm1ZUTRxZFZnZEhpNGlsNjR2MnhXR2xHTkpORVRjZTdGOFJ1MUtIVVg1aEd4d2xJSzVfdWIyUk5rcFowZ1E?oc=5",
-   "publicado": "2026-11-13T18:26-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BBAS3",
-    "BPAC11"
-   ]
-  },
-  {
-   "titulo": "Ibovespa retoma o caminho da vitória e tem segunda semana positiva; dólar sobe",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUF94d1lCTTNSVFQ3NTFXUkFWUjFLV2I4Qi1rREVaaDBLZHFXT01uR2dhNjdLcV9sSWV5M3ptTXoyWHplOGsyTmRxTngwbHhXTUpmXzZ5VVF2b3QzRVdaR1hLeHFhVlN6V1dVQl8xZ3Zya1ByU0FTMnptUWlOazN4NFBMUkNNdklHcHF4QTJ3SQ?oc=5",
-   "publicado": "2026-11-13T18:28-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa sobe 0,66% nesta 6ª e 2,35% na semana com mercado de olho em pacote fiscal",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZERwSHZxWkV1MWpyUzVrYWRRMFEwWV93Y3cyLUNPaEhqMnhWLXgxUDJiZFFWR3RJVm9VUkc3Z21EZFNNY3I0WExlQ0p4cDZ4Z0lHb3JGNHZabHB3QWpUYnZrMUdUXzNkdi1XNGZyNnRKNlkwWFBLQWJiMHdiMENTODNUZmI4dDRyWF9DRUVJRGxZRFRfWk5LUXZjbmwzejlQeXR5R3JUaEd6bHpzODNocHhaSkR4SnFIcDJtTHZSSUjSAcYBQVVfeXFMT2VTRkRscEZZYlUxZXdpdS1pUjFTQlpNUFNmN0RPdkZSbVFrU0lXYXpWQWppM0Vna1NzWm03NTQ5Y0pnV1Vac29rbE9QOG1nTE9qT1JQLXBCdjU3QV9sRkhPM2syNUFpNXJUUldUQXRBWTNSMFJCc3pQc2kzenVvSHZVSWIwOW8xV09fajJrRTJBUUhTSDRrcXBsUXVQalQ1amFfa3NXMGhKa3ZTM3FDdTQzQjR3bXJQSl9IQnVuWDdHUzR0ZHZn?oc=5",
-   "publicado": "2026-11-13T18:43-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa fecha em alta com o ajuste fiscal e recuperação do petróleo",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0ZwTzlHbEdMVTFvekI4VlZBRWdOZWE2c1llWUh2aV8wZDBqcXpLUm02T2ZzVVkyTkJ3V0gwOEtBMWd2eFVVQVNoZ2FuRHAyaFh0ZFQya09jcnlUN2E2UThNNlcwLVVNWXRiWmRXQVd1YVRBb0RkN0l2d3dkNnV3cDFvLVlNUnRzRFdyRGZlNEl6NG5PekZ4aGxLclYxNnNfZjJmQ3d1bw?oc=5",
-   "publicado": "2026-11-13T18:58-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa sobe com fiscal no radar e avança 2,35% na semana; dólar supera ganho, com 2,66%",
-   "fonte": "Exame",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd3hKUFliU29iWGtNMmVzSldPdVp4VEdYMURKMF9pNk4ybC1ScllTOU8zR1VaT1NfT0g4NVpOSmZrRFFkYkQ5RWQzTlR5ZFNMS3U4Y3VwOXloV0NqUTFybE5sYzRCNEd5aDRhY0wydW1YNmJ5czQ4cS1TVFNyVnc4WFpySGJ4WjJhSlZTTENwUS1xa29aUS1IWjlnQ3JXZjVQLXhEckVPZkZ4T3VQNHlEVmwwVEkzSHhDQmc?oc=5",
-   "publicado": "2026-11-13T19:02-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Projeto fiscal: Setor produtivo ainda vai tentar barrar limite a compensações tributárias no Senado",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/projeto-fiscal-setor-produtivo-ainda-vai-tentar-barrar-limite-a-compensacoes-tributarias-no-senado/",
-   "publicado": "2026-11-13T19:26-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Tesouro prevê normalizar sistemas fora do ar até segunda-feira",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/tesouro-preve-normalizar-sistemas-fora-do-ar-ate-segunda-feira",
-   "publicado": "2026-11-13T19:27-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa na semana: balanços ditam rumos e CSN e BB são destaques de baixa; Magalu salta quase 40%",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFhUN2lidFEzaGQyM1k3TlR6QnF0SzFjajJWS0NKbHRhbVBiVlphYlk3YnpxVnVrTVppRDhoSi05d2ZwdGpYcDBFR0xsUE5WSXB6eEp5Y1Z0X1I3SE5pczI2NUpuYWc0NGJCVi1lcWEybEQzZHhra05iRzVOZEpRWlBQWUVDNDJiVUhON1pqQWhwSGdVQXBGQ0tVS0xweTQ2eWpMaTZBcVZBRnVwSXZWZlR0ODVhUXVtS01KUE1VZS1QUmxERnhWSTU2QzAwQnAtV2dUOEJOXzNwTU5WTzZpRmtEbU9YTjlGSVgxazZHdG1aTEIt?oc=5",
-   "publicado": "2026-11-13T19:33-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "MGLU3"
-   ]
-  },
-  {
-   "titulo": "Nubank recebe aval do BC para comprar Banco Porto Real e, assim, obter licença bancária no Brasil",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/negocios/nubank-recebe-aval-do-bc-para-comprar-banco-porto-real-e-assim-obter-licenca-bancaria-no-brasil/",
-   "publicado": "2026-11-13T20:06-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Juros futuros caem com pacote fiscal aprovado pelo Senado no radar",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY2xsc0djWUdlOXJWb0xsY0VCUTJ5RkZzbzZ3MkF4U2ZLVlRkYlQxZ0YwMmp5cm1DVDZHclRKNlR3WmFHTzQ2dlNTMlE0ZnpXUThoMXFsZmxfQXVldDNtSEpoajlFSEsxS3RaV293bXY3ZE1Oc05nOThRcVdHcHIydzRHSWliTjdpZVJDYVU0UGhPa1pGNlJ3elZFX3p0akJKWkd2V2RMQUlfdndZVE5pZ0NlU2FsYlBCNlJB?oc=5",
-   "publicado": "2026-11-13T20:47-03:00",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/equipe-economica-quer-propor-a-lula-pec-para-mirar-gastos-fora-dos-limites-do-arcabouco.shtml",
+   "publicado": "2026-11-13T23:00-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
@@ -171,197 +25,59 @@
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-13T20:57-03:00",
+ "atualizado_em": "2026-11-13T23:41-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
-  "CNN Brasil",
   "Estadão",
-  "Exame",
-  "Folha",
-  "InfoMoney",
-  "Money Times"
+  "Folha"
  ],
  "noticias": [
   {
-   "titulo": "Juros futuros caem com pacote fiscal aprovado pelo Senado no radar",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY2xsc0djWUdlOXJWb0xsY0VCUTJ5RkZzbzZ3MkF4U2ZLVlRkYlQxZ0YwMmp5cm1DVDZHclRKNlR3WmFHTzQ2dlNTMlE0ZnpXUThoMXFsZmxfQXVldDNtSEpoajlFSEsxS3RaV293bXY3ZE1Oc05nOThRcVdHcHIydzRHSWliTjdpZVJDYVU0UGhPa1pGNlJ3elZFX3p0akJKWkd2V2RMQUlfdndZVE5pZ0NlU2FsYlBCNlJB?oc=5",
-   "publicado": "2026-11-13T20:47-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Nubank recebe aval do BC para comprar Banco Porto Real e, assim, obter licença bancária no Brasil",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/negocios/nubank-recebe-aval-do-bc-para-comprar-banco-porto-real-e-assim-obter-licenca-bancaria-no-brasil/",
-   "publicado": "2026-11-13T20:06-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Como Trump fracassou na tentativa de conter a China e restaurar a hegemonia americana",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/celso-ming/como-trump-fracassou-na-tentativa-de-conter-a-china-e-restaurar-a-hegemonia-americana/",
-   "publicado": "2026-11-13T20:03-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa na semana: balanços ditam rumos e CSN e BB são destaques de baixa; Magalu salta quase 40%",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFhUN2lidFEzaGQyM1k3TlR6QnF0SzFjajJWS0NKbHRhbVBiVlphYlk3YnpxVnVrTVppRDhoSi05d2ZwdGpYcDBFR0xsUE5WSXB6eEp5Y1Z0X1I3SE5pczI2NUpuYWc0NGJCVi1lcWEybEQzZHhra05iRzVOZEpRWlBQWUVDNDJiVUhON1pqQWhwSGdVQXBGQ0tVS0xweTQ2eWpMaTZBcVZBRnVwSXZWZlR0ODVhUXVtS01KUE1VZS1QUmxERnhWSTU2QzAwQnAtV2dUOEJOXzNwTU5WTzZpRmtEbU9YTjlGSVgxazZHdG1aTEIt?oc=5",
-   "publicado": "2026-11-13T19:33-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "MGLU3"
-   ]
-  },
-  {
-   "titulo": "Tesouro prevê normalizar sistemas fora do ar até segunda-feira",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/tesouro-preve-normalizar-sistemas-fora-do-ar-ate-segunda-feira",
-   "publicado": "2026-11-13T19:27-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Projeto fiscal: Setor produtivo ainda vai tentar barrar limite a compensações tributárias no Senado",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/projeto-fiscal-setor-produtivo-ainda-vai-tentar-barrar-limite-a-compensacoes-tributarias-no-senado/",
-   "publicado": "2026-11-13T19:26-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa sobe com fiscal no radar e avança 2,35% na semana; dólar supera ganho, com 2,66%",
-   "fonte": "Exame",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd3hKUFliU29iWGtNMmVzSldPdVp4VEdYMURKMF9pNk4ybC1ScllTOU8zR1VaT1NfT0g4NVpOSmZrRFFkYkQ5RWQzTlR5ZFNMS3U4Y3VwOXloV0NqUTFybE5sYzRCNEd5aDRhY0wydW1YNmJ5czQ4cS1TVFNyVnc4WFpySGJ4WjJhSlZTTENwUS1xa29aUS1IWjlnQ3JXZjVQLXhEckVPZkZ4T3VQNHlEVmwwVEkzSHhDQmc?oc=5",
-   "publicado": "2026-11-13T19:02-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa fecha em alta com o ajuste fiscal e recuperação do petróleo",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0ZwTzlHbEdMVTFvekI4VlZBRWdOZWE2c1llWUh2aV8wZDBqcXpLUm02T2ZzVVkyTkJ3V0gwOEtBMWd2eFVVQVNoZ2FuRHAyaFh0ZFQya09jcnlUN2E2UThNNlcwLVVNWXRiWmRXQVd1YVRBb0RkN0l2d3dkNnV3cDFvLVlNUnRzRFdyRGZlNEl6NG5PekZ4aGxLclYxNnNfZjJmQ3d1bw?oc=5",
-   "publicado": "2026-11-13T18:58-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa sobe 0,66% nesta 6ª e 2,35% na semana com mercado de olho em pacote fiscal",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZERwSHZxWkV1MWpyUzVrYWRRMFEwWV93Y3cyLUNPaEhqMnhWLXgxUDJiZFFWR3RJVm9VUkc3Z21EZFNNY3I0WExlQ0p4cDZ4Z0lHb3JGNHZabHB3QWpUYnZrMUdUXzNkdi1XNGZyNnRKNlkwWFBLQWJiMHdiMENTODNUZmI4dDRyWF9DRUVJRGxZRFRfWk5LUXZjbmwzejlQeXR5R3JUaEd6bHpzODNocHhaSkR4SnFIcDJtTHZSSUjSAcYBQVVfeXFMT2VTRkRscEZZYlUxZXdpdS1pUjFTQlpNUFNmN0RPdkZSbVFrU0lXYXpWQWppM0Vna1NzWm03NTQ5Y0pnV1Vac29rbE9QOG1nTE9qT1JQLXBCdjU3QV9sRkhPM2syNUFpNXJUUldUQXRBWTNSMFJCc3pQc2kzenVvSHZVSWIwOW8xV09fajJrRTJBUUhTSDRrcXBsUXVQalQ1amFfa3NXMGhKa3ZTM3FDdTQzQjR3bXJQSl9IQnVuWDdHUzR0ZHZn?oc=5",
-   "publicado": "2026-11-13T18:43-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa retoma o caminho da vitória e tem segunda semana positiva; dólar sobe",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUF94d1lCTTNSVFQ3NTFXUkFWUjFLV2I4Qi1rREVaaDBLZHFXT01uR2dhNjdLcV9sSWV5M3ptTXoyWHplOGsyTmRxTngwbHhXTUpmXzZ5VVF2b3QzRVdaR1hLeHFhVlN6V1dVQl8xZ3Zya1ByU0FTMnptUWlOazN4NFBMUkNNdklHcHF4QTJ3SQ?oc=5",
-   "publicado": "2026-11-13T18:28-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Banco do Brasil volta a cair; BTG e Ativa cortam preço-alvo para ação",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR3QwYnpfcVZkUVcwSjNyY3ZQOG0ySTItdE00UEMxOWE0SUlOZHljMHB6TFI1clRNY1Zla2gtMThEMm5hRGlfNnY3V09oTm1pUVh0elE4VGVCWU5obkJhcm9RNjJXa2h4a0pyX0hsN1d6QmFobkFYRFpyOTV2WTVsTzhtaW1kdjlWckt6dFdFeVNHSzc5bk9jRms5M005eEQ3SjZnUkxhcFhTS04zeThtaGtWMGNoMVFwXzZDVG5Ddm9lMG03cHfSAcsBQVVfeXFMUDN3VzBUUTZ3NFF0Y0ItNjhtaGNiNjhtdlR5MG1kSko0aWNwUFJUTDV3YmxfbUxPRDNUdEVCdk9jUVJQYk41S0wtZzJ0QnE0d2cteFFPUVcxdG0tTXZnOVBCUnBMUUJIOUxsb0gxaUdYbWlNNnVnV2RockNFWnNiTDliSnpUVEM3X1RIQmNMUm1ZUTRxZFZnZEhpNGlsNjR2MnhXR2xHTkpORVRjZTdGOFJ1MUtIVVg1aEd4d2xJSzVfdWIyUk5rcFowZ1E?oc=5",
-   "publicado": "2026-11-13T18:26-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BBAS3",
-    "BPAC11"
-   ]
-  },
-  {
-   "titulo": "Nubank salta quase 12% em NY após entregar lucro recorde; BDR também dispara na B3",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcGNKd1RadWtnYnI2NHJVX0hrRTJjMjVkalJRU29ZT0k1T1hYZm1DQmdIc3FadWRRTVoyS3hwQktRY29vUzQtSkRPR1AycU84OTlFLWFVZ1JxNF9acWJXdUE0cWdZNjZ6Wk96VnJVdW5Qam1CNWRnbFNiVDRSMHFjeVN2RDc1MjIyLUJoU0lKdmh2WDBJMWd2dGwtUnFxZlpzZElYNWFrVFQ1UVZWam50Ykl1QkliSTJKQ0gzYUtsVzR2Z3NqSXJZ0gHMAUFVX3lxTE55amlpVzhTRUk4LXpTQmxlemIwOGxzUmFZTU5pRm5HZndHV2FsVTBfMlc3QlBldnVMRmhCcy1pSEhHY1RlT09SSmdTbmhEREJPdDB5QkNobnFKcFg1eXNHLUxLT2xXMS1oMGV0c1RjWTlMZVZqSk5nVzR2VDlWcjEyWnlnTG1FSG8tRzd4UHIwRXllTFRHVV9OUTBrU203OWxZRjllZEM5SnJMaHJwWDJHSU5zcDRfQ2pVWnQ0azRscjcyVnBjdVYtZmRXOA?oc=5",
-   "publicado": "2026-11-13T18:25-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "B3SA3"
-   ]
-  },
-  {
-   "titulo": "AI risks are the biggest threat to the financial system, Fed survey finds",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
-   "publicado": "2026-11-13T18:18-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
-   "publicado": "2026-11-13T18:08-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "É possível investir em ações internacionais sem apostar no dólar?",
+   "titulo": "Equipe econômica quer propor a Lula PEC para mirar gastos fora dos limites do arcabouço",
    "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/e-possivel-investir-em-acoes-internacionais-sem-apostar-no-dolar.shtml",
-   "publicado": "2026-11-13T18:00-03:00",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/equipe-economica-quer-propor-a-lula-pec-para-mirar-gastos-fora-dos-limites-do-arcabouco.shtml",
+   "publicado": "2026-11-13T23:00-03:00",
    "impacto": "medio",
    "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+   "publicado": "2026-11-13T22:34-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
     "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "‘China verde’: A experiência chinesa mostra que transição energética também é estratégia industrial",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/fabio-gallo/china-verde-a-experiencia-chinesa-mostra-que-transicao-energetica-tambem-e-estrategia-industrial/",
+   "publicado": "2026-11-13T22:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Desancoragem e risco de reinflação",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/fernando-dantas/desancoragem-e-risco-de-reinflacao/",
+   "publicado": "2026-11-13T21:02-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
    ],
    "tickers": []
   }
