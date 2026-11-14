@@ -2,51 +2,68 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Ministro faz defesa do projeto de ajuste fiscal em vídeo divulgado pelo governo",
+   "titulo": "Espionagem, traição e queda: o escândalo da Nvidia que o Vale do Silício não viu chegar",
    "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/ministro-faz-defesa-do-projeto-de-ajuste-fiscal-em-video-divulgado-pelo-governo/",
-   "publicado": "2026-11-14T13:48-03:00",
+   "url": "https://www.estadao.com.br/economia/negocios/espionagem-traicao-e-queda-o-escandalo-da-nvidia-que-o-vale-do-silicio-nao-viu-chegar/",
+   "publicado": "2026-11-14T15:37-03:00",
    "impacto": "medio",
    "ativos": [
-    "DI"
+    "WIN"
    ],
-   "tickers": []
+   "tickers": [
+    "VALE3"
+   ]
+  },
+  {
+   "titulo": "Cosan troca Marcelo Martins por Guilherme Penin no comando do grupo",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/cosan-troca-marcelo-martins-por-guilherme-penin-no-comando-do-grupo.shtml",
+   "publicado": "2026-11-14T17:20-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "CSAN3"
+   ]
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-14T15:50-03:00",
+ "atualizado_em": "2026-11-14T17:43-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
-  "CNN Brasil",
   "Estadão",
   "Folha"
  ],
  "noticias": [
   {
-   "titulo": "Ministro faz defesa do projeto de ajuste fiscal em vídeo divulgado pelo governo",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/ministro-faz-defesa-do-projeto-de-ajuste-fiscal-em-video-divulgado-pelo-governo/",
-   "publicado": "2026-11-14T13:48-03:00",
+   "titulo": "Cosan troca Marcelo Martins por Guilherme Penin no comando do grupo",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/cosan-troca-marcelo-martins-por-guilherme-penin-no-comando-do-grupo.shtml",
+   "publicado": "2026-11-14T17:20-03:00",
    "impacto": "medio",
    "ativos": [
-    "DI"
+    "WIN"
    ],
-   "tickers": []
+   "tickers": [
+    "CSAN3"
+   ]
   },
   {
-   "titulo": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-   "publicado": "2026-11-14T12:50-03:00",
+   "titulo": "Espionagem, traição e queda: o escândalo da Nvidia que o Vale do Silício não viu chegar",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/negocios/espionagem-traicao-e-queda-o-escandalo-da-nvidia-que-o-vale-do-silicio-nao-viu-chegar/",
+   "publicado": "2026-11-14T15:37-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN",
-    "WDO"
+    "WIN"
    ],
-   "tickers": []
+   "tickers": [
+    "VALE3"
+   ]
   }
  ]
 }
