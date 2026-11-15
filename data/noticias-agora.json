@@ -2,50 +2,43 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/15/social-security-tax-changes-midterm-election.html",
-   "publicado": "2026-11-15T11:30-03:00",
-   "impacto": "medio",
+   "titulo": "Ibovespa na semana: balanços ditam rumos e CSN e BB são destaques de baixa; Magalu salta quase 40%",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFhUN2lidFEzaGQyM1k3TlR6QnF0SzFjajJWS0NKbHRhbVBiVlphYlk3YnpxVnVrTVppRDhoSi05d2ZwdGpYcDBFR0xsUE5WSXB6eEp5Y1Z0X1I3SE5pczI2NUpuYWc0NGJCVi1lcWEybEQzZHhra05iRzVOZEpRWlBQWUVDNDJiVUhON1pqQWhwSGdVQXBGQ0tVS0xweTQ2eWpMaTZBcVZBRnVwSXZWZlR0ODVhUXVtS01KUE1VZS1QUmxERnhWSTU2QzAwQnAtV2dUOEJOXzNwTU5WTzZpRmtEbU9YTjlGSVgxazZHdG1aTEIt?oc=5",
+   "publicado": "2026-11-15T17:00-03:00",
+   "impacto": "alto",
    "ativos": [
-    "WDO"
+    "WIN"
    ],
-   "tickers": []
+   "tickers": [
+    "MGLU3"
+   ]
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-15T13:22-03:00",
+ "atualizado_em": "2026-11-15T18:13-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
+  "CNN Brasil",
   "Estadão",
   "Folha"
  ],
  "noticias": [
   {
-   "titulo": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/15/social-security-tax-changes-midterm-election.html",
-   "publicado": "2026-11-15T11:30-03:00",
-   "impacto": "medio",
+   "titulo": "Ibovespa na semana: balanços ditam rumos e CSN e BB são destaques de baixa; Magalu salta quase 40%",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFhUN2lidFEzaGQyM1k3TlR6QnF0SzFjajJWS0NKbHRhbVBiVlphYlk3YnpxVnVrTVppRDhoSi05d2ZwdGpYcDBFR0xsUE5WSXB6eEp5Y1Z0X1I3SE5pczI2NUpuYWc0NGJCVi1lcWEybEQzZHhra05iRzVOZEpRWlBQWUVDNDJiVUhON1pqQWhwSGdVQXBGQ0tVS0xweTQ2eWpMaTZBcVZBRnVwSXZWZlR0ODVhUXVtS01KUE1VZS1QUmxERnhWSTU2QzAwQnAtV2dUOEJOXzNwTU5WTzZpRmtEbU9YTjlGSVgxazZHdG1aTEIt?oc=5",
+   "publicado": "2026-11-15T17:00-03:00",
+   "impacto": "alto",
    "ativos": [
-    "WDO"
+    "WIN"
    ],
-   "tickers": []
-  },
-  {
-   "titulo": "Após caso Nvidia, aliados de Trump correm para aprovar restrição a chips para China",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/apos-caso-nvidia-aliados-de-trump-correm-para-aprovar-restricao-a-chips-para-china.shtml",
-   "publicado": "2026-11-15T11:30-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
+   "tickers": [
+    "MGLU3"
+   ]
   }
  ]
 }
