@@ -1,21 +1,8 @@
 {
  "mercado": {},
- "hoje": [
-  {
-   "titulo": "Caso Master leva Banco Central ao maior número de liquidações desde 2002",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/caso-master-leva-banco-central-ao-maior-numero-de-liquidacoes-desde-2002.shtml",
-   "publicado": "2026-11-14T23:00-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  }
- ],
+ "hoje": [],
  "enviadas": [],
- "atualizado_em": "2026-11-14T23:12-03:00",
+ "atualizado_em": "2026-11-15T06:30-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -26,14 +13,14 @@
  ],
  "noticias": [
   {
-   "titulo": "Caso Master leva Banco Central ao maior número de liquidações desde 2002",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/caso-master-leva-banco-central-ao-maior-numero-de-liquidacoes-desde-2002.shtml",
-   "publicado": "2026-11-14T23:00-03:00",
-   "impacto": "alto",
+   "titulo": "Fim do ‘ciclo de ouro’ do minério de ferro afeta mineradoras com menor competitividade no Brasil",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/negocios/fim-do-ciclo-de-ouro-do-minerio-de-ferro-afeta-mineradoras-com-menor-competitividade-no-brasil/",
+   "publicado": "2026-11-15T05:30-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WDO",
-    "DI"
+    "WIN",
+    "WDO"
    ],
    "tickers": []
   }
