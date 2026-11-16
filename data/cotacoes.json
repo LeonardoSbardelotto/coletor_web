@@ -1,93 +1,93 @@
 {
- "atualizado_em": "2026-11-16T15:21-03:00",
+ "atualizado_em": "2026-11-16T19:51-03:00",
  "fonte": "brapi.dev (atraso de ~30 min)",
  "itens": [
   {
    "ticker": "IBOV",
    "nome": "Ibovespa",
-   "preco": 169087.36,
-   "var_pct": -1.95,
-   "hora": "2026-11-16T18:20:35.000Z",
+   "preco": 169295.4,
+   "var_pct": -1.83,
+   "hora": "2026-11-16T22:50:12.000Z",
    "mcap": null
   },
   {
    "ticker": "PETR4",
    "nome": "Petrobras",
-   "preco": 43.81,
-   "var_pct": -3.29,
-   "hora": "2026-11-16T18:19:30.000Z",
+   "preco": 44.02,
+   "var_pct": -2.83,
+   "hora": "2026-11-16T21:31:30.000Z",
    "mcap": 626628594254.0
   },
   {
    "ticker": "VALE3",
    "nome": "Vale",
-   "preco": 61.26,
-   "var_pct": -3.53,
-   "hora": "2026-11-16T18:19:30.000Z",
+   "preco": 60.7,
+   "var_pct": -4.41,
+   "hora": "2026-11-16T21:31:30.000Z",
    "mcap": 253081405669.0
   },
   {
    "ticker": "ITUB4",
    "nome": "Itaú",
-   "preco": 41.15,
-   "var_pct": -2.65,
-   "hora": "2026-11-16T18:19:30.000Z",
+   "preco": 41.3,
+   "var_pct": -2.29,
+   "hora": "2026-11-16T21:31:30.000Z",
    "mcap": 487270888453.0
   },
   {
    "ticker": "BBDC4",
    "nome": "Bradesco",
-   "preco": 14.16,
-   "var_pct": -2.48,
-   "hora": "2026-11-16T18:19:30.000Z",
+   "preco": 14.23,
+   "var_pct": -2.0,
+   "hora": "2026-11-16T21:31:30.000Z",
    "mcap": 156113090364.0
   },
   {
    "ticker": "BBAS3",
    "nome": "Banco do Brasil",
-   "preco": 14.76,
-   "var_pct": -2.25,
-   "hora": "2026-11-16T18:19:30.000Z",
+   "preco": 14.95,
+   "var_pct": -0.99,
+   "hora": "2026-11-16T21:31:30.000Z",
    "mcap": 86354129916.0
   },
   {
    "ticker": "B3SA3",
    "nome": "B3",
-   "preco": 14.73,
-   "var_pct": -1.07,
-   "hora": "2026-11-16T18:19:30.000Z",
+   "preco": 14.81,
+   "var_pct": -0.54,
+   "hora": "2026-11-16T21:31:30.000Z",
    "mcap": 72342964881.0
   },
   {
    "ticker": "ELET3",
    "nome": "Eletrobras",
-   "preco": 47.38,
-   "var_pct": -2.11,
-   "hora": "2026-11-16T18:19:30.000Z",
+   "preco": 47.36,
+   "var_pct": -2.15,
+   "hora": "2026-11-16T21:31:30.000Z",
    "mcap": 117764411721.0
   },
   {
    "ticker": "WEGE3",
    "nome": "WEG",
-   "preco": 50.52,
-   "var_pct": -1.54,
-   "hora": "2026-11-16T18:19:30.000Z",
+   "preco": 50.4,
+   "var_pct": -1.77,
+   "hora": "2026-11-16T21:31:30.000Z",
    "mcap": 215297367051.0
   },
   {
    "ticker": "ABEV3",
    "nome": "Ambev",
-   "preco": 15.78,
-   "var_pct": -0.06,
-   "hora": "2026-11-16T18:19:30.000Z",
+   "preco": 15.87,
+   "var_pct": 0.51,
+   "hora": "2026-11-16T21:31:30.000Z",
    "mcap": 244434966460.0
   },
   {
    "ticker": "PRIO3",
    "nome": "PRIO",
-   "preco": 62.46,
-   "var_pct": -1.33,
-   "hora": "2026-11-16T18:19:30.000Z",
+   "preco": 62.63,
+   "var_pct": -1.06,
+   "hora": "2026-11-16T21:31:30.000Z",
    "mcap": 52755337468.0
   }
  ],
