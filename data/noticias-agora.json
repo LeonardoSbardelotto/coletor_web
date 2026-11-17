@@ -1,146 +1,788 @@
 {
- "mercado": {},
+ "mercado": {
+  "data": "2026-11-17",
+  "atualizado_em": "2026-11-17T15:34-03:00",
+  "ibov": {
+   "anterior": 169295.4,
+   "pontos": [
+    [
+     "10:00",
+     169614.0
+    ],
+    [
+     "10:05",
+     169989.0
+    ],
+    [
+     "10:10",
+     170155.0
+    ],
+    [
+     "10:15",
+     169925.0
+    ],
+    [
+     "10:20",
+     169928.0
+    ],
+    [
+     "10:25",
+     170250.0
+    ],
+    [
+     "10:30",
+     169996.0
+    ],
+    [
+     "10:35",
+     169997.0
+    ],
+    [
+     "10:40",
+     170109.0
+    ],
+    [
+     "10:45",
+     170415.0
+    ],
+    [
+     "10:50",
+     170234.0
+    ],
+    [
+     "10:55",
+     170738.0
+    ],
+    [
+     "11:00",
+     170711.0
+    ],
+    [
+     "11:05",
+     170557.0
+    ],
+    [
+     "11:10",
+     170690.0
+    ],
+    [
+     "11:15",
+     170594.0
+    ],
+    [
+     "11:20",
+     170660.0
+    ],
+    [
+     "11:25",
+     170847.0
+    ],
+    [
+     "11:30",
+     171025.0
+    ],
+    [
+     "11:35",
+     171139.0
+    ],
+    [
+     "11:40",
+     171412.0
+    ],
+    [
+     "11:45",
+     171431.0
+    ],
+    [
+     "11:50",
+     171015.0
+    ],
+    [
+     "11:55",
+     171313.0
+    ],
+    [
+     "12:00",
+     171315.0
+    ],
+    [
+     "12:05",
+     171451.0
+    ],
+    [
+     "12:10",
+     171568.0
+    ],
+    [
+     "12:15",
+     171460.0
+    ],
+    [
+     "12:20",
+     171652.0
+    ],
+    [
+     "12:25",
+     171652.0
+    ],
+    [
+     "12:30",
+     171568.0
+    ],
+    [
+     "12:35",
+     171551.0
+    ],
+    [
+     "12:40",
+     171326.0
+    ],
+    [
+     "12:45",
+     171173.0
+    ],
+    [
+     "12:50",
+     171138.0
+    ],
+    [
+     "12:55",
+     171251.0
+    ],
+    [
+     "13:00",
+     171428.0
+    ],
+    [
+     "13:05",
+     171213.0
+    ],
+    [
+     "13:10",
+     171287.0
+    ],
+    [
+     "13:15",
+     171157.0
+    ],
+    [
+     "13:20",
+     171062.0
+    ],
+    [
+     "13:25",
+     171059.0
+    ],
+    [
+     "13:30",
+     171094.0
+    ],
+    [
+     "13:35",
+     171003.0
+    ],
+    [
+     "13:40",
+     171078.0
+    ],
+    [
+     "13:45",
+     170878.0
+    ],
+    [
+     "13:50",
+     170749.0
+    ],
+    [
+     "13:55",
+     170845.0
+    ],
+    [
+     "14:00",
+     170577.0
+    ],
+    [
+     "14:05",
+     170698.0
+    ],
+    [
+     "14:10",
+     170893.0
+    ],
+    [
+     "14:15",
+     170990.0
+    ],
+    [
+     "14:20",
+     170921.0
+    ],
+    [
+     "14:25",
+     170729.0
+    ],
+    [
+     "14:30",
+     170587.0
+    ],
+    [
+     "14:35",
+     170621.0
+    ],
+    [
+     "14:40",
+     170494.0
+    ],
+    [
+     "14:45",
+     170476.0
+    ],
+    [
+     "14:50",
+     170425.0
+    ],
+    [
+     "14:55",
+     170507.0
+    ],
+    [
+     "15:00",
+     170401.0
+    ],
+    [
+     "15:05",
+     170421.0
+    ],
+    [
+     "15:10",
+     170093.0
+    ],
+    [
+     "15:15",
+     170044.0
+    ],
+    [
+     "15:19",
+     170078.0
+    ]
+   ]
+  },
+  "dolar": {
+   "anterior": 5.7858,
+   "pontos": [
+    [
+     "09:00",
+     5.7782
+    ],
+    [
+     "09:05",
+     5.7766
+    ],
+    [
+     "09:10",
+     5.7835
+    ],
+    [
+     "09:15",
+     5.783
+    ],
+    [
+     "09:20",
+     5.77
+    ],
+    [
+     "09:25",
+     5.7755
+    ],
+    [
+     "09:30",
+     5.7859
+    ],
+    [
+     "09:35",
+     5.7829
+    ],
+    [
+     "09:40",
+     5.7957
+    ],
+    [
+     "09:45",
+     5.7823
+    ],
+    [
+     "09:50",
+     5.7778
+    ],
+    [
+     "09:55",
+     5.7749
+    ],
+    [
+     "10:00",
+     5.7811
+    ],
+    [
+     "10:05",
+     5.7816
+    ],
+    [
+     "10:10",
+     5.7873
+    ],
+    [
+     "10:15",
+     5.8016
+    ],
+    [
+     "10:20",
+     5.799
+    ],
+    [
+     "10:25",
+     5.8021
+    ],
+    [
+     "10:30",
+     5.8037
+    ],
+    [
+     "10:35",
+     5.8046
+    ],
+    [
+     "10:40",
+     5.8017
+    ],
+    [
+     "10:45",
+     5.7936
+    ],
+    [
+     "10:50",
+     5.8001
+    ],
+    [
+     "10:55",
+     5.767
+    ],
+    [
+     "11:00",
+     5.7726
+    ],
+    [
+     "11:05",
+     5.7708
+    ],
+    [
+     "11:10",
+     5.7735
+    ],
+    [
+     "11:15",
+     5.7776
+    ],
+    [
+     "11:20",
+     5.776
+    ],
+    [
+     "11:25",
+     5.7739
+    ],
+    [
+     "11:30",
+     5.7754
+    ],
+    [
+     "11:35",
+     5.7749
+    ],
+    [
+     "11:40",
+     5.7694
+    ],
+    [
+     "11:45",
+     5.7772
+    ],
+    [
+     "11:50",
+     5.7831
+    ],
+    [
+     "11:55",
+     5.789
+    ],
+    [
+     "12:00",
+     5.7907
+    ],
+    [
+     "12:05",
+     5.7929
+    ],
+    [
+     "12:10",
+     5.7919
+    ],
+    [
+     "12:15",
+     5.7891
+    ],
+    [
+     "12:20",
+     5.7895
+    ],
+    [
+     "12:25",
+     5.7891
+    ],
+    [
+     "12:30",
+     5.794
+    ],
+    [
+     "12:35",
+     5.7835
+    ],
+    [
+     "12:40",
+     5.7835
+    ],
+    [
+     "12:45",
+     5.7898
+    ],
+    [
+     "12:50",
+     5.7966
+    ],
+    [
+     "12:55",
+     5.793
+    ],
+    [
+     "13:00",
+     5.79
+    ],
+    [
+     "13:05",
+     5.7818
+    ],
+    [
+     "13:10",
+     5.7766
+    ],
+    [
+     "13:15",
+     5.7798
+    ],
+    [
+     "13:20",
+     5.7853
+    ],
+    [
+     "13:25",
+     5.783
+    ],
+    [
+     "13:30",
+     5.7808
+    ],
+    [
+     "13:35",
+     5.7822
+    ],
+    [
+     "13:40",
+     5.7815
+    ],
+    [
+     "13:45",
+     5.7865
+    ],
+    [
+     "13:50",
+     5.7895
+    ],
+    [
+     "13:55",
+     5.788
+    ],
+    [
+     "14:00",
+     5.791
+    ],
+    [
+     "14:05",
+     5.788
+    ],
+    [
+     "14:10",
+     5.7836
+    ],
+    [
+     "14:15",
+     5.7804
+    ],
+    [
+     "14:20",
+     5.776
+    ],
+    [
+     "14:25",
+     5.7718
+    ],
+    [
+     "14:30",
+     5.7753
+    ],
+    [
+     "14:35",
+     5.7755
+    ],
+    [
+     "14:40",
+     5.7745
+    ],
+    [
+     "14:45",
+     5.7775
+    ],
+    [
+     "14:50",
+     5.7755
+    ],
+    [
+     "14:55",
+     5.773
+    ],
+    [
+     "15:00",
+     5.7768
+    ],
+    [
+     "15:05",
+     5.7782
+    ],
+    [
+     "15:10",
+     5.785
+    ],
+    [
+     "15:15",
+     5.782
+    ],
+    [
+     "15:20",
+     5.7783
+    ],
+    [
+     "15:25",
+     5.771
+    ],
+    [
+     "15:30",
+     5.77
+    ],
+    [
+     "15:34",
+     5.7695
+    ]
+   ]
+  },
+  "marcadores": [
+   {
+    "hora": "13:01",
+    "titulo": "Hapvida salta 10% e lidera maiores altas do Ibovespa hoje; veja os destaques",
+    "fonte": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZzNNeUl2Um8wb0E5NHhXTXFqOGM3RDZPMjhFVnZPd3pDYmdtUkZXSTRrUFVOWmVtOWE4WnVkeE94ZlRMb3V6WWRieDhFUlBtcllIY3lORTA3b25hV0tNUGZCNWFyZ1JPeUY5dlB5MXJkbWpYQ21CZDJid253NldQd1l2MWdoRXZadkdPb3RZUTdyemdGWHM2dk9aNk9lVnVmWHdjNllQTlQyR1B4bE1JLTJldEtVZmRtUWR1WGhjYUs2TkRTbkdvOE04VTlrd9IB0wFBVV95cUxQOVFRVXY5X1F3TGs5bnRHYXlxOHYwdHdmR2lZNGRqQlpqRjlQMGhVNXVHQmlMWkNNN1dQUkxVYzI0SEM5UUlrSmpjdGpmb3EtaTVoOTN3bDVqSUFGdUZvdG1aWThoZ0ZzUUdDR2xxcldob00ybHFSbzBLWl9fcWJvalYtclJHY1hCend1S0c5QWhhZVJYX0xTUDRyY05ZNDRQWUlVd0I2UTJ5Y05HOTMtRWpVdDB2M0x0NTV0anpzOF9VdUNJbGpGN0pwNUhSN0FISlh3?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "HAPV3"
+    ],
+    "ibov30": -0.2,
+    "dolar30": -0.16
+   },
+   {
+    "hora": "13:03",
+    "titulo": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
+    "fonte": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
+    "impacto": "alto",
+    "ativos": [
+     "WDO",
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": -0.2,
+    "dolar30": -0.16
+   },
+   {
+    "hora": "13:08",
+    "titulo": "Brookfield critica revisão de tarifas de gasodutos e vê risco a investimento no Brasil",
+    "fonte": "Folha",
+    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/brookfield-eleva-pressao-sobre-anp-e-ve-risco-a-investimento-no-brasil.shtml",
+    "impacto": "medio",
+    "ativos": [
+     "WDO"
+    ],
+    "tickers": [],
+    "ibov30": -0.12,
+    "dolar30": 0.01
+   },
+   {
+    "hora": "13:37",
+    "titulo": "B3 lançará BDR da Anthropic simultaneamente ao IPO da empresa na Nasdaq",
+    "fonte": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVFsT2VvYXhKTWFMaGoxUlBMdjMtbXRIX0kxZzhfdGtKRy0xVnV3aGtMZE9CTHl0NDEzakxGbUFvZ1R6NVFFYzRBZ29SQmdGYm1mdkpXbVRNMlZjNTZGTGkwbFNmMm5IaHF2RDh1NWJLOEpIU01EZ1p5Ykw1cnNwWUhOMm14V25aZUY1a3dVa05ockFEeWJNRUFvclZGTDRfZk5ERk85TWdRTVkxWVJF0gG0AUFVX3lxTE1LYkk2SG1QTkkyRF9pM1otdVFmLXQzQ3djN3U4YlVNYkxlUlpIRk44YXkzaG5ZTHVuN25ZNjByZEdmUVFINEhMT0lvMElwbjMtZWJHUFZrOGgtMTVsOWM1MTYzWmtlcExTNmk4OThhMDVMejQyWkNpM1ZhcWxFZ2hOOWlCTXVxT3cxQmhSQU1oQXRsbmdjMm0xdUM4eTlYcGNNYUFWcWItNVRQOHlfX3QtLTBNaA?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "B3SA3"
+    ],
+    "ibov30": -0.18,
+    "dolar30": 0.1
+   },
+   {
+    "hora": "14:15",
+    "titulo": "Wall Street cai à espera de balanço da Nvidia e IPO da Anthropic",
+    "fonte": "CNN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEt5aUNxQXV4VUtucDJ0Tmk5SnNLV1Itcl84R3dXcHZqRUgwUVlSVVlPUEFST2NBTGJqUm9nN244Z2xOS2lKRUdMSk95TWFtWmxxV2tIdjlweUlCWDlFVk5KQ3hxQ3I3WV9DbnZHdF9Ta2huUU5tRnlrY3d5QTZJeTAtaXVPQ1E?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [],
+    "ibov30": -0.29,
+    "dolar30": -0.1
+   },
+   {
+    "hora": "14:31",
+    "titulo": "Itaú BBA eleva TIM (TIMS3) para compra e cita três fatores que tornam a ação difícil de ignorar",
+    "fonte": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeThRMEQxd1c3NFFQTG8xMUdreXYtYjJNLWNKWVhXMjJDQ2ZHWm85djlycnRFQmlNNkFXUGR5LUFtb3YzLVdOTmJGbWNxN3ZyUGptUEFUSXhnRWw4dUxJcTdvejA2alRDWkE3c3FtTUN6X1F6Nks3Y25Jall2SjYyeXlEUnIzcGtTejd6NzliOWJCM3BNdi0tcUxkaXpUTjIxSGdQUFZkYVhzdzJQV2h6cGYxNXFVQjREV0IwemtpR0dEMFVLQU1Jag?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "ITUB4",
+     "TIMS3"
+    ],
+    "ibov30": -0.11,
+    "dolar30": 0.03
+   },
+   {
+    "hora": "15:14",
+    "titulo": "Governo retira urgência de projeto de bets para poder votar ajuste fiscal e proposta sobre big techs",
+    "fonte": "Estadão",
+    "url": "https://www.estadao.com.br/politica/governo-retira-urgencia-de-projeto-de-bets-para-poder-votar-ajuste-fiscal-e-proposta-sobre-big-techs/",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": null
+   }
+  ]
+ },
  "hoje": [
   {
-   "titulo": "Inflação: efeitos do El Niño nos preços devem se intensificar em 2027, com impacto nos juros",
+   "titulo": "Hapvida salta 10% e lidera maiores altas do Ibovespa hoje; veja os destaques",
    "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/inflacao-efeitos-do-el-nino-nos-precos-devem-se-intensificar-em-2027-com-impacto-nos-juros/",
-   "publicado": "2026-11-17T05:30-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ajuste fiscal no Senado, Durigan com investidores e falas do Fed: o que move os mercados",
-   "fonte": "Exame",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0FzWUppWmF3UjNHOEpQRnQxdTJneEhsUkJabFdiQ3ZOYm9ESjR5OFpNNEZQcDhnWHdheEoteENxYzN6T2x2MmRia0xmdTh2XzBsVlc5MWxxS3dsQXBOaTJ1RkRNbmI1UEV2eDhJZzVKcHpLaG9ibURVekFuREdRcE4zamRTQlE3djBDM3Q1UTRCM3hIVkUteGxHMGdhc1Q2RVd2UUZ5N1FzcVVPQWFtdktkTldpZnJEc2hzM2xR?oc=5",
-   "publicado": "2026-11-17T05:34-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa tenta reagir após tombo com saída de capital estrangeiro e balanço da Nvidia no radar",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSEFyRnlNTGgxYVBoT3RtWmFkUlk5M1pYeXZxdmRSNFFfajZmSVFMMnYwR1VfX0MtM3Z1VzRrS3RkVlpYbDlfdDFiYnd5ZU84QzctUUZkOTFWZmVLZnpiQTNNY1QyenFSUTZEclVYV3RQVF9zdmY3X3M5bTFEaktuY0FIbUpadnNFS3dNSW1zSERPUEhMS0RNOVk5UDYtdldvMTdHSXRJaHNsek9VbXlrZkYzdWNSakVvUjB6UUs4M01QY19BZ1NPVnR5WWZhUDh3RENjTWNWMXF5STFXcmJkQWxyTk5kUWl6NzdZanBoaWNMdzQ?oc=5",
-   "publicado": "2026-11-17T05:35-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Varejo e indústria nos EUA, balanço da Nvidia e ajuste fiscal movimentam os mercados",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekJPZmlCZGlTa21CZUxTbWxjd0hHMDBlQXE1bFVxemxqcjh5TFNGd3JzS0dUNzF4WkRRMG9Fa0RPT1pUWjZPWG1VcXdYM1JHRzBkblhnNWlNSTN4MUczaG5tMG55U2VXTzdkMm1ZVDVaN3IzMmNDenY1V21RdXV1RXVjZWdiYUtLVV9HeVpIZnJWTEh4SWdwYWFnUTbSAaIBQVVfeXFMTVhFbTVJdEx3U2xDZzZCZnRDcjBpYmZXQWV5cTVLTkljS1R5TlZaU3lxcHVvYnlDVWVacG1yS2k4cUgtQ3NJLUdrYUlnc19OT0tYd0dxb3JSLWM0U0pVQ2JYVTFEb0FSTmxUTjhiallPUko0Ym5Pc0oxcWdLTWxiUGJmNWxxSjVPb3NfSWZJWFlrZlh5QUpWVjZyRUdlVzVRTzdn?oc=5",
-   "publicado": "2026-11-17T06:05-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Tendência do dólar é ter valorização ainda maior, diz especialista",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeXVscUJxeUNmZ0ZZYklrNkp2SV9UNDhhTFJ4UDltUm5MZDFpRjN6clRHZG1fU2h0UVBWT0hFeEpyellzUW4xQmpEOS1jWlcwRTNiTE9qQzNhc3k2MHRaZ2pxUkhoZVVoU3Jpb3dwTndKXzAwbUY5ZHZUU1l2MUVjdEtoNWtVWlZPM3NDODRhazQzelF0TTljeVNqbDluRHA1YllJVWlxR3B3RV9pZWNHd2p5aU13Z01JelE?oc=5",
-   "publicado": "2026-11-17T06:08-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Petrobras (PETR4) analisa oportunidades em exploração, mas diz que não assinou acordo sobre Bumerangue",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc1NFN19yZjZJVUdhM0JpZ1lXUnhvN0xfNlA2NHlQS2lWTWlFRm9xemFXcEQxVk5oR0Y5WE1Nd3pLUFFjZTM3dnFPWHpZZF9EbzRhNzNPWXRZcnFZV0drRzc0WXR5dmdXN1ZKQVVia1BxSFpMa1FFNVBHZlJKOUNRdDRoa0pqeDdURmFIMGRIanZXREVIX3NYdzlPM1ZWVXFuS0pXNGxCeF9uYndZMTN6MlM1WDAyZzdvczh4bWF3TjM1YVZJbV9DeGk0eDQyX2ct?oc=5",
-   "publicado": "2026-11-17T06:27-03:00",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZzNNeUl2Um8wb0E5NHhXTXFqOGM3RDZPMjhFVnZPd3pDYmdtUkZXSTRrUFVOWmVtOWE4WnVkeE94ZlRMb3V6WWRieDhFUlBtcllIY3lORTA3b25hV0tNUGZCNWFyZ1JPeUY5dlB5MXJkbWpYQ21CZDJid253NldQd1l2MWdoRXZadkdPb3RZUTdyemdGWHM2dk9aNk9lVnVmWHdjNllQTlQyR1B4bE1JLTJldEtVZmRtUWR1WGhjYUs2TkRTbkdvOE04VTlrd9IB0wFBVV95cUxQOVFRVXY5X1F3TGs5bnRHYXlxOHYwdHdmR2lZNGRqQlpqRjlQMGhVNXVHQmlMWkNNN1dQUkxVYzI0SEM5UUlrSmpjdGpmb3EtaTVoOTN3bDVqSUFGdUZvdG1aWThoZ0ZzUUdDR2xxcldob00ybHFSbzBLWl9fcWJvalYtclJHY1hCend1S0c5QWhhZVJYX0xTUDRyY05ZNDRQWUlVd0I2UTJ5Y05HOTMtRWpVdDB2M0x0NTV0anpzOF9VdUNJbGpGN0pwNUhSN0FISlh3?oc=5",
+   "publicado": "2026-11-17T13:01-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
    "tickers": [
-    "PETR4"
+    "HAPV3"
    ]
   },
   {
-   "titulo": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta terça-feira (17)",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkZHYTZZMHNWWURrMkd6R2hBbzNjSjYxNXBiX1Z0VV93c0FWR1M0clFNS0IyRE5vRVo5cXR2eVJEaVlhX1JnRDhrYjBtOFZWRXBqcjdrdzNjUm14blBjQWVKU1p5OFJJWW9Ld2p1ZnBiQ2VaNnVVTTM5dFhZRFQ3SHBzX3RTdWxPZGJ5akVDdDFCTjZrdjdWeWlhbFRtMVRvM25yclNLVHMwc1hiZ3pfZQ?oc=5",
-   "publicado": "2026-11-17T06:30-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Tempo real: temor fiscal se soma à aversão com inteligência artificial hoje",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzVxdzVUblhqOVQ4WUQ2ZWVaUy1MR0VxYVlyUlFvWC02czFkN2l2VUxPakNQSC1EVHVBZ0lyRjFNcmhWRmE5b0FLSmdYSUFubU9VdjZEOVVkU05YQjJYSnAyUmdlRnM3SGQxck5oQ2pOYXJtei0tOWM5U0VLTEZabU5nNlhWbmRtWEUydmRoZ3dTSWxSTzVFY2VBTU1oNG42bGNSZXh5V1RHcjdSTGs4?oc=5",
-   "publicado": "2026-11-17T06:53-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Day Trade hoje (17): Ibovespa cai abaixo dos 170 mil; e agora?",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTF3WWpWYnBWb0tKUndhNnAxeVFuWS10d0pNaDE3WG4wdWZ2ZzE1ODN0SFBFODNPbzFmc2VJTTJfVHRSSGZ4ZzJYcFV5bndPZ2hNOEh4S2NwRmxrYnBIZzdzTU1EcklldjVlcVlZMG5nNWZINFdMUnBpS3VYdGVvYjFnT3dBbXPSAY4BQVVfeXFMTlY2YVlZd2hncGFiRE5DaVBZZWNaVnV5ODJ5Rmc0NUxQMy1RemJ0U2dISHhWQ3RiSDRPRGlXVExqQ2NTWTlGOTN4RUNIaElMbWR1ekdVNjBnQjZ5dWpvdmx3dG5YWmNHdHBxOXlTRkUtRC1wM0IxM2VNbXhjbFpBLWR3MFJhQ3IyNFlqaGhWdw?oc=5",
-   "publicado": "2026-11-17T07:03-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Preocupação fiscal divide dia com crise da IA no mundo; Ibovespa em dólar cai nesta terça-feira (17)",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaFR5NkQ0T1FIeVFxby1FNXpkaFBnUzdaQWU2c3FscGg4N0dqWFFlbnpNaDZ1eDFEVXdKcjZVd215bE9TVEh6V3ZvdDQ4NUZwdkI2OWFCYjNVbHBnck9GeFFDQnZyYlhZOG9XSzNoMmFYSXljd0tENmhXMGFrTHpENUhLWVhWN1E4ZU9XZnVvbzdYeFFKT1dWTnptdVVLRTJaNE5XQWszcnZzTXlBS2h2S3Yyb29uM215YkpiOEhSa2kxLVFpVmxDR01COGVqUQ?oc=5",
-   "publicado": "2026-11-17T07:08-03:00",
+   "titulo": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
+   "publicado": "2026-11-17T13:03-03:00",
    "impacto": "alto",
    "ativos": [
-    "WIN",
     "WDO",
     "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Mini-índice (WINZ26): fiscal e dados dos EUA desafiam compradores",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSndWM2ZVVGR1THlKVk9HeWI0d181TW92RDBHc2lWdTBhdGIwbWduZ1VzUjlHekdUeTNaUDE5RTJqbEFyc2VVLUxiY094Q1MtS2Z3ZW0xakRINFN2LWlYOE1uSnB0R2JuSlR3RFRoN0kwWXhnUmZTVDloSFBiVnUyTUhVMUtWU2d4VHF1eU5sX0bSAZYBQVVfeXFMT0drdkJjSHFTSWE5T2U3Q045VUh5b1pMMngzNWd1cDFDY3c4VDVXVWQwWl91Yl81TS1JSHZXaXdLenNZZjQyWjFjTEttNWloeFBObmNWU3RQWS1hcnM5eWxuQmx2Zi1jVHF3cl9QY0puVDdfQUxGSEhRZ2d4Z2lxY3BnNG9vMndnVFIzdld0ZWJONGo3dV9B?oc=5",
-   "publicado": "2026-11-17T07:08-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Minidólar (WDOZ26) mantém viés de alta; veja suportes e resistências",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMXNFeXdKR0t0YzloMmRkLUlUUDVITElpaC03akE3dllRekdzVXFZTk1zNjU0ZHBEbHZCYnNLTHpzLTZIMi1oVG5tWEo5RmVnNWZHeTZpR04teDJGRkQ5eTE5LUkxUU9ENkxva0xmR1IwSVFvVERWaFlzRERfa0JvS2NOdTBuY0RaTG11SNIBkwFBVV95cUxNU0pubEt1NlZmUkZjNmNzQ2FnME14UTcwZHVHYVBUTVg5M2c3NEJNWmd1NVZER3E5VXdyQjJRT3doS3o2ZGtwVDNndWxvZjB4V01TLWtYWTRObTlfZjlITHJVMEdha0JTaFVCWV94VVkxMDJDMm5UdEI0N3VwQkIxVGd5Q2FVRVZZd0lpYzFITU9VT1k?oc=5",
-   "publicado": "2026-11-17T07:13-03:00",
+   "titulo": "Brookfield critica revisão de tarifas de gasodutos e vê risco a investimento no Brasil",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/brookfield-eleva-pressao-sobre-anp-e-ve-risco-a-investimento-no-brasil.shtml",
+   "publicado": "2026-11-17T13:08-03:00",
    "impacto": "medio",
    "ativos": [
     "WDO"
    ],
    "tickers": []
+  },
+  {
+   "titulo": "B3 lançará BDR da Anthropic simultaneamente ao IPO da empresa na Nasdaq",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVFsT2VvYXhKTWFMaGoxUlBMdjMtbXRIX0kxZzhfdGtKRy0xVnV3aGtMZE9CTHl0NDEzakxGbUFvZ1R6NVFFYzRBZ29SQmdGYm1mdkpXbVRNMlZjNTZGTGkwbFNmMm5IaHF2RDh1NWJLOEpIU01EZ1p5Ykw1cnNwWUhOMm14V25aZUY1a3dVa05ockFEeWJNRUFvclZGTDRfZk5ERk85TWdRTVkxWVJF0gG0AUFVX3lxTE1LYkk2SG1QTkkyRF9pM1otdVFmLXQzQ3djN3U4YlVNYkxlUlpIRk44YXkzaG5ZTHVuN25ZNjByZEdmUVFINEhMT0lvMElwbjMtZWJHUFZrOGgtMTVsOWM1MTYzWmtlcExTNmk4OThhMDVMejQyWkNpM1ZhcWxFZ2hOOWlCTXVxT3cxQmhSQU1oQXRsbmdjMm0xdUM4eTlYcGNNYUFWcWItNVRQOHlfX3QtLTBNaA?oc=5",
+   "publicado": "2026-11-17T13:37-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "B3SA3"
+   ]
+  },
+  {
+   "titulo": "Wall Street cai à espera de balanço da Nvidia e IPO da Anthropic",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEt5aUNxQXV4VUtucDJ0Tmk5SnNLV1Itcl84R3dXcHZqRUgwUVlSVVlPUEFST2NBTGJqUm9nN244Z2xOS2lKRUdMSk95TWFtWmxxV2tIdjlweUlCWDlFVk5KQ3hxQ3I3WV9DbnZHdF9Ta2huUU5tRnlrY3d5QTZJeTAtaXVPQ1E?oc=5",
+   "publicado": "2026-11-17T14:15-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Itaú BBA eleva TIM (TIMS3) para compra e cita três fatores que tornam a ação difícil de ignorar",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeThRMEQxd1c3NFFQTG8xMUdreXYtYjJNLWNKWVhXMjJDQ2ZHWm85djlycnRFQmlNNkFXUGR5LUFtb3YzLVdOTmJGbWNxN3ZyUGptUEFUSXhnRWw4dUxJcTdvejA2alRDWkE3c3FtTUN6X1F6Nks3Y25Jall2SjYyeXlEUnIzcGtTejd6NzliOWJCM3BNdi0tcUxkaXpUTjIxSGdQUFZkYVhzdzJQV2h6cGYxNXFVQjREV0IwemtpR0dEMFVLQU1Jag?oc=5",
+   "publicado": "2026-11-17T14:31-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "ITUB4",
+    "TIMS3"
+   ]
+  },
+  {
+   "titulo": "Governo retira urgência de projeto de bets para poder votar ajuste fiscal e proposta sobre big techs",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/politica/governo-retira-urgencia-de-projeto-de-bets-para-poder-votar-ajuste-fiscal-e-proposta-sobre-big-techs/",
+   "publicado": "2026-11-17T15:14-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-17T07:30-03:00",
+ "atualizado_em": "2026-11-17T15:34-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -148,17 +790,66 @@
   "CNBC",
   "CNN Brasil",
   "Estadão",
-  "Exame",
   "Folha",
   "InfoMoney",
-  "Money Times"
+  "Money Times",
+  "Valor"
  ],
  "noticias": [
   {
-   "titulo": "Minidólar (WDOZ26) mantém viés de alta; veja suportes e resistências",
+   "titulo": "Governo retira urgência de projeto de bets para poder votar ajuste fiscal e proposta sobre big techs",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/politica/governo-retira-urgencia-de-projeto-de-bets-para-poder-votar-ajuste-fiscal-e-proposta-sobre-big-techs/",
+   "publicado": "2026-11-17T15:14-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Itaú BBA eleva TIM (TIMS3) para compra e cita três fatores que tornam a ação difícil de ignorar",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeThRMEQxd1c3NFFQTG8xMUdreXYtYjJNLWNKWVhXMjJDQ2ZHWm85djlycnRFQmlNNkFXUGR5LUFtb3YzLVdOTmJGbWNxN3ZyUGptUEFUSXhnRWw4dUxJcTdvejA2alRDWkE3c3FtTUN6X1F6Nks3Y25Jall2SjYyeXlEUnIzcGtTejd6NzliOWJCM3BNdi0tcUxkaXpUTjIxSGdQUFZkYVhzdzJQV2h6cGYxNXFVQjREV0IwemtpR0dEMFVLQU1Jag?oc=5",
+   "publicado": "2026-11-17T14:31-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "ITUB4",
+    "TIMS3"
+   ]
+  },
+  {
+   "titulo": "Wall Street cai à espera de balanço da Nvidia e IPO da Anthropic",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEt5aUNxQXV4VUtucDJ0Tmk5SnNLV1Itcl84R3dXcHZqRUgwUVlSVVlPUEFST2NBTGJqUm9nN244Z2xOS2lKRUdMSk95TWFtWmxxV2tIdjlweUlCWDlFVk5KQ3hxQ3I3WV9DbnZHdF9Ta2huUU5tRnlrY3d5QTZJeTAtaXVPQ1E?oc=5",
+   "publicado": "2026-11-17T14:15-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "B3 lançará BDR da Anthropic simultaneamente ao IPO da empresa na Nasdaq",
    "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMXNFeXdKR0t0YzloMmRkLUlUUDVITElpaC03akE3dllRekdzVXFZTk1zNjU0ZHBEbHZCYnNLTHpzLTZIMi1oVG5tWEo5RmVnNWZHeTZpR04teDJGRkQ5eTE5LUkxUU9ENkxva0xmR1IwSVFvVERWaFlzRERfa0JvS2NOdTBuY0RaTG11SNIBkwFBVV95cUxNU0pubEt1NlZmUkZjNmNzQ2FnME14UTcwZHVHYVBUTVg5M2c3NEJNWmd1NVZER3E5VXdyQjJRT3doS3o2ZGtwVDNndWxvZjB4V01TLWtYWTRObTlfZjlITHJVMEdha0JTaFVCWV94VVkxMDJDMm5UdEI0N3VwQkIxVGd5Q2FVRVZZd0lpYzFITU9VT1k?oc=5",
-   "publicado": "2026-11-17T07:13-03:00",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVFsT2VvYXhKTWFMaGoxUlBMdjMtbXRIX0kxZzhfdGtKRy0xVnV3aGtMZE9CTHl0NDEzakxGbUFvZ1R6NVFFYzRBZ29SQmdGYm1mdkpXbVRNMlZjNTZGTGkwbFNmMm5IaHF2RDh1NWJLOEpIU01EZ1p5Ykw1cnNwWUhOMm14V25aZUY1a3dVa05ockFEeWJNRUFvclZGTDRfZk5ERk85TWdRTVkxWVJF0gG0AUFVX3lxTE1LYkk2SG1QTkkyRF9pM1otdVFmLXQzQ3djN3U4YlVNYkxlUlpIRk44YXkzaG5ZTHVuN25ZNjByZEdmUVFINEhMT0lvMElwbjMtZWJHUFZrOGgtMTVsOWM1MTYzWmtlcExTNmk4OThhMDVMejQyWkNpM1ZhcWxFZ2hOOWlCTXVxT3cxQmhSQU1oQXRsbmdjMm0xdUM4eTlYcGNNYUFWcWItNVRQOHlfX3QtLTBNaA?oc=5",
+   "publicado": "2026-11-17T13:37-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "B3SA3"
+   ]
+  },
+  {
+   "titulo": "Brookfield critica revisão de tarifas de gasodutos e vê risco a investimento no Brasil",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/brookfield-eleva-pressao-sobre-anp-e-ve-risco-a-investimento-no-brasil.shtml",
+   "publicado": "2026-11-17T13:08-03:00",
    "impacto": "medio",
    "ativos": [
     "WDO"
@@ -166,130 +857,29 @@
    "tickers": []
   },
   {
-   "titulo": "Preocupação fiscal divide dia com crise da IA no mundo; Ibovespa em dólar cai nesta terça-feira (17)",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaFR5NkQ0T1FIeVFxby1FNXpkaFBnUzdaQWU2c3FscGg4N0dqWFFlbnpNaDZ1eDFEVXdKcjZVd215bE9TVEh6V3ZvdDQ4NUZwdkI2OWFCYjNVbHBnck9GeFFDQnZyYlhZOG9XSzNoMmFYSXljd0tENmhXMGFrTHpENUhLWVhWN1E4ZU9XZnVvbzdYeFFKT1dWTnptdVVLRTJaNE5XQWszcnZzTXlBS2h2S3Yyb29uM215YkpiOEhSa2kxLVFpVmxDR01COGVqUQ?oc=5",
-   "publicado": "2026-11-17T07:08-03:00",
+   "titulo": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
+   "publicado": "2026-11-17T13:03-03:00",
    "impacto": "alto",
    "ativos": [
-    "WIN",
     "WDO",
     "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Mini-índice (WINZ26): fiscal e dados dos EUA desafiam compradores",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSndWM2ZVVGR1THlKVk9HeWI0d181TW92RDBHc2lWdTBhdGIwbWduZ1VzUjlHekdUeTNaUDE5RTJqbEFyc2VVLUxiY094Q1MtS2Z3ZW0xakRINFN2LWlYOE1uSnB0R2JuSlR3RFRoN0kwWXhnUmZTVDloSFBiVnUyTUhVMUtWU2d4VHF1eU5sX0bSAZYBQVVfeXFMT0drdkJjSHFTSWE5T2U3Q045VUh5b1pMMngzNWd1cDFDY3c4VDVXVWQwWl91Yl81TS1JSHZXaXdLenNZZjQyWjFjTEttNWloeFBObmNWU3RQWS1hcnM5eWxuQmx2Zi1jVHF3cl9QY0puVDdfQUxGSEhRZ2d4Z2lxY3BnNG9vMndnVFIzdld0ZWJONGo3dV9B?oc=5",
-   "publicado": "2026-11-17T07:08-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Day Trade hoje (17): Ibovespa cai abaixo dos 170 mil; e agora?",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTF3WWpWYnBWb0tKUndhNnAxeVFuWS10d0pNaDE3WG4wdWZ2ZzE1ODN0SFBFODNPbzFmc2VJTTJfVHRSSGZ4ZzJYcFV5bndPZ2hNOEh4S2NwRmxrYnBIZzdzTU1EcklldjVlcVlZMG5nNWZINFdMUnBpS3VYdGVvYjFnT3dBbXPSAY4BQVVfeXFMTlY2YVlZd2hncGFiRE5DaVBZZWNaVnV5ODJ5Rmc0NUxQMy1RemJ0U2dISHhWQ3RiSDRPRGlXVExqQ2NTWTlGOTN4RUNIaElMbWR1ekdVNjBnQjZ5dWpvdmx3dG5YWmNHdHBxOXlTRkUtRC1wM0IxM2VNbXhjbFpBLWR3MFJhQ3IyNFlqaGhWdw?oc=5",
-   "publicado": "2026-11-17T07:03-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Tempo real: temor fiscal se soma à aversão com inteligência artificial hoje",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzVxdzVUblhqOVQ4WUQ2ZWVaUy1MR0VxYVlyUlFvWC02czFkN2l2VUxPakNQSC1EVHVBZ0lyRjFNcmhWRmE5b0FLSmdYSUFubU9VdjZEOVVkU05YQjJYSnAyUmdlRnM3SGQxck5oQ2pOYXJtei0tOWM5U0VLTEZabU5nNlhWbmRtWEUydmRoZ3dTSWxSTzVFY2VBTU1oNG42bGNSZXh5V1RHcjdSTGs4?oc=5",
-   "publicado": "2026-11-17T06:53-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta terça-feira (17)",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkZHYTZZMHNWWURrMkd6R2hBbzNjSjYxNXBiX1Z0VV93c0FWR1M0clFNS0IyRE5vRVo5cXR2eVJEaVlhX1JnRDhrYjBtOFZWRXBqcjdrdzNjUm14blBjQWVKU1p5OFJJWW9Ld2p1ZnBiQ2VaNnVVTTM5dFhZRFQ3SHBzX3RTdWxPZGJ5akVDdDFCTjZrdjdWeWlhbFRtMVRvM25yclNLVHMwc1hiZ3pfZQ?oc=5",
-   "publicado": "2026-11-17T06:30-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Petrobras (PETR4) analisa oportunidades em exploração, mas diz que não assinou acordo sobre Bumerangue",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc1NFN19yZjZJVUdhM0JpZ1lXUnhvN0xfNlA2NHlQS2lWTWlFRm9xemFXcEQxVk5oR0Y5WE1Nd3pLUFFjZTM3dnFPWHpZZF9EbzRhNzNPWXRZcnFZV0drRzc0WXR5dmdXN1ZKQVVia1BxSFpMa1FFNVBHZlJKOUNRdDRoa0pqeDdURmFIMGRIanZXREVIX3NYdzlPM1ZWVXFuS0pXNGxCeF9uYndZMTN6MlM1WDAyZzdvczh4bWF3TjM1YVZJbV9DeGk0eDQyX2ct?oc=5",
-   "publicado": "2026-11-17T06:27-03:00",
+   "titulo": "Hapvida salta 10% e lidera maiores altas do Ibovespa hoje; veja os destaques",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZzNNeUl2Um8wb0E5NHhXTXFqOGM3RDZPMjhFVnZPd3pDYmdtUkZXSTRrUFVOWmVtOWE4WnVkeE94ZlRMb3V6WWRieDhFUlBtcllIY3lORTA3b25hV0tNUGZCNWFyZ1JPeUY5dlB5MXJkbWpYQ21CZDJid253NldQd1l2MWdoRXZadkdPb3RZUTdyemdGWHM2dk9aNk9lVnVmWHdjNllQTlQyR1B4bE1JLTJldEtVZmRtUWR1WGhjYUs2TkRTbkdvOE04VTlrd9IB0wFBVV95cUxQOVFRVXY5X1F3TGs5bnRHYXlxOHYwdHdmR2lZNGRqQlpqRjlQMGhVNXVHQmlMWkNNN1dQUkxVYzI0SEM5UUlrSmpjdGpmb3EtaTVoOTN3bDVqSUFGdUZvdG1aWThoZ0ZzUUdDR2xxcldob00ybHFSbzBLWl9fcWJvalYtclJHY1hCend1S0c5QWhhZVJYX0xTUDRyY05ZNDRQWUlVd0I2UTJ5Y05HOTMtRWpVdDB2M0x0NTV0anpzOF9VdUNJbGpGN0pwNUhSN0FISlh3?oc=5",
+   "publicado": "2026-11-17T13:01-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
    "tickers": [
-    "PETR4"
+    "HAPV3"
    ]
-  },
-  {
-   "titulo": "Tendência do dólar é ter valorização ainda maior, diz especialista",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeXVscUJxeUNmZ0ZZYklrNkp2SV9UNDhhTFJ4UDltUm5MZDFpRjN6clRHZG1fU2h0UVBWT0hFeEpyellzUW4xQmpEOS1jWlcwRTNiTE9qQzNhc3k2MHRaZ2pxUkhoZVVoU3Jpb3dwTndKXzAwbUY5ZHZUU1l2MUVjdEtoNWtVWlZPM3NDODRhazQzelF0TTljeVNqbDluRHA1YllJVWlxR3B3RV9pZWNHd2p5aU13Z01JelE?oc=5",
-   "publicado": "2026-11-17T06:08-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Varejo e indústria nos EUA, balanço da Nvidia e ajuste fiscal movimentam os mercados",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekJPZmlCZGlTa21CZUxTbWxjd0hHMDBlQXE1bFVxemxqcjh5TFNGd3JzS0dUNzF4WkRRMG9Fa0RPT1pUWjZPWG1VcXdYM1JHRzBkblhnNWlNSTN4MUczaG5tMG55U2VXTzdkMm1ZVDVaN3IzMmNDenY1V21RdXV1RXVjZWdiYUtLVV9HeVpIZnJWTEh4SWdwYWFnUTbSAaIBQVVfeXFMTVhFbTVJdEx3U2xDZzZCZnRDcjBpYmZXQWV5cTVLTkljS1R5TlZaU3lxcHVvYnlDVWVacG1yS2k4cUgtQ3NJLUdrYUlnc19OT0tYd0dxb3JSLWM0U0pVQ2JYVTFEb0FSTmxUTjhiallPUko0Ym5Pc0oxcWdLTWxiUGJmNWxxSjVPb3NfSWZJWFlrZlh5QUpWVjZyRUdlVzVRTzdn?oc=5",
-   "publicado": "2026-11-17T06:05-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa tenta reagir após tombo com saída de capital estrangeiro e balanço da Nvidia no radar",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSEFyRnlNTGgxYVBoT3RtWmFkUlk5M1pYeXZxdmRSNFFfajZmSVFMMnYwR1VfX0MtM3Z1VzRrS3RkVlpYbDlfdDFiYnd5ZU84QzctUUZkOTFWZmVLZnpiQTNNY1QyenFSUTZEclVYV3RQVF9zdmY3X3M5bTFEaktuY0FIbUpadnNFS3dNSW1zSERPUEhMS0RNOVk5UDYtdldvMTdHSXRJaHNsek9VbXlrZkYzdWNSakVvUjB6UUs4M01QY19BZ1NPVnR5WWZhUDh3RENjTWNWMXF5STFXcmJkQWxyTk5kUWl6NzdZanBoaWNMdzQ?oc=5",
-   "publicado": "2026-11-17T05:35-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ajuste fiscal no Senado, Durigan com investidores e falas do Fed: o que move os mercados",
-   "fonte": "Exame",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0FzWUppWmF3UjNHOEpQRnQxdTJneEhsUkJabFdiQ3ZOYm9ESjR5OFpNNEZQcDhnWHdheEoteENxYzN6T2x2MmRia0xmdTh2XzBsVlc5MWxxS3dsQXBOaTJ1RkRNbmI1UEV2eDhJZzVKcHpLaG9ibURVekFuREdRcE4zamRTQlE3djBDM3Q1UTRCM3hIVkUteGxHMGdhc1Q2RVd2UUZ5N1FzcVVPQWFtdktkTldpZnJEc2hzM2xR?oc=5",
-   "publicado": "2026-11-17T05:34-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Inflação: efeitos do El Niño nos preços devem se intensificar em 2027, com impacto nos juros",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/inflacao-efeitos-do-el-nino-nos-precos-devem-se-intensificar-em-2027-com-impacto-nos-juros/",
-   "publicado": "2026-11-17T05:30-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
   }
  ]
 }
