@@ -1,7 +1,7 @@
 {
  "mercado": {
   "data": "2026-11-17",
-  "atualizado_em": "2026-11-17T15:34-03:00",
+  "atualizado_em": "2026-11-17T16:19-03:00",
   "ibov": {
    "anterior": 169295.4,
    "pontos": [
@@ -259,11 +259,47 @@
     ],
     [
      "15:15",
-     170044.0
+     170065.0
     ],
     [
-     "15:19",
-     170078.0
+     "15:20",
+     170054.0
+    ],
+    [
+     "15:25",
+     170203.0
+    ],
+    [
+     "15:30",
+     170200.0
+    ],
+    [
+     "15:35",
+     169906.0
+    ],
+    [
+     "15:40",
+     169857.0
+    ],
+    [
+     "15:45",
+     169825.0
+    ],
+    [
+     "15:50",
+     169826.0
+    ],
+    [
+     "15:55",
+     169779.0
+    ],
+    [
+     "16:00",
+     169762.0
+    ],
+    [
+     "16:04",
+     169749.0
     ]
    ]
   },
@@ -584,57 +620,51 @@
     ],
     [
      "15:30",
-     5.77
+     5.7705
     ],
     [
-     "15:34",
-     5.7695
+     "15:35",
+     5.774
+    ],
+    [
+     "15:40",
+     5.7703
+    ],
+    [
+     "15:45",
+     5.771
+    ],
+    [
+     "15:50",
+     5.773
+    ],
+    [
+     "15:55",
+     5.7765
+    ],
+    [
+     "16:00",
+     5.7775
+    ],
+    [
+     "16:05",
+     5.776
+    ],
+    [
+     "16:10",
+     5.775
+    ],
+    [
+     "16:15",
+     5.7739
+    ],
+    [
+     "16:19",
+     5.7745
     ]
    ]
   },
   "marcadores": [
-   {
-    "hora": "13:01",
-    "titulo": "Hapvida salta 10% e lidera maiores altas do Ibovespa hoje; veja os destaques",
-    "fonte": "Estadão",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZzNNeUl2Um8wb0E5NHhXTXFqOGM3RDZPMjhFVnZPd3pDYmdtUkZXSTRrUFVOWmVtOWE4WnVkeE94ZlRMb3V6WWRieDhFUlBtcllIY3lORTA3b25hV0tNUGZCNWFyZ1JPeUY5dlB5MXJkbWpYQ21CZDJid253NldQd1l2MWdoRXZadkdPb3RZUTdyemdGWHM2dk9aNk9lVnVmWHdjNllQTlQyR1B4bE1JLTJldEtVZmRtUWR1WGhjYUs2TkRTbkdvOE04VTlrd9IB0wFBVV95cUxQOVFRVXY5X1F3TGs5bnRHYXlxOHYwdHdmR2lZNGRqQlpqRjlQMGhVNXVHQmlMWkNNN1dQUkxVYzI0SEM5UUlrSmpjdGpmb3EtaTVoOTN3bDVqSUFGdUZvdG1aWThoZ0ZzUUdDR2xxcldob00ybHFSbzBLWl9fcWJvalYtclJHY1hCend1S0c5QWhhZVJYX0xTUDRyY05ZNDRQWUlVd0I2UTJ5Y05HOTMtRWpVdDB2M0x0NTV0anpzOF9VdUNJbGpGN0pwNUhSN0FISlh3?oc=5",
-    "impacto": "medio",
-    "ativos": [
-     "WIN"
-    ],
-    "tickers": [
-     "HAPV3"
-    ],
-    "ibov30": -0.2,
-    "dolar30": -0.16
-   },
-   {
-    "hora": "13:03",
-    "titulo": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "fonte": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
-    "impacto": "alto",
-    "ativos": [
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": -0.2,
-    "dolar30": -0.16
-   },
-   {
-    "hora": "13:08",
-    "titulo": "Brookfield critica revisão de tarifas de gasodutos e vê risco a investimento no Brasil",
-    "fonte": "Folha",
-    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/brookfield-eleva-pressao-sobre-anp-e-ve-risco-a-investimento-no-brasil.shtml",
-    "impacto": "medio",
-    "ativos": [
-     "WDO"
-    ],
-    "tickers": [],
-    "ibov30": -0.12,
-    "dolar30": 0.01
-   },
    {
     "hora": "13:37",
     "titulo": "B3 lançará BDR da Anthropic simultaneamente ao IPO da empresa na Nasdaq",
@@ -649,19 +679,6 @@
     ],
     "ibov30": -0.18,
     "dolar30": 0.1
-   },
-   {
-    "hora": "14:15",
-    "titulo": "Wall Street cai à espera de balanço da Nvidia e IPO da Anthropic",
-    "fonte": "CNN Brasil",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEt5aUNxQXV4VUtucDJ0Tmk5SnNLV1Itcl84R3dXcHZqRUgwUVlSVVlPUEFST2NBTGJqUm9nN244Z2xOS2lKRUdMSk95TWFtWmxxV2tIdjlweUlCWDlFVk5KQ3hxQ3I3WV9DbnZHdF9Ta2huUU5tRnlrY3d5QTZJeTAtaXVPQ1E?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WIN"
-    ],
-    "tickers": [],
-    "ibov30": -0.29,
-    "dolar30": -0.1
    },
    {
     "hora": "14:31",
@@ -680,6 +697,37 @@
     "dolar30": 0.03
    },
    {
+    "hora": "14:39",
+    "titulo": "Dólar fecha no maior patamar em mais de um ano; balanços de BB e BTG pressionaram Ibovespa hoje",
+    "fonte": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNnRib3puU0NsZEs4YUt5YW9XWWFxd01iTkhwWkVJWXctY3IyalhVOWJKZjFnUUZOdFNkSmlSNEZtV1NVcG4zYmJjTnZrMzdJVU5aYkVkcEVPVy1OSlozdVd3STlfc1d6OHFuNGhySFl6d3VWNXNiaXd5SjZjUDNfSGZzQ2dnZHVsUGEtT1RqdUFNdVBJTUNrazY1SnB4Z0NUZHp6c01nSGNTZFhyZW9TazlQUjBoU2xyUkd3ekxBVEQxNHNXUjlUdmRhRXdUZVRsR21WWDF5OFdDeklkLVhhc0tnSWdFNjBPM1ctb1dSYi14WlZQ?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WIN",
+     "WDO"
+    ],
+    "tickers": [
+     "BPAC11"
+    ],
+    "ibov30": -0.12,
+    "dolar30": 0.05
+   },
+   {
+    "hora": "14:48",
+    "titulo": "Hapvida salta 15% e lidera ganhos do Ibovespa após balanço; veja maiores altas e baixas",
+    "fonte": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcXpOUndpdndRTjRHWWhlZDdaOEcxbkZOcmx2M3pSU1dyS0FNaE1uYUpWOXFLbHZqQWtGODVzMDAwQWQtVVRjOUdhLTNMUUprbEFxZFMwZXBCS2RBakFKdzlxdVlWVVo4Nms2MmtRNERLbW8zS2ZBay1SOG9DeWt0VUtGbVpWcGVWQUhWM0VPaGRfaGVvUWpncmtfaTAxTGZ2eFFUWDN4d3h2Nmktc0prdXlEU25wS1ExQzNON3pnVUo4RU9EUmlqaXJtbm94YlFfS3N6Q2VR?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "HAPV3"
+    ],
+    "ibov30": -0.24,
+    "dolar30": 0.08
+   },
+   {
     "hora": "15:14",
     "titulo": "Governo retira urgência de projeto de bets para poder votar ajuste fiscal e proposta sobre big techs",
     "fonte": "Estadão",
@@ -689,48 +737,38 @@
      "DI"
     ],
     "tickers": [],
+    "ibov30": -0.14,
+    "dolar30": -0.25
+   },
+   {
+    "hora": "15:56",
+    "titulo": "Durigan prevê impacto inicial da reforma tributária sobre inflação",
+    "fonte": "Agência Brasil",
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-preve-impacto-inicial-da-reforma-tributaria-sobre-inflacao",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": null
+   },
+   {
+    "hora": "16:15",
+    "titulo": "We’re watching Cramer’s favorite market indicator for a signal to buy stocks",
+    "fonte": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/17/were-watching-cramers-favorite-indicator-for-a-signal-to-buy-stocks.html",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [],
     "ibov30": null,
     "dolar30": null
    }
   ]
  },
  "hoje": [
-  {
-   "titulo": "Hapvida salta 10% e lidera maiores altas do Ibovespa hoje; veja os destaques",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZzNNeUl2Um8wb0E5NHhXTXFqOGM3RDZPMjhFVnZPd3pDYmdtUkZXSTRrUFVOWmVtOWE4WnVkeE94ZlRMb3V6WWRieDhFUlBtcllIY3lORTA3b25hV0tNUGZCNWFyZ1JPeUY5dlB5MXJkbWpYQ21CZDJid253NldQd1l2MWdoRXZadkdPb3RZUTdyemdGWHM2dk9aNk9lVnVmWHdjNllQTlQyR1B4bE1JLTJldEtVZmRtUWR1WGhjYUs2TkRTbkdvOE04VTlrd9IB0wFBVV95cUxQOVFRVXY5X1F3TGs5bnRHYXlxOHYwdHdmR2lZNGRqQlpqRjlQMGhVNXVHQmlMWkNNN1dQUkxVYzI0SEM5UUlrSmpjdGpmb3EtaTVoOTN3bDVqSUFGdUZvdG1aWThoZ0ZzUUdDR2xxcldob00ybHFSbzBLWl9fcWJvalYtclJHY1hCend1S0c5QWhhZVJYX0xTUDRyY05ZNDRQWUlVd0I2UTJ5Y05HOTMtRWpVdDB2M0x0NTV0anpzOF9VdUNJbGpGN0pwNUhSN0FISlh3?oc=5",
-   "publicado": "2026-11-17T13:01-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "HAPV3"
-   ]
-  },
-  {
-   "titulo": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
-   "publicado": "2026-11-17T13:03-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Brookfield critica revisão de tarifas de gasodutos e vê risco a investimento no Brasil",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/brookfield-eleva-pressao-sobre-anp-e-ve-risco-a-investimento-no-brasil.shtml",
-   "publicado": "2026-11-17T13:08-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
   {
    "titulo": "B3 lançará BDR da Anthropic simultaneamente ao IPO da empresa na Nasdaq",
    "fonte": "InfoMoney",
@@ -743,17 +781,6 @@
    "tickers": [
     "B3SA3"
    ]
-  },
-  {
-   "titulo": "Wall Street cai à espera de balanço da Nvidia e IPO da Anthropic",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEt5aUNxQXV4VUtucDJ0Tmk5SnNLV1Itcl84R3dXcHZqRUgwUVlSVVlPUEFST2NBTGJqUm9nN244Z2xOS2lKRUdMSk95TWFtWmxxV2tIdjlweUlCWDlFVk5KQ3hxQ3I3WV9DbnZHdF9Ta2huUU5tRnlrY3d5QTZJeTAtaXVPQ1E?oc=5",
-   "publicado": "2026-11-17T14:15-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
   },
   {
    "titulo": "Itaú BBA eleva TIM (TIMS3) para compra e cita três fatores que tornam a ação difícil de ignorar",
@@ -770,6 +797,33 @@
    ]
   },
   {
+   "titulo": "Dólar fecha no maior patamar em mais de um ano; balanços de BB e BTG pressionaram Ibovespa hoje",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNnRib3puU0NsZEs4YUt5YW9XWWFxd01iTkhwWkVJWXctY3IyalhVOWJKZjFnUUZOdFNkSmlSNEZtV1NVcG4zYmJjTnZrMzdJVU5aYkVkcEVPVy1OSlozdVd3STlfc1d6OHFuNGhySFl6d3VWNXNiaXd5SjZjUDNfSGZzQ2dnZHVsUGEtT1RqdUFNdVBJTUNrazY1SnB4Z0NUZHp6c01nSGNTZFhyZW9TazlQUjBoU2xyUkd3ekxBVEQxNHNXUjlUdmRhRXdUZVRsR21WWDF5OFdDeklkLVhhc0tnSWdFNjBPM1ctb1dSYi14WlZQ?oc=5",
+   "publicado": "2026-11-17T14:39-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": [
+    "BPAC11"
+   ]
+  },
+  {
+   "titulo": "Hapvida salta 15% e lidera ganhos do Ibovespa após balanço; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcXpOUndpdndRTjRHWWhlZDdaOEcxbkZOcmx2M3pSU1dyS0FNaE1uYUpWOXFLbHZqQWtGODVzMDAwQWQtVVRjOUdhLTNMUUprbEFxZFMwZXBCS2RBakFKdzlxdVlWVVo4Nms2MmtRNERLbW8zS2ZBay1SOG9DeWt0VUtGbVpWcGVWQUhWM0VPaGRfaGVvUWpncmtfaTAxTGZ2eFFUWDN4d3h2Nmktc0prdXlEU25wS1ExQzNON3pnVUo4RU9EUmlqaXJtbm94YlFfS3N6Q2VR?oc=5",
+   "publicado": "2026-11-17T14:48-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "HAPV3"
+   ]
+  },
+  {
    "titulo": "Governo retira urgência de projeto de bets para poder votar ajuste fiscal e proposta sobre big techs",
    "fonte": "Estadão",
    "url": "https://www.estadao.com.br/politica/governo-retira-urgencia-de-projeto-de-bets-para-poder-votar-ajuste-fiscal-e-proposta-sobre-big-techs/",
@@ -779,16 +833,37 @@
     "DI"
    ],
    "tickers": []
+  },
+  {
+   "titulo": "Durigan prevê impacto inicial da reforma tributária sobre inflação",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-preve-impacto-inicial-da-reforma-tributaria-sobre-inflacao",
+   "publicado": "2026-11-17T15:56-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "We’re watching Cramer’s favorite market indicator for a signal to buy stocks",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/investingclub/2026/11/17/were-watching-cramers-favorite-indicator-for-a-signal-to-buy-stocks.html",
+   "publicado": "2026-11-17T16:15-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-17T15:34-03:00",
+ "atualizado_em": "2026-11-17T16:19-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
-  "CNN Brasil",
   "Estadão",
   "Folha",
   "InfoMoney",
@@ -797,6 +872,28 @@
  ],
  "noticias": [
   {
+   "titulo": "We’re watching Cramer’s favorite market indicator for a signal to buy stocks",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/investingclub/2026/11/17/were-watching-cramers-favorite-indicator-for-a-signal-to-buy-stocks.html",
+   "publicado": "2026-11-17T16:15-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Durigan prevê impacto inicial da reforma tributária sobre inflação",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-preve-impacto-inicial-da-reforma-tributaria-sobre-inflacao",
+   "publicado": "2026-11-17T15:56-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
    "titulo": "Governo retira urgência de projeto de bets para poder votar ajuste fiscal e proposta sobre big techs",
    "fonte": "Estadão",
    "url": "https://www.estadao.com.br/politica/governo-retira-urgencia-de-projeto-de-bets-para-poder-votar-ajuste-fiscal-e-proposta-sobre-big-techs/",
@@ -806,6 +903,33 @@
     "DI"
    ],
    "tickers": []
+  },
+  {
+   "titulo": "Hapvida salta 15% e lidera ganhos do Ibovespa após balanço; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcXpOUndpdndRTjRHWWhlZDdaOEcxbkZOcmx2M3pSU1dyS0FNaE1uYUpWOXFLbHZqQWtGODVzMDAwQWQtVVRjOUdhLTNMUUprbEFxZFMwZXBCS2RBakFKdzlxdVlWVVo4Nms2MmtRNERLbW8zS2ZBay1SOG9DeWt0VUtGbVpWcGVWQUhWM0VPaGRfaGVvUWpncmtfaTAxTGZ2eFFUWDN4d3h2Nmktc0prdXlEU25wS1ExQzNON3pnVUo4RU9EUmlqaXJtbm94YlFfS3N6Q2VR?oc=5",
+   "publicado": "2026-11-17T14:48-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "HAPV3"
+   ]
+  },
+  {
+   "titulo": "Dólar fecha no maior patamar em mais de um ano; balanços de BB e BTG pressionaram Ibovespa hoje",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNnRib3puU0NsZEs4YUt5YW9XWWFxd01iTkhwWkVJWXctY3IyalhVOWJKZjFnUUZOdFNkSmlSNEZtV1NVcG4zYmJjTnZrMzdJVU5aYkVkcEVPVy1OSlozdVd3STlfc1d6OHFuNGhySFl6d3VWNXNiaXd5SjZjUDNfSGZzQ2dnZHVsUGEtT1RqdUFNdVBJTUNrazY1SnB4Z0NUZHp6c01nSGNTZFhyZW9TazlQUjBoU2xyUkd3ekxBVEQxNHNXUjlUdmRhRXdUZVRsR21WWDF5OFdDeklkLVhhc0tnSWdFNjBPM1ctb1dSYi14WlZQ?oc=5",
+   "publicado": "2026-11-17T14:39-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": [
+    "BPAC11"
+   ]
   },
   {
    "titulo": "Itaú BBA eleva TIM (TIMS3) para compra e cita três fatores que tornam a ação difícil de ignorar",
@@ -822,17 +946,6 @@
    ]
   },
   {
-   "titulo": "Wall Street cai à espera de balanço da Nvidia e IPO da Anthropic",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEt5aUNxQXV4VUtucDJ0Tmk5SnNLV1Itcl84R3dXcHZqRUgwUVlSVVlPUEFST2NBTGJqUm9nN244Z2xOS2lKRUdMSk95TWFtWmxxV2tIdjlweUlCWDlFVk5KQ3hxQ3I3WV9DbnZHdF9Ta2huUU5tRnlrY3d5QTZJeTAtaXVPQ1E?oc=5",
-   "publicado": "2026-11-17T14:15-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
    "titulo": "B3 lançará BDR da Anthropic simultaneamente ao IPO da empresa na Nasdaq",
    "fonte": "InfoMoney",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVFsT2VvYXhKTWFMaGoxUlBMdjMtbXRIX0kxZzhfdGtKRy0xVnV3aGtMZE9CTHl0NDEzakxGbUFvZ1R6NVFFYzRBZ29SQmdGYm1mdkpXbVRNMlZjNTZGTGkwbFNmMm5IaHF2RDh1NWJLOEpIU01EZ1p5Ykw1cnNwWUhOMm14V25aZUY1a3dVa05ockFEeWJNRUFvclZGTDRfZk5ERk85TWdRTVkxWVJF0gG0AUFVX3lxTE1LYkk2SG1QTkkyRF9pM1otdVFmLXQzQ3djN3U4YlVNYkxlUlpIRk44YXkzaG5ZTHVuN25ZNjByZEdmUVFINEhMT0lvMElwbjMtZWJHUFZrOGgtMTVsOWM1MTYzWmtlcExTNmk4OThhMDVMejQyWkNpM1ZhcWxFZ2hOOWlCTXVxT3cxQmhSQU1oQXRsbmdjMm0xdUM4eTlYcGNNYUFWcWItNVRQOHlfX3QtLTBNaA?oc=5",
@@ -843,42 +956,6 @@
    ],
    "tickers": [
     "B3SA3"
-   ]
-  },
-  {
-   "titulo": "Brookfield critica revisão de tarifas de gasodutos e vê risco a investimento no Brasil",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/brookfield-eleva-pressao-sobre-anp-e-ve-risco-a-investimento-no-brasil.shtml",
-   "publicado": "2026-11-17T13:08-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
-   "publicado": "2026-11-17T13:03-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Hapvida salta 10% e lidera maiores altas do Ibovespa hoje; veja os destaques",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZzNNeUl2Um8wb0E5NHhXTXFqOGM3RDZPMjhFVnZPd3pDYmdtUkZXSTRrUFVOWmVtOWE4WnVkeE94ZlRMb3V6WWRieDhFUlBtcllIY3lORTA3b25hV0tNUGZCNWFyZ1JPeUY5dlB5MXJkbWpYQ21CZDJid253NldQd1l2MWdoRXZadkdPb3RZUTdyemdGWHM2dk9aNk9lVnVmWHdjNllQTlQyR1B4bE1JLTJldEtVZmRtUWR1WGhjYUs2TkRTbkdvOE04VTlrd9IB0wFBVV95cUxQOVFRVXY5X1F3TGs5bnRHYXlxOHYwdHdmR2lZNGRqQlpqRjlQMGhVNXVHQmlMWkNNN1dQUkxVYzI0SEM5UUlrSmpjdGpmb3EtaTVoOTN3bDVqSUFGdUZvdG1aWThoZ0ZzUUdDR2xxcldob00ybHFSbzBLWl9fcWJvalYtclJHY1hCend1S0c5QWhhZVJYX0xTUDRyY05ZNDRQWUlVd0I2UTJ5Y05HOTMtRWpVdDB2M0x0NTV0anpzOF9VdUNJbGpGN0pwNUhSN0FISlh3?oc=5",
-   "publicado": "2026-11-17T13:01-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "HAPV3"
    ]
   }
  ]
