@@ -2,43 +2,6 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Esteves, do BTG, diz que mercado mostra urgência do ajuste fiscal e Lula entregará o que se espera",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/esteves-do-btg-diz-que-mercado-mostra-urgencia-do-ajuste-fiscal-e-lula-entregara-o-que-se-espera.shtml",
-   "publicado": "2026-11-16T19:55-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": [
-    "BPAC11"
-   ]
-  },
-  {
-   "titulo": "Dólar sobe para R$ 5,77 e fecha no maior valor desde abril de 2025",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-577-e-fecha-no-maior-valor-desde-abril-de-2025",
-   "publicado": "2026-11-16T20:06-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "ExxonMobil e Prio arrematam cargas do campo de Búzios em leilão da PPSA",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/exxonmobil-e-prio-arrematam-cargas-do-campo-de-buzios-em-leilao-da-ppsa.shtml",
-   "publicado": "2026-11-16T20:35-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PRIO3"
-   ]
-  },
-  {
    "titulo": "Governo Lula descarta medidas de socorro ao Banco do Brasil e vê capacidade de recuperação gradual",
    "fonte": "Estadão",
    "url": "https://www.estadao.com.br/economia/governo-lula-descarta-medidas-de-socorro-ao-banco-do-brasil-e-ve-capacidade-de-recuperacao-gradual/",
@@ -65,19 +28,21 @@
    ]
   },
   {
-   "titulo": "Análise: Dólar alto dá \"boas-vindas\" a Lula após ida ao exterior",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdmtycGNjU0hGZ2ZzSjVlZ1ByYzMtTTVIbEl0VjBTRHZERlZQQXpNMWgwcHlseThQclBYQkRZS1BfUTdVVmxVX1NlR3pyeFJZLUgtRGo3ZmEzMWJkTHVFMUlJRElQN2Z1VHQxVm43Y2lyb2tzNVhEQkc4ZUxfczNBVFA4UWVCLWU5eUdsWlIwVjk2UnVhbWc0VmtUcjVyQWNYQ1hkVGR4amt6alNIYllDbkhQU2Q2Yk1aRW9IZ0FEd2w4OEtNU1p1OTUxbnB0eUNhR2ZVTVJwYnQ?oc=5",
-   "publicado": "2026-11-16T22:02-03:00",
+   "titulo": "Bilionários do Vale do Silício se mobilizam pela volta de Jensen Huang à Nvidia",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/bilionarios-do-vale-do-silicio-se-mobilizam-pela-volta-de-jensen-huang-a-nvidia.shtml",
+   "publicado": "2026-11-16T23:00-03:00",
    "impacto": "medio",
    "ativos": [
-    "WDO"
+    "WIN"
    ],
-   "tickers": []
+   "tickers": [
+    "VALE3"
+   ]
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-16T22:54-03:00",
+ "atualizado_em": "2026-11-16T23:37-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -89,12 +54,26 @@
  ],
  "noticias": [
   {
-   "titulo": "Análise: Dólar alto dá \"boas-vindas\" a Lula após ida ao exterior",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdmtycGNjU0hGZ2ZzSjVlZ1ByYzMtTTVIbEl0VjBTRHZERlZQQXpNMWgwcHlseThQclBYQkRZS1BfUTdVVmxVX1NlR3pyeFJZLUgtRGo3ZmEzMWJkTHVFMUlJRElQN2Z1VHQxVm43Y2lyb2tzNVhEQkc4ZUxfczNBVFA4UWVCLWU5eUdsWlIwVjk2UnVhbWc0VmtUcjVyQWNYQ1hkVGR4amt6alNIYllDbkhQU2Q2Yk1aRW9IZ0FEd2w4OEtNU1p1OTUxbnB0eUNhR2ZVTVJwYnQ?oc=5",
-   "publicado": "2026-11-16T22:02-03:00",
+   "titulo": "Bilionários do Vale do Silício se mobilizam pela volta de Jensen Huang à Nvidia",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/bilionarios-do-vale-do-silicio-se-mobilizam-pela-volta-de-jensen-huang-a-nvidia.shtml",
+   "publicado": "2026-11-16T23:00-03:00",
    "impacto": "medio",
    "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "VALE3"
+   ]
+  },
+  {
+   "titulo": "EUA vão restringir acesso da China a chips de IA; medida inclui Brasil",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVl9vcjJ4Zkp0d2FDQi1FZXROeW91aGVJVXBlMGNFLTBPMVlVLUl5aFpnN01YcXlvdE0taEZhVDdkYjMycnVLdmVWM19HVUNvakY4SE9fdExrLU53Z3pyY2UtR3E0M0dER0Zxc2dLaEZfejVCOUNaeHZEYTlQVVc4ZGFpMjN6UTVwV2xwb1RfUW92OVBsZmd4QXFVNjdKNEhWa1NscktTQ3FMdmptQ3cyazJMNEhnVWxOSS1DeGRhYXdyYXdZWFo4?oc=5",
+   "publicado": "2026-11-16T22:51-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
     "WDO"
    ],
    "tickers": []
@@ -123,55 +102,6 @@
    ],
    "tickers": [
     "BBAS3"
-   ]
-  },
-  {
-   "titulo": "ExxonMobil e Prio arrematam cargas do campo de Búzios em leilão da PPSA",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/exxonmobil-e-prio-arrematam-cargas-do-campo-de-buzios-em-leilao-da-ppsa.shtml",
-   "publicado": "2026-11-16T20:35-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PRIO3"
-   ]
-  },
-  {
-   "titulo": "Dólar sobe para R$ 5,77 e fecha no maior valor desde abril de 2025",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-577-e-fecha-no-maior-valor-desde-abril-de-2025",
-   "publicado": "2026-11-16T20:06-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
-   "publicado": "2026-11-16T20:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Esteves, do BTG, diz que mercado mostra urgência do ajuste fiscal e Lula entregará o que se espera",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/esteves-do-btg-diz-que-mercado-mostra-urgencia-do-ajuste-fiscal-e-lula-entregara-o-que-se-espera.shtml",
-   "publicado": "2026-11-16T19:55-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": [
-    "BPAC11"
    ]
   }
  ]
