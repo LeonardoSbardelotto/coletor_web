@@ -2,47 +2,145 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Governo Lula descarta medidas de socorro ao Banco do Brasil e vê capacidade de recuperação gradual",
+   "titulo": "Inflação: efeitos do El Niño nos preços devem se intensificar em 2027, com impacto nos juros",
    "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/governo-lula-descarta-medidas-de-socorro-ao-banco-do-brasil-e-ve-capacidade-de-recuperacao-gradual/",
-   "publicado": "2026-11-16T21:09-03:00",
+   "url": "https://www.estadao.com.br/economia/inflacao-efeitos-do-el-nino-nos-precos-devem-se-intensificar-em-2027-com-impacto-nos-juros/",
+   "publicado": "2026-11-17T05:30-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ajuste fiscal no Senado, Durigan com investidores e falas do Fed: o que move os mercados",
+   "fonte": "Exame",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0FzWUppWmF3UjNHOEpQRnQxdTJneEhsUkJabFdiQ3ZOYm9ESjR5OFpNNEZQcDhnWHdheEoteENxYzN6T2x2MmRia0xmdTh2XzBsVlc5MWxxS3dsQXBOaTJ1RkRNbmI1UEV2eDhJZzVKcHpLaG9ibURVekFuREdRcE4zamRTQlE3djBDM3Q1UTRCM3hIVkUteGxHMGdhc1Q2RVd2UUZ5N1FzcVVPQWFtdktkTldpZnJEc2hzM2xR?oc=5",
+   "publicado": "2026-11-17T05:34-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ibovespa tenta reagir após tombo com saída de capital estrangeiro e balanço da Nvidia no radar",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSEFyRnlNTGgxYVBoT3RtWmFkUlk5M1pYeXZxdmRSNFFfajZmSVFMMnYwR1VfX0MtM3Z1VzRrS3RkVlpYbDlfdDFiYnd5ZU84QzctUUZkOTFWZmVLZnpiQTNNY1QyenFSUTZEclVYV3RQVF9zdmY3X3M5bTFEaktuY0FIbUpadnNFS3dNSW1zSERPUEhMS0RNOVk5UDYtdldvMTdHSXRJaHNsek9VbXlrZkYzdWNSakVvUjB6UUs4M01QY19BZ1NPVnR5WWZhUDh3RENjTWNWMXF5STFXcmJkQWxyTk5kUWl6NzdZanBoaWNMdzQ?oc=5",
+   "publicado": "2026-11-17T05:35-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Varejo e indústria nos EUA, balanço da Nvidia e ajuste fiscal movimentam os mercados",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekJPZmlCZGlTa21CZUxTbWxjd0hHMDBlQXE1bFVxemxqcjh5TFNGd3JzS0dUNzF4WkRRMG9Fa0RPT1pUWjZPWG1VcXdYM1JHRzBkblhnNWlNSTN4MUczaG5tMG55U2VXTzdkMm1ZVDVaN3IzMmNDenY1V21RdXV1RXVjZWdiYUtLVV9HeVpIZnJWTEh4SWdwYWFnUTbSAaIBQVVfeXFMTVhFbTVJdEx3U2xDZzZCZnRDcjBpYmZXQWV5cTVLTkljS1R5TlZaU3lxcHVvYnlDVWVacG1yS2k4cUgtQ3NJLUdrYUlnc19OT0tYd0dxb3JSLWM0U0pVQ2JYVTFEb0FSTmxUTjhiallPUko0Ym5Pc0oxcWdLTWxiUGJmNWxxSjVPb3NfSWZJWFlrZlh5QUpWVjZyRUdlVzVRTzdn?oc=5",
+   "publicado": "2026-11-17T06:05-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Tendência do dólar é ter valorização ainda maior, diz especialista",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeXVscUJxeUNmZ0ZZYklrNkp2SV9UNDhhTFJ4UDltUm5MZDFpRjN6clRHZG1fU2h0UVBWT0hFeEpyellzUW4xQmpEOS1jWlcwRTNiTE9qQzNhc3k2MHRaZ2pxUkhoZVVoU3Jpb3dwTndKXzAwbUY5ZHZUU1l2MUVjdEtoNWtVWlZPM3NDODRhazQzelF0TTljeVNqbDluRHA1YllJVWlxR3B3RV9pZWNHd2p5aU13Z01JelE?oc=5",
+   "publicado": "2026-11-17T06:08-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Petrobras (PETR4) analisa oportunidades em exploração, mas diz que não assinou acordo sobre Bumerangue",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc1NFN19yZjZJVUdhM0JpZ1lXUnhvN0xfNlA2NHlQS2lWTWlFRm9xemFXcEQxVk5oR0Y5WE1Nd3pLUFFjZTM3dnFPWHpZZF9EbzRhNzNPWXRZcnFZV0drRzc0WXR5dmdXN1ZKQVVia1BxSFpMa1FFNVBHZlJKOUNRdDRoa0pqeDdURmFIMGRIanZXREVIX3NYdzlPM1ZWVXFuS0pXNGxCeF9uYndZMTN6MlM1WDAyZzdvczh4bWF3TjM1YVZJbV9DeGk0eDQyX2ct?oc=5",
+   "publicado": "2026-11-17T06:27-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
    "tickers": [
-    "BBAS3"
+    "PETR4"
    ]
   },
   {
-   "titulo": "Cotada para entrar na B3, Amil deve ter resultado bilionário no ano",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/coluna-da-broad/cotada-para-entrar-na-b3-amil-deve-ter-resultado-bilionario-no-ano/",
-   "publicado": "2026-11-16T22:00-03:00",
+   "titulo": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta terça-feira (17)",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkZHYTZZMHNWWURrMkd6R2hBbzNjSjYxNXBiX1Z0VV93c0FWR1M0clFNS0IyRE5vRVo5cXR2eVJEaVlhX1JnRDhrYjBtOFZWRXBqcjdrdzNjUm14blBjQWVKU1p5OFJJWW9Ld2p1ZnBiQ2VaNnVVTTM5dFhZRFQ3SHBzX3RTdWxPZGJ5akVDdDFCTjZrdjdWeWlhbFRtMVRvM25yclNLVHMwc1hiZ3pfZQ?oc=5",
+   "publicado": "2026-11-17T06:30-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN"
+    "WDO"
    ],
-   "tickers": [
-    "B3SA3"
-   ]
+   "tickers": []
   },
   {
-   "titulo": "Bilionários do Vale do Silício se mobilizam pela volta de Jensen Huang à Nvidia",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/bilionarios-do-vale-do-silicio-se-mobilizam-pela-volta-de-jensen-huang-a-nvidia.shtml",
-   "publicado": "2026-11-16T23:00-03:00",
+   "titulo": "Tempo real: temor fiscal se soma à aversão com inteligência artificial hoje",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzVxdzVUblhqOVQ4WUQ2ZWVaUy1MR0VxYVlyUlFvWC02czFkN2l2VUxPakNQSC1EVHVBZ0lyRjFNcmhWRmE5b0FLSmdYSUFubU9VdjZEOVVkU05YQjJYSnAyUmdlRnM3SGQxck5oQ2pOYXJtei0tOWM5U0VLTEZabU5nNlhWbmRtWEUydmRoZ3dTSWxSTzVFY2VBTU1oNG42bGNSZXh5V1RHcjdSTGs4?oc=5",
+   "publicado": "2026-11-17T06:53-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Day Trade hoje (17): Ibovespa cai abaixo dos 170 mil; e agora?",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTF3WWpWYnBWb0tKUndhNnAxeVFuWS10d0pNaDE3WG4wdWZ2ZzE1ODN0SFBFODNPbzFmc2VJTTJfVHRSSGZ4ZzJYcFV5bndPZ2hNOEh4S2NwRmxrYnBIZzdzTU1EcklldjVlcVlZMG5nNWZINFdMUnBpS3VYdGVvYjFnT3dBbXPSAY4BQVVfeXFMTlY2YVlZd2hncGFiRE5DaVBZZWNaVnV5ODJ5Rmc0NUxQMy1RemJ0U2dISHhWQ3RiSDRPRGlXVExqQ2NTWTlGOTN4RUNIaElMbWR1ekdVNjBnQjZ5dWpvdmx3dG5YWmNHdHBxOXlTRkUtRC1wM0IxM2VNbXhjbFpBLWR3MFJhQ3IyNFlqaGhWdw?oc=5",
+   "publicado": "2026-11-17T07:03-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
-   "tickers": [
-    "VALE3"
-   ]
+   "tickers": []
+  },
+  {
+   "titulo": "Preocupação fiscal divide dia com crise da IA no mundo; Ibovespa em dólar cai nesta terça-feira (17)",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaFR5NkQ0T1FIeVFxby1FNXpkaFBnUzdaQWU2c3FscGg4N0dqWFFlbnpNaDZ1eDFEVXdKcjZVd215bE9TVEh6V3ZvdDQ4NUZwdkI2OWFCYjNVbHBnck9GeFFDQnZyYlhZOG9XSzNoMmFYSXljd0tENmhXMGFrTHpENUhLWVhWN1E4ZU9XZnVvbzdYeFFKT1dWTnptdVVLRTJaNE5XQWszcnZzTXlBS2h2S3Yyb29uM215YkpiOEhSa2kxLVFpVmxDR01COGVqUQ?oc=5",
+   "publicado": "2026-11-17T07:08-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Mini-índice (WINZ26): fiscal e dados dos EUA desafiam compradores",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSndWM2ZVVGR1THlKVk9HeWI0d181TW92RDBHc2lWdTBhdGIwbWduZ1VzUjlHekdUeTNaUDE5RTJqbEFyc2VVLUxiY094Q1MtS2Z3ZW0xakRINFN2LWlYOE1uSnB0R2JuSlR3RFRoN0kwWXhnUmZTVDloSFBiVnUyTUhVMUtWU2d4VHF1eU5sX0bSAZYBQVVfeXFMT0drdkJjSHFTSWE5T2U3Q045VUh5b1pMMngzNWd1cDFDY3c4VDVXVWQwWl91Yl81TS1JSHZXaXdLenNZZjQyWjFjTEttNWloeFBObmNWU3RQWS1hcnM5eWxuQmx2Zi1jVHF3cl9QY0puVDdfQUxGSEhRZ2d4Z2lxY3BnNG9vMndnVFIzdld0ZWJONGo3dV9B?oc=5",
+   "publicado": "2026-11-17T07:08-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Minidólar (WDOZ26) mantém viés de alta; veja suportes e resistências",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMXNFeXdKR0t0YzloMmRkLUlUUDVITElpaC03akE3dllRekdzVXFZTk1zNjU0ZHBEbHZCYnNLTHpzLTZIMi1oVG5tWEo5RmVnNWZHeTZpR04teDJGRkQ5eTE5LUkxUU9ENkxva0xmR1IwSVFvVERWaFlzRERfa0JvS2NOdTBuY0RaTG11SNIBkwFBVV95cUxNU0pubEt1NlZmUkZjNmNzQ2FnME14UTcwZHVHYVBUTVg5M2c3NEJNWmd1NVZER3E5VXdyQjJRT3doS3o2ZGtwVDNndWxvZjB4V01TLWtYWTRObTlfZjlITHJVMEdha0JTaFVCWV94VVkxMDJDMm5UdEI0N3VwQkIxVGd5Q2FVRVZZd0lpYzFITU9VT1k?oc=5",
+   "publicado": "2026-11-17T07:13-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-16T23:37-03:00",
+ "atualizado_em": "2026-11-17T07:30-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -50,59 +148,148 @@
   "CNBC",
   "CNN Brasil",
   "Estadão",
-  "Folha"
+  "Exame",
+  "Folha",
+  "InfoMoney",
+  "Money Times"
  ],
  "noticias": [
   {
-   "titulo": "Bilionários do Vale do Silício se mobilizam pela volta de Jensen Huang à Nvidia",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/bilionarios-do-vale-do-silicio-se-mobilizam-pela-volta-de-jensen-huang-a-nvidia.shtml",
-   "publicado": "2026-11-16T23:00-03:00",
+   "titulo": "Minidólar (WDOZ26) mantém viés de alta; veja suportes e resistências",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMXNFeXdKR0t0YzloMmRkLUlUUDVITElpaC03akE3dllRekdzVXFZTk1zNjU0ZHBEbHZCYnNLTHpzLTZIMi1oVG5tWEo5RmVnNWZHeTZpR04teDJGRkQ5eTE5LUkxUU9ENkxva0xmR1IwSVFvVERWaFlzRERfa0JvS2NOdTBuY0RaTG11SNIBkwFBVV95cUxNU0pubEt1NlZmUkZjNmNzQ2FnME14UTcwZHVHYVBUTVg5M2c3NEJNWmd1NVZER3E5VXdyQjJRT3doS3o2ZGtwVDNndWxvZjB4V01TLWtYWTRObTlfZjlITHJVMEdha0JTaFVCWV94VVkxMDJDMm5UdEI0N3VwQkIxVGd5Q2FVRVZZd0lpYzFITU9VT1k?oc=5",
+   "publicado": "2026-11-17T07:13-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "VALE3"
-   ]
-  },
-  {
-   "titulo": "EUA vão restringir acesso da China a chips de IA; medida inclui Brasil",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVl9vcjJ4Zkp0d2FDQi1FZXROeW91aGVJVXBlMGNFLTBPMVlVLUl5aFpnN01YcXlvdE0taEZhVDdkYjMycnVLdmVWM19HVUNvakY4SE9fdExrLU53Z3pyY2UtR3E0M0dER0Zxc2dLaEZfejVCOUNaeHZEYTlQVVc4ZGFpMjN6UTVwV2xwb1RfUW92OVBsZmd4QXFVNjdKNEhWa1NscktTQ3FMdmptQ3cyazJMNEhnVWxOSS1DeGRhYXdyYXdZWFo4?oc=5",
-   "publicado": "2026-11-16T22:51-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN",
     "WDO"
    ],
    "tickers": []
   },
   {
-   "titulo": "Cotada para entrar na B3, Amil deve ter resultado bilionário no ano",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/coluna-da-broad/cotada-para-entrar-na-b3-amil-deve-ter-resultado-bilionario-no-ano/",
-   "publicado": "2026-11-16T22:00-03:00",
+   "titulo": "Preocupação fiscal divide dia com crise da IA no mundo; Ibovespa em dólar cai nesta terça-feira (17)",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaFR5NkQ0T1FIeVFxby1FNXpkaFBnUzdaQWU2c3FscGg4N0dqWFFlbnpNaDZ1eDFEVXdKcjZVd215bE9TVEh6V3ZvdDQ4NUZwdkI2OWFCYjNVbHBnck9GeFFDQnZyYlhZOG9XSzNoMmFYSXljd0tENmhXMGFrTHpENUhLWVhWN1E4ZU9XZnVvbzdYeFFKT1dWTnptdVVLRTJaNE5XQWszcnZzTXlBS2h2S3Yyb29uM215YkpiOEhSa2kxLVFpVmxDR01COGVqUQ?oc=5",
+   "publicado": "2026-11-17T07:08-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Mini-índice (WINZ26): fiscal e dados dos EUA desafiam compradores",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSndWM2ZVVGR1THlKVk9HeWI0d181TW92RDBHc2lWdTBhdGIwbWduZ1VzUjlHekdUeTNaUDE5RTJqbEFyc2VVLUxiY094Q1MtS2Z3ZW0xakRINFN2LWlYOE1uSnB0R2JuSlR3RFRoN0kwWXhnUmZTVDloSFBiVnUyTUhVMUtWU2d4VHF1eU5sX0bSAZYBQVVfeXFMT0drdkJjSHFTSWE5T2U3Q045VUh5b1pMMngzNWd1cDFDY3c4VDVXVWQwWl91Yl81TS1JSHZXaXdLenNZZjQyWjFjTEttNWloeFBObmNWU3RQWS1hcnM5eWxuQmx2Zi1jVHF3cl9QY0puVDdfQUxGSEhRZ2d4Z2lxY3BnNG9vMndnVFIzdld0ZWJONGo3dV9B?oc=5",
+   "publicado": "2026-11-17T07:08-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Day Trade hoje (17): Ibovespa cai abaixo dos 170 mil; e agora?",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTF3WWpWYnBWb0tKUndhNnAxeVFuWS10d0pNaDE3WG4wdWZ2ZzE1ODN0SFBFODNPbzFmc2VJTTJfVHRSSGZ4ZzJYcFV5bndPZ2hNOEh4S2NwRmxrYnBIZzdzTU1EcklldjVlcVlZMG5nNWZINFdMUnBpS3VYdGVvYjFnT3dBbXPSAY4BQVVfeXFMTlY2YVlZd2hncGFiRE5DaVBZZWNaVnV5ODJ5Rmc0NUxQMy1RemJ0U2dISHhWQ3RiSDRPRGlXVExqQ2NTWTlGOTN4RUNIaElMbWR1ekdVNjBnQjZ5dWpvdmx3dG5YWmNHdHBxOXlTRkUtRC1wM0IxM2VNbXhjbFpBLWR3MFJhQ3IyNFlqaGhWdw?oc=5",
+   "publicado": "2026-11-17T07:03-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Tempo real: temor fiscal se soma à aversão com inteligência artificial hoje",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzVxdzVUblhqOVQ4WUQ2ZWVaUy1MR0VxYVlyUlFvWC02czFkN2l2VUxPakNQSC1EVHVBZ0lyRjFNcmhWRmE5b0FLSmdYSUFubU9VdjZEOVVkU05YQjJYSnAyUmdlRnM3SGQxck5oQ2pOYXJtei0tOWM5U0VLTEZabU5nNlhWbmRtWEUydmRoZ3dTSWxSTzVFY2VBTU1oNG42bGNSZXh5V1RHcjdSTGs4?oc=5",
+   "publicado": "2026-11-17T06:53-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta terça-feira (17)",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkZHYTZZMHNWWURrMkd6R2hBbzNjSjYxNXBiX1Z0VV93c0FWR1M0clFNS0IyRE5vRVo5cXR2eVJEaVlhX1JnRDhrYjBtOFZWRXBqcjdrdzNjUm14blBjQWVKU1p5OFJJWW9Ld2p1ZnBiQ2VaNnVVTTM5dFhZRFQ3SHBzX3RTdWxPZGJ5akVDdDFCTjZrdjdWeWlhbFRtMVRvM25yclNLVHMwc1hiZ3pfZQ?oc=5",
+   "publicado": "2026-11-17T06:30-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Petrobras (PETR4) analisa oportunidades em exploração, mas diz que não assinou acordo sobre Bumerangue",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc1NFN19yZjZJVUdhM0JpZ1lXUnhvN0xfNlA2NHlQS2lWTWlFRm9xemFXcEQxVk5oR0Y5WE1Nd3pLUFFjZTM3dnFPWHpZZF9EbzRhNzNPWXRZcnFZV0drRzc0WXR5dmdXN1ZKQVVia1BxSFpMa1FFNVBHZlJKOUNRdDRoa0pqeDdURmFIMGRIanZXREVIX3NYdzlPM1ZWVXFuS0pXNGxCeF9uYndZMTN6MlM1WDAyZzdvczh4bWF3TjM1YVZJbV9DeGk0eDQyX2ct?oc=5",
+   "publicado": "2026-11-17T06:27-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
    "tickers": [
-    "B3SA3"
+    "PETR4"
    ]
   },
   {
-   "titulo": "Governo Lula descarta medidas de socorro ao Banco do Brasil e vê capacidade de recuperação gradual",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/governo-lula-descarta-medidas-de-socorro-ao-banco-do-brasil-e-ve-capacidade-de-recuperacao-gradual/",
-   "publicado": "2026-11-16T21:09-03:00",
+   "titulo": "Tendência do dólar é ter valorização ainda maior, diz especialista",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeXVscUJxeUNmZ0ZZYklrNkp2SV9UNDhhTFJ4UDltUm5MZDFpRjN6clRHZG1fU2h0UVBWT0hFeEpyellzUW4xQmpEOS1jWlcwRTNiTE9qQzNhc3k2MHRaZ2pxUkhoZVVoU3Jpb3dwTndKXzAwbUY5ZHZUU1l2MUVjdEtoNWtVWlZPM3NDODRhazQzelF0TTljeVNqbDluRHA1YllJVWlxR3B3RV9pZWNHd2p5aU13Z01JelE?oc=5",
+   "publicado": "2026-11-17T06:08-03:00",
    "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Varejo e indústria nos EUA, balanço da Nvidia e ajuste fiscal movimentam os mercados",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekJPZmlCZGlTa21CZUxTbWxjd0hHMDBlQXE1bFVxemxqcjh5TFNGd3JzS0dUNzF4WkRRMG9Fa0RPT1pUWjZPWG1VcXdYM1JHRzBkblhnNWlNSTN4MUczaG5tMG55U2VXTzdkMm1ZVDVaN3IzMmNDenY1V21RdXV1RXVjZWdiYUtLVV9HeVpIZnJWTEh4SWdwYWFnUTbSAaIBQVVfeXFMTVhFbTVJdEx3U2xDZzZCZnRDcjBpYmZXQWV5cTVLTkljS1R5TlZaU3lxcHVvYnlDVWVacG1yS2k4cUgtQ3NJLUdrYUlnc19OT0tYd0dxb3JSLWM0U0pVQ2JYVTFEb0FSTmxUTjhiallPUko0Ym5Pc0oxcWdLTWxiUGJmNWxxSjVPb3NfSWZJWFlrZlh5QUpWVjZyRUdlVzVRTzdn?oc=5",
+   "publicado": "2026-11-17T06:05-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ibovespa tenta reagir após tombo com saída de capital estrangeiro e balanço da Nvidia no radar",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSEFyRnlNTGgxYVBoT3RtWmFkUlk5M1pYeXZxdmRSNFFfajZmSVFMMnYwR1VfX0MtM3Z1VzRrS3RkVlpYbDlfdDFiYnd5ZU84QzctUUZkOTFWZmVLZnpiQTNNY1QyenFSUTZEclVYV3RQVF9zdmY3X3M5bTFEaktuY0FIbUpadnNFS3dNSW1zSERPUEhMS0RNOVk5UDYtdldvMTdHSXRJaHNsek9VbXlrZkYzdWNSakVvUjB6UUs4M01QY19BZ1NPVnR5WWZhUDh3RENjTWNWMXF5STFXcmJkQWxyTk5kUWl6NzdZanBoaWNMdzQ?oc=5",
+   "publicado": "2026-11-17T05:35-03:00",
+   "impacto": "alto",
    "ativos": [
     "WIN"
    ],
-   "tickers": [
-    "BBAS3"
-   ]
+   "tickers": []
+  },
+  {
+   "titulo": "Ajuste fiscal no Senado, Durigan com investidores e falas do Fed: o que move os mercados",
+   "fonte": "Exame",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0FzWUppWmF3UjNHOEpQRnQxdTJneEhsUkJabFdiQ3ZOYm9ESjR5OFpNNEZQcDhnWHdheEoteENxYzN6T2x2MmRia0xmdTh2XzBsVlc5MWxxS3dsQXBOaTJ1RkRNbmI1UEV2eDhJZzVKcHpLaG9ibURVekFuREdRcE4zamRTQlE3djBDM3Q1UTRCM3hIVkUteGxHMGdhc1Q2RVd2UUZ5N1FzcVVPQWFtdktkTldpZnJEc2hzM2xR?oc=5",
+   "publicado": "2026-11-17T05:34-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Inflação: efeitos do El Niño nos preços devem se intensificar em 2027, com impacto nos juros",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/inflacao-efeitos-do-el-nino-nos-precos-devem-se-intensificar-em-2027-com-impacto-nos-juros/",
+   "publicado": "2026-11-17T05:30-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
   }
  ]
 }
