@@ -1,915 +1,104 @@
 {
- "mercado": {
-  "data": "2026-11-17",
-  "atualizado_em": "2026-11-17T16:19-03:00",
-  "ibov": {
-   "anterior": 169295.4,
-   "pontos": [
-    [
-     "10:00",
-     169614.0
-    ],
-    [
-     "10:05",
-     169989.0
-    ],
-    [
-     "10:10",
-     170155.0
-    ],
-    [
-     "10:15",
-     169925.0
-    ],
-    [
-     "10:20",
-     169928.0
-    ],
-    [
-     "10:25",
-     170250.0
-    ],
-    [
-     "10:30",
-     169996.0
-    ],
-    [
-     "10:35",
-     169997.0
-    ],
-    [
-     "10:40",
-     170109.0
-    ],
-    [
-     "10:45",
-     170415.0
-    ],
-    [
-     "10:50",
-     170234.0
-    ],
-    [
-     "10:55",
-     170738.0
-    ],
-    [
-     "11:00",
-     170711.0
-    ],
-    [
-     "11:05",
-     170557.0
-    ],
-    [
-     "11:10",
-     170690.0
-    ],
-    [
-     "11:15",
-     170594.0
-    ],
-    [
-     "11:20",
-     170660.0
-    ],
-    [
-     "11:25",
-     170847.0
-    ],
-    [
-     "11:30",
-     171025.0
-    ],
-    [
-     "11:35",
-     171139.0
-    ],
-    [
-     "11:40",
-     171412.0
-    ],
-    [
-     "11:45",
-     171431.0
-    ],
-    [
-     "11:50",
-     171015.0
-    ],
-    [
-     "11:55",
-     171313.0
-    ],
-    [
-     "12:00",
-     171315.0
-    ],
-    [
-     "12:05",
-     171451.0
-    ],
-    [
-     "12:10",
-     171568.0
-    ],
-    [
-     "12:15",
-     171460.0
-    ],
-    [
-     "12:20",
-     171652.0
-    ],
-    [
-     "12:25",
-     171652.0
-    ],
-    [
-     "12:30",
-     171568.0
-    ],
-    [
-     "12:35",
-     171551.0
-    ],
-    [
-     "12:40",
-     171326.0
-    ],
-    [
-     "12:45",
-     171173.0
-    ],
-    [
-     "12:50",
-     171138.0
-    ],
-    [
-     "12:55",
-     171251.0
-    ],
-    [
-     "13:00",
-     171428.0
-    ],
-    [
-     "13:05",
-     171213.0
-    ],
-    [
-     "13:10",
-     171287.0
-    ],
-    [
-     "13:15",
-     171157.0
-    ],
-    [
-     "13:20",
-     171062.0
-    ],
-    [
-     "13:25",
-     171059.0
-    ],
-    [
-     "13:30",
-     171094.0
-    ],
-    [
-     "13:35",
-     171003.0
-    ],
-    [
-     "13:40",
-     171078.0
-    ],
-    [
-     "13:45",
-     170878.0
-    ],
-    [
-     "13:50",
-     170749.0
-    ],
-    [
-     "13:55",
-     170845.0
-    ],
-    [
-     "14:00",
-     170577.0
-    ],
-    [
-     "14:05",
-     170698.0
-    ],
-    [
-     "14:10",
-     170893.0
-    ],
-    [
-     "14:15",
-     170990.0
-    ],
-    [
-     "14:20",
-     170921.0
-    ],
-    [
-     "14:25",
-     170729.0
-    ],
-    [
-     "14:30",
-     170587.0
-    ],
-    [
-     "14:35",
-     170621.0
-    ],
-    [
-     "14:40",
-     170494.0
-    ],
-    [
-     "14:45",
-     170476.0
-    ],
-    [
-     "14:50",
-     170425.0
-    ],
-    [
-     "14:55",
-     170507.0
-    ],
-    [
-     "15:00",
-     170401.0
-    ],
-    [
-     "15:05",
-     170421.0
-    ],
-    [
-     "15:10",
-     170093.0
-    ],
-    [
-     "15:15",
-     170065.0
-    ],
-    [
-     "15:20",
-     170054.0
-    ],
-    [
-     "15:25",
-     170203.0
-    ],
-    [
-     "15:30",
-     170200.0
-    ],
-    [
-     "15:35",
-     169906.0
-    ],
-    [
-     "15:40",
-     169857.0
-    ],
-    [
-     "15:45",
-     169825.0
-    ],
-    [
-     "15:50",
-     169826.0
-    ],
-    [
-     "15:55",
-     169779.0
-    ],
-    [
-     "16:00",
-     169762.0
-    ],
-    [
-     "16:04",
-     169749.0
-    ]
-   ]
-  },
-  "dolar": {
-   "anterior": 5.7858,
-   "pontos": [
-    [
-     "09:00",
-     5.7782
-    ],
-    [
-     "09:05",
-     5.7766
-    ],
-    [
-     "09:10",
-     5.7835
-    ],
-    [
-     "09:15",
-     5.783
-    ],
-    [
-     "09:20",
-     5.77
-    ],
-    [
-     "09:25",
-     5.7755
-    ],
-    [
-     "09:30",
-     5.7859
-    ],
-    [
-     "09:35",
-     5.7829
-    ],
-    [
-     "09:40",
-     5.7957
-    ],
-    [
-     "09:45",
-     5.7823
-    ],
-    [
-     "09:50",
-     5.7778
-    ],
-    [
-     "09:55",
-     5.7749
-    ],
-    [
-     "10:00",
-     5.7811
-    ],
-    [
-     "10:05",
-     5.7816
-    ],
-    [
-     "10:10",
-     5.7873
-    ],
-    [
-     "10:15",
-     5.8016
-    ],
-    [
-     "10:20",
-     5.799
-    ],
-    [
-     "10:25",
-     5.8021
-    ],
-    [
-     "10:30",
-     5.8037
-    ],
-    [
-     "10:35",
-     5.8046
-    ],
-    [
-     "10:40",
-     5.8017
-    ],
-    [
-     "10:45",
-     5.7936
-    ],
-    [
-     "10:50",
-     5.8001
-    ],
-    [
-     "10:55",
-     5.767
-    ],
-    [
-     "11:00",
-     5.7726
-    ],
-    [
-     "11:05",
-     5.7708
-    ],
-    [
-     "11:10",
-     5.7735
-    ],
-    [
-     "11:15",
-     5.7776
-    ],
-    [
-     "11:20",
-     5.776
-    ],
-    [
-     "11:25",
-     5.7739
-    ],
-    [
-     "11:30",
-     5.7754
-    ],
-    [
-     "11:35",
-     5.7749
-    ],
-    [
-     "11:40",
-     5.7694
-    ],
-    [
-     "11:45",
-     5.7772
-    ],
-    [
-     "11:50",
-     5.7831
-    ],
-    [
-     "11:55",
-     5.789
-    ],
-    [
-     "12:00",
-     5.7907
-    ],
-    [
-     "12:05",
-     5.7929
-    ],
-    [
-     "12:10",
-     5.7919
-    ],
-    [
-     "12:15",
-     5.7891
-    ],
-    [
-     "12:20",
-     5.7895
-    ],
-    [
-     "12:25",
-     5.7891
-    ],
-    [
-     "12:30",
-     5.794
-    ],
-    [
-     "12:35",
-     5.7835
-    ],
-    [
-     "12:40",
-     5.7835
-    ],
-    [
-     "12:45",
-     5.7898
-    ],
-    [
-     "12:50",
-     5.7966
-    ],
-    [
-     "12:55",
-     5.793
-    ],
-    [
-     "13:00",
-     5.79
-    ],
-    [
-     "13:05",
-     5.7818
-    ],
-    [
-     "13:10",
-     5.7766
-    ],
-    [
-     "13:15",
-     5.7798
-    ],
-    [
-     "13:20",
-     5.7853
-    ],
-    [
-     "13:25",
-     5.783
-    ],
-    [
-     "13:30",
-     5.7808
-    ],
-    [
-     "13:35",
-     5.7822
-    ],
-    [
-     "13:40",
-     5.7815
-    ],
-    [
-     "13:45",
-     5.7865
-    ],
-    [
-     "13:50",
-     5.7895
-    ],
-    [
-     "13:55",
-     5.788
-    ],
-    [
-     "14:00",
-     5.791
-    ],
-    [
-     "14:05",
-     5.788
-    ],
-    [
-     "14:10",
-     5.7836
-    ],
-    [
-     "14:15",
-     5.7804
-    ],
-    [
-     "14:20",
-     5.776
-    ],
-    [
-     "14:25",
-     5.7718
-    ],
-    [
-     "14:30",
-     5.7753
-    ],
-    [
-     "14:35",
-     5.7755
-    ],
-    [
-     "14:40",
-     5.7745
-    ],
-    [
-     "14:45",
-     5.7775
-    ],
-    [
-     "14:50",
-     5.7755
-    ],
-    [
-     "14:55",
-     5.773
-    ],
-    [
-     "15:00",
-     5.7768
-    ],
-    [
-     "15:05",
-     5.7782
-    ],
-    [
-     "15:10",
-     5.785
-    ],
-    [
-     "15:15",
-     5.782
-    ],
-    [
-     "15:20",
-     5.7783
-    ],
-    [
-     "15:25",
-     5.771
-    ],
-    [
-     "15:30",
-     5.7705
-    ],
-    [
-     "15:35",
-     5.774
-    ],
-    [
-     "15:40",
-     5.7703
-    ],
-    [
-     "15:45",
-     5.771
-    ],
-    [
-     "15:50",
-     5.773
-    ],
-    [
-     "15:55",
-     5.7765
-    ],
-    [
-     "16:00",
-     5.7775
-    ],
-    [
-     "16:05",
-     5.776
-    ],
-    [
-     "16:10",
-     5.775
-    ],
-    [
-     "16:15",
-     5.7739
-    ],
-    [
-     "16:19",
-     5.7745
-    ]
-   ]
-  },
-  "marcadores": [
-   {
-    "hora": "13:37",
-    "titulo": "B3 lançará BDR da Anthropic simultaneamente ao IPO da empresa na Nasdaq",
-    "fonte": "InfoMoney",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVFsT2VvYXhKTWFMaGoxUlBMdjMtbXRIX0kxZzhfdGtKRy0xVnV3aGtMZE9CTHl0NDEzakxGbUFvZ1R6NVFFYzRBZ29SQmdGYm1mdkpXbVRNMlZjNTZGTGkwbFNmMm5IaHF2RDh1NWJLOEpIU01EZ1p5Ykw1cnNwWUhOMm14V25aZUY1a3dVa05ockFEeWJNRUFvclZGTDRfZk5ERk85TWdRTVkxWVJF0gG0AUFVX3lxTE1LYkk2SG1QTkkyRF9pM1otdVFmLXQzQ3djN3U4YlVNYkxlUlpIRk44YXkzaG5ZTHVuN25ZNjByZEdmUVFINEhMT0lvMElwbjMtZWJHUFZrOGgtMTVsOWM1MTYzWmtlcExTNmk4OThhMDVMejQyWkNpM1ZhcWxFZ2hOOWlCTXVxT3cxQmhSQU1oQXRsbmdjMm0xdUM4eTlYcGNNYUFWcWItNVRQOHlfX3QtLTBNaA?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WIN"
-    ],
-    "tickers": [
-     "B3SA3"
-    ],
-    "ibov30": -0.18,
-    "dolar30": 0.1
-   },
-   {
-    "hora": "14:31",
-    "titulo": "Itaú BBA eleva TIM (TIMS3) para compra e cita três fatores que tornam a ação difícil de ignorar",
-    "fonte": "Money Times",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeThRMEQxd1c3NFFQTG8xMUdreXYtYjJNLWNKWVhXMjJDQ2ZHWm85djlycnRFQmlNNkFXUGR5LUFtb3YzLVdOTmJGbWNxN3ZyUGptUEFUSXhnRWw4dUxJcTdvejA2alRDWkE3c3FtTUN6X1F6Nks3Y25Jall2SjYyeXlEUnIzcGtTejd6NzliOWJCM3BNdi0tcUxkaXpUTjIxSGdQUFZkYVhzdzJQV2h6cGYxNXFVQjREV0IwemtpR0dEMFVLQU1Jag?oc=5",
-    "impacto": "medio",
-    "ativos": [
-     "WIN"
-    ],
-    "tickers": [
-     "ITUB4",
-     "TIMS3"
-    ],
-    "ibov30": -0.11,
-    "dolar30": 0.03
-   },
-   {
-    "hora": "14:39",
-    "titulo": "Dólar fecha no maior patamar em mais de um ano; balanços de BB e BTG pressionaram Ibovespa hoje",
-    "fonte": "Estadão",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNnRib3puU0NsZEs4YUt5YW9XWWFxd01iTkhwWkVJWXctY3IyalhVOWJKZjFnUUZOdFNkSmlSNEZtV1NVcG4zYmJjTnZrMzdJVU5aYkVkcEVPVy1OSlozdVd3STlfc1d6OHFuNGhySFl6d3VWNXNiaXd5SjZjUDNfSGZzQ2dnZHVsUGEtT1RqdUFNdVBJTUNrazY1SnB4Z0NUZHp6c01nSGNTZFhyZW9TazlQUjBoU2xyUkd3ekxBVEQxNHNXUjlUdmRhRXdUZVRsR21WWDF5OFdDeklkLVhhc0tnSWdFNjBPM1ctb1dSYi14WlZQ?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "WDO"
-    ],
-    "tickers": [
-     "BPAC11"
-    ],
-    "ibov30": -0.12,
-    "dolar30": 0.05
-   },
-   {
-    "hora": "14:48",
-    "titulo": "Hapvida salta 15% e lidera ganhos do Ibovespa após balanço; veja maiores altas e baixas",
-    "fonte": "Estadão",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcXpOUndpdndRTjRHWWhlZDdaOEcxbkZOcmx2M3pSU1dyS0FNaE1uYUpWOXFLbHZqQWtGODVzMDAwQWQtVVRjOUdhLTNMUUprbEFxZFMwZXBCS2RBakFKdzlxdVlWVVo4Nms2MmtRNERLbW8zS2ZBay1SOG9DeWt0VUtGbVpWcGVWQUhWM0VPaGRfaGVvUWpncmtfaTAxTGZ2eFFUWDN4d3h2Nmktc0prdXlEU25wS1ExQzNON3pnVUo4RU9EUmlqaXJtbm94YlFfS3N6Q2VR?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WIN"
-    ],
-    "tickers": [
-     "HAPV3"
-    ],
-    "ibov30": -0.24,
-    "dolar30": 0.08
-   },
-   {
-    "hora": "15:14",
-    "titulo": "Governo retira urgência de projeto de bets para poder votar ajuste fiscal e proposta sobre big techs",
-    "fonte": "Estadão",
-    "url": "https://www.estadao.com.br/politica/governo-retira-urgencia-de-projeto-de-bets-para-poder-votar-ajuste-fiscal-e-proposta-sobre-big-techs/",
-    "impacto": "medio",
-    "ativos": [
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": -0.14,
-    "dolar30": -0.25
-   },
-   {
-    "hora": "15:56",
-    "titulo": "Durigan prevê impacto inicial da reforma tributária sobre inflação",
-    "fonte": "Agência Brasil",
-    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-preve-impacto-inicial-da-reforma-tributaria-sobre-inflacao",
-    "impacto": "medio",
-    "ativos": [
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": null
-   },
-   {
-    "hora": "16:15",
-    "titulo": "We’re watching Cramer’s favorite market indicator for a signal to buy stocks",
-    "fonte": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/11/17/were-watching-cramers-favorite-indicator-for-a-signal-to-buy-stocks.html",
-    "impacto": "medio",
-    "ativos": [
-     "WIN"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": null
-   }
-  ]
- },
+ "mercado": {},
  "hoje": [
   {
-   "titulo": "B3 lançará BDR da Anthropic simultaneamente ao IPO da empresa na Nasdaq",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVFsT2VvYXhKTWFMaGoxUlBMdjMtbXRIX0kxZzhfdGtKRy0xVnV3aGtMZE9CTHl0NDEzakxGbUFvZ1R6NVFFYzRBZ29SQmdGYm1mdkpXbVRNMlZjNTZGTGkwbFNmMm5IaHF2RDh1NWJLOEpIU01EZ1p5Ykw1cnNwWUhOMm14V25aZUY1a3dVa05ockFEeWJNRUFvclZGTDRfZk5ERk85TWdRTVkxWVJF0gG0AUFVX3lxTE1LYkk2SG1QTkkyRF9pM1otdVFmLXQzQ3djN3U4YlVNYkxlUlpIRk44YXkzaG5ZTHVuN25ZNjByZEdmUVFINEhMT0lvMElwbjMtZWJHUFZrOGgtMTVsOWM1MTYzWmtlcExTNmk4OThhMDVMejQyWkNpM1ZhcWxFZ2hOOWlCTXVxT3cxQmhSQU1oQXRsbmdjMm0xdUM4eTlYcGNNYUFWcWItNVRQOHlfX3QtLTBNaA?oc=5",
-   "publicado": "2026-11-17T13:37-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "B3SA3"
-   ]
-  },
-  {
-   "titulo": "Itaú BBA eleva TIM (TIMS3) para compra e cita três fatores que tornam a ação difícil de ignorar",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeThRMEQxd1c3NFFQTG8xMUdreXYtYjJNLWNKWVhXMjJDQ2ZHWm85djlycnRFQmlNNkFXUGR5LUFtb3YzLVdOTmJGbWNxN3ZyUGptUEFUSXhnRWw4dUxJcTdvejA2alRDWkE3c3FtTUN6X1F6Nks3Y25Jall2SjYyeXlEUnIzcGtTejd6NzliOWJCM3BNdi0tcUxkaXpUTjIxSGdQUFZkYVhzdzJQV2h6cGYxNXFVQjREV0IwemtpR0dEMFVLQU1Jag?oc=5",
-   "publicado": "2026-11-17T14:31-03:00",
+   "titulo": "O mercado e o BC tateiam no escuro diante da incerteza sobre a política fiscal do 4º mandato de Lula",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/fabio-alves/o-mercado-e-o-bc-tateiam-no-escuro-diante-da-incerteza-sobre-a-politica-fiscal-do-4-mandato-de-lula/",
+   "publicado": "2026-11-17T20:00-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN"
+    "DI"
    ],
-   "tickers": [
-    "ITUB4",
-    "TIMS3"
-   ]
+   "tickers": []
   },
   {
-   "titulo": "Dólar fecha no maior patamar em mais de um ano; balanços de BB e BTG pressionaram Ibovespa hoje",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNnRib3puU0NsZEs4YUt5YW9XWWFxd01iTkhwWkVJWXctY3IyalhVOWJKZjFnUUZOdFNkSmlSNEZtV1NVcG4zYmJjTnZrMzdJVU5aYkVkcEVPVy1OSlozdVd3STlfc1d6OHFuNGhySFl6d3VWNXNiaXd5SjZjUDNfSGZzQ2dnZHVsUGEtT1RqdUFNdVBJTUNrazY1SnB4Z0NUZHp6c01nSGNTZFhyZW9TazlQUjBoU2xyUkd3ekxBVEQxNHNXUjlUdmRhRXdUZVRsR21WWDF5OFdDeklkLVhhc0tnSWdFNjBPM1ctb1dSYi14WlZQ?oc=5",
-   "publicado": "2026-11-17T14:39-03:00",
-   "impacto": "alto",
+   "titulo": "Câmara aprova mais R$ 6,5 bi para empresas afetadas por tarifaço dos EUA e conflitos no Oriente Médio",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-aprova-mais-r-65-bi-para-empresas-afetadas-por-tarifaco-dos-eua-e-conflitos-no-oriente-medio.shtml",
+   "publicado": "2026-11-17T20:37-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WIN",
     "WDO"
    ],
-   "tickers": [
-    "BPAC11"
-   ]
+   "tickers": []
   },
   {
-   "titulo": "Hapvida salta 15% e lidera ganhos do Ibovespa após balanço; veja maiores altas e baixas",
+   "titulo": "Em meio a racha na esquerda, líder do governo diz que PT votará unificado por ajuste fiscal",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcXpOUndpdndRTjRHWWhlZDdaOEcxbkZOcmx2M3pSU1dyS0FNaE1uYUpWOXFLbHZqQWtGODVzMDAwQWQtVVRjOUdhLTNMUUprbEFxZFMwZXBCS2RBakFKdzlxdVlWVVo4Nms2MmtRNERLbW8zS2ZBay1SOG9DeWt0VUtGbVpWcGVWQUhWM0VPaGRfaGVvUWpncmtfaTAxTGZ2eFFUWDN4d3h2Nmktc0prdXlEU25wS1ExQzNON3pnVUo4RU9EUmlqaXJtbm94YlFfS3N6Q2VR?oc=5",
-   "publicado": "2026-11-17T14:48-03:00",
-   "impacto": "alto",
+   "url": "https://www.estadao.com.br/economia/em-meio-a-racha-na-esquerda-lider-do-governo-diz-que-pt-votara-unificado-por-ajuste-fiscal/",
+   "publicado": "2026-11-17T20:52-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Senado aprova crédito de até R$ 13,5 bi para empresas afetadas por tarifaços dos EUA",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-aprova-credito-de-ate-r-135-bi-para-empresas-afetadas-por-tarifacos-dos-eua.shtml",
+   "publicado": "2026-11-17T21:17-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Goldman Sachs rebaixa o Brasil para ‘neutro’ na Bolsa e coloca incerteza fiscal como principal risco",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/goldman-sachs-rebaixa-o-brasil-para-neutro-na-bolsa-e-coloca-incerteza-fiscal-como-principal-risco/",
+   "publicado": "2026-11-17T21:24-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Moretti e Lindbergh fazem as pazes após atritos por causa de ajuste fiscal e posam juntos para foto",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/moretti-e-lindbergh-fazem-as-pazes-apos-atritos-por-causa-de-ajuste-fiscal-e-posam-juntos-para-foto.shtml",
+   "publicado": "2026-11-17T21:42-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Após tentativa de compra da Amil, Advent e Bain avaliam ativos da Hapvida",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/coluna-da-broad/apos-tentativa-de-compra-da-amil-advent-e-bain-avaliam-ativos-da-hapvida/",
+   "publicado": "2026-11-17T22:00-03:00",
+   "impacto": "medio",
    "ativos": [
     "WIN"
    ],
    "tickers": [
     "HAPV3"
    ]
-  },
-  {
-   "titulo": "Governo retira urgência de projeto de bets para poder votar ajuste fiscal e proposta sobre big techs",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/politica/governo-retira-urgencia-de-projeto-de-bets-para-poder-votar-ajuste-fiscal-e-proposta-sobre-big-techs/",
-   "publicado": "2026-11-17T15:14-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Durigan prevê impacto inicial da reforma tributária sobre inflação",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-preve-impacto-inicial-da-reforma-tributaria-sobre-inflacao",
-   "publicado": "2026-11-17T15:56-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "We’re watching Cramer’s favorite market indicator for a signal to buy stocks",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/investingclub/2026/11/17/were-watching-cramers-favorite-indicator-for-a-signal-to-buy-stocks.html",
-   "publicado": "2026-11-17T16:15-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-17T16:19-03:00",
+ "atualizado_em": "2026-11-17T22:20-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
+  "CNN Brasil",
   "Estadão",
-  "Folha",
-  "InfoMoney",
-  "Money Times",
-  "Valor"
+  "Folha"
  ],
  "noticias": [
   {
-   "titulo": "We’re watching Cramer’s favorite market indicator for a signal to buy stocks",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/investingclub/2026/11/17/were-watching-cramers-favorite-indicator-for-a-signal-to-buy-stocks.html",
-   "publicado": "2026-11-17T16:15-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Durigan prevê impacto inicial da reforma tributária sobre inflação",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-preve-impacto-inicial-da-reforma-tributaria-sobre-inflacao",
-   "publicado": "2026-11-17T15:56-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Governo retira urgência de projeto de bets para poder votar ajuste fiscal e proposta sobre big techs",
+   "titulo": "Após tentativa de compra da Amil, Advent e Bain avaliam ativos da Hapvida",
    "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/politica/governo-retira-urgencia-de-projeto-de-bets-para-poder-votar-ajuste-fiscal-e-proposta-sobre-big-techs/",
-   "publicado": "2026-11-17T15:14-03:00",
+   "url": "https://www.estadao.com.br/economia/coluna-da-broad/apos-tentativa-de-compra-da-amil-advent-e-bain-avaliam-ativos-da-hapvida/",
+   "publicado": "2026-11-17T22:00-03:00",
    "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Hapvida salta 15% e lidera ganhos do Ibovespa após balanço; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcXpOUndpdndRTjRHWWhlZDdaOEcxbkZOcmx2M3pSU1dyS0FNaE1uYUpWOXFLbHZqQWtGODVzMDAwQWQtVVRjOUdhLTNMUUprbEFxZFMwZXBCS2RBakFKdzlxdVlWVVo4Nms2MmtRNERLbW8zS2ZBay1SOG9DeWt0VUtGbVpWcGVWQUhWM0VPaGRfaGVvUWpncmtfaTAxTGZ2eFFUWDN4d3h2Nmktc0prdXlEU25wS1ExQzNON3pnVUo4RU9EUmlqaXJtbm94YlFfS3N6Q2VR?oc=5",
-   "publicado": "2026-11-17T14:48-03:00",
-   "impacto": "alto",
    "ativos": [
     "WIN"
    ],
@@ -918,45 +107,82 @@
    ]
   },
   {
-   "titulo": "Dólar fecha no maior patamar em mais de um ano; balanços de BB e BTG pressionaram Ibovespa hoje",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNnRib3puU0NsZEs4YUt5YW9XWWFxd01iTkhwWkVJWXctY3IyalhVOWJKZjFnUUZOdFNkSmlSNEZtV1NVcG4zYmJjTnZrMzdJVU5aYkVkcEVPVy1OSlozdVd3STlfc1d6OHFuNGhySFl6d3VWNXNiaXd5SjZjUDNfSGZzQ2dnZHVsUGEtT1RqdUFNdVBJTUNrazY1SnB4Z0NUZHp6c01nSGNTZFhyZW9TazlQUjBoU2xyUkd3ekxBVEQxNHNXUjlUdmRhRXdUZVRsR21WWDF5OFdDeklkLVhhc0tnSWdFNjBPM1ctb1dSYi14WlZQ?oc=5",
-   "publicado": "2026-11-17T14:39-03:00",
-   "impacto": "alto",
+   "titulo": "CEO da Amazon diz que EUA precisam construir data centers para não serem superados pela China em IA",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/ceo-da-amazon-diz-que-eua-precisam-construir-data-centers-para-nao-serem-superados-pela-china-em-ia.shtml",
+   "publicado": "2026-11-17T21:45-03:00",
+   "impacto": "medio",
    "ativos": [
     "WIN",
     "WDO"
    ],
-   "tickers": [
-    "BPAC11"
-   ]
+   "tickers": []
   },
   {
-   "titulo": "Itaú BBA eleva TIM (TIMS3) para compra e cita três fatores que tornam a ação difícil de ignorar",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeThRMEQxd1c3NFFQTG8xMUdreXYtYjJNLWNKWVhXMjJDQ2ZHWm85djlycnRFQmlNNkFXUGR5LUFtb3YzLVdOTmJGbWNxN3ZyUGptUEFUSXhnRWw4dUxJcTdvejA2alRDWkE3c3FtTUN6X1F6Nks3Y25Jall2SjYyeXlEUnIzcGtTejd6NzliOWJCM3BNdi0tcUxkaXpUTjIxSGdQUFZkYVhzdzJQV2h6cGYxNXFVQjREV0IwemtpR0dEMFVLQU1Jag?oc=5",
-   "publicado": "2026-11-17T14:31-03:00",
+   "titulo": "Moretti e Lindbergh fazem as pazes após atritos por causa de ajuste fiscal e posam juntos para foto",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/moretti-e-lindbergh-fazem-as-pazes-apos-atritos-por-causa-de-ajuste-fiscal-e-posam-juntos-para-foto.shtml",
+   "publicado": "2026-11-17T21:42-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN"
+    "DI"
    ],
-   "tickers": [
-    "ITUB4",
-    "TIMS3"
-   ]
+   "tickers": []
   },
   {
-   "titulo": "B3 lançará BDR da Anthropic simultaneamente ao IPO da empresa na Nasdaq",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVFsT2VvYXhKTWFMaGoxUlBMdjMtbXRIX0kxZzhfdGtKRy0xVnV3aGtMZE9CTHl0NDEzakxGbUFvZ1R6NVFFYzRBZ29SQmdGYm1mdkpXbVRNMlZjNTZGTGkwbFNmMm5IaHF2RDh1NWJLOEpIU01EZ1p5Ykw1cnNwWUhOMm14V25aZUY1a3dVa05ockFEeWJNRUFvclZGTDRfZk5ERk85TWdRTVkxWVJF0gG0AUFVX3lxTE1LYkk2SG1QTkkyRF9pM1otdVFmLXQzQ3djN3U4YlVNYkxlUlpIRk44YXkzaG5ZTHVuN25ZNjByZEdmUVFINEhMT0lvMElwbjMtZWJHUFZrOGgtMTVsOWM1MTYzWmtlcExTNmk4OThhMDVMejQyWkNpM1ZhcWxFZ2hOOWlCTXVxT3cxQmhSQU1oQXRsbmdjMm0xdUM4eTlYcGNNYUFWcWItNVRQOHlfX3QtLTBNaA?oc=5",
-   "publicado": "2026-11-17T13:37-03:00",
-   "impacto": "alto",
+   "titulo": "Goldman Sachs rebaixa o Brasil para ‘neutro’ na Bolsa e coloca incerteza fiscal como principal risco",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/goldman-sachs-rebaixa-o-brasil-para-neutro-na-bolsa-e-coloca-incerteza-fiscal-como-principal-risco/",
+   "publicado": "2026-11-17T21:24-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WIN"
+    "DI"
    ],
-   "tickers": [
-    "B3SA3"
-   ]
+   "tickers": []
+  },
+  {
+   "titulo": "Senado aprova crédito de até R$ 13,5 bi para empresas afetadas por tarifaços dos EUA",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-aprova-credito-de-ate-r-135-bi-para-empresas-afetadas-por-tarifacos-dos-eua.shtml",
+   "publicado": "2026-11-17T21:17-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Em meio a racha na esquerda, líder do governo diz que PT votará unificado por ajuste fiscal",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/em-meio-a-racha-na-esquerda-lider-do-governo-diz-que-pt-votara-unificado-por-ajuste-fiscal/",
+   "publicado": "2026-11-17T20:52-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Câmara aprova mais R$ 6,5 bi para empresas afetadas por tarifaço dos EUA e conflitos no Oriente Médio",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-aprova-mais-r-65-bi-para-empresas-afetadas-por-tarifaco-dos-eua-e-conflitos-no-oriente-medio.shtml",
+   "publicado": "2026-11-17T20:37-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "O mercado e o BC tateiam no escuro diante da incerteza sobre a política fiscal do 4º mandato de Lula",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/fabio-alves/o-mercado-e-o-bc-tateiam-no-escuro-diante-da-incerteza-sobre-a-politica-fiscal-do-4-mandato-de-lula/",
+   "publicado": "2026-11-17T20:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
   }
  ]
 }
