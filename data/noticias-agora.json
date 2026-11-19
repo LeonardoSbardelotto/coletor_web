@@ -1,727 +1,11 @@
 {
- "mercado": {
-  "data": "2026-11-18",
-  "atualizado_em": "2026-11-18T15:13-03:00",
-  "ibov": {
-   "anterior": 169816.64,
-   "pontos": [
-    [
-     "10:00",
-     169376.0
-    ],
-    [
-     "10:05",
-     169247.0
-    ],
-    [
-     "10:10",
-     169646.0
-    ],
-    [
-     "10:15",
-     169735.0
-    ],
-    [
-     "10:20",
-     169548.0
-    ],
-    [
-     "10:25",
-     169426.0
-    ],
-    [
-     "10:30",
-     169376.0
-    ],
-    [
-     "10:35",
-     169467.0
-    ],
-    [
-     "10:40",
-     169590.0
-    ],
-    [
-     "10:45",
-     169611.0
-    ],
-    [
-     "10:50",
-     169721.0
-    ],
-    [
-     "10:55",
-     169932.0
-    ],
-    [
-     "11:00",
-     169784.0
-    ],
-    [
-     "11:05",
-     169824.0
-    ],
-    [
-     "11:10",
-     169500.0
-    ],
-    [
-     "11:15",
-     169538.0
-    ],
-    [
-     "11:20",
-     169874.0
-    ],
-    [
-     "11:25",
-     169989.0
-    ],
-    [
-     "11:30",
-     169597.0
-    ],
-    [
-     "11:35",
-     169598.0
-    ],
-    [
-     "11:40",
-     169219.0
-    ],
-    [
-     "11:45",
-     169221.0
-    ],
-    [
-     "11:50",
-     169322.0
-    ],
-    [
-     "11:55",
-     169185.0
-    ],
-    [
-     "12:00",
-     168978.0
-    ],
-    [
-     "12:05",
-     168834.0
-    ],
-    [
-     "12:10",
-     168750.0
-    ],
-    [
-     "12:15",
-     168803.0
-    ],
-    [
-     "12:20",
-     168231.0
-    ],
-    [
-     "12:25",
-     168280.0
-    ],
-    [
-     "12:30",
-     168220.0
-    ],
-    [
-     "12:35",
-     168128.0
-    ],
-    [
-     "12:40",
-     168146.0
-    ],
-    [
-     "12:45",
-     168049.0
-    ],
-    [
-     "12:50",
-     168093.0
-    ],
-    [
-     "12:55",
-     167993.0
-    ],
-    [
-     "13:00",
-     167821.0
-    ],
-    [
-     "13:05",
-     167816.0
-    ],
-    [
-     "13:10",
-     167810.0
-    ],
-    [
-     "13:15",
-     167760.0
-    ],
-    [
-     "13:20",
-     167778.0
-    ],
-    [
-     "13:25",
-     167793.0
-    ],
-    [
-     "13:30",
-     167756.0
-    ],
-    [
-     "13:35",
-     167728.0
-    ],
-    [
-     "13:40",
-     167578.0
-    ],
-    [
-     "13:45",
-     167528.0
-    ],
-    [
-     "13:50",
-     167406.0
-    ],
-    [
-     "13:55",
-     167437.0
-    ],
-    [
-     "14:00",
-     167272.0
-    ],
-    [
-     "14:05",
-     167148.0
-    ],
-    [
-     "14:10",
-     167126.0
-    ],
-    [
-     "14:15",
-     167352.0
-    ],
-    [
-     "14:20",
-     167547.0
-    ],
-    [
-     "14:25",
-     167576.0
-    ],
-    [
-     "14:30",
-     167753.0
-    ],
-    [
-     "14:35",
-     167660.0
-    ],
-    [
-     "14:40",
-     167574.0
-    ],
-    [
-     "14:45",
-     167758.0
-    ],
-    [
-     "14:50",
-     167889.0
-    ],
-    [
-     "14:55",
-     168087.0
-    ],
-    [
-     "14:58",
-     168066.0
-    ]
-   ]
-  },
-  "dolar": {
-   "anterior": 5.7657,
-   "pontos": [
-    [
-     "09:00",
-     5.7715
-    ],
-    [
-     "09:05",
-     5.7934
-    ],
-    [
-     "09:10",
-     5.8044
-    ],
-    [
-     "09:15",
-     5.8044
-    ],
-    [
-     "09:20",
-     5.8054
-    ],
-    [
-     "09:25",
-     5.8084
-    ],
-    [
-     "09:30",
-     5.8097
-    ],
-    [
-     "09:35",
-     5.8192
-    ],
-    [
-     "09:40",
-     5.8224
-    ],
-    [
-     "09:45",
-     5.8184
-    ],
-    [
-     "09:50",
-     5.8182
-    ],
-    [
-     "09:55",
-     5.8177
-    ],
-    [
-     "10:00",
-     5.8257
-    ],
-    [
-     "10:05",
-     5.8162
-    ],
-    [
-     "10:10",
-     5.8072
-    ],
-    [
-     "10:15",
-     5.8082
-    ],
-    [
-     "10:20",
-     5.8072
-    ],
-    [
-     "10:25",
-     5.8137
-    ],
-    [
-     "10:30",
-     5.8125
-    ],
-    [
-     "10:35",
-     5.8077
-    ],
-    [
-     "10:40",
-     5.8022
-    ],
-    [
-     "10:45",
-     5.8012
-    ],
-    [
-     "10:50",
-     5.7992
-    ],
-    [
-     "10:55",
-     5.7992
-    ],
-    [
-     "11:00",
-     5.7978
-    ],
-    [
-     "11:05",
-     5.7968
-    ],
-    [
-     "11:10",
-     5.8023
-    ],
-    [
-     "11:15",
-     5.7993
-    ],
-    [
-     "11:20",
-     5.7958
-    ],
-    [
-     "11:25",
-     5.7883
-    ],
-    [
-     "11:30",
-     5.7913
-    ],
-    [
-     "11:35",
-     5.7918
-    ],
-    [
-     "11:40",
-     5.7923
-    ],
-    [
-     "11:45",
-     5.7893
-    ],
-    [
-     "11:50",
-     5.7803
-    ],
-    [
-     "11:55",
-     5.7813
-    ],
-    [
-     "12:00",
-     5.7893
-    ],
-    [
-     "12:05",
-     5.7913
-    ],
-    [
-     "12:10",
-     5.7938
-    ],
-    [
-     "12:15",
-     5.7908
-    ],
-    [
-     "12:20",
-     5.8013
-    ],
-    [
-     "12:25",
-     5.8033
-    ],
-    [
-     "12:30",
-     5.8108
-    ],
-    [
-     "12:35",
-     5.8118
-    ],
-    [
-     "12:40",
-     5.8118
-    ],
-    [
-     "12:45",
-     5.8138
-    ],
-    [
-     "12:50",
-     5.8133
-    ],
-    [
-     "12:55",
-     5.8168
-    ],
-    [
-     "13:00",
-     5.8163
-    ],
-    [
-     "13:05",
-     5.8188
-    ],
-    [
-     "13:10",
-     5.8193
-    ],
-    [
-     "13:15",
-     5.8203
-    ],
-    [
-     "13:20",
-     5.8188
-    ],
-    [
-     "13:25",
-     5.8203
-    ],
-    [
-     "13:30",
-     5.8178
-    ],
-    [
-     "13:35",
-     5.8243
-    ],
-    [
-     "13:40",
-     5.8208
-    ],
-    [
-     "13:45",
-     5.8233
-    ],
-    [
-     "13:50",
-     5.8273
-    ],
-    [
-     "13:55",
-     5.8233
-    ],
-    [
-     "14:00",
-     5.8238
-    ],
-    [
-     "14:05",
-     5.8326
-    ],
-    [
-     "14:10",
-     5.8353
-    ],
-    [
-     "14:15",
-     5.8298
-    ],
-    [
-     "14:20",
-     5.8268
-    ],
-    [
-     "14:25",
-     5.8248
-    ],
-    [
-     "14:30",
-     5.8243
-    ],
-    [
-     "14:35",
-     5.8253
-    ],
-    [
-     "14:40",
-     5.8283
-    ],
-    [
-     "14:45",
-     5.831
-    ],
-    [
-     "14:50",
-     5.8295
-    ],
-    [
-     "14:55",
-     5.8325
-    ],
-    [
-     "15:00",
-     5.8315
-    ],
-    [
-     "15:05",
-     5.833
-    ],
-    [
-     "15:10",
-     5.8345
-    ],
-    [
-     "15:13",
-     5.8345
-    ]
-   ]
-  },
-  "marcadores": [
-   {
-    "hora": "12:13",
-    "titulo": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-    "fonte": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-    "impacto": "alto",
-    "ativos": [
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": -0.36,
-    "dolar30": 0.31
-   },
-   {
-    "hora": "12:37",
-    "titulo": "Wall Street prevê que crescimento dos lucros das empresas cairá pela metade em 2027",
-    "fonte": "Folha",
-    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/wall-street-preve-que-crescimento-dos-lucros-das-empresas-caira-pela-metade-em-2027.shtml",
-    "impacto": "alto",
-    "ativos": [
-     "WIN"
-    ],
-    "tickers": [],
-    "ibov30": -0.19,
-    "dolar30": 0.12
-   },
-   {
-    "hora": "12:52",
-    "titulo": "Minerva dispara 10% e BB lidera as maiores altas do Ibovespa hoje; veja os destaques do pregão",
-    "fonte": "Estadão",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODQzOHR0cHdIRERHZDhFMnItR2ozMzRPTVVsYjdaRlFqVkdKbnJWYm9STkJoUlhNN3NUUjU3MDR4WWVqcy0tUTRydDlTd1hmdzVUR0xNZkFidTlkM1BvTHVXT3FpRUxST3o3OUs2dDFjOVVJVEowRnpxVEtCZGQ5MjB4UmFFUFVEdU0yU1QxenV3X3JVUmdtdlB0QXZMem9qNXRLMTRPRWlKWDVkS2ZxVWhjeFVqT2xaNjBBOGRfbzlVT1hBaGxib2U3R0c3VkVDY3llVDFhUnVXLXNU?oc=5",
-    "impacto": "medio",
-    "ativos": [
-     "WIN"
-    ],
-    "tickers": [],
-    "ibov30": -0.19,
-    "dolar30": 0.09
-   },
-   {
-    "hora": "13:16",
-    "titulo": "Dólar a R$ 5,80 é oportunidade? Goldman vê real rendendo mais que a bolsa em 2027",
-    "fonte": "Exame",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGFvUE5kVlpPRVZLZ3lLS2pKQ1VQdFlOVlEwSm5mcTlSeTdsdlpsaVZwd0RoaWcyVlJtVFZBSy0tSHZwQjRCRlItMVFvTHFXa0RNcWdrOXZBT1N0TVBEaWpyY1NzZmt3T2ZOM0hRamdPTWNLWHFyQW8xZ0txVkxtSjBGTnhrZEc2a2l1Rl9CVWQwT1N6eUI1VkRmVk9jaVZsYWxuWUVDaXd1UkpkRDgwT2JtTQ?oc=5",
-    "impacto": "medio",
-    "ativos": [
-     "WDO"
-    ],
-    "tickers": [],
-    "ibov30": -0.14,
-    "dolar30": 0.05
-   },
-   {
-    "hora": "13:27",
-    "titulo": "Ibovespa aprofunda perdas e dólar chega a R$ 5,82: veja o que abala o mercado",
-    "fonte": "Exame",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORml2R1RKYlZiVmxjMmNKTHhBdVRiWUQxV1RKNTBTeVZiTzJXZ0NhNmV6WHJocmc2RG1uSEx3ZUlWekZTd2NPQmFoV0FtV1F3Q2xPYTlIRExfdzdoNWNiN3VDUUhCX0Uwc3JlX3N1VmNCNkpFVHduWDE1V1dPRDJ5V1pfZmR1dGhZZmlKOGVETFNrdzJrYmhWTVpTUU83XzJtaGdWYmtaM2I2X01q?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "WDO"
-    ],
-    "tickers": [],
-    "ibov30": -0.21,
-    "dolar30": 0.05
-   },
-   {
-    "hora": "14:07",
-    "titulo": "Safra de soja vive melhor momento com preço elevado pelo dólar, diz consultoria",
-    "fonte": "Folha",
-    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/safra-de-soja-vive-melhor-momento-com-preco-elevado-pelo-dolar-diz-consultoria.shtml",
-    "impacto": "medio",
-    "ativos": [
-     "WDO"
-    ],
-    "tickers": [],
-    "ibov30": 0.31,
-    "dolar30": -0.13
-   },
-   {
-    "hora": "14:16",
-    "titulo": "Bolsas da Europa caem com alta do dólar e de olho no Fed",
-    "fonte": "Money Times",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGxkOERBRTl4eVNqcjNUay1kaHprRGhZaW1oWnJQQVRLdWN3enVoUXVCMndUSU51R2p5SHhwc3hlX3ZRS0hXVUZwblZ5M1lVSnZTNS03WnNUTGZMS2h1X0JtOEY5Z2Jxb0xFakE0Q1pDdEZDaERnekE2V0o0d211R1F5dGg4RU9xZWo2dkk0dVVuN1FnQUdB?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": 0.24,
-    "dolar30": 0.02
-   },
-   {
-    "hora": "14:33",
-    "titulo": "Veremos Copom sereno por mais tempo, mas não se descarta alta de juro em 2027, diz ex-diretor do BC",
-    "fonte": "Estadão",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjF6S2xaUlhmY1BocWRFa2V0Z0dQNUtrUzR3eF93Nm1aZ1VWTzUwWGlMRHpldkkxVVo5RzlPUUFFUnBHSXVSdVgxZGh5UXFpZW8wTkUzamozQ2FVTTRXV25wZkpPd2ROQXQ2eko3RHk1T1J4enFuQ3U3aTIzZXYzd1NwVjg1U3VwbThpbw?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": 0.19,
-    "dolar30": 0.12
-   }
-  ]
- },
+ "mercado": {},
  "hoje": [
   {
-   "titulo": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-   "publicado": "2026-11-18T12:13-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Wall Street prevê que crescimento dos lucros das empresas cairá pela metade em 2027",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/wall-street-preve-que-crescimento-dos-lucros-das-empresas-caira-pela-metade-em-2027.shtml",
-   "publicado": "2026-11-18T12:37-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Minerva dispara 10% e BB lidera as maiores altas do Ibovespa hoje; veja os destaques do pregão",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODQzOHR0cHdIRERHZDhFMnItR2ozMzRPTVVsYjdaRlFqVkdKbnJWYm9STkJoUlhNN3NUUjU3MDR4WWVqcy0tUTRydDlTd1hmdzVUR0xNZkFidTlkM1BvTHVXT3FpRUxST3o3OUs2dDFjOVVJVEowRnpxVEtCZGQ5MjB4UmFFUFVEdU0yU1QxenV3X3JVUmdtdlB0QXZMem9qNXRLMTRPRWlKWDVkS2ZxVWhjeFVqT2xaNjBBOGRfbzlVT1hBaGxib2U3R0c3VkVDY3llVDFhUnVXLXNU?oc=5",
-   "publicado": "2026-11-18T12:52-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar a R$ 5,80 é oportunidade? Goldman vê real rendendo mais que a bolsa em 2027",
-   "fonte": "Exame",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGFvUE5kVlpPRVZLZ3lLS2pKQ1VQdFlOVlEwSm5mcTlSeTdsdlpsaVZwd0RoaWcyVlJtVFZBSy0tSHZwQjRCRlItMVFvTHFXa0RNcWdrOXZBT1N0TVBEaWpyY1NzZmt3T2ZOM0hRamdPTWNLWHFyQW8xZ0txVkxtSjBGTnhrZEc2a2l1Rl9CVWQwT1N6eUI1VkRmVk9jaVZsYWxuWUVDaXd1UkpkRDgwT2JtTQ?oc=5",
-   "publicado": "2026-11-18T13:16-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa aprofunda perdas e dólar chega a R$ 5,82: veja o que abala o mercado",
-   "fonte": "Exame",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORml2R1RKYlZiVmxjMmNKTHhBdVRiWUQxV1RKNTBTeVZiTzJXZ0NhNmV6WHJocmc2RG1uSEx3ZUlWekZTd2NPQmFoV0FtV1F3Q2xPYTlIRExfdzdoNWNiN3VDUUhCX0Uwc3JlX3N1VmNCNkpFVHduWDE1V1dPRDJ5V1pfZmR1dGhZZmlKOGVETFNrdzJrYmhWTVpTUU83XzJtaGdWYmtaM2I2X01q?oc=5",
-   "publicado": "2026-11-18T13:27-03:00",
+   "titulo": "Ibovespa tem novo dia de baixa ampla e dólar dispara mais uma vez, a R$ 5,86",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVE05ZDljM2M1OXV5NVFIUjZwLV9qRFNpZWtHSDdGNlBrLUhGQ2NaWGFoc2JraThoNmYxb1hOdU9iS2hVMmlIZGlSaHlpMVlsREhmTDVCNWNWV0EweTlvNi1oWjhpTWZxeXFnT29tb3lqaFE0aVpkVEU2cGpaa2h2V2dpLXliQ1BObEs5V0lsRQ?oc=5",
+   "publicado": "2026-11-18T18:22-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -730,21 +14,34 @@
    "tickers": []
   },
   {
-   "titulo": "Safra de soja vive melhor momento com preço elevado pelo dólar, diz consultoria",
+   "titulo": "Caldeira explode em fábrica da Klabin em SC e dez trabalhadores são hospitalizados; veja vídeo",
    "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/safra-de-soja-vive-melhor-momento-com-preco-elevado-pelo-dolar-diz-consultoria.shtml",
-   "publicado": "2026-11-18T14:07-03:00",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/caldeira-explode-em-fabrica-da-klabin-em-sc-e-dez-trabalhadores-sao-hospitalizados.shtml",
+   "publicado": "2026-11-18T18:32-03:00",
    "impacto": "medio",
    "ativos": [
-    "WDO"
+    "WIN"
+   ],
+   "tickers": [
+    "KLBN11"
+   ]
+  },
+  {
+   "titulo": "Senado conclui votação de ajuste após aceno a governadores para preservar impacto fiscal",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/senado-conclui-votacao-de-ajuste-apos-aceno-a-governadores-para-preservar-impacto-fiscal/",
+   "publicado": "2026-11-18T18:55-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Bolsas da Europa caem com alta do dólar e de olho no Fed",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGxkOERBRTl4eVNqcjNUay1kaHprRGhZaW1oWnJQQVRLdWN3enVoUXVCMndUSU51R2p5SHhwc3hlX3ZRS0hXVUZwblZ5M1lVSnZTNS03WnNUTGZMS2h1X0JtOEY5Z2Jxb0xFakE0Q1pDdEZDaERnekE2V0o0d211R1F5dGg4RU9xZWo2dkk0dVVuN1FnQUdB?oc=5",
-   "publicado": "2026-11-18T14:16-03:00",
+   "titulo": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-587-com-expectativa-sobre-votacao-de-ajuste-fiscal",
+   "publicado": "2026-11-18T19:26-03:00",
    "impacto": "alto",
    "ativos": [
     "WDO",
@@ -753,146 +50,180 @@
    "tickers": []
   },
   {
-   "titulo": "Veremos Copom sereno por mais tempo, mas não se descarta alta de juro em 2027, diz ex-diretor do BC",
+   "titulo": "Opinião | A febre do dólar expõe a infecção que ameaça a economia brasileira",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjF6S2xaUlhmY1BocWRFa2V0Z0dQNUtrUzR3eF93Nm1aZ1VWTzUwWGlMRHpldkkxVVo5RzlPUUFFUnBHSXVSdVgxZGh5UXFpZW8wTkUzamozQ2FVTTRXV25wZkpPd2ROQXQ2eko3RHk1T1J4enFuQ3U3aTIzZXYzd1NwVjg1U3VwbThpbw?oc=5",
-   "publicado": "2026-11-18T14:33-03:00",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeTdqZzZFYTNhRzRnRlU4a1J0bldhTldIQmJoVEFFV1ZGaEVUSUktSEpqWjN0UGhsRzdxdldhSnRfSEhpTzNwRi1NNjY5eEJZMzZRWnc3VzFpUDdzU2ZXUU9hei1fMXEzQjF4S0FmYXJIaHZ1bWxtUTdBWXpPSDVMQ29RVkZVVThjYnFob1NjNVVaRTItVWt4SUNPeEpkSUptbHBCak9Ob1JDeUZIckplRjd5ZWZxbXpvRnFJVkplTQ?oc=5",
+   "publicado": "2026-11-18T19:29-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ibovespa cai 1,3% e perde os 168 mil pontos com pressão fiscal e cenário externo",
+   "fonte": "Exame",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORml2R1RKYlZiVmxjMmNKTHhBdVRiWUQxV1RKNTBTeVZiTzJXZ0NhNmV6WHJocmc2RG1uSEx3ZUlWekZTd2NPQmFoV0FtV1F3Q2xPYTlIRExfdzdoNWNiN3VDUUhCX0Uwc3JlX3N1VmNCNkpFVHduWDE1V1dPRDJ5V1pfZmR1dGhZZmlKOGVETFNrdzJrYmhWTVpTUU83XzJtaGdWYmtaM2I2X01q?oc=5",
+   "publicado": "2026-11-18T19:48-03:00",
    "impacto": "alto",
    "ativos": [
-    "WDO",
+    "WIN",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Bradespar tomba quase 6% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY3RienczdzhuT2RYa1Y4bDV4ekhfTzJyVHUzUTV4eVkySzVBbGwyTjJfbGxBd2FpNTZfQk8zQzZKdWRnWlRwLUsxN2I5UmVONkw4aFRyY25oMU9wZmFid3AzQUZ5Z1c2LVVFbTVqdFlfdEFWYkNibGFxaW40cXEzWjVyMnFISmxta0hLMDIyWUd5emUzaldMX3BmSkdwdjlFT3RWRmR4N2pPcGk1Ri1fbEZkTGNfTUpDcmJEN2RvdFU2Q2NDZVBHWHpQSll1ejQtMUN6Ry03cnI5RHRZb0s4NUdjTkE?oc=5",
+   "publicado": "2026-11-18T19:49-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Banco do Brasil alerta clientes sobre vazamento de dados pessoais",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/banco-do-brasil-alerta-clientes-sobre-vazamento-de-dados-pessoais-npr/",
+   "publicado": "2026-11-18T20:12-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "BBAS3"
+   ]
+  },
+  {
+   "titulo": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
+   "publicado": "2026-11-18T21:01-03:00",
+   "impacto": "medio",
+   "ativos": [
     "DI"
    ],
    "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-18T15:13-03:00",
+ "atualizado_em": "2026-11-18T21:22-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
-  "CNN Brasil",
   "Estadão",
   "Exame",
   "Folha",
-  "InfoMoney",
-  "Money Times"
+  "InfoMoney"
  ],
  "noticias": [
   {
-   "titulo": "Veremos Copom sereno por mais tempo, mas não se descarta alta de juro em 2027, diz ex-diretor do BC",
+   "titulo": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
+   "publicado": "2026-11-18T21:01-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Banco do Brasil alerta clientes sobre vazamento de dados pessoais",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjF6S2xaUlhmY1BocWRFa2V0Z0dQNUtrUzR3eF93Nm1aZ1VWTzUwWGlMRHpldkkxVVo5RzlPUUFFUnBHSXVSdVgxZGh5UXFpZW8wTkUzamozQ2FVTTRXV25wZkpPd2ROQXQ2eko3RHk1T1J4enFuQ3U3aTIzZXYzd1NwVjg1U3VwbThpbw?oc=5",
-   "publicado": "2026-11-18T14:33-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Bolsas da Europa caem com alta do dólar e de olho no Fed",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGxkOERBRTl4eVNqcjNUay1kaHprRGhZaW1oWnJQQVRLdWN3enVoUXVCMndUSU51R2p5SHhwc3hlX3ZRS0hXVUZwblZ5M1lVSnZTNS03WnNUTGZMS2h1X0JtOEY5Z2Jxb0xFakE0Q1pDdEZDaERnekE2V0o0d211R1F5dGg4RU9xZWo2dkk0dVVuN1FnQUdB?oc=5",
-   "publicado": "2026-11-18T14:16-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Safra de soja vive melhor momento com preço elevado pelo dólar, diz consultoria",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/safra-de-soja-vive-melhor-momento-com-preco-elevado-pelo-dolar-diz-consultoria.shtml",
-   "publicado": "2026-11-18T14:07-03:00",
+   "url": "https://www.estadao.com.br/economia/banco-do-brasil-alerta-clientes-sobre-vazamento-de-dados-pessoais-npr/",
+   "publicado": "2026-11-18T20:12-03:00",
    "impacto": "medio",
    "ativos": [
-    "WDO"
+    "WIN"
    ],
-   "tickers": []
+   "tickers": [
+    "BBAS3"
+   ]
   },
   {
-   "titulo": "Preços da soja dependem do clima no Brasil e de compras da China",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnBLMHNVYTZ1Ukg0dk5TcE9nSFI5Q1BSa2ptbmpFeWlMRUtHQ3lnX2dxbGREYk5CeEdBbDlhbHVvT0d1UkptdjZxa0NXYzRlY2ZhaEF5ellCTjhLN1laWmVtTVZRVEF6c05xanE3RWs2UmV3V1dHSVcwa3VEM3dfRHp5MGxIVWpkV1QwUHNVQldydzRGalBld3VxOXI4NFNP?oc=5",
-   "publicado": "2026-11-18T13:58-03:00",
+   "titulo": "Bradespar tomba quase 6% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY3RienczdzhuT2RYa1Y4bDV4ekhfTzJyVHUzUTV4eVkySzVBbGwyTjJfbGxBd2FpNTZfQk8zQzZKdWRnWlRwLUsxN2I5UmVONkw4aFRyY25oMU9wZmFid3AzQUZ5Z1c2LVVFbTVqdFlfdEFWYkNibGFxaW40cXEzWjVyMnFISmxta0hLMDIyWUd5emUzaldMX3BmSkdwdjlFT3RWRmR4N2pPcGk1Ri1fbEZkTGNfTUpDcmJEN2RvdFU2Q2NDZVBHWHpQSll1ejQtMUN6Ry03cnI5RHRZb0s4NUdjTkE?oc=5",
+   "publicado": "2026-11-18T19:49-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN",
-    "WDO"
+    "WIN"
    ],
    "tickers": []
   },
   {
-   "titulo": "Ibovespa aprofunda perdas e dólar chega a R$ 5,82: veja o que abala o mercado",
+   "titulo": "Ibovespa cai 1,3% e perde os 168 mil pontos com pressão fiscal e cenário externo",
    "fonte": "Exame",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORml2R1RKYlZiVmxjMmNKTHhBdVRiWUQxV1RKNTBTeVZiTzJXZ0NhNmV6WHJocmc2RG1uSEx3ZUlWekZTd2NPQmFoV0FtV1F3Q2xPYTlIRExfdzdoNWNiN3VDUUhCX0Uwc3JlX3N1VmNCNkpFVHduWDE1V1dPRDJ5V1pfZmR1dGhZZmlKOGVETFNrdzJrYmhWTVpTUU83XzJtaGdWYmtaM2I2X01q?oc=5",
-   "publicado": "2026-11-18T13:27-03:00",
+   "publicado": "2026-11-18T19:48-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
-    "WDO"
+    "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Dólar a R$ 5,80 é oportunidade? Goldman vê real rendendo mais que a bolsa em 2027",
-   "fonte": "Exame",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGFvUE5kVlpPRVZLZ3lLS2pKQ1VQdFlOVlEwSm5mcTlSeTdsdlpsaVZwd0RoaWcyVlJtVFZBSy0tSHZwQjRCRlItMVFvTHFXa0RNcWdrOXZBT1N0TVBEaWpyY1NzZmt3T2ZOM0hRamdPTWNLWHFyQW8xZ0txVkxtSjBGTnhrZEc2a2l1Rl9CVWQwT1N6eUI1VkRmVk9jaVZsYWxuWUVDaXd1UkpkRDgwT2JtTQ?oc=5",
-   "publicado": "2026-11-18T13:16-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
-   "publicado": "2026-11-18T13:14-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Minerva dispara 10% e BB lidera as maiores altas do Ibovespa hoje; veja os destaques do pregão",
+   "titulo": "Opinião | A febre do dólar expõe a infecção que ameaça a economia brasileira",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODQzOHR0cHdIRERHZDhFMnItR2ozMzRPTVVsYjdaRlFqVkdKbnJWYm9STkJoUlhNN3NUUjU3MDR4WWVqcy0tUTRydDlTd1hmdzVUR0xNZkFidTlkM1BvTHVXT3FpRUxST3o3OUs2dDFjOVVJVEowRnpxVEtCZGQ5MjB4UmFFUFVEdU0yU1QxenV3X3JVUmdtdlB0QXZMem9qNXRLMTRPRWlKWDVkS2ZxVWhjeFVqT2xaNjBBOGRfbzlVT1hBaGxib2U3R0c3VkVDY3llVDFhUnVXLXNU?oc=5",
-   "publicado": "2026-11-18T12:52-03:00",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeTdqZzZFYTNhRzRnRlU4a1J0bldhTldIQmJoVEFFV1ZGaEVUSUktSEpqWjN0UGhsRzdxdldhSnRfSEhpTzNwRi1NNjY5eEJZMzZRWnc3VzFpUDdzU2ZXUU9hei1fMXEzQjF4S0FmYXJIaHZ1bWxtUTdBWXpPSDVMQ29RVkZVVThjYnFob1NjNVVaRTItVWt4SUNPeEpkSUptbHBCak9Ob1JDeUZIckplRjd5ZWZxbXpvRnFJVkplTQ?oc=5",
+   "publicado": "2026-11-18T19:29-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN"
+    "WDO"
    ],
    "tickers": []
   },
   {
-   "titulo": "Wall Street prevê que crescimento dos lucros das empresas cairá pela metade em 2027",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/wall-street-preve-que-crescimento-dos-lucros-das-empresas-caira-pela-metade-em-2027.shtml",
-   "publicado": "2026-11-18T12:37-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-   "publicado": "2026-11-18T12:13-03:00",
+   "titulo": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-587-com-expectativa-sobre-votacao-de-ajuste-fiscal",
+   "publicado": "2026-11-18T19:26-03:00",
    "impacto": "alto",
    "ativos": [
     "WDO",
     "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Senado conclui votação de ajuste após aceno a governadores para preservar impacto fiscal",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/senado-conclui-votacao-de-ajuste-apos-aceno-a-governadores-para-preservar-impacto-fiscal/",
+   "publicado": "2026-11-18T18:55-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Caldeira explode em fábrica da Klabin em SC e dez trabalhadores são hospitalizados; veja vídeo",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/caldeira-explode-em-fabrica-da-klabin-em-sc-e-dez-trabalhadores-sao-hospitalizados.shtml",
+   "publicado": "2026-11-18T18:32-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "KLBN11"
+   ]
+  },
+  {
+   "titulo": "Ibovespa tem novo dia de baixa ampla e dólar dispara mais uma vez, a R$ 5,86",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVE05ZDljM2M1OXV5NVFIUjZwLV9qRFNpZWtHSDdGNlBrLUhGQ2NaWGFoc2JraThoNmYxb1hOdU9iS2hVMmlIZGlSaHlpMVlsREhmTDVCNWNWV0EweTlvNi1oWjhpTWZxeXFnT29tb3lqaFE0aVpkVEU2cGpaa2h2V2dpLXliQ1BObEs5V0lsRQ?oc=5",
+   "publicado": "2026-11-18T18:22-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO"
    ],
    "tickers": []
   }
