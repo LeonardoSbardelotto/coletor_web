@@ -1,7 +1,7 @@
 {
  "mercado": {
   "data": "2026-11-19",
-  "atualizado_em": "2026-11-19T14:00-03:00",
+  "atualizado_em": "2026-11-19T15:16-03:00",
   "ibov": {
    "anterior": 167537.95,
    "pontos": [
@@ -187,7 +187,71 @@
     ],
     [
      "13:45",
-     166472.0
+     166775.0
+    ],
+    [
+     "13:50",
+     166486.0
+    ],
+    [
+     "13:55",
+     166296.0
+    ],
+    [
+     "14:00",
+     165994.0
+    ],
+    [
+     "14:05",
+     166043.0
+    ],
+    [
+     "14:10",
+     165926.0
+    ],
+    [
+     "14:15",
+     165969.0
+    ],
+    [
+     "14:20",
+     166438.0
+    ],
+    [
+     "14:25",
+     166587.0
+    ],
+    [
+     "14:30",
+     166548.0
+    ],
+    [
+     "14:35",
+     166394.0
+    ],
+    [
+     "14:40",
+     166535.0
+    ],
+    [
+     "14:45",
+     166673.0
+    ],
+    [
+     "14:50",
+     166861.0
+    ],
+    [
+     "14:55",
+     166663.0
+    ],
+    [
+     "15:00",
+     166531.0
+    ],
+    [
+     "15:01",
+     166555.0
     ]
    ]
   },
@@ -436,68 +500,75 @@
     ],
     [
      "14:00",
-     5.9113
+     5.9117
+    ],
+    [
+     "14:05",
+     5.9188
+    ],
+    [
+     "14:10",
+     5.9228
+    ],
+    [
+     "14:15",
+     5.9208
+    ],
+    [
+     "14:20",
+     5.9067
+    ],
+    [
+     "14:25",
+     5.9003
+    ],
+    [
+     "14:30",
+     5.8938
+    ],
+    [
+     "14:35",
+     5.8968
+    ],
+    [
+     "14:40",
+     5.8937
+    ],
+    [
+     "14:45",
+     5.8915
+    ],
+    [
+     "14:50",
+     5.886
+    ],
+    [
+     "14:55",
+     5.8967
+    ],
+    [
+     "15:00",
+     5.9051
+    ],
+    [
+     "15:05",
+     5.9082
+    ],
+    [
+     "15:10",
+     5.912
+    ],
+    [
+     "15:15",
+     5.9115
+    ],
+    [
+     "15:16",
+     5.9088
     ]
    ]
   },
   "marcadores": [
-   {
-    "hora": "11:41",
-    "titulo": "BNDES tem lucro de R$ 20,3 bi até setembro, puxado por venda de ações da Petrobras",
-    "fonte": "Folha",
-    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bndes-tem-lucro-de-r-203-bi-ate-setembro-puxado-por-venda-de-acoes-da-petrobras.shtml",
-    "impacto": "alto",
-    "ativos": [
-     "WIN"
-    ],
-    "tickers": [
-     "PETR4"
-    ],
-    "ibov30": -0.67,
-    "dolar30": -0.51
-   },
-   {
-    "hora": "12:00",
-    "titulo": "Se o câmbio ficar nesse patamar por quatro meses, 2027 será ainda mais difícil, diz CEO do Bradesco",
-    "fonte": "Estadão",
-    "url": "https://www.estadao.com.br/economia/entrevista-marcelo-noronha-bradesco-primeiro-ano-governo-cambio-ajuste/",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "WDO"
-    ],
-    "tickers": [
-     "BBDC4"
-    ],
-    "ibov30": -0.33,
-    "dolar30": 0.34
-   },
-   {
-    "hora": "12:11",
-    "titulo": "Dow Jones hoje: estreia da Anthropic impulsiona Nasdaq e ações de tecnologia disparam",
-    "fonte": "Estadão",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUGptdmxXZG1aY3J6dURQQUc1bTJURVVDOWNtTFNEV0JmMl94c2tmOG10RlA5ZVB4dzVhSDlUY08yZ2RWYXM2QVJxc3BheV9TQnkxWHk1aGtKT1QyX3FJWXlDNkpqcVBMOXdyQUItbnFuTU9EdmJvbU1Ra1U2Z1pYVzF4NXQ4WFZPTGhEbUtmeEdybWJ0WldMSVNlQVIxSHBVYkFSOEJZV2NCTGN1REp0TEcxT3owakZOWVNIbDFEZm5VUS1VQVBNSGNEUmdScWtIZDlDa09pVXpIWUZzT05VQl9RZ9IB6AFBVV95cUxPRzhNUXc2cDJqbndSN0NOMHV5d1g1dGtieGkyazlPOXVydEZiamxpbmtkMk94aWN1c3JicnZVV1U1QmM0NnFrNG90VmlzZUtjbkdvRFBZbUFCYl9wMm1MZTR6TzNOZ2RKUG0tSUtYdWVzNHdsUGRaUVdWSHlNR0JwMlNwbWRuSVBqMmxhOHlpaFNOYTVHMWM4ME9kZEJUa0l4NzlwS1duNkZxNV9PZzVWdXYtemVZeUt5RExHb1ZvZVZiMm41TUV2REg1bVZFU0lPNEFSUXdBTkRVOVgyaEtfbVFJRFloMHJm?oc=5",
-    "impacto": "medio",
-    "ativos": [
-     "WIN"
-    ],
-    "tickers": [],
-    "ibov30": -0.02,
-    "dolar30": 0.28
-   },
-   {
-    "hora": "12:13",
-    "titulo": "Proposta de ajuste fiscal deve passar na Câmara sem alterações substanciais",
-    "fonte": "Folha",
-    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/proposta-de-ajuste-fiscal-deve-passar-na-camara-sem-alteracoes-substanciais.shtml",
-    "impacto": "medio",
-    "ativos": [
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": -0.02,
-    "dolar30": 0.28
-   },
    {
     "hora": "12:23",
     "titulo": "‘Não é o mercado que deseja o controle fiscal; quem deseja sou eu’, diz Lula",
@@ -510,19 +581,6 @@
     "tickers": [],
     "ibov30": -0.01,
     "dolar30": 0.23
-   },
-   {
-    "hora": "12:34",
-    "titulo": "Dólar hoje chega a zerar após leilão do BC, mas volta a subir e encosta nos R$ 5,90",
-    "fonte": "InfoMoney",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcGZ5T0QwdHlHdmZCYmNWWHE5elM5OVNhdHpLaUVpazN5UDRrWlloNVZ2WjdHeENiR1hhN2h0YU94Y0xYc0diY2FJb2dGREZaMFNUcmlPcGNwcWNhcW5hdjZJUzlfcDBGSTA3WjY4MllHTFJVWnNHWnZrNGF2eXlhZ1VfSVIydm1pcjFzVDlNT3B4X1VkbEJ3TTdSWTXSAaIBQVVfeXFMUFNmNHRwVHJLVXdzVV9DY2hQVURjYXFub2ZLUlpmWHlEenJ0aUdtaGtfWWdIYUdPa3V4TmhYYV9LSDBGRFNrZnJ6R1hxc2dXM0hJRm5YdkF3ejNDb0VYTHBCNkh4MkdULTdEWkx5SVVNMnVOMUx3S2tPQVplbHNaSndweGVKWTcxV0tsR1VFRFpDM056bzhzeXRveFFBd1N3Tnh3?oc=5",
-    "impacto": "medio",
-    "ativos": [
-     "WDO"
-    ],
-    "tickers": [],
-    "ibov30": -0.41,
-    "dolar30": 0.32
    },
    {
     "hora": "12:44",
@@ -540,74 +598,6 @@
     "dolar30": 0.18
    },
    {
-    "hora": "12:56",
-    "titulo": "Pacote fiscal ‘tímido’ impede avanço do Ibovespa",
-    "fonte": "InfoMoney",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ1BmcVZ4UUN2UzR4Wi15Rm5KOThZVm1jYjdVaHVQVVFZUElkb1c3VHhDRGtXY2RlRWVJRG9BSjNybzYxY1hBc0ZoTnNwUDUzX1dqcGdpMjBzUmZDWmtQa2tzZWdnVFN3VGpyZmNFb2ljelk0MG9GUEhCQUtWTnlURkh3MHVoU010c3czSFhB0gGTAUFVX3lxTE5LM3lON1cyUUVHQXhWeTJEUUptSTR5X2h2V2dQNENTUUtjWUYya0x0Z3R4ZDdiOXFPWVN2V2VsdDZiN0VuYVR0OFFDMURyRnF2cVQzNnlqRmNOUFJRZTFLdl8yLXZjU3dBUU13ODdUZHFwSGxyZzZxRWxVaUNBUkxILXNjMUFsZTk5U1hTd0NjLTVHQQ?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": -0.19,
-    "dolar30": 0.24
-   },
-   {
-    "hora": "12:57",
-    "titulo": "Rumo aos R$ 6? Dólar rompe os R$ 5,90 hoje; entenda o que impulsiona a moeda",
-    "fonte": "Money Times",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3dKQTVrdl9uS2pEV1UxekpqMWtqQm14OGxWemFGaG8yS0gzYVFoSkpUdndEZHQ4dGVFMGhjYzFvSVRnT0o5cktCV0JlZjU4WUxUWVNWSThqN01ZdG9ZeE1QR28wcGR5VjdsaWh4VGN0aWt0cVlyVk5Mbl9tNzVlYWtLbWIyWnV5Wmp3XzVVSVIyOXNVQmlUZXlQeXUxbnhKTS1jX2xJUW9PZU0?oc=5",
-    "impacto": "medio",
-    "ativos": [
-     "WDO"
-    ],
-    "tickers": [],
-    "ibov30": -0.19,
-    "dolar30": 0.24
-   },
-   {
-    "hora": "12:59",
-    "titulo": "Juros futuros sobem com dólar e exterior, após aprovação do ajuste fiscal",
-    "fonte": "CNN Brasil",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGp6Ym85cXVHVTJlSi1hNjNRMUp6ekNuZ1A1SE1RcVFGcnZhUGFnQnRoVlpqNVp2cm5ncWJKeTd6T0NlOG1WRGRxbVJVYUZCNktsUm12aFdkNzg4dUJCNUtabC1TQXRLbWpBVU5xek9KdWowbXIyMUtZVy1CaUZHVEw1TUQ0czdfcVY5eVhsaWUxUXE4NW9EQ25OV0FpaUlpUWFOUjBhRU50em1teDVoTF9qemdvQV9RanVVOVg3RlZrS2s?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": -0.19,
-    "dolar30": 0.24
-   },
-   {
-    "hora": "12:59",
-    "titulo": "Dólar reduz alta após leilão do BC, mas opera acima de R$ 5,90, maior cotação em 19 meses",
-    "fonte": "Estadão",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM0RZR3FtdGNiaEZfak1xMHVxVmxWRTJ0TlAtVWxPVk10S2tNXzV6a182V3lLWlBWdk9uVndONmxWSUczZ21sbHdVdTNNQU5CV0hMUzhCaUFFWjc0NmxIMzdlVnpYTkdkcGNJa1ZPdFZIVE01RlRpckU2UXBSTV9acjFMekhMZUhvVFM0MXJjbnRpTjc2d2FxQTlkTDZBdW5UY09VQmctYzZBVmtMdl9RSk1wYmkyQ2t3Uk9uRi1Ea042WFlFZ1RvaFcxcW5lWGNmMkJiVHpsb2c4c1BCOWpwakhLLVU4clFJLXfSAe8BQVVfeXFMTjBRbU93NEhWTnpoU2Y3dnlBSFNaOTNsVGNySWhTWDlRdTQyNVJLSjdHaE9ZY3h1V1doQUR6NE5UTkVxMmF3S0FacHgtNU9RLXR0Q3B1VTJhWkdLWkFoV095VEZfYmdLOGh6Nk1salo2NXg0S2JPb0pQNFR6RVVjbUVvdU9FcUtNeFY3NGVMSGFBYzlOTmViT296d3JjdS1Cc0YtSDVNS2l6V1p0UUJSTkNPRGdoaWpxRk9hdGw3QS1VYjFWUUpUc3M0eDJRSzd6VjAtSkJKa3o1d1BlUjdmUmthMGZpYU55ZVV6YldDaFE?oc=5",
-    "impacto": "medio",
-    "ativos": [
-     "WDO"
-    ],
-    "tickers": [],
-    "ibov30": -0.19,
-    "dolar30": 0.24
-   },
-   {
-    "hora": "13:04",
-    "titulo": "Dólar nas alturas: Banco Central intervém em leilão de US$ 1 bilhão",
-    "fonte": "Money Times",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTYtcXJiVUM4WnpSX28tZ3ZQUG1PYWNtQl95Y092eGVHTmNRYW02X1Y3WG8yWmNLNHNvdTFGZFpyM2ZvZU9GRDd4VmR5N29TQkhoQ0JmWXhTUDhaZHhRTVIzVTdvMmpOaTRVT29qM2p5ZGxsbGdBem5WRUN4RVluMWFINEJhUWRFVjdCRmV4LWJsR0JCS1Fla0QwSXY?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": -0.0,
-    "dolar30": 0.06
-   },
-   {
     "hora": "13:23",
     "titulo": "Dólar segue acima de R$ 5,90 mesmo após BC vender US$ 1 bilhão em leilão extraordinário",
     "fonte": "Valor",
@@ -617,61 +607,51 @@
      "WDO"
     ],
     "tickers": [],
-    "ibov30": null,
+    "ibov30": -0.12,
     "dolar30": -0.28
+   },
+   {
+    "hora": "13:48",
+    "titulo": "Taxas dos DIs aceleram altas após declarações de Lula sobre área fiscal",
+    "fonte": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2RsUkZXNDNOcjhKTGhBVXp5T3F5VUZNck50dU9pODVIeC1GVTNCNEFEaFlvMTFFVG1pUWRzT1I0RmFLS0RsWUVrbl9IR3NlQzVUcTNlX3ZVTENLLVJkQjZvQ3E0eHpfcjZvYjRQOXY0VVhTOXVSR3dzYVdVTGQwUEpSRl9VbW1RXzR3T1RYM2ZRTEgySjZ2aWZXcjVlTnE0ZE9QLVZaTFJzZVFnNjFMN2ttZm1McE93NG1rSFVhcnBUWFZJZmJsRENR0gHPAUFVX3lxTE10ODM4cDEyZWdUc3EwQV9HeGFwUzlsckk0cW1kcXdOWTVTc2xyQURXSkRCLUswdTBmU1VXMm5LTk9HQWdzOEV2bUlFanhCNUtYeXYtaWNTLUs4Yl9Wa2NBNDJRVHIwVGE4NmNUaVhtcXJaRUpaUTE1cDVQS0tfU0tmbG03UzVqTFFjRVU5WklTVjZ5RnBrT295ZEpZOXpjSjZWQmRvRVZJenpGNGY3MDhvTmJlVGZPX2JLd285eEdBS3lVTERXY3NxYXlLdjMzOA?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": -0.48,
+    "dolar30": 0.4
+   },
+   {
+    "hora": "14:02",
+    "titulo": "Ações da Anthropic estreiam com alta de mais de 30% na Nasdaq",
+    "fonte": "Folha",
+    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/acoes-da-anthropic-estreiam-com-alta-de-mais-de-30-na-nasdaq.shtml",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [],
+    "ibov30": 0.33,
+    "dolar30": -0.3
+   },
+   {
+    "hora": "14:17",
+    "titulo": "Apesar da estreia das ações da Anthropic acima do preço do IPO, Nasdaq cai",
+    "fonte": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb244Y0hkZmoweExXZ3hjZVZBR19CU3cydURyS0JSX0F4VE9EVGJVSzVhVWxyVHEwWk9EM1NIVFRHeXE5N0JrZXFBbVBveVJQRWtGVW1FdDJrNEkyZHRzeDRIenNpcUpaRk1jS0YyZlFhMnAyM1ZDZEFZN0poLXM5SkEtckFyT01Ma0xqc0YyX044dkF1ZkNPZF9PcGFxenhWMUM4QmRoaDdBYUFyeEE?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [],
+    "ibov30": 0.42,
+    "dolar30": -0.49
    }
   ]
  },
  "hoje": [
-  {
-   "titulo": "BNDES tem lucro de R$ 20,3 bi até setembro, puxado por venda de ações da Petrobras",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bndes-tem-lucro-de-r-203-bi-ate-setembro-puxado-por-venda-de-acoes-da-petrobras.shtml",
-   "publicado": "2026-11-19T11:41-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Se o câmbio ficar nesse patamar por quatro meses, 2027 será ainda mais difícil, diz CEO do Bradesco",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/entrevista-marcelo-noronha-bradesco-primeiro-ano-governo-cambio-ajuste/",
-   "publicado": "2026-11-19T12:00-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": [
-    "BBDC4"
-   ]
-  },
-  {
-   "titulo": "Dow Jones hoje: estreia da Anthropic impulsiona Nasdaq e ações de tecnologia disparam",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUGptdmxXZG1aY3J6dURQQUc1bTJURVVDOWNtTFNEV0JmMl94c2tmOG10RlA5ZVB4dzVhSDlUY08yZ2RWYXM2QVJxc3BheV9TQnkxWHk1aGtKT1QyX3FJWXlDNkpqcVBMOXdyQUItbnFuTU9EdmJvbU1Ra1U2Z1pYVzF4NXQ4WFZPTGhEbUtmeEdybWJ0WldMSVNlQVIxSHBVYkFSOEJZV2NCTGN1REp0TEcxT3owakZOWVNIbDFEZm5VUS1VQVBNSGNEUmdScWtIZDlDa09pVXpIWUZzT05VQl9RZ9IB6AFBVV95cUxPRzhNUXc2cDJqbndSN0NOMHV5d1g1dGtieGkyazlPOXVydEZiamxpbmtkMk94aWN1c3JicnZVV1U1QmM0NnFrNG90VmlzZUtjbkdvRFBZbUFCYl9wMm1MZTR6TzNOZ2RKUG0tSUtYdWVzNHdsUGRaUVdWSHlNR0JwMlNwbWRuSVBqMmxhOHlpaFNOYTVHMWM4ME9kZEJUa0l4NzlwS1duNkZxNV9PZzVWdXYtemVZeUt5RExHb1ZvZVZiMm41TUV2REg1bVZFU0lPNEFSUXdBTkRVOVgyaEtfbVFJRFloMHJm?oc=5",
-   "publicado": "2026-11-19T12:11-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Proposta de ajuste fiscal deve passar na Câmara sem alterações substanciais",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/proposta-de-ajuste-fiscal-deve-passar-na-camara-sem-alteracoes-substanciais.shtml",
-   "publicado": "2026-11-19T12:13-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
   {
    "titulo": "‘Não é o mercado que deseja o controle fiscal; quem deseja sou eu’, diz Lula",
    "fonte": "Estadão",
@@ -680,17 +660,6 @@
    "impacto": "medio",
    "ativos": [
     "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar hoje chega a zerar após leilão do BC, mas volta a subir e encosta nos R$ 5,90",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcGZ5T0QwdHlHdmZCYmNWWHE5elM5OVNhdHpLaUVpazN5UDRrWlloNVZ2WjdHeENiR1hhN2h0YU94Y0xYc0diY2FJb2dGREZaMFNUcmlPcGNwcWNhcW5hdjZJUzlfcDBGSTA3WjY4MllHTFJVWnNHWnZrNGF2eXlhZ1VfSVIydm1pcjFzVDlNT3B4X1VkbEJ3TTdSWTXSAaIBQVVfeXFMUFNmNHRwVHJLVXdzVV9DY2hQVURjYXFub2ZLUlpmWHlEenJ0aUdtaGtfWWdIYUdPa3V4TmhYYV9LSDBGRFNrZnJ6R1hxc2dXM0hJRm5YdkF3ejNDb0VYTHBCNkh4MkdULTdEWkx5SVVNMnVOMUx3S2tPQVplbHNaSndweGVKWTcxV0tsR1VFRFpDM056bzhzeXRveFFBd1N3Tnh3?oc=5",
-   "publicado": "2026-11-19T12:34-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
    ],
    "tickers": []
   },
@@ -708,64 +677,6 @@
    ]
   },
   {
-   "titulo": "Pacote fiscal ‘tímido’ impede avanço do Ibovespa",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ1BmcVZ4UUN2UzR4Wi15Rm5KOThZVm1jYjdVaHVQVVFZUElkb1c3VHhDRGtXY2RlRWVJRG9BSjNybzYxY1hBc0ZoTnNwUDUzX1dqcGdpMjBzUmZDWmtQa2tzZWdnVFN3VGpyZmNFb2ljelk0MG9GUEhCQUtWTnlURkh3MHVoU010c3czSFhB0gGTAUFVX3lxTE5LM3lON1cyUUVHQXhWeTJEUUptSTR5X2h2V2dQNENTUUtjWUYya0x0Z3R4ZDdiOXFPWVN2V2VsdDZiN0VuYVR0OFFDMURyRnF2cVQzNnlqRmNOUFJRZTFLdl8yLXZjU3dBUU13ODdUZHFwSGxyZzZxRWxVaUNBUkxILXNjMUFsZTk5U1hTd0NjLTVHQQ?oc=5",
-   "publicado": "2026-11-19T12:56-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Rumo aos R$ 6? Dólar rompe os R$ 5,90 hoje; entenda o que impulsiona a moeda",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3dKQTVrdl9uS2pEV1UxekpqMWtqQm14OGxWemFGaG8yS0gzYVFoSkpUdndEZHQ4dGVFMGhjYzFvSVRnT0o5cktCV0JlZjU4WUxUWVNWSThqN01ZdG9ZeE1QR28wcGR5VjdsaWh4VGN0aWt0cVlyVk5Mbl9tNzVlYWtLbWIyWnV5Wmp3XzVVSVIyOXNVQmlUZXlQeXUxbnhKTS1jX2xJUW9PZU0?oc=5",
-   "publicado": "2026-11-19T12:57-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Juros futuros sobem com dólar e exterior, após aprovação do ajuste fiscal",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGp6Ym85cXVHVTJlSi1hNjNRMUp6ekNuZ1A1SE1RcVFGcnZhUGFnQnRoVlpqNVp2cm5ncWJKeTd6T0NlOG1WRGRxbVJVYUZCNktsUm12aFdkNzg4dUJCNUtabC1TQXRLbWpBVU5xek9KdWowbXIyMUtZVy1CaUZHVEw1TUQ0czdfcVY5eVhsaWUxUXE4NW9EQ25OV0FpaUlpUWFOUjBhRU50em1teDVoTF9qemdvQV9RanVVOVg3RlZrS2s?oc=5",
-   "publicado": "2026-11-19T12:59-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar reduz alta após leilão do BC, mas opera acima de R$ 5,90, maior cotação em 19 meses",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM0RZR3FtdGNiaEZfak1xMHVxVmxWRTJ0TlAtVWxPVk10S2tNXzV6a182V3lLWlBWdk9uVndONmxWSUczZ21sbHdVdTNNQU5CV0hMUzhCaUFFWjc0NmxIMzdlVnpYTkdkcGNJa1ZPdFZIVE01RlRpckU2UXBSTV9acjFMekhMZUhvVFM0MXJjbnRpTjc2d2FxQTlkTDZBdW5UY09VQmctYzZBVmtMdl9RSk1wYmkyQ2t3Uk9uRi1Ea042WFlFZ1RvaFcxcW5lWGNmMkJiVHpsb2c4c1BCOWpwakhLLVU4clFJLXfSAe8BQVVfeXFMTjBRbU93NEhWTnpoU2Y3dnlBSFNaOTNsVGNySWhTWDlRdTQyNVJLSjdHaE9ZY3h1V1doQUR6NE5UTkVxMmF3S0FacHgtNU9RLXR0Q3B1VTJhWkdLWkFoV095VEZfYmdLOGh6Nk1salo2NXg0S2JPb0pQNFR6RVVjbUVvdU9FcUtNeFY3NGVMSGFBYzlOTmViT296d3JjdS1Cc0YtSDVNS2l6V1p0UUJSTkNPRGdoaWpxRk9hdGw3QS1VYjFWUUpUc3M0eDJRSzd6VjAtSkJKa3o1d1BlUjdmUmthMGZpYU55ZVV6YldDaFE?oc=5",
-   "publicado": "2026-11-19T12:59-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar nas alturas: Banco Central intervém em leilão de US$ 1 bilhão",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTYtcXJiVUM4WnpSX28tZ3ZQUG1PYWNtQl95Y092eGVHTmNRYW02X1Y3WG8yWmNLNHNvdTFGZFpyM2ZvZU9GRDd4VmR5N29TQkhoQ0JmWXhTUDhaZHhRTVIzVTdvMmpOaTRVT29qM2p5ZGxsbGdBem5WRUN4RVluMWFINEJhUWRFVjdCRmV4LWJsR0JCS1Fla0QwSXY?oc=5",
-   "publicado": "2026-11-19T13:04-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
    "titulo": "Dólar segue acima de R$ 5,90 mesmo após BC vender US$ 1 bilhão em leilão extraordinário",
    "fonte": "Valor",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDVmUFpNcWdDXzVrbW9FWDA1UklMV3A5ZkE5TWVJU1FmdEd1bmNubVh5aV9tU1dZbThkSkx4Q2FQOEV6Wm80bF9BSUtkTkk3cHltcHN2Nm5vR3RHTVZOcC1TRVBLbERxVGMtbEp6UVJ2cVpzRHl3S0wyUHRTZ0tLdzh5MHY5NUpKUmd3SnZhZHZvU1BnQ2JoUnM0RzlKcE43eDJ1NGEwUFRFTFNtd0UwdEJvWVdaZHlwMDYw0gHKAUFVX3lxTE5lWVByb2p6SVVvX1NKZVJFVW05VEV3bm9hZnhXbWlzTzVqV2NyUTRZUXVoYkE3VmI2Q0lvQ0IwZ2I3YjVHN0NSWUhodnc1eDBGeTd3eDczakQxSVFyVVZXUEJyVFZXaUJMR0ZtajYzLVVDcmFfLUxqdlNXUFR5cUVZUnBkQnRVWlY3WEpmVDVxWXZDcnN4My1TbjFmM2IwdUFaU05pSHNpdHZLSGZpUTNBZGRHLVVnUTMtN3dFelM2T2tlTHZIcUI4Wnc?oc=5",
@@ -775,10 +686,43 @@
     "WDO"
    ],
    "tickers": []
+  },
+  {
+   "titulo": "Taxas dos DIs aceleram altas após declarações de Lula sobre área fiscal",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2RsUkZXNDNOcjhKTGhBVXp5T3F5VUZNck50dU9pODVIeC1GVTNCNEFEaFlvMTFFVG1pUWRzT1I0RmFLS0RsWUVrbl9IR3NlQzVUcTNlX3ZVTENLLVJkQjZvQ3E0eHpfcjZvYjRQOXY0VVhTOXVSR3dzYVdVTGQwUEpSRl9VbW1RXzR3T1RYM2ZRTEgySjZ2aWZXcjVlTnE0ZE9QLVZaTFJzZVFnNjFMN2ttZm1McE93NG1rSFVhcnBUWFZJZmJsRENR0gHPAUFVX3lxTE10ODM4cDEyZWdUc3EwQV9HeGFwUzlsckk0cW1kcXdOWTVTc2xyQURXSkRCLUswdTBmU1VXMm5LTk9HQWdzOEV2bUlFanhCNUtYeXYtaWNTLUs4Yl9Wa2NBNDJRVHIwVGE4NmNUaVhtcXJaRUpaUTE1cDVQS0tfU0tmbG03UzVqTFFjRVU5WklTVjZ5RnBrT295ZEpZOXpjSjZWQmRvRVZJenpGNGY3MDhvTmJlVGZPX2JLd285eEdBS3lVTERXY3NxYXlLdjMzOA?oc=5",
+   "publicado": "2026-11-19T13:48-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ações da Anthropic estreiam com alta de mais de 30% na Nasdaq",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/acoes-da-anthropic-estreiam-com-alta-de-mais-de-30-na-nasdaq.shtml",
+   "publicado": "2026-11-19T14:02-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Apesar da estreia das ações da Anthropic acima do preço do IPO, Nasdaq cai",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb244Y0hkZmoweExXZ3hjZVZBR19CU3cydURyS0JSX0F4VE9EVGJVSzVhVWxyVHEwWk9EM1NIVFRHeXE5N0JrZXFBbVBveVJQRWtGVW1FdDJrNEkyZHRzeDRIenNpcUpaRk1jS0YyZlFhMnAyM1ZDZEFZN0poLXM5SkEtckFyT01Ma0xqc0YyX044dkF1ZkNPZF9PcGFxenhWMUM4QmRoaDdBYUFyeEE?oc=5",
+   "publicado": "2026-11-19T14:17-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-19T14:00-03:00",
+ "atualizado_em": "2026-11-19T15:16-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -793,6 +737,40 @@
  ],
  "noticias": [
   {
+   "titulo": "Apesar da estreia das ações da Anthropic acima do preço do IPO, Nasdaq cai",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb244Y0hkZmoweExXZ3hjZVZBR19CU3cydURyS0JSX0F4VE9EVGJVSzVhVWxyVHEwWk9EM1NIVFRHeXE5N0JrZXFBbVBveVJQRWtGVW1FdDJrNEkyZHRzeDRIenNpcUpaRk1jS0YyZlFhMnAyM1ZDZEFZN0poLXM5SkEtckFyT01Ma0xqc0YyX044dkF1ZkNPZF9PcGFxenhWMUM4QmRoaDdBYUFyeEE?oc=5",
+   "publicado": "2026-11-19T14:17-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ações da Anthropic estreiam com alta de mais de 30% na Nasdaq",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/acoes-da-anthropic-estreiam-com-alta-de-mais-de-30-na-nasdaq.shtml",
+   "publicado": "2026-11-19T14:02-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
+   "publicado": "2026-11-19T14:01-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
    "titulo": "AMD falls on short-seller report of alleged China exposure",
    "fonte": "CNBC",
    "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
@@ -805,6 +783,17 @@
    "tickers": []
   },
   {
+   "titulo": "Taxas dos DIs aceleram altas após declarações de Lula sobre área fiscal",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2RsUkZXNDNOcjhKTGhBVXp5T3F5VUZNck50dU9pODVIeC1GVTNCNEFEaFlvMTFFVG1pUWRzT1I0RmFLS0RsWUVrbl9IR3NlQzVUcTNlX3ZVTENLLVJkQjZvQ3E0eHpfcjZvYjRQOXY0VVhTOXVSR3dzYVdVTGQwUEpSRl9VbW1RXzR3T1RYM2ZRTEgySjZ2aWZXcjVlTnE0ZE9QLVZaTFJzZVFnNjFMN2ttZm1McE93NG1rSFVhcnBUWFZJZmJsRENR0gHPAUFVX3lxTE10ODM4cDEyZWdUc3EwQV9HeGFwUzlsckk0cW1kcXdOWTVTc2xyQURXSkRCLUswdTBmU1VXMm5LTk9HQWdzOEV2bUlFanhCNUtYeXYtaWNTLUs4Yl9Wa2NBNDJRVHIwVGE4NmNUaVhtcXJaRUpaUTE1cDVQS0tfU0tmbG03UzVqTFFjRVU5WklTVjZ5RnBrT295ZEpZOXpjSjZWQmRvRVZJenpGNGY3MDhvTmJlVGZPX2JLd285eEdBS3lVTERXY3NxYXlLdjMzOA?oc=5",
+   "publicado": "2026-11-19T13:48-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
    "titulo": "Dólar segue acima de R$ 5,90 mesmo após BC vender US$ 1 bilhão em leilão extraordinário",
    "fonte": "Valor",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDVmUFpNcWdDXzVrbW9FWDA1UklMV3A5ZkE5TWVJU1FmdEd1bmNubVh5aV9tU1dZbThkSkx4Q2FQOEV6Wm80bF9BSUtkTkk3cHltcHN2Nm5vR3RHTVZOcC1TRVBLbERxVGMtbEp6UVJ2cVpzRHl3S0wyUHRTZ0tLdzh5MHY5NUpKUmd3SnZhZHZvU1BnQ2JoUnM0RzlKcE43eDJ1NGEwUFRFTFNtd0UwdEJvWVdaZHlwMDYw0gHKAUFVX3lxTE5lWVByb2p6SVVvX1NKZVJFVW05VEV3bm9hZnhXbWlzTzVqV2NyUTRZUXVoYkE3VmI2Q0lvQ0IwZ2I3YjVHN0NSWUhodnc1eDBGeTd3eDczakQxSVFyVVZXUEJyVFZXaUJMR0ZtajYzLVVDcmFfLUxqdlNXUFR5cUVZUnBkQnRVWlY3WEpmVDVxWXZDcnN4My1TbjFmM2IwdUFaU05pSHNpdHZLSGZpUTNBZGRHLVVnUTMtN3dFelM2T2tlTHZIcUI4Wnc?oc=5",
@@ -812,76 +801,6 @@
    "impacto": "medio",
    "ativos": [
     "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
-   "publicado": "2026-11-19T13:19-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar nas alturas: Banco Central intervém em leilão de US$ 1 bilhão",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTYtcXJiVUM4WnpSX28tZ3ZQUG1PYWNtQl95Y092eGVHTmNRYW02X1Y3WG8yWmNLNHNvdTFGZFpyM2ZvZU9GRDd4VmR5N29TQkhoQ0JmWXhTUDhaZHhRTVIzVTdvMmpOaTRVT29qM2p5ZGxsbGdBem5WRUN4RVluMWFINEJhUWRFVjdCRmV4LWJsR0JCS1Fla0QwSXY?oc=5",
-   "publicado": "2026-11-19T13:04-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Juros futuros sobem com dólar e exterior, após aprovação do ajuste fiscal",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGp6Ym85cXVHVTJlSi1hNjNRMUp6ekNuZ1A1SE1RcVFGcnZhUGFnQnRoVlpqNVp2cm5ncWJKeTd6T0NlOG1WRGRxbVJVYUZCNktsUm12aFdkNzg4dUJCNUtabC1TQXRLbWpBVU5xek9KdWowbXIyMUtZVy1CaUZHVEw1TUQ0czdfcVY5eVhsaWUxUXE4NW9EQ25OV0FpaUlpUWFOUjBhRU50em1teDVoTF9qemdvQV9RanVVOVg3RlZrS2s?oc=5",
-   "publicado": "2026-11-19T12:59-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar reduz alta após leilão do BC, mas opera acima de R$ 5,90, maior cotação em 19 meses",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM0RZR3FtdGNiaEZfak1xMHVxVmxWRTJ0TlAtVWxPVk10S2tNXzV6a182V3lLWlBWdk9uVndONmxWSUczZ21sbHdVdTNNQU5CV0hMUzhCaUFFWjc0NmxIMzdlVnpYTkdkcGNJa1ZPdFZIVE01RlRpckU2UXBSTV9acjFMekhMZUhvVFM0MXJjbnRpTjc2d2FxQTlkTDZBdW5UY09VQmctYzZBVmtMdl9RSk1wYmkyQ2t3Uk9uRi1Ea042WFlFZ1RvaFcxcW5lWGNmMkJiVHpsb2c4c1BCOWpwakhLLVU4clFJLXfSAe8BQVVfeXFMTjBRbU93NEhWTnpoU2Y3dnlBSFNaOTNsVGNySWhTWDlRdTQyNVJLSjdHaE9ZY3h1V1doQUR6NE5UTkVxMmF3S0FacHgtNU9RLXR0Q3B1VTJhWkdLWkFoV095VEZfYmdLOGh6Nk1salo2NXg0S2JPb0pQNFR6RVVjbUVvdU9FcUtNeFY3NGVMSGFBYzlOTmViT296d3JjdS1Cc0YtSDVNS2l6V1p0UUJSTkNPRGdoaWpxRk9hdGw3QS1VYjFWUUpUc3M0eDJRSzd6VjAtSkJKa3o1d1BlUjdmUmthMGZpYU55ZVV6YldDaFE?oc=5",
-   "publicado": "2026-11-19T12:59-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Rumo aos R$ 6? Dólar rompe os R$ 5,90 hoje; entenda o que impulsiona a moeda",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3dKQTVrdl9uS2pEV1UxekpqMWtqQm14OGxWemFGaG8yS0gzYVFoSkpUdndEZHQ4dGVFMGhjYzFvSVRnT0o5cktCV0JlZjU4WUxUWVNWSThqN01ZdG9ZeE1QR28wcGR5VjdsaWh4VGN0aWt0cVlyVk5Mbl9tNzVlYWtLbWIyWnV5Wmp3XzVVSVIyOXNVQmlUZXlQeXUxbnhKTS1jX2xJUW9PZU0?oc=5",
-   "publicado": "2026-11-19T12:57-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Pacote fiscal ‘tímido’ impede avanço do Ibovespa",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ1BmcVZ4UUN2UzR4Wi15Rm5KOThZVm1jYjdVaHVQVVFZUElkb1c3VHhDRGtXY2RlRWVJRG9BSjNybzYxY1hBc0ZoTnNwUDUzX1dqcGdpMjBzUmZDWmtQa2tzZWdnVFN3VGpyZmNFb2ljelk0MG9GUEhCQUtWTnlURkh3MHVoU010c3czSFhB0gGTAUFVX3lxTE5LM3lON1cyUUVHQXhWeTJEUUptSTR5X2h2V2dQNENTUUtjWUYya0x0Z3R4ZDdiOXFPWVN2V2VsdDZiN0VuYVR0OFFDMURyRnF2cVQzNnlqRmNOUFJRZTFLdl8yLXZjU3dBUU13ODdUZHFwSGxyZzZxRWxVaUNBUkxILXNjMUFsZTk5U1hTd0NjLTVHQQ?oc=5",
-   "publicado": "2026-11-19T12:56-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
    ],
    "tickers": []
   },
@@ -899,17 +818,6 @@
    ]
   },
   {
-   "titulo": "Dólar hoje chega a zerar após leilão do BC, mas volta a subir e encosta nos R$ 5,90",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcGZ5T0QwdHlHdmZCYmNWWHE5elM5OVNhdHpLaUVpazN5UDRrWlloNVZ2WjdHeENiR1hhN2h0YU94Y0xYc0diY2FJb2dGREZaMFNUcmlPcGNwcWNhcW5hdjZJUzlfcDBGSTA3WjY4MllHTFJVWnNHWnZrNGF2eXlhZ1VfSVIydm1pcjFzVDlNT3B4X1VkbEJ3TTdSWTXSAaIBQVVfeXFMUFNmNHRwVHJLVXdzVV9DY2hQVURjYXFub2ZLUlpmWHlEenJ0aUdtaGtfWWdIYUdPa3V4TmhYYV9LSDBGRFNrZnJ6R1hxc2dXM0hJRm5YdkF3ejNDb0VYTHBCNkh4MkdULTdEWkx5SVVNMnVOMUx3S2tPQVplbHNaSndweGVKWTcxV0tsR1VFRFpDM056bzhzeXRveFFBd1N3Tnh3?oc=5",
-   "publicado": "2026-11-19T12:34-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
    "titulo": "‘Não é o mercado que deseja o controle fiscal; quem deseja sou eu’, diz Lula",
    "fonte": "Estadão",
    "url": "https://www.estadao.com.br/economia/lula-mercado-controle-fiscal-quem-deseja-sou-eu/",
@@ -919,55 +827,6 @@
     "DI"
    ],
    "tickers": []
-  },
-  {
-   "titulo": "Proposta de ajuste fiscal deve passar na Câmara sem alterações substanciais",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/proposta-de-ajuste-fiscal-deve-passar-na-camara-sem-alteracoes-substanciais.shtml",
-   "publicado": "2026-11-19T12:13-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dow Jones hoje: estreia da Anthropic impulsiona Nasdaq e ações de tecnologia disparam",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUGptdmxXZG1aY3J6dURQQUc1bTJURVVDOWNtTFNEV0JmMl94c2tmOG10RlA5ZVB4dzVhSDlUY08yZ2RWYXM2QVJxc3BheV9TQnkxWHk1aGtKT1QyX3FJWXlDNkpqcVBMOXdyQUItbnFuTU9EdmJvbU1Ra1U2Z1pYVzF4NXQ4WFZPTGhEbUtmeEdybWJ0WldMSVNlQVIxSHBVYkFSOEJZV2NCTGN1REp0TEcxT3owakZOWVNIbDFEZm5VUS1VQVBNSGNEUmdScWtIZDlDa09pVXpIWUZzT05VQl9RZ9IB6AFBVV95cUxPRzhNUXc2cDJqbndSN0NOMHV5d1g1dGtieGkyazlPOXVydEZiamxpbmtkMk94aWN1c3JicnZVV1U1QmM0NnFrNG90VmlzZUtjbkdvRFBZbUFCYl9wMm1MZTR6TzNOZ2RKUG0tSUtYdWVzNHdsUGRaUVdWSHlNR0JwMlNwbWRuSVBqMmxhOHlpaFNOYTVHMWM4ME9kZEJUa0l4NzlwS1duNkZxNV9PZzVWdXYtemVZeUt5RExHb1ZvZVZiMm41TUV2REg1bVZFU0lPNEFSUXdBTkRVOVgyaEtfbVFJRFloMHJm?oc=5",
-   "publicado": "2026-11-19T12:11-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Se o câmbio ficar nesse patamar por quatro meses, 2027 será ainda mais difícil, diz CEO do Bradesco",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/entrevista-marcelo-noronha-bradesco-primeiro-ano-governo-cambio-ajuste/",
-   "publicado": "2026-11-19T12:00-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": [
-    "BBDC4"
-   ]
-  },
-  {
-   "titulo": "BNDES tem lucro de R$ 20,3 bi até setembro, puxado por venda de ações da Petrobras",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bndes-tem-lucro-de-r-203-bi-ate-setembro-puxado-por-venda-de-acoes-da-petrobras.shtml",
-   "publicado": "2026-11-19T11:41-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
   }
  ]
 }
