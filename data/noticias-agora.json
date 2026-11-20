@@ -2,134 +2,6 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Anthropic: ação fecha com alta de 17% em estreia na Nasdaq após maior IPO da história",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeEQ0ZDVMeTRnQWdhcFVaQnpHRWVZeElzXzhiVUFxUTNCV29GZkVGbHBsbW43WjJTNURScFp1bmVFVEJRQkV5R19MYnRUVERfMDFzTnpfS2tVYmNuNVlZUjNaNG1TcWFnTl9IeGlldTNaYU5KOHVwMzMyaHBaZzFOYVdNSEV4S19WYUtlVERuTGlLWDFNV2tUY9IBngFBVV95cUxPQUo1NUZOM09xZVNUVFJqeW1BVDNjMXNyY3RsUFI3MHJwUHEzSE1TeEZaaDhRQkQ4MmNMZFBVY1ZIM2Z1bzQ5WjUtcVBZNGVqb1BqZWt2UnRwR2c5M1lib0RwaURLSFZyOElmbGpHLWlkWkdjMW5rSGdJTGpJeVlkT0lrN3gxX2Focm9WMDBiV1pQY2lmRVdTLUFXcE1MZw?oc=5",
-   "publicado": "2026-11-19T18:08-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Oposição defende mudar ajuste fiscal na Câmara, mas esbarra em acordo de Motta com governo",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/oposicao-defende-mudar-ajuste-fiscal-na-camara-mas-esbarra-em-acordo-de-motta-com-governo/",
-   "publicado": "2026-11-19T18:11-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa encerra com nova baixa e semana termina negativa; dólar dispara a R$ 5,9",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR21JcVpKdTE1VllmY05QQ25IaHVfOGNEZGhUU0V2OXhlS0s4Z1BWcC1TeWgtNkpPdG1uM1AtajNtYWpqVzFZZEVISFBWSWUtVjFyNFc1QjBFSUZGT1FPWXhYNFRFMWEyYU1mRjVXMkxFS3VPOGU4NFFEajEwWGxEYVUxb3JCN3Nfdm5VWkNBQQ?oc=5",
-   "publicado": "2026-11-19T18:20-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar fecha em alta pela 6ª sessão seguida a R$ 5,93, na maior cotação em 19 meses; Ibovespa cai",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM0RZR3FtdGNiaEZfak1xMHVxVmxWRTJ0TlAtVWxPVk10S2tNXzV6a182V3lLWlBWdk9uVndONmxWSUczZ21sbHdVdTNNQU5CV0hMUzhCaUFFWjc0NmxIMzdlVnpYTkdkcGNJa1ZPdFZIVE01RlRpckU2UXBSTV9acjFMekhMZUhvVFM0MXJjbnRpTjc2d2FxQTlkTDZBdW5UY09VQmctYzZBVmtMdl9RSk1wYmkyQ2t3Uk9uRi1Ea042WFlFZ1RvaFcxcW5lWGNmMkJiVHpsb2c4c1BCOWpwakhLLVU4clFJLXfSAe8BQVVfeXFMTjBRbU93NEhWTnpoU2Y3dnlBSFNaOTNsVGNySWhTWDlRdTQyNVJLSjdHaE9ZY3h1V1doQUR6NE5UTkVxMmF3S0FacHgtNU9RLXR0Q3B1VTJhWkdLWkFoV095VEZfYmdLOGh6Nk1salo2NXg0S2JPb0pQNFR6RVVjbUVvdU9FcUtNeFY3NGVMSGFBYzlOTmViT296d3JjdS1Cc0YtSDVNS2l6V1p0UUJSTkNPRGdoaWpxRk9hdGw3QS1VYjFWUUpUc3M0eDJRSzd6VjAtSkJKa3o1d1BlUjdmUmthMGZpYU55ZVV6YldDaFE?oc=5",
-   "publicado": "2026-11-19T18:32-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa perde os 167 mil pontos com incertezas fiscais e políticas do Brasil",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rVEJhdlVkSTVJTy1zSGxqeGJ5ZTc3OEw2V3h6Njc3SzdJWVhrNFFVS2ZEM2huaUhjVjBqYnkyNGJoNjdLLVZYc3JNVmFkdlNNUTRiYUZpalNlMWFqQXFCVm51V0RjUQ?oc=5",
-   "publicado": "2026-11-19T18:32-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Tesouro Direto chega a suspender negociações em dia de forte estresse no mercado",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tesouro-direto-chega-a-suspender-negociacoes-em-dia-de-forte-estresse-no-mercado.shtml",
-   "publicado": "2026-11-19T18:37-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "IPO da Anthropic não conseguiu animar Wall Street, e bolsas de NY fecham em forte queda",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSFlmZEh1RW9xM0lDOWNxSVptQ1ZQcnI3b1BVSmRiemRWNjdZZWNveUJ0WWdYLWgzN1VsdUdyWjRIS1YzUmROWmEtcUFaNk9qLWg5VlgxTFhXWWtkMGFBNEUzLXhfT3IyV2c2elVYSFhFbHdQZU1XR3liMGxRRUhiSlljTXBDWWZES1ptV2M0MFpyT3Y5ankzVnNYeV9tS1lFdkx1bGxfSi16Q29TZnhNTjluUnNRTjJKbnczYkY1UQ?oc=5",
-   "publicado": "2026-11-19T18:48-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Investidores da Braskem mantêm conversas para evitar reestruturação judicial",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWmhvOTNjZzI3QmUwUmVzMDF1ZkJhY3R1V3ZBU1U2cWM2bk1MU3hLTmJheENWY3ZmRnkxam1OS2JJb3c1WTVWTHRhNG9QTXBoVWV2cXBmTHBDNkEwUlY0Q0NRaGNhQVFFQjlVYXFiMTBPNmNYXzR6eTVJSGdvNWdjQTdwcmpkcDhMMzZKT0kyNzVVQkZ3Z0Yxc05neXdZRkl3aWFsMXhxcGpPN01seUUxaVloVGt0QdIBuwFBVV95cUxNbk8wbFFQcDhsdHZoMkQyTUtSY05UdXlHdXFtSFJOLVVZYWtJYTBmU2d1RGEtYS1xVXZvNGJpdFZOR3g0WnVSLVRJeUYxMHJ5Ykg4cXFwUlpraVJTUUF2alo3bXRUdXkycm50V1J2X0lsancwOGZ5ZDh6UDM3cWsyTm1zWHRDbkktdjVCQU5kWEVuSTNwX2ZkaVpBRlhtWjhEa2dMSUcxNlJpQWZQcVB5ei1FUXZLYS1VT1U0?oc=5",
-   "publicado": "2026-11-19T18:55-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BRKM5"
-   ]
-  },
-  {
-   "titulo": "Itaú BBA projeta que Bolsa valorize 14% até o final de 2027, mas mantém cautela",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdk4xT1BGR1lCYWNQQ2dLVm5DZ3dUbFVTU0xxSDZCcUpSTDN6Y0NYS2c1T2ZSUTFqUkxORDgzeU9PUmlXaS1SbUtCVnJOaldyTGt2TWJhS0RiMUNBcEM2bXpMY0I0M2hReHN4cC1uVFZXWVl5Q2pQWGtuR1FDeGhxcVM4LWwwLVBDQWxOWjF0Ny1GSDdQMVdTYWNHMFVCMFRYUjE5ZUgtY1RkZGp6aENCU01sV2tOMV9zYnRuNUprVW5aY1h1UTF0Z1NaZnBlRFNTUlHSAdcBQVVfeXFMTjc5bmc0QWVycTlXLTItN2o1ZEFnYXN4VHFHcmRHRjRhdFVINklpTmVWSVNWVFFaMUVrMThwOEV3WVJaa3o0ODBLMmNpbVc3NFMwSW9pa1FHNGhoNTNDazA4NzlqbmxzdjlSWmNnMzl1X3lPRnQ0eTNhQ3VDYmU4U2kwaVVIOENRMy1wNnZzbkVYd1BCaEJKblBpVVZLMEtwZzJwbE9mUmhUVmwtYnVuQV9vVUdnRlloOHVJWXcxanlQamVZZHM3RWctaGdQaGdxRWN1bEoyQ00?oc=5",
-   "publicado": "2026-11-19T18:56-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "ITUB4"
-   ]
-  },
-  {
-   "titulo": "Como a intervenção do BC no mercado de câmbio acabou estressando a curva de juros",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWNuMmp4WmVIV1ZUYTBCSUFqdXRab1AyWWtUQ3EtVlB1WXRCbkF3QUtkdUVFdUM1a1R3UXRhZmhvOUcwWWVkeGtaWHYxMXpEdGQ1enhvYUpsNHJiOGg4TXVHZTRZV05raGVBcnFrZXRMc3B6NFVmVy02V19ZUENoZm0tWVJ0a3MxckphVDlkZ2pKUFhaUEJRMWEzTXJ1dVdsekM2QlRUNkhGVlRYZ0s3ckJBR1p6OXdmalRzZ9IBwgFBVV95cUxNTHFEcHhEUnFzNmJ1clpSNUNHdWFjS2hVdDF0YVJLVUdvM2k3TmpqNG52T2I2TkRzam5KV1Z0bUdlZWZTdVRlcVUtTDFpVkFGX29vSW5MMllndGRMVVB4S2libmxESVFGbjNfWllFdU8xZDZ5eHJINHVQaHZad1ZTSlh0RVJVc2pHUFYxV21xVWltaHJveXRZZF9lcTZTMl9fenpOS1pOQ3VWZmtLQ054Nm5oYUplWFJSQy1PUThGVHdBZw?oc=5",
-   "publicado": "2026-11-19T19:15-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "“Trump fraco é dólar forte”: moeda ganhou força após midterms, diz diretor do Pine",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDJfWndCSXlTeEo0aGJjQUtkdXFEXzZfSlRTMjlwZUV0c1hORC1ZcW1xczZoMTdTdzN5WWY0aGVrSDdtOVl0LUZPUEktaFhIbE1jOXpIVnZRanFZNWVYZ2JNNGljM19zb24wcVFMT1BoLTFJRm9LWk55Mzg1MWp1WmY3ekJSLVZKVVRsUE9fWWxjREJPekpGVElpb3R6WFcwWkNiY2RmVHIyZm81eWItM1J2WlBDaXpI0gG-AUFVX3lxTE93WlpmSUJHUGxZdGozRUdodkF0bmFDbkFiQXNPMVFKVzhNU3AyREx5OGJobF9yS2pqOUxNSTh4RkdlZHFsVUF5eWJnVU1LaVRXVWlfb2t1QVBHSlFfZm9GV2k4Nkg4TzNZemxJY0NKUTZhUnkwOTZrTnh4eEQ1V3ZlTG9HdkhoZ2VlSEZsdkhYcXJrbHgwQUNmeHZ2d0xHQTZLd3FzbzhscnEyanh3cEtwOWFLUWpiR0tybTZpRHc?oc=5",
-   "publicado": "2026-11-19T19:19-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
    "titulo": "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025",
    "fonte": "Agência Brasil",
    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-supera-r-593-e-fecha-no-maior-valor-desde-abril-de-2025",
@@ -137,17 +9,6 @@
    "impacto": "medio",
    "ativos": [
     "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Wall Street fecha em queda mesmo com estreia da Anthropic no mercado",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOURfS0t4RGo3eG11U1JPWmNyQjZvclJERkh2UGMxdDZYWUhrM3hXTlUtSU8xVFl1V2FKNExZSWpUR2lBZTJtcEJjZUh5cXlRd0ZnSEh6NzNqeHRrMVo0Z2VwUmh4ZkFzWTFHUFJFNy1oNXltZGxZSXl0cXd0THJvY1k3VFpBZk1tc2oyZ013ZzMtc0J5RVBQRm9TU19KOUxEU1ZBN1F2blZockNWRnFvcXJTY0JVUzNfdDNCdkF3?oc=5",
-   "publicado": "2026-11-19T20:06-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
    ],
    "tickers": []
   },
@@ -173,10 +34,34 @@
     "DI"
    ],
    "tickers": []
+  },
+  {
+   "titulo": "Diretor da ANP propõe mudanças no \"gas release\" após ouvir Petrobras",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjdXNUJPdjBQY3VmMGJHYVYwZ3B4SFlySkFvNURyLXFpU2RfU01lVFU5TEJwQ1dXdEtfMXpYT2xXYmpHTjVIRVg3d0h5N2xCczVaeU1TTEVoYjRYZGRuQ29qZUgtaS1hb01lUmJ6RnJsX0FyNzBVTThCRGNhT2VBOF93VHNIMDZIM0R2Z0ozMUV3OEl4Q1lZRlNacVNER0VVX2JBdw?oc=5",
+   "publicado": "2026-11-19T21:29-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+   "publicado": "2026-11-19T21:52-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-19T20:29-03:00",
+ "atualizado_em": "2026-11-19T21:55-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -185,11 +70,45 @@
   "CNN Brasil",
   "Estadão",
   "Folha",
-  "InfoMoney",
-  "Money Times",
   "Valor"
  ],
  "noticias": [
+  {
+   "titulo": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+   "publicado": "2026-11-19T21:52-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Diretor da ANP propõe mudanças no \"gas release\" após ouvir Petrobras",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjdXNUJPdjBQY3VmMGJHYVYwZ3B4SFlySkFvNURyLXFpU2RfU01lVFU5TEJwQ1dXdEtfMXpYT2xXYmpHTjVIRVg3d0h5N2xCczVaeU1TTEVoYjRYZGRuQ29qZUgtaS1hb01lUmJ6RnJsX0FyNzBVTThCRGNhT2VBOF93VHNIMDZIM0R2Z0ozMUV3OEl4Q1lZRlNacVNER0VVX2JBdw?oc=5",
+   "publicado": "2026-11-19T21:29-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "AMD dives on short seller report of alleged China exposure",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+   "publicado": "2026-11-19T21:08-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
   {
    "titulo": "Banco Central amplia acesso de cooperativas ao mercado aberto",
    "fonte": "Agência Brasil",
@@ -226,17 +145,6 @@
    "tickers": []
   },
   {
-   "titulo": "Wall Street fecha em queda mesmo com estreia da Anthropic no mercado",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOURfS0t4RGo3eG11U1JPWmNyQjZvclJERkh2UGMxdDZYWUhrM3hXTlUtSU8xVFl1V2FKNExZSWpUR2lBZTJtcEJjZUh5cXlRd0ZnSEh6NzNqeHRrMVo0Z2VwUmh4ZkFzWTFHUFJFNy1oNXltZGxZSXl0cXd0THJvY1k3VFpBZk1tc2oyZ013ZzMtc0J5RVBQRm9TU19KOUxEU1ZBN1F2blZockNWRnFvcXJTY0JVUzNfdDNCdkF3?oc=5",
-   "publicado": "2026-11-19T20:06-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
    "titulo": "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025",
    "fonte": "Agência Brasil",
    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-supera-r-593-e-fecha-no-maior-valor-desde-abril-de-2025",
@@ -244,134 +152,6 @@
    "impacto": "medio",
    "ativos": [
     "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "“Trump fraco é dólar forte”: moeda ganhou força após midterms, diz diretor do Pine",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDJfWndCSXlTeEo0aGJjQUtkdXFEXzZfSlRTMjlwZUV0c1hORC1ZcW1xczZoMTdTdzN5WWY0aGVrSDdtOVl0LUZPUEktaFhIbE1jOXpIVnZRanFZNWVYZ2JNNGljM19zb24wcVFMT1BoLTFJRm9LWk55Mzg1MWp1WmY3ekJSLVZKVVRsUE9fWWxjREJPekpGVElpb3R6WFcwWkNiY2RmVHIyZm81eWItM1J2WlBDaXpI0gG-AUFVX3lxTE93WlpmSUJHUGxZdGozRUdodkF0bmFDbkFiQXNPMVFKVzhNU3AyREx5OGJobF9yS2pqOUxNSTh4RkdlZHFsVUF5eWJnVU1LaVRXVWlfb2t1QVBHSlFfZm9GV2k4Nkg4TzNZemxJY0NKUTZhUnkwOTZrTnh4eEQ1V3ZlTG9HdkhoZ2VlSEZsdkhYcXJrbHgwQUNmeHZ2d0xHQTZLd3FzbzhscnEyanh3cEtwOWFLUWpiR0tybTZpRHc?oc=5",
-   "publicado": "2026-11-19T19:19-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Como a intervenção do BC no mercado de câmbio acabou estressando a curva de juros",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWNuMmp4WmVIV1ZUYTBCSUFqdXRab1AyWWtUQ3EtVlB1WXRCbkF3QUtkdUVFdUM1a1R3UXRhZmhvOUcwWWVkeGtaWHYxMXpEdGQ1enhvYUpsNHJiOGg4TXVHZTRZV05raGVBcnFrZXRMc3B6NFVmVy02V19ZUENoZm0tWVJ0a3MxckphVDlkZ2pKUFhaUEJRMWEzTXJ1dVdsekM2QlRUNkhGVlRYZ0s3ckJBR1p6OXdmalRzZ9IBwgFBVV95cUxNTHFEcHhEUnFzNmJ1clpSNUNHdWFjS2hVdDF0YVJLVUdvM2k3TmpqNG52T2I2TkRzam5KV1Z0bUdlZWZTdVRlcVUtTDFpVkFGX29vSW5MMllndGRMVVB4S2libmxESVFGbjNfWllFdU8xZDZ5eHJINHVQaHZad1ZTSlh0RVJVc2pHUFYxV21xVWltaHJveXRZZF9lcTZTMl9fenpOS1pOQ3VWZmtLQ054Nm5oYUplWFJSQy1PUThGVHdBZw?oc=5",
-   "publicado": "2026-11-19T19:15-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Itaú BBA projeta que Bolsa valorize 14% até o final de 2027, mas mantém cautela",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdk4xT1BGR1lCYWNQQ2dLVm5DZ3dUbFVTU0xxSDZCcUpSTDN6Y0NYS2c1T2ZSUTFqUkxORDgzeU9PUmlXaS1SbUtCVnJOaldyTGt2TWJhS0RiMUNBcEM2bXpMY0I0M2hReHN4cC1uVFZXWVl5Q2pQWGtuR1FDeGhxcVM4LWwwLVBDQWxOWjF0Ny1GSDdQMVdTYWNHMFVCMFRYUjE5ZUgtY1RkZGp6aENCU01sV2tOMV9zYnRuNUprVW5aY1h1UTF0Z1NaZnBlRFNTUlHSAdcBQVVfeXFMTjc5bmc0QWVycTlXLTItN2o1ZEFnYXN4VHFHcmRHRjRhdFVINklpTmVWSVNWVFFaMUVrMThwOEV3WVJaa3o0ODBLMmNpbVc3NFMwSW9pa1FHNGhoNTNDazA4NzlqbmxzdjlSWmNnMzl1X3lPRnQ0eTNhQ3VDYmU4U2kwaVVIOENRMy1wNnZzbkVYd1BCaEJKblBpVVZLMEtwZzJwbE9mUmhUVmwtYnVuQV9vVUdnRlloOHVJWXcxanlQamVZZHM3RWctaGdQaGdxRWN1bEoyQ00?oc=5",
-   "publicado": "2026-11-19T18:56-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "ITUB4"
-   ]
-  },
-  {
-   "titulo": "Investidores da Braskem mantêm conversas para evitar reestruturação judicial",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWmhvOTNjZzI3QmUwUmVzMDF1ZkJhY3R1V3ZBU1U2cWM2bk1MU3hLTmJheENWY3ZmRnkxam1OS2JJb3c1WTVWTHRhNG9QTXBoVWV2cXBmTHBDNkEwUlY0Q0NRaGNhQVFFQjlVYXFiMTBPNmNYXzR6eTVJSGdvNWdjQTdwcmpkcDhMMzZKT0kyNzVVQkZ3Z0Yxc05neXdZRkl3aWFsMXhxcGpPN01seUUxaVloVGt0QdIBuwFBVV95cUxNbk8wbFFQcDhsdHZoMkQyTUtSY05UdXlHdXFtSFJOLVVZYWtJYTBmU2d1RGEtYS1xVXZvNGJpdFZOR3g0WnVSLVRJeUYxMHJ5Ykg4cXFwUlpraVJTUUF2alo3bXRUdXkycm50V1J2X0lsancwOGZ5ZDh6UDM3cWsyTm1zWHRDbkktdjVCQU5kWEVuSTNwX2ZkaVpBRlhtWjhEa2dMSUcxNlJpQWZQcVB5ei1FUXZLYS1VT1U0?oc=5",
-   "publicado": "2026-11-19T18:55-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BRKM5"
-   ]
-  },
-  {
-   "titulo": "IPO da Anthropic não conseguiu animar Wall Street, e bolsas de NY fecham em forte queda",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSFlmZEh1RW9xM0lDOWNxSVptQ1ZQcnI3b1BVSmRiemRWNjdZZWNveUJ0WWdYLWgzN1VsdUdyWjRIS1YzUmROWmEtcUFaNk9qLWg5VlgxTFhXWWtkMGFBNEUzLXhfT3IyV2c2elVYSFhFbHdQZU1XR3liMGxRRUhiSlljTXBDWWZES1ptV2M0MFpyT3Y5ankzVnNYeV9tS1lFdkx1bGxfSi16Q29TZnhNTjluUnNRTjJKbnczYkY1UQ?oc=5",
-   "publicado": "2026-11-19T18:48-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Tesouro Direto chega a suspender negociações em dia de forte estresse no mercado",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tesouro-direto-chega-a-suspender-negociacoes-em-dia-de-forte-estresse-no-mercado.shtml",
-   "publicado": "2026-11-19T18:37-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar fecha em alta pela 6ª sessão seguida a R$ 5,93, na maior cotação em 19 meses; Ibovespa cai",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM0RZR3FtdGNiaEZfak1xMHVxVmxWRTJ0TlAtVWxPVk10S2tNXzV6a182V3lLWlBWdk9uVndONmxWSUczZ21sbHdVdTNNQU5CV0hMUzhCaUFFWjc0NmxIMzdlVnpYTkdkcGNJa1ZPdFZIVE01RlRpckU2UXBSTV9acjFMekhMZUhvVFM0MXJjbnRpTjc2d2FxQTlkTDZBdW5UY09VQmctYzZBVmtMdl9RSk1wYmkyQ2t3Uk9uRi1Ea042WFlFZ1RvaFcxcW5lWGNmMkJiVHpsb2c4c1BCOWpwakhLLVU4clFJLXfSAe8BQVVfeXFMTjBRbU93NEhWTnpoU2Y3dnlBSFNaOTNsVGNySWhTWDlRdTQyNVJLSjdHaE9ZY3h1V1doQUR6NE5UTkVxMmF3S0FacHgtNU9RLXR0Q3B1VTJhWkdLWkFoV095VEZfYmdLOGh6Nk1salo2NXg0S2JPb0pQNFR6RVVjbUVvdU9FcUtNeFY3NGVMSGFBYzlOTmViT296d3JjdS1Cc0YtSDVNS2l6V1p0UUJSTkNPRGdoaWpxRk9hdGw3QS1VYjFWUUpUc3M0eDJRSzd6VjAtSkJKa3o1d1BlUjdmUmthMGZpYU55ZVV6YldDaFE?oc=5",
-   "publicado": "2026-11-19T18:32-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa perde os 167 mil pontos com incertezas fiscais e políticas do Brasil",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rVEJhdlVkSTVJTy1zSGxqeGJ5ZTc3OEw2V3h6Njc3SzdJWVhrNFFVS2ZEM2huaUhjVjBqYnkyNGJoNjdLLVZYc3JNVmFkdlNNUTRiYUZpalNlMWFqQXFCVm51V0RjUQ?oc=5",
-   "publicado": "2026-11-19T18:32-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa encerra com nova baixa e semana termina negativa; dólar dispara a R$ 5,9",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR21JcVpKdTE1VllmY05QQ25IaHVfOGNEZGhUU0V2OXhlS0s4Z1BWcC1TeWgtNkpPdG1uM1AtajNtYWpqVzFZZEVISFBWSWUtVjFyNFc1QjBFSUZGT1FPWXhYNFRFMWEyYU1mRjVXMkxFS3VPOGU4NFFEajEwWGxEYVUxb3JCN3Nfdm5VWkNBQQ?oc=5",
-   "publicado": "2026-11-19T18:20-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Oposição defende mudar ajuste fiscal na Câmara, mas esbarra em acordo de Motta com governo",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/oposicao-defende-mudar-ajuste-fiscal-na-camara-mas-esbarra-em-acordo-de-motta-com-governo/",
-   "publicado": "2026-11-19T18:11-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Anthropic: ação fecha com alta de 17% em estreia na Nasdaq após maior IPO da história",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeEQ0ZDVMeTRnQWdhcFVaQnpHRWVZeElzXzhiVUFxUTNCV29GZkVGbHBsbW43WjJTNURScFp1bmVFVEJRQkV5R19MYnRUVERfMDFzTnpfS2tVYmNuNVlZUjNaNG1TcWFnTl9IeGlldTNaYU5KOHVwMzMyaHBaZzFOYVdNSEV4S19WYUtlVERuTGlLWDFNV2tUY9IBngFBVV95cUxPQUo1NUZOM09xZVNUVFJqeW1BVDNjMXNyY3RsUFI3MHJwUHEzSE1TeEZaaDhRQkQ4MmNMZFBVY1ZIM2Z1bzQ5WjUtcVBZNGVqb1BqZWt2UnRwR2c5M1lib0RwaURLSFZyOElmbGpHLWlkWkdjMW5rSGdJTGpJeVlkT0lrN3gxX2Focm9WMDBiV1pQY2lmRVdTLUFXcE1MZw?oc=5",
-   "publicado": "2026-11-19T18:08-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
    ],
    "tickers": []
   }
