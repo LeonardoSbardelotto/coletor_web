@@ -1,7 +1,7 @@
 {
  "mercado": {
   "data": "2026-11-20",
-  "atualizado_em": "2026-11-20T14:48-03:00",
+  "atualizado_em": "2026-11-20T18:00-03:00",
   "dolar": {
    "anterior": 5.9052,
    "pontos": [
@@ -186,48 +186,68 @@
      5.9488
     ],
     [
-     "14:36",
+     "14:35",
+     5.9488
+    ],
+    [
+     "15:15",
+     5.9488
+    ],
+    [
+     "16:20",
+     5.9488
+    ],
+    [
+     "16:20",
      5.9488
     ]
    ]
   },
   "marcadores": [
    {
-    "hora": "12:00",
-    "titulo": "Novo supercomputador da Petrobras e do Cesar busca soberania em inteligência artificial; entenda",
-    "fonte": "Estadão",
-    "url": "https://www.estadao.com.br/economia/negocios/novo-supercomputador-da-petrobras-e-do-cesar-busca-soberania-em-inteligencia-artificial-entenda/",
+    "hora": "16:33",
+    "titulo": "A massive bearish trade just happened in the chip stocks",
+    "fonte": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
     "impacto": "medio",
     "ativos": [
      "WIN"
-    ],
-    "tickers": [
-     "PETR4"
-    ],
-    "dolar30": 0.06
-   },
-   {
-    "hora": "12:20",
-    "titulo": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
-    "fonte": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "WDO",
-     "DI"
     ],
     "tickers": [],
     "dolar30": null
    },
    {
-    "hora": "14:25",
-    "titulo": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
+    "hora": "17:06",
+    "titulo": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
     "fonte": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html",
+    "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
     "impacto": "medio",
     "ativos": [
      "WIN"
+    ],
+    "tickers": [],
+    "dolar30": null
+   },
+   {
+    "hora": "17:36",
+    "titulo": "Opinião | A febre do dólar expõe a infecção que ameaça a economia brasileira",
+    "fonte": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeTdqZzZFYTNhRzRnRlU4a1J0bldhTldIQmJoVEFFV1ZGaEVUSUktSEpqWjN0UGhsRzdxdldhSnRfSEhpTzNwRi1NNjY5eEJZMzZRWnc3VzFpUDdzU2ZXUU9hei1fMXEzQjF4S0FmYXJIaHZ1bWxtUTdBWXpPSDVMQ29RVkZVVThjYnFob1NjNVVaRTItVWt4SUNPeEpkSUptbHBCak9Ob1JDeUZIckplRjd5ZWZxbXpvRnFJVkplTQ?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WDO"
+    ],
+    "tickers": [],
+    "dolar30": null
+   },
+   {
+    "hora": "17:52",
+    "titulo": "Nem US$ 1 bilhão do BC conteve a alta do dólar; o que isso revela sobre a economia?",
+    "fonte": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUp6aVRIck9WM0t5VjZERk0wNnVQZVU2UzFBZXVWSFBZdVVNY1JQQ3FzbXEwVk8wcXZsUXFSQUV5bGczX2Y0N2hsdmg1TnVFWjZvejN3RW81N2R0NlFSczJMZVpjSTBEUmY5Skd6c1BwU2VzS3ZkMWx5X216bHpTcFpVVnBkVWRrZjRwOUdJeENmY0duR20yazNnUmpSTjJQTGJ1ZjVtMXJVVzZEWFUxaVlGeEx6UEpxdWdYM0QyVXNYZ1hLUGFz0gHMAUFVX3lxTE9GNWozOWFFTGNKM2JnQWFETFlDNVNmbXB4WmZjSEdZbjYySjVJcHpiWTBOelJuSXZCZWV6em9OVXhZOUp4S1BxVU9OY2xIYjM5b0xPbjVsUExMaWw1M0h2YkotSTExNTFzMkhYOUt6dGJSMmF4UDktTHlLemZTRlBfaW1Kak1JUzNQek85cFBDVFR6OUl0TUljeWVpcmotYWJZeVBoZ1UzdGNIVEhqS0NtQ2NoVnlpRXIwVFVHcGctU21EQkdOeGxxVjhLNg?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WDO"
     ],
     "tickers": [],
     "dolar30": null
@@ -236,60 +256,89 @@
  },
  "hoje": [
   {
-   "titulo": "Novo supercomputador da Petrobras e do Cesar busca soberania em inteligência artificial; entenda",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/negocios/novo-supercomputador-da-petrobras-e-do-cesar-busca-soberania-em-inteligencia-artificial-entenda/",
-   "publicado": "2026-11-20T12:00-03:00",
+   "titulo": "A massive bearish trade just happened in the chip stocks",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
+   "publicado": "2026-11-20T16:33-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-   "publicado": "2026-11-20T12:20-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
+   "titulo": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
    "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html",
-   "publicado": "2026-11-20T14:25-03:00",
+   "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
+   "publicado": "2026-11-20T17:06-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Opinião | A febre do dólar expõe a infecção que ameaça a economia brasileira",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeTdqZzZFYTNhRzRnRlU4a1J0bldhTldIQmJoVEFFV1ZGaEVUSUktSEpqWjN0UGhsRzdxdldhSnRfSEhpTzNwRi1NNjY5eEJZMzZRWnc3VzFpUDdzU2ZXUU9hei1fMXEzQjF4S0FmYXJIaHZ1bWxtUTdBWXpPSDVMQ29RVkZVVThjYnFob1NjNVVaRTItVWt4SUNPeEpkSUptbHBCak9Ob1JDeUZIckplRjd5ZWZxbXpvRnFJVkplTQ?oc=5",
+   "publicado": "2026-11-20T17:36-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Nem US$ 1 bilhão do BC conteve a alta do dólar; o que isso revela sobre a economia?",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUp6aVRIck9WM0t5VjZERk0wNnVQZVU2UzFBZXVWSFBZdVVNY1JQQ3FzbXEwVk8wcXZsUXFSQUV5bGczX2Y0N2hsdmg1TnVFWjZvejN3RW81N2R0NlFSczJMZVpjSTBEUmY5Skd6c1BwU2VzS3ZkMWx5X216bHpTcFpVVnBkVWRrZjRwOUdJeENmY0duR20yazNnUmpSTjJQTGJ1ZjVtMXJVVzZEWFUxaVlGeEx6UEpxdWdYM0QyVXNYZ1hLUGFz0gHMAUFVX3lxTE9GNWozOWFFTGNKM2JnQWFETFlDNVNmbXB4WmZjSEdZbjYySjVJcHpiWTBOelJuSXZCZWV6em9OVXhZOUp4S1BxVU9OY2xIYjM5b0xPbjVsUExMaWw1M0h2YkotSTExNTFzMkhYOUt6dGJSMmF4UDktTHlLemZTRlBfaW1Kak1JUzNQek85cFBDVFR6OUl0TUljeWVpcmotYWJZeVBoZ1UzdGNIVEhqS0NtQ2NoVnlpRXIwVFVHcGctU21EQkdOeGxxVjhLNg?oc=5",
+   "publicado": "2026-11-20T17:52-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
    ],
    "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-20T14:48-03:00",
+ "atualizado_em": "2026-11-20T18:00-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
+  "CNN Brasil",
   "Estadão",
-  "Folha",
-  "InfoMoney"
+  "Folha"
  ],
  "noticias": [
   {
-   "titulo": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
+   "titulo": "Nem US$ 1 bilhão do BC conteve a alta do dólar; o que isso revela sobre a economia?",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUp6aVRIck9WM0t5VjZERk0wNnVQZVU2UzFBZXVWSFBZdVVNY1JQQ3FzbXEwVk8wcXZsUXFSQUV5bGczX2Y0N2hsdmg1TnVFWjZvejN3RW81N2R0NlFSczJMZVpjSTBEUmY5Skd6c1BwU2VzS3ZkMWx5X216bHpTcFpVVnBkVWRrZjRwOUdJeENmY0duR20yazNnUmpSTjJQTGJ1ZjVtMXJVVzZEWFUxaVlGeEx6UEpxdWdYM0QyVXNYZ1hLUGFz0gHMAUFVX3lxTE9GNWozOWFFTGNKM2JnQWFETFlDNVNmbXB4WmZjSEdZbjYySjVJcHpiWTBOelJuSXZCZWV6em9OVXhZOUp4S1BxVU9OY2xIYjM5b0xPbjVsUExMaWw1M0h2YkotSTExNTFzMkhYOUt6dGJSMmF4UDktTHlLemZTRlBfaW1Kak1JUzNQek85cFBDVFR6OUl0TUljeWVpcmotYWJZeVBoZ1UzdGNIVEhqS0NtQ2NoVnlpRXIwVFVHcGctU21EQkdOeGxxVjhLNg?oc=5",
+   "publicado": "2026-11-20T17:52-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Opinião | A febre do dólar expõe a infecção que ameaça a economia brasileira",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeTdqZzZFYTNhRzRnRlU4a1J0bldhTldIQmJoVEFFV1ZGaEVUSUktSEpqWjN0UGhsRzdxdldhSnRfSEhpTzNwRi1NNjY5eEJZMzZRWnc3VzFpUDdzU2ZXUU9hei1fMXEzQjF4S0FmYXJIaHZ1bWxtUTdBWXpPSDVMQ29RVkZVVThjYnFob1NjNVVaRTItVWt4SUNPeEpkSUptbHBCak9Ob1JDeUZIckplRjd5ZWZxbXpvRnFJVkplTQ?oc=5",
+   "publicado": "2026-11-20T17:36-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
    "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html",
-   "publicado": "2026-11-20T14:25-03:00",
+   "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
+   "publicado": "2026-11-20T17:06-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
@@ -297,10 +346,21 @@
    "tickers": []
   },
   {
-   "titulo": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
+   "titulo": "A massive bearish trade just happened in the chip stocks",
    "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-   "publicado": "2026-11-20T14:11-03:00",
+   "url": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
+   "publicado": "2026-11-20T16:33-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "A wave of 'pent-up quits' could boost turnover in the job market, expert says: 'The labor market is a bit like a coiled spring'",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/make-it/2026/11/20/worker-turnover-quits-hiring-2027.html",
+   "publicado": "2026-11-20T15:55-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN",
@@ -309,30 +369,16 @@
    "tickers": []
   },
   {
-   "titulo": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-   "publicado": "2026-11-20T12:20-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Novo supercomputador da Petrobras e do Cesar busca soberania em inteligência artificial; entenda",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/negocios/novo-supercomputador-da-petrobras-e-do-cesar-busca-soberania-em-inteligencia-artificial-entenda/",
-   "publicado": "2026-11-20T12:00-03:00",
+   "titulo": "De trabalhadores informais a magnatas, China busca dinheiro em todos os bolsos",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/de-trabalhadores-informais-a-magnatas-china-busca-dinheiro-em-todos-os-bolsos.shtml",
+   "publicado": "2026-11-20T15:21-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN"
+    "WIN",
+    "WDO"
    ],
-   "tickers": [
-    "PETR4"
-   ]
+   "tickers": []
   }
  ]
 }
