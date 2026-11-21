@@ -2,45 +2,21 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-   "publicado": "2026-11-20T18:10-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Moedas: dólar tem sinais díspares com incertezas sobre Fed; cautela em NY apoia iene",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTFBSU8weXotTng3MGUyNmY3dXNYa01JUF8ybHB3RHZTTzZUWkpxb3B6NFd0MHVfV2VaZjlhazdsVWZ6RTdycGNnZDVNaWViaklTNkxqa2N5SjZxQkhoNkI1TkJWT1ZHYlJYSzdwS1RpOWVTVjhlQnZqcTEwVkVuNnJtNmJFWUctLXc4R08wNDJMU3ljY2Z0YnBWNWN5Y1d6MEl2NjNKY05SY2x3aHpVak55cHZMUVA3TW1fZENn0gHDAUFVX3lxTE0xTW5oT1VMbmNwXzNja1pwYWMzdjd4OGFQUWt5VlBsbzIxUENPbC1CaXBySTNYMHhjelR3dnVhRUpibmlrU24zWUZJMGNXd3FtVGcxX3d4cHhLOTVCM0VjMWdwU2FQWndmTUduSS1kRFZLUFpVNzBSM092MDFHdkNzVWx5SEFRaW1mMm5KNVlwT05FXzUtWHFjZTNuTUhxXzZaRXZNa1J3ZV9scWxlaTg3MU9oUW5ydHp2TUp5QlF4X1g1OA?oc=5",
-   "publicado": "2026-11-20T19:01-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Arandu, atinga Reag, aprova resgate compulsório das ações remanescentes e papéis sairão da B3 em 23 de novembro",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcEE5LXdjbVhpTEp1ZHdXMDU4RER6S0lSSHF5VGhtUktPQkt3dno4bkZEYWpWV01qVEE0ZS1lMWhoWmx0UWlzUkFiei0yWkE2cTNLVG83VTI2UGZ6bnc4RzZKbWUtZkxMU1NVdFBqQmVLVFlJdi02MkhoTTFMSGk4OGVVTEJrYlhFWjE5WXEzZGFLX3NyQWZiNlZick95b3NCYjluS0VwVk40OGZLWW5KeGV4R25leTJYZHVjbm1zbFJZR3FmOGdmUU1pVEZLRlZybXJzVVpVQQ?oc=5",
-   "publicado": "2026-11-20T19:16-03:00",
+   "titulo": "Equipe econômica vai levar a Lula nomes para substituir presidente do Banco do Brasil",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/equipe-economica-vai-levar-a-lula-nomes-para-substituir-presidente-do-banco-do-brasil.shtml",
+   "publicado": "2026-11-20T23:00-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
    "tickers": [
-    "B3SA3"
+    "BBAS3"
    ]
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-20T20:58-03:00",
+ "atualizado_em": "2026-11-20T23:06-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -48,57 +24,31 @@
   "CNBC",
   "CNN Brasil",
   "Estadão",
-  "Folha",
-  "InfoMoney",
-  "Money Times"
+  "Folha"
  ],
  "noticias": [
   {
-   "titulo": "Arandu, atinga Reag, aprova resgate compulsório das ações remanescentes e papéis sairão da B3 em 23 de novembro",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcEE5LXdjbVhpTEp1ZHdXMDU4RER6S0lSSHF5VGhtUktPQkt3dno4bkZEYWpWV01qVEE0ZS1lMWhoWmx0UWlzUkFiei0yWkE2cTNLVG83VTI2UGZ6bnc4RzZKbWUtZkxMU1NVdFBqQmVLVFlJdi02MkhoTTFMSGk4OGVVTEJrYlhFWjE5WXEzZGFLX3NyQWZiNlZick95b3NCYjluS0VwVk40OGZLWW5KeGV4R25leTJYZHVjbm1zbFJZR3FmOGdmUU1pVEZLRlZybXJzVVpVQQ?oc=5",
-   "publicado": "2026-11-20T19:16-03:00",
+   "titulo": "Equipe econômica vai levar a Lula nomes para substituir presidente do Banco do Brasil",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/equipe-economica-vai-levar-a-lula-nomes-para-substituir-presidente-do-banco-do-brasil.shtml",
+   "publicado": "2026-11-20T23:00-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
    "tickers": [
-    "B3SA3"
+    "BBAS3"
    ]
   },
   {
-   "titulo": "Moedas: dólar tem sinais díspares com incertezas sobre Fed; cautela em NY apoia iene",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTFBSU8weXotTng3MGUyNmY3dXNYa01JUF8ybHB3RHZTTzZUWkpxb3B6NFd0MHVfV2VaZjlhazdsVWZ6RTdycGNnZDVNaWViaklTNkxqa2N5SjZxQkhoNkI1TkJWT1ZHYlJYSzdwS1RpOWVTVjhlQnZqcTEwVkVuNnJtNmJFWUctLXc4R08wNDJMU3ljY2Z0YnBWNWN5Y1d6MEl2NjNKY05SY2x3aHpVak55cHZMUVA3TW1fZENn0gHDAUFVX3lxTE0xTW5oT1VMbmNwXzNja1pwYWMzdjd4OGFQUWt5VlBsbzIxUENPbC1CaXBySTNYMHhjelR3dnVhRUpibmlrU24zWUZJMGNXd3FtVGcxX3d4cHhLOTVCM0VjMWdwU2FQWndmTUduSS1kRFZLUFpVNzBSM092MDFHdkNzVWx5SEFRaW1mMm5KNVlwT05FXzUtWHFjZTNuTUhxXzZaRXZNa1J3ZV9scWxlaTg3MU9oUW5ydHp2TUp5QlF4X1g1OA?oc=5",
-   "publicado": "2026-11-20T19:01-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Alice Huang, suspeita de espionagem na Nvidia, tem parentes ligados à indústria militar da China",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/alice-huang-suspeita-de-espionagem-na-nvidia-tem-parentes-ligados-a-industria-militar-da-china.shtml",
-   "publicado": "2026-11-20T18:12-03:00",
+   "titulo": "Paz é nuclear, mas guerra é tecnológica",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/fabio-gallo/paz-nuclear-mas-guerra-tecnologica/",
+   "publicado": "2026-11-20T22:00-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN",
     "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-   "publicado": "2026-11-20T18:10-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
    ],
    "tickers": []
   }
