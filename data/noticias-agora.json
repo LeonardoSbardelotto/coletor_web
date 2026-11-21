@@ -2,21 +2,10 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "During Wall Street's worst week in over a year, we put money to work. What we're buying",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html",
-   "publicado": "2026-11-21T11:22-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Lula defende pacote fiscal do governo: ‘Não é o sistema financeiro que me ensinará a dirigir o País’",
+   "titulo": "Pacote fiscal não é ajuste; nem bom nem primeiro passo",
    "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/lula-faz-live-com-janones-no-feriado-de-consciencia-negra-npr/",
-   "publicado": "2026-11-21T11:39-03:00",
+   "url": "https://www.estadao.com.br/economia/alexandre-schwartsman/pacote-fiscal-nao-e-ajuste-nem-bom-nem-primeiro-passo/",
+   "publicado": "2026-11-21T17:00-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
@@ -24,55 +13,45 @@
    "tickers": []
   },
   {
-   "titulo": "Por que o dólar passou de R$ 5,90 hoje?",
+   "titulo": "Azzas tomba mais 7% e sofre maior queda do dia; veja os destaques do Ibovespa hoje",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRS12V2E5S3cyVXRLVmk0UXpyUkRHM0pyM01Pc1JwcVVvaEFFVE1HQjRCZEx0TGFSVEl4Zkd3UWtRQ042VTRhazFrQzMyN19ZNzl1ODJ6a091anNvbm9pb05ZemhmcERpU0R5cUhFN2pDazlVUjEyWnVPNGNWRDl0cXdqeldtbmdncnl4b2Zhc3pBSWN3cVcyWmZPVTNOZmFOWEt4bDBn?oc=5",
-   "publicado": "2026-11-21T12:56-03:00",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc0NPU1ZzNEZpUnQzNG9uWDFEcVRSNUMwQi1BOXI4bWlFemNnem9uUXRHMUZhOTJNQUdtekVSMldydkRIYURBZFJzcS1OZmQyTm95czhiY3pWUi1BTWt2R1dFdWxnd1ItYmltRkxiQUk1TjZjUGRLaDlzZkgyR1BQYjFvOGxiV3NqZF9QV25DZkZ5Q3dUdWtqVmpWbVZpd2RfY2taMFFab2dHLXFpeHdzTThyaEczdnlFZkNsaWJuQksyQi01c3R5djEtd1hzVkJ6Z2hkZ2VCVjhrUQ?oc=5",
+   "publicado": "2026-11-21T17:48-03:00",
    "impacto": "medio",
    "ativos": [
-    "WDO"
+    "WIN"
    ],
    "tickers": []
   },
   {
-   "titulo": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-   "publicado": "2026-11-21T13:40-03:00",
-   "impacto": "alto",
+   "titulo": "Por que o dólar passou de R$ 5,90 hoje?",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRS12V2E5S3cyVXRLVmk0UXpyUkRHM0pyM01Pc1JwcVVvaEFFVE1HQjRCZEx0TGFSVEl4Zkd3UWtRQ042VTRhazFrQzMyN19ZNzl1ODJ6a091anNvbm9pb05ZemhmcERpU0R5cUhFN2pDazlVUjEyWnVPNGNWRDl0cXdqeldtbmdncnl4b2Zhc3pBSWN3cVcyWmZPVTNOZmFOWEt4bDBn?oc=5",
+   "publicado": "2026-11-21T18:54-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WIN"
+    "WDO"
    ],
    "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-21T13:47-03:00",
+ "atualizado_em": "2026-11-21T19:08-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
+  "CNN Brasil",
   "Estadão",
   "Folha"
  ],
  "noticias": [
   {
-   "titulo": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-   "publicado": "2026-11-21T13:40-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
    "titulo": "Por que o dólar passou de R$ 5,90 hoje?",
    "fonte": "Estadão",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRS12V2E5S3cyVXRLVmk0UXpyUkRHM0pyM01Pc1JwcVVvaEFFVE1HQjRCZEx0TGFSVEl4Zkd3UWtRQ042VTRhazFrQzMyN19ZNzl1ODJ6a091anNvbm9pb05ZemhmcERpU0R5cUhFN2pDazlVUjEyWnVPNGNWRDl0cXdqeldtbmdncnl4b2Zhc3pBSWN3cVcyWmZPVTNOZmFOWEt4bDBn?oc=5",
-   "publicado": "2026-11-21T12:56-03:00",
+   "publicado": "2026-11-21T18:54-03:00",
    "impacto": "medio",
    "ativos": [
     "WDO"
@@ -80,24 +59,24 @@
    "tickers": []
   },
   {
-   "titulo": "Lula defende pacote fiscal do governo: ‘Não é o sistema financeiro que me ensinará a dirigir o País’",
+   "titulo": "Azzas tomba mais 7% e sofre maior queda do dia; veja os destaques do Ibovespa hoje",
    "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/lula-faz-live-com-janones-no-feriado-de-consciencia-negra-npr/",
-   "publicado": "2026-11-21T11:39-03:00",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc0NPU1ZzNEZpUnQzNG9uWDFEcVRSNUMwQi1BOXI4bWlFemNnem9uUXRHMUZhOTJNQUdtekVSMldydkRIYURBZFJzcS1OZmQyTm95czhiY3pWUi1BTWt2R1dFdWxnd1ItYmltRkxiQUk1TjZjUGRLaDlzZkgyR1BQYjFvOGxiV3NqZF9QV25DZkZ5Q3dUdWtqVmpWbVZpd2RfY2taMFFab2dHLXFpeHdzTThyaEczdnlFZkNsaWJuQksyQi01c3R5djEtd1hzVkJ6Z2hkZ2VCVjhrUQ?oc=5",
+   "publicado": "2026-11-21T17:48-03:00",
    "impacto": "medio",
    "ativos": [
-    "DI"
+    "WIN"
    ],
    "tickers": []
   },
   {
-   "titulo": "During Wall Street's worst week in over a year, we put money to work. What we're buying",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html",
-   "publicado": "2026-11-21T11:22-03:00",
+   "titulo": "Pacote fiscal não é ajuste; nem bom nem primeiro passo",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/alexandre-schwartsman/pacote-fiscal-nao-e-ajuste-nem-bom-nem-primeiro-passo/",
+   "publicado": "2026-11-21T17:00-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN"
+    "DI"
    ],
    "tickers": []
   }
