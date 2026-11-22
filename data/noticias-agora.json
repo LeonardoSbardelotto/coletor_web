@@ -2,24 +2,23 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Petróleo na Foz do Amazonas impõe desafio logístico à Petrobras com transporte de gente e equipamentos",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petroleo-na-foz-do-amazonas-impoe-desafio-logistico-a-petrobras-com-transporte-de-gente-e-equipamentos.shtml",
-   "publicado": "2026-11-21T23:00-03:00",
-   "impacto": "alto",
+   "titulo": "BV recebe aval da CVM e dá novo passo para abertura de capital na B3",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/coluna-da-broad/bv-recebe-aval-da-cvm-e-da-novo-passo-para-abertura-de-capital-na-b3/",
+   "publicado": "2026-11-22T05:21-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WIN",
-    "WDO"
+    "WIN"
    ],
    "tickers": [
-    "PETR4"
+    "B3SA3"
    ]
   },
   {
-   "titulo": "Pesquisa Focus e a política monetária",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/11/pesquisa-focus-e-a-politica-monetaria.shtml",
-   "publicado": "2026-11-21T23:00-03:00",
+   "titulo": "Fim de benefício fiscal nos Estados faz empresas repensarem localização de fábricas e galpões",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/fim-de-beneficio-fiscal-nos-estados-faz-empresas-repensarem-localizacao-de-fabricas-e-galpoes/",
+   "publicado": "2026-11-22T05:30-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
@@ -28,7 +27,7 @@
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-21T23:15-03:00",
+ "atualizado_em": "2026-11-22T06:50-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -39,29 +38,28 @@
  ],
  "noticias": [
   {
-   "titulo": "Petróleo na Foz do Amazonas impõe desafio logístico à Petrobras com transporte de gente e equipamentos",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petroleo-na-foz-do-amazonas-impoe-desafio-logistico-a-petrobras-com-transporte-de-gente-e-equipamentos.shtml",
-   "publicado": "2026-11-21T23:00-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Pesquisa Focus e a política monetária",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/11/pesquisa-focus-e-a-politica-monetaria.shtml",
-   "publicado": "2026-11-21T23:00-03:00",
+   "titulo": "Fim de benefício fiscal nos Estados faz empresas repensarem localização de fábricas e galpões",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/fim-de-beneficio-fiscal-nos-estados-faz-empresas-repensarem-localizacao-de-fabricas-e-galpoes/",
+   "publicado": "2026-11-22T05:30-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
    ],
    "tickers": []
+  },
+  {
+   "titulo": "BV recebe aval da CVM e dá novo passo para abertura de capital na B3",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/coluna-da-broad/bv-recebe-aval-da-cvm-e-da-novo-passo-para-abertura-de-capital-na-b3/",
+   "publicado": "2026-11-22T05:21-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "B3SA3"
+   ]
   }
  ]
 }
