@@ -2,17 +2,6 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Democratas dos EUA planejam reverter tarifas e impostos de Trump",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/democratas-dos-eua-planejam-reverter-tarifas-e-impostos-de-trump.shtml",
-   "publicado": "2026-11-22T11:28-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
    "titulo": "ICMS sobre o diesel acumula alta de 735,7% desde 2002, acima da inflação acumulada, aponta estudo",
    "fonte": "Estadão",
    "url": "https://www.estadao.com.br/economia/icms-sobre-diesel-alta-desde-2002-acima-inflacao-estudo/",
@@ -59,22 +48,21 @@
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-22T14:09-03:00",
+ "atualizado_em": "2026-11-22T14:28-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
   "Estadão",
-  "Folha",
-  "InfoMoney"
+  "Folha"
  ],
  "noticias": [
   {
    "titulo": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
    "fonte": "CNBC",
    "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-   "publicado": "2026-11-22T13:53-03:00",
+   "publicado": "2026-11-22T14:14-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN",
@@ -124,17 +112,6 @@
    "impacto": "medio",
    "ativos": [
     "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Democratas dos EUA planejam reverter tarifas e impostos de Trump",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/democratas-dos-eua-planejam-reverter-tarifas-e-impostos-de-trump.shtml",
-   "publicado": "2026-11-22T11:28-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
    ],
    "tickers": []
   }
