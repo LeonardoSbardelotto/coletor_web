@@ -1,55 +1,8 @@
 {
  "mercado": {},
- "hoje": [
-  {
-   "titulo": "Petrobras divulga plano de negócios sob expectativa de investimentos maiores e pressão no caixa",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/negocios/petrobras-divulga-plano-de-negocios-expectativa-investimentos/",
-   "publicado": "2026-11-22T17:08-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Secretário do Tesouro dos EUA suaviza discurso e não descarta retorno de Jensen Huang à Nvidia",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/secretario-do-tesouro-dos-eua-se-recusa-a-descartar-retorno-de-jensen-huang-a-nvidia.shtml",
-   "publicado": "2026-11-22T17:28-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Você realmente precisa ter parte do patrimônio em dólar?",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/voce-realmente-precisa-ter-parte-do-patrimonio-em-dolar.shtml",
-   "publicado": "2026-11-22T18:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Por que o dólar passou de R$ 5,90 hoje?",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRS12V2E5S3cyVXRLVmk0UXpyUkRHM0pyM01Pc1JwcVVvaEFFVE1HQjRCZEx0TGFSVEl4Zkd3UWtRQ042VTRhazFrQzMyN19ZNzl1ODJ6a091anNvbm9pb05ZemhmcERpU0R5cUhFN2pDazlVUjEyWnVPNGNWRDl0cXdqeldtbmdncnl4b2Zhc3pBSWN3cVcyWmZPVTNOZmFOWEt4bDBn?oc=5",
-   "publicado": "2026-11-22T19:26-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  }
- ],
+ "hoje": [],
  "enviadas": [],
- "atualizado_em": "2026-11-22T19:44-03:00",
+ "atualizado_em": "2026-11-23T00:08-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -60,10 +13,10 @@
  ],
  "noticias": [
   {
-   "titulo": "Por que o dólar passou de R$ 5,90 hoje?",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRS12V2E5S3cyVXRLVmk0UXpyUkRHM0pyM01Pc1JwcVVvaEFFVE1HQjRCZEx0TGFSVEl4Zkd3UWtRQ042VTRhazFrQzMyN19ZNzl1ODJ6a091anNvbm9pb05ZemhmcERpU0R5cUhFN2pDazlVUjEyWnVPNGNWRDl0cXdqeldtbmdncnl4b2Zhc3pBSWN3cVcyWmZPVTNOZmFOWEt4bDBn?oc=5",
-   "publicado": "2026-11-22T19:26-03:00",
+   "titulo": "Real se desvaloriza mais de 17% desde vitória de Lula e impulsiona ativos de proteção",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/real-se-desvaloriza-mais-de-17-desde-vitoria-de-lula-e-impulsiona-ativos-de-protecao.shtml",
+   "publicado": "2026-11-22T23:00-03:00",
    "impacto": "medio",
    "ativos": [
     "WDO"
@@ -71,21 +24,10 @@
    "tickers": []
   },
   {
-   "titulo": "Você realmente precisa ter parte do patrimônio em dólar?",
+   "titulo": "Verba para reajustes de servidores em 2027 é insuficiente para repor a inflação",
    "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/voce-realmente-precisa-ter-parte-do-patrimonio-em-dolar.shtml",
-   "publicado": "2026-11-22T18:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Secretário do Tesouro dos EUA suaviza discurso e não descarta retorno de Jensen Huang à Nvidia",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/secretario-do-tesouro-dos-eua-se-recusa-a-descartar-retorno-de-jensen-huang-a-nvidia.shtml",
-   "publicado": "2026-11-22T17:28-03:00",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/verba-para-reajustes-de-servidores-em-2027-e-insuficiente-para-repor-a-inflacao.shtml",
+   "publicado": "2026-11-22T23:00-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
@@ -93,26 +35,12 @@
    "tickers": []
   },
   {
-   "titulo": "Petrobras divulga plano de negócios sob expectativa de investimentos maiores e pressão no caixa",
+   "titulo": "Por que o dólar passou de R$ 5,90 hoje?",
    "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/negocios/petrobras-divulga-plano-de-negocios-expectativa-investimentos/",
-   "publicado": "2026-11-22T17:08-03:00",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRS12V2E5S3cyVXRLVmk0UXpyUkRHM0pyM01Pc1JwcVVvaEFFVE1HQjRCZEx0TGFSVEl4Zkd3UWtRQ042VTRhazFrQzMyN19ZNzl1ODJ6a091anNvbm9pb05ZemhmcERpU0R5cUhFN2pDazlVUjEyWnVPNGNWRDl0cXdqeldtbmdncnl4b2Zhc3pBSWN3cVcyWmZPVTNOZmFOWEt4bDBn?oc=5",
+   "publicado": "2026-11-22T22:27-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Tempestade perfeita pode transformar desaceleração em estagnação prolongada ou mesmo em recessão",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/claudio-adilson-goncalez/tempestade-perfeita-transformar-desaceleracao-estagnacao-ou-recessao/",
-   "publicado": "2026-11-22T17:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN",
     "WDO"
    ],
    "tickers": []
