@@ -1,1044 +1,11 @@
 {
- "mercado": {
-  "data": "2026-11-23",
-  "atualizado_em": "2026-11-23T18:24-03:00",
-  "ibov": {
-   "anterior": 166376.44,
-   "pontos": [
-    [
-     "10:00",
-     165227.0
-    ],
-    [
-     "10:05",
-     164439.0
-    ],
-    [
-     "10:10",
-     164713.0
-    ],
-    [
-     "10:15",
-     164737.0
-    ],
-    [
-     "10:20",
-     164349.0
-    ],
-    [
-     "10:25",
-     164254.0
-    ],
-    [
-     "10:30",
-     164608.0
-    ],
-    [
-     "10:35",
-     164562.0
-    ],
-    [
-     "10:40",
-     164709.0
-    ],
-    [
-     "10:45",
-     164924.0
-    ],
-    [
-     "10:50",
-     164535.0
-    ],
-    [
-     "10:55",
-     165193.0
-    ],
-    [
-     "11:00",
-     165421.0
-    ],
-    [
-     "11:05",
-     165392.0
-    ],
-    [
-     "11:10",
-     165433.0
-    ],
-    [
-     "11:15",
-     165712.0
-    ],
-    [
-     "11:20",
-     165618.0
-    ],
-    [
-     "11:25",
-     165853.0
-    ],
-    [
-     "11:30",
-     165360.0
-    ],
-    [
-     "11:35",
-     165048.0
-    ],
-    [
-     "11:40",
-     165400.0
-    ],
-    [
-     "11:45",
-     165370.0
-    ],
-    [
-     "11:50",
-     165383.0
-    ],
-    [
-     "11:55",
-     165634.0
-    ],
-    [
-     "12:00",
-     165751.0
-    ],
-    [
-     "12:05",
-     165527.0
-    ],
-    [
-     "12:10",
-     165538.0
-    ],
-    [
-     "12:15",
-     165584.0
-    ],
-    [
-     "12:20",
-     165500.0
-    ],
-    [
-     "12:25",
-     165497.0
-    ],
-    [
-     "12:30",
-     165388.0
-    ],
-    [
-     "12:35",
-     165351.0
-    ],
-    [
-     "12:40",
-     165153.0
-    ],
-    [
-     "12:45",
-     165196.0
-    ],
-    [
-     "12:50",
-     165452.0
-    ],
-    [
-     "12:55",
-     165276.0
-    ],
-    [
-     "13:00",
-     165274.0
-    ],
-    [
-     "13:05",
-     165388.0
-    ],
-    [
-     "13:10",
-     165422.0
-    ],
-    [
-     "13:15",
-     165307.0
-    ],
-    [
-     "13:20",
-     165374.0
-    ],
-    [
-     "13:25",
-     165363.0
-    ],
-    [
-     "13:30",
-     165387.0
-    ],
-    [
-     "13:35",
-     164993.0
-    ],
-    [
-     "13:40",
-     164815.0
-    ],
-    [
-     "13:45",
-     164860.0
-    ],
-    [
-     "13:50",
-     164903.0
-    ],
-    [
-     "13:55",
-     165083.0
-    ],
-    [
-     "14:00",
-     164931.0
-    ],
-    [
-     "14:05",
-     164906.0
-    ],
-    [
-     "14:10",
-     164850.0
-    ],
-    [
-     "14:15",
-     164708.0
-    ],
-    [
-     "14:20",
-     164530.0
-    ],
-    [
-     "14:25",
-     164620.0
-    ],
-    [
-     "14:30",
-     164661.0
-    ],
-    [
-     "14:35",
-     164509.0
-    ],
-    [
-     "14:40",
-     164376.0
-    ],
-    [
-     "14:45",
-     164240.0
-    ],
-    [
-     "14:50",
-     164403.0
-    ],
-    [
-     "14:55",
-     164372.0
-    ],
-    [
-     "15:00",
-     164543.0
-    ],
-    [
-     "15:05",
-     164680.0
-    ],
-    [
-     "15:10",
-     164905.0
-    ],
-    [
-     "15:15",
-     164874.0
-    ],
-    [
-     "15:20",
-     164880.0
-    ],
-    [
-     "15:25",
-     165006.0
-    ],
-    [
-     "15:30",
-     165223.0
-    ],
-    [
-     "15:35",
-     165024.0
-    ],
-    [
-     "15:40",
-     165110.0
-    ],
-    [
-     "15:45",
-     165256.0
-    ],
-    [
-     "15:50",
-     165007.0
-    ],
-    [
-     "15:55",
-     164971.0
-    ],
-    [
-     "16:00",
-     165090.0
-    ],
-    [
-     "16:05",
-     164999.0
-    ],
-    [
-     "16:10",
-     165017.0
-    ],
-    [
-     "16:15",
-     164934.0
-    ],
-    [
-     "16:20",
-     164968.0
-    ],
-    [
-     "16:25",
-     164987.0
-    ],
-    [
-     "16:30",
-     164820.0
-    ],
-    [
-     "16:35",
-     164734.0
-    ],
-    [
-     "16:40",
-     164592.0
-    ],
-    [
-     "16:45",
-     164716.0
-    ],
-    [
-     "16:50",
-     164810.0
-    ],
-    [
-     "16:55",
-     164856.0
-    ],
-    [
-     "17:00",
-     164794.0
-    ]
-   ]
-  },
-  "dolar": {
-   "anterior": 5.9488,
-   "pontos": [
-    [
-     "09:00",
-     5.9729
-    ],
-    [
-     "09:05",
-     5.974
-    ],
-    [
-     "09:10",
-     5.9727
-    ],
-    [
-     "09:15",
-     5.9715
-    ],
-    [
-     "09:20",
-     5.9637
-    ],
-    [
-     "09:25",
-     5.9728
-    ],
-    [
-     "09:30",
-     5.9808
-    ],
-    [
-     "09:35",
-     5.9807
-    ],
-    [
-     "09:40",
-     5.9744
-    ],
-    [
-     "09:45",
-     5.9792
-    ],
-    [
-     "09:50",
-     5.9849
-    ],
-    [
-     "09:55",
-     5.9792
-    ],
-    [
-     "10:00",
-     5.9905
-    ],
-    [
-     "10:05",
-     5.9963
-    ],
-    [
-     "10:10",
-     5.993
-    ],
-    [
-     "10:15",
-     5.9968
-    ],
-    [
-     "10:20",
-     6.0012
-    ],
-    [
-     "10:25",
-     5.9957
-    ],
-    [
-     "10:30",
-     5.9972
-    ],
-    [
-     "10:35",
-     5.9887
-    ],
-    [
-     "10:40",
-     5.982
-    ],
-    [
-     "10:45",
-     5.988
-    ],
-    [
-     "10:50",
-     5.9906
-    ],
-    [
-     "10:55",
-     5.9677
-    ],
-    [
-     "11:00",
-     5.9655
-    ],
-    [
-     "11:05",
-     5.9706
-    ],
-    [
-     "11:10",
-     5.9647
-    ],
-    [
-     "11:15",
-     5.9586
-    ],
-    [
-     "11:20",
-     5.9606
-    ],
-    [
-     "11:25",
-     5.9564
-    ],
-    [
-     "11:30",
-     5.9621
-    ],
-    [
-     "11:35",
-     5.9561
-    ],
-    [
-     "11:40",
-     5.9521
-    ],
-    [
-     "11:45",
-     5.9555
-    ],
-    [
-     "11:50",
-     5.9506
-    ],
-    [
-     "11:55",
-     5.9411
-    ],
-    [
-     "12:00",
-     5.9485
-    ],
-    [
-     "12:05",
-     5.9661
-    ],
-    [
-     "12:10",
-     5.9675
-    ],
-    [
-     "12:15",
-     5.9627
-    ],
-    [
-     "12:20",
-     5.9636
-    ],
-    [
-     "12:25",
-     5.9657
-    ],
-    [
-     "12:30",
-     5.9666
-    ],
-    [
-     "12:35",
-     5.9571
-    ],
-    [
-     "12:40",
-     5.9626
-    ],
-    [
-     "12:45",
-     5.9697
-    ],
-    [
-     "12:50",
-     5.9696
-    ],
-    [
-     "12:55",
-     5.9778
-    ],
-    [
-     "13:00",
-     5.9838
-    ],
-    [
-     "13:05",
-     5.9858
-    ],
-    [
-     "13:10",
-     5.9798
-    ],
-    [
-     "13:15",
-     5.9836
-    ],
-    [
-     "13:20",
-     5.9855
-    ],
-    [
-     "13:25",
-     5.9771
-    ],
-    [
-     "13:30",
-     5.9686
-    ],
-    [
-     "13:35",
-     5.9812
-    ],
-    [
-     "13:40",
-     5.9801
-    ],
-    [
-     "13:45",
-     5.9829
-    ],
-    [
-     "13:50",
-     5.9898
-    ],
-    [
-     "13:55",
-     5.9831
-    ],
-    [
-     "14:00",
-     5.9883
-    ],
-    [
-     "14:05",
-     5.9842
-    ],
-    [
-     "14:10",
-     5.9843
-    ],
-    [
-     "14:15",
-     5.9811
-    ],
-    [
-     "14:20",
-     5.9856
-    ],
-    [
-     "14:25",
-     5.9892
-    ],
-    [
-     "14:30",
-     5.9846
-    ],
-    [
-     "14:35",
-     5.9867
-    ],
-    [
-     "14:40",
-     5.9908
-    ],
-    [
-     "14:45",
-     5.9988
-    ],
-    [
-     "14:50",
-     5.9982
-    ],
-    [
-     "14:55",
-     5.9967
-    ],
-    [
-     "15:00",
-     5.9882
-    ],
-    [
-     "15:05",
-     5.9762
-    ],
-    [
-     "15:10",
-     5.9619
-    ],
-    [
-     "15:15",
-     5.9657
-    ],
-    [
-     "15:20",
-     5.9655
-    ],
-    [
-     "15:25",
-     5.958
-    ],
-    [
-     "15:30",
-     5.9441
-    ],
-    [
-     "15:35",
-     5.9487
-    ],
-    [
-     "15:40",
-     5.9382
-    ],
-    [
-     "15:45",
-     5.9317
-    ],
-    [
-     "15:50",
-     5.9283
-    ],
-    [
-     "15:55",
-     5.9229
-    ],
-    [
-     "16:00",
-     5.9253
-    ],
-    [
-     "16:05",
-     5.9267
-    ],
-    [
-     "16:10",
-     5.9297
-    ],
-    [
-     "16:15",
-     5.9316
-    ],
-    [
-     "16:20",
-     5.9221
-    ],
-    [
-     "16:25",
-     5.9285
-    ],
-    [
-     "16:30",
-     5.9295
-    ],
-    [
-     "16:35",
-     5.9341
-    ],
-    [
-     "16:40",
-     5.9325
-    ],
-    [
-     "16:45",
-     5.933
-    ],
-    [
-     "16:50",
-     5.9283
-    ],
-    [
-     "16:55",
-     5.9275
-    ],
-    [
-     "17:00",
-     5.9268
-    ],
-    [
-     "17:05",
-     5.9235
-    ],
-    [
-     "17:10",
-     5.927
-    ],
-    [
-     "17:15",
-     5.931
-    ],
-    [
-     "17:20",
-     5.9293
-    ],
-    [
-     "17:25",
-     5.9305
-    ],
-    [
-     "17:30",
-     5.9336
-    ],
-    [
-     "17:35",
-     5.9303
-    ],
-    [
-     "17:40",
-     5.9268
-    ],
-    [
-     "17:45",
-     5.9288
-    ],
-    [
-     "17:50",
-     5.9325
-    ],
-    [
-     "17:55",
-     5.9313
-    ],
-    [
-     "18:00",
-     5.9308
-    ],
-    [
-     "18:05",
-     5.9306
-    ],
-    [
-     "18:10",
-     5.9308
-    ],
-    [
-     "18:15",
-     5.9278
-    ],
-    [
-     "18:20",
-     5.929
-    ],
-    [
-     "18:24",
-     5.9298
-    ]
-   ]
-  },
-  "marcadores": [
-   {
-    "hora": "15:50",
-    "titulo": "Governo Lula reduz projeção de crescimento e vê inflação mais alta e dólar mais caro em 2026",
-    "fonte": "Estadão",
-    "url": "https://www.estadao.com.br/economia/governo-lula-reduz-projecao-do-pib-para-este-ano-e-ve-inflacao-acima-da-meta/",
-    "impacto": "alto",
-    "ativos": [
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": -0.04,
-    "dolar30": 0.06
-   },
-   {
-    "hora": "16:03",
-    "titulo": "Empresas serão fiscalizadas nos primeiros 90 dias do fim da 6x1 e sofrerão multa se infringirem lei",
-    "fonte": "Folha",
-    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/empresas-serao-fiscalizadas-nos-primeiros-90-dias-do-fim-da-6x1-e-sofrerao-multa-se-infringirem-lei.shtml",
-    "impacto": "medio",
-    "ativos": [
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": -0.16,
-    "dolar30": 0.07
-   },
-   {
-    "hora": "16:07",
-    "titulo": "‘Nas próximas duas semanas, indicações, fiscal e alíquota da CBS estarão resolvidos’, diz Durigan",
-    "fonte": "Estadão",
-    "url": "https://www.estadao.com.br/economia/nas-proximas-duas-semanas-indicacoes-fiscal-e-aliquota-da-cbs-estarao-resolvidos-diz-durigan/",
-    "impacto": "medio",
-    "ativos": [
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": -0.16,
-    "dolar30": 0.12
-   },
-   {
-    "hora": "16:29",
-    "titulo": "Alongar a dívida agora ou esperar: o crédito com garantia real depois da eleição",
-    "fonte": "Valor",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUVFFYW80Q3oyOUpqNC1PQW1LT3N2X0NXVUpzcmpSeEh5TmFkSUh4b2V1QzJvWGhkNDNyTHNuQkRia3pTNTU2SEEzQnd1TDNKTVNyX2ZPM011SFg2RFpnb0Y4dF9pUDY5MkdyTkFLb0prLVplYUJVZnhoVGp2ODY1d2RRZ3p5VnFYTV9KYTBVVHlzSkU5WTh6UTNlTzVId3d0WWtIeUt2RVRERkowZ3lzc2N2MVdQZGF5OUc4MG4wb0oxLTVzd2VQZkZoR2hiczRPTWV5NVltYzQtYnRIRTBGU3R2TGQ3eFIzS0ZDdjJMSFJoUUtoaFVNbNIB-AFBVV95cUxNUVFFYW80Q3oyOUpqNC1PQW1LT3N2X0NXVUpzcmpSeEh5TmFkSUh4b2V1QzJvWGhkNDNyTHNuQkRia3pTNTU2SEEzQnd1TDNKTVNyX2ZPM011SFg2RFpnb0Y4dF9pUDY5MkdyTkFLb0prLVplYUJVZnhoVGp2ODY1d2RRZ3p5VnFYTV9KYTBVVHlzSkU5WTh6UTNlTzVId3d0WWtIeUt2RVRERkowZ3lzc2N2MVdQZGF5OUc4MG4wb0oxLTVzd2VQZkZoR2hiczRPTWV5NVltYzQtYnRIRTBGU3R2TGQ3eFIzS0ZDdjJMSFJoUUtoaFVNbA?oc=5",
-    "impacto": "medio",
-    "ativos": [
-     "WDO"
-    ],
-    "tickers": [],
-    "ibov30": -0.08,
-    "dolar30": -0.02
-   },
-   {
-    "hora": "16:36",
-    "titulo": "Dólar supera R$ 6, mas fecha em queda enquanto Ibovespa recua com baixa de 3% da Petrobras",
-    "fonte": "Estadão",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZUFMMXZFZEVmdDhQYUxDM3lnQ1FlRm8wS001d1VJQkhoNnFQMFNKWFo3TTllNUIzYkVWWVg0M29CT3Q0djlyZ0tRYjZYWTd6TV8zUEJacWw5blRpWEpHUzNMeWxtSEpiOTZQYy1mZXhNV1ZPeUN3Vy0wQ2tTa2ljNkRnckxLZGViS0lLUkd6eVdHb1NmMlZldzB0VU82YXF3X0FMVVhoM2d6NTlwUGdxS0FRb3ZyamRDSENodzJaM3ZVb0VWMEZXaUNiRFMyQ3pUUnRWUHA2YnVIN1lkT241cEZGUWNkWW_SAewBQVVfeXFMT1hHOW00Q20yVXMtMXJqOTJjRnlUY1VRdjJiWHVURkdwZlZvNW9tTEVqNXdaZzhwRzkxMDI3aDgyTEo3ZE00aUlUbGRGTXE5c1M5QWVDVXVXRkFKUEFtX2dmaUxzUzBJUHRLdlBQdHhseHpKWXhCdVpOMmNET0FNNU90MVNjUVFiYnBhdmktdUxSUFBwWDRyOTZQLXlYMTZ1VkF0bjRHWERGaHZNdTQ2NHFTTDRqZFM5cHpldU14ZWU5Q2JfRERPY2UyMWY2ejQzNTFvc3dmSnk4SmVmMjVhRExkZ3Fjd0RIaGh6Rjc?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "WDO"
-    ],
-    "tickers": [
-     "PETR4"
-    ],
-    "ibov30": null,
-    "dolar30": -0.18
-   },
-   {
-    "hora": "16:48",
-    "titulo": "Fazenda reduz previsão do PIB e eleva inflação para 2027",
-    "fonte": "Agência Brasil",
-    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/fazenda-reduz-previsao-do-pib-e-eleva-inflacao-para-2027",
-    "impacto": "alto",
-    "ativos": [
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": -0.03
-   },
-   {
-    "hora": "16:56",
-    "titulo": "Custo de capital é o principal desafio para crescimento do Brasil, diz CEO do Itaú",
-    "fonte": "Folha",
-    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/custo-de-capital-e-o-principal-desafio-para-crescimento-do-brasil-diz-ceo-do-itau.shtml",
-    "impacto": "medio",
-    "ativos": [
-     "WIN"
-    ],
-    "tickers": [
-     "ITUB4"
-    ],
-    "ibov30": null,
-    "dolar30": 0.05
-   },
-   {
-    "hora": "16:57",
-    "titulo": "Câmara pode votar ajuste fiscal nesta segunda-feira",
-    "fonte": "Agência Brasil",
-    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/camara-pode-votar-ajuste-fiscal-nesta-segunda-feira",
-    "impacto": "medio",
-    "ativos": [
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": 0.05
-   },
-   {
-    "hora": "17:08",
-    "titulo": "Dólar fecha em leve queda após ultrapassar os R$ 6 com tensão fiscal",
-    "fonte": "Money Times",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhOXdPSUp1cnN0LTFqRWVZenJRb2g2NkE2SlowUmQ1SFVNMnQ3cmR6aERNQmFySzhBVTY1QUNCa2xCSDFFa20yS01fLWNiVWhVWlprd0l3N014RkZ3SVJpQmFB?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": 0.11
-   },
-   {
-    "hora": "17:24",
-    "titulo": "Dólar a R$ 6 preocupa governo, mas Fazenda não vê recessão em 2027, só desaceleração, diz secretária",
-    "fonte": "Estadão",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLU04a3djTlJvVWpxQmNEdzRjNWc5QnlOOEloR2pvM3pka1RnaWdwVlF2TnY3bHFXa1dxS2N3THpvanFSV0tOT3hZMnBkZWU2d0lYendDeWpnc3BadTJadF9rMWhaaUdRTy1vRE1HZG85SjZpcXVtNnlyQ2VFVHJwU0d0R2xFdl94c1liWDZ0b3Vmc2Q0c280OFRMMkZKSF9xa1dYVmROWmRVWkQ2RVRyT2FWeWdWZDRETHlZS2ZvMHpiU2pCQjlQS1B4NmtFTnVNVmVSR3dsRG4?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "WDO"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": 0.05
-   },
-   {
-    "hora": "17:31",
-    "titulo": "Economistas veem risco de estagflação e pedem ajuste fiscal além do plano Moretti",
-    "fonte": "Folha",
-    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/economistas-veem-risco-de-estagflacao-e-pedem-ajuste-fiscal-alem-do-plano-moretti.shtml",
-    "impacto": "medio",
-    "ativos": [
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": -0.05
-   },
-   {
-    "hora": "17:34",
-    "titulo": "Tarcísio critica plano Moretti e diz que ajuste fiscal do governo Lula não 'ataca a raiz do problema'",
-    "fonte": "Folha",
-    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tarcisio-critica-plano-moretti-e-diz-que-ajuste-fiscal-do-governo-lula-nao-ataca-a-raiz-do-problema.shtml",
-    "impacto": "medio",
-    "ativos": [
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": -0.05
-   },
-   {
-    "hora": "17:44",
-    "titulo": "Dólar em alta: como investir no exterior sem depender da cotação ideal?",
-    "fonte": "InfoMoney",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdmtGRk43SHo0ekdmYWRtM1NxYVFiZWVDT0lEYnY1ZGJBYW1NVUwwWmtpMGd3bHFBSjA4NUZMZ2p3MGZUNEgwb3l1MzRUQVdDU1BrQi15RU9PMWtlX3N3bXN2bU5CRWk3dVhGNVpXd1VRX1ZrR1B5bTFMb2dGdFdzUUdkONIBiAFBVV95cUxNMG5tX3VEUjE4bC1ULW1WQ2c2bEM1S1RqcWtrYzNHUzZkeVB6RUV4UXA5bTN4bTZjN2VveXllV204N19hejdQdnlfQ1dnRGlsVTJBdm9hZTdmQ21STjZuWGIxbVpBWWxyY05mSy1TZC1MWVQ3ZjBzeElBMlRhQnhHcFVKeGh4b0dx?oc=5",
-    "impacto": "medio",
-    "ativos": [
-     "WDO"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": 0.07
-   }
-  ]
- },
+ "mercado": {},
  "hoje": [
   {
-   "titulo": "Governo Lula reduz projeção de crescimento e vê inflação mais alta e dólar mais caro em 2026",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/governo-lula-reduz-projecao-do-pib-para-este-ano-e-ve-inflacao-acima-da-meta/",
-   "publicado": "2026-11-23T15:50-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Empresas serão fiscalizadas nos primeiros 90 dias do fim da 6x1 e sofrerão multa se infringirem lei",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/empresas-serao-fiscalizadas-nos-primeiros-90-dias-do-fim-da-6x1-e-sofrerao-multa-se-infringirem-lei.shtml",
-   "publicado": "2026-11-23T16:03-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "‘Nas próximas duas semanas, indicações, fiscal e alíquota da CBS estarão resolvidos’, diz Durigan",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/nas-proximas-duas-semanas-indicacoes-fiscal-e-aliquota-da-cbs-estarao-resolvidos-diz-durigan/",
-   "publicado": "2026-11-23T16:07-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Alongar a dívida agora ou esperar: o crédito com garantia real depois da eleição",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUVFFYW80Q3oyOUpqNC1PQW1LT3N2X0NXVUpzcmpSeEh5TmFkSUh4b2V1QzJvWGhkNDNyTHNuQkRia3pTNTU2SEEzQnd1TDNKTVNyX2ZPM011SFg2RFpnb0Y4dF9pUDY5MkdyTkFLb0prLVplYUJVZnhoVGp2ODY1d2RRZ3p5VnFYTV9KYTBVVHlzSkU5WTh6UTNlTzVId3d0WWtIeUt2RVRERkowZ3lzc2N2MVdQZGF5OUc4MG4wb0oxLTVzd2VQZkZoR2hiczRPTWV5NVltYzQtYnRIRTBGU3R2TGQ3eFIzS0ZDdjJMSFJoUUtoaFVNbNIB-AFBVV95cUxNUVFFYW80Q3oyOUpqNC1PQW1LT3N2X0NXVUpzcmpSeEh5TmFkSUh4b2V1QzJvWGhkNDNyTHNuQkRia3pTNTU2SEEzQnd1TDNKTVNyX2ZPM011SFg2RFpnb0Y4dF9pUDY5MkdyTkFLb0prLVplYUJVZnhoVGp2ODY1d2RRZ3p5VnFYTV9KYTBVVHlzSkU5WTh6UTNlTzVId3d0WWtIeUt2RVRERkowZ3lzc2N2MVdQZGF5OUc4MG4wb0oxLTVzd2VQZkZoR2hiczRPTWV5NVltYzQtYnRIRTBGU3R2TGQ3eFIzS0ZDdjJMSFJoUUtoaFVNbA?oc=5",
-   "publicado": "2026-11-23T16:29-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar supera R$ 6, mas fecha em queda enquanto Ibovespa recua com baixa de 3% da Petrobras",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZUFMMXZFZEVmdDhQYUxDM3lnQ1FlRm8wS001d1VJQkhoNnFQMFNKWFo3TTllNUIzYkVWWVg0M29CT3Q0djlyZ0tRYjZYWTd6TV8zUEJacWw5blRpWEpHUzNMeWxtSEpiOTZQYy1mZXhNV1ZPeUN3Vy0wQ2tTa2ljNkRnckxLZGViS0lLUkd6eVdHb1NmMlZldzB0VU82YXF3X0FMVVhoM2d6NTlwUGdxS0FRb3ZyamRDSENodzJaM3ZVb0VWMEZXaUNiRFMyQ3pUUnRWUHA2YnVIN1lkT241cEZGUWNkWW_SAewBQVVfeXFMT1hHOW00Q20yVXMtMXJqOTJjRnlUY1VRdjJiWHVURkdwZlZvNW9tTEVqNXdaZzhwRzkxMDI3aDgyTEo3ZE00aUlUbGRGTXE5c1M5QWVDVXVXRkFKUEFtX2dmaUxzUzBJUHRLdlBQdHhseHpKWXhCdVpOMmNET0FNNU90MVNjUVFiYnBhdmktdUxSUFBwWDRyOTZQLXlYMTZ1VkF0bjRHWERGaHZNdTQ2NHFTTDRqZFM5cHpldU14ZWU5Q2JfRERPY2UyMWY2ejQzNTFvc3dmSnk4SmVmMjVhRExkZ3Fjd0RIaGh6Rjc?oc=5",
-   "publicado": "2026-11-23T16:36-03:00",
+   "titulo": "Dólar bate R$ 6, mas vira e fecha em queda; Ibovespa recua com Petrobras e bancos",
+   "fonte": "Exame",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3OVVkOTF5ZEpWcnN3dlM1MkJ2VTg4Z3Z4eGN0Vm1RYXlseEY4Yk5ZdXJTNnJUX0JYbzBscHVUT0ROMEdFUThhYXdKZjYwMkJBNjE4UnRFa3hpS2REUzBVeDFxYnV5cm1VMThr?oc=5",
+   "publicado": "2026-11-23T19:18-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -1049,114 +16,86 @@
    ]
   },
   {
-   "titulo": "Fazenda reduz previsão do PIB e eleva inflação para 2027",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/fazenda-reduz-previsao-do-pib-e-eleva-inflacao-para-2027",
-   "publicado": "2026-11-23T16:48-03:00",
-   "impacto": "alto",
+   "titulo": "Câmara aprova urgência e acelera votação de projeto de ajuste fiscal do governo Lula",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/camara-aprova-urgencia-e-acelera-votacao-de-projeto-de-ajuste-fiscal-do-governo-lula/",
+   "publicado": "2026-11-23T19:47-03:00",
+   "impacto": "medio",
    "ativos": [
     "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Custo de capital é o principal desafio para crescimento do Brasil, diz CEO do Itaú",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/custo-de-capital-e-o-principal-desafio-para-crescimento-do-brasil-diz-ceo-do-itau.shtml",
-   "publicado": "2026-11-23T16:56-03:00",
+   "titulo": "Petrobras eleva em 12% plano de investimentos entre 2027 e 2031, para US$ 122 bilhões",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/negocios/petrobras-anuncia-plano-de-investimento-de-us-122-bilhoes-entre-2027-e-2031/",
+   "publicado": "2026-11-23T19:49-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
    "tickers": [
-    "ITUB4"
+    "PETR4"
    ]
   },
   {
-   "titulo": "Câmara pode votar ajuste fiscal nesta segunda-feira",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/camara-pode-votar-ajuste-fiscal-nesta-segunda-feira",
-   "publicado": "2026-11-23T16:57-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar fecha em leve queda após ultrapassar os R$ 6 com tensão fiscal",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhOXdPSUp1cnN0LTFqRWVZenJRb2g2NkE2SlowUmQ1SFVNMnQ3cmR6aERNQmFySzhBVTY1QUNCa2xCSDFFa20yS01fLWNiVWhVWlprd0l3N014RkZ3SVJpQmFB?oc=5",
-   "publicado": "2026-11-23T17:08-03:00",
+   "titulo": "Petrobras eleva investimentos em 12%, para US$ 122 bi, e anuncia dividendos extraordinários",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-eleva-investimentos-para-us-122-bilhoes-e-anuncia-dividendos-extraordinarios.shtml",
+   "publicado": "2026-11-23T19:54-03:00",
    "impacto": "alto",
    "ativos": [
-    "WDO",
-    "DI"
+    "WIN"
    ],
-   "tickers": []
+   "tickers": [
+    "PETR4"
+   ]
   },
   {
-   "titulo": "Dólar a R$ 6 preocupa governo, mas Fazenda não vê recessão em 2027, só desaceleração, diz secretária",
+   "titulo": "Petrobras compra 42% da produtora de etanol de milho Neomille, da Cerradinho, por R$ 2,8 bi",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLU04a3djTlJvVWpxQmNEdzRjNWc5QnlOOEloR2pvM3pka1RnaWdwVlF2TnY3bHFXa1dxS2N3THpvanFSV0tOT3hZMnBkZWU2d0lYendDeWpnc3BadTJadF9rMWhaaUdRTy1vRE1HZG85SjZpcXVtNnlyQ2VFVHJwU0d0R2xFdl94c1liWDZ0b3Vmc2Q0c280OFRMMkZKSF9xa1dYVmROWmRVWkQ2RVRyT2FWeWdWZDRETHlZS2ZvMHpiU2pCQjlQS1B4NmtFTnVNVmVSR3dsRG4?oc=5",
-   "publicado": "2026-11-23T17:24-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Economistas veem risco de estagflação e pedem ajuste fiscal além do plano Moretti",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/economistas-veem-risco-de-estagflacao-e-pedem-ajuste-fiscal-alem-do-plano-moretti.shtml",
-   "publicado": "2026-11-23T17:31-03:00",
+   "url": "https://www.estadao.com.br/economia/negocios/petrobras-compra-42-da-produtora-de-etanol-de-milho-neomille-da-cerradinho-por-r-28-bi/",
+   "publicado": "2026-11-23T20:38-03:00",
    "impacto": "medio",
    "ativos": [
-    "DI"
+    "WIN"
    ],
-   "tickers": []
+   "tickers": [
+    "PETR4"
+   ]
   },
   {
-   "titulo": "Tarcísio critica plano Moretti e diz que ajuste fiscal do governo Lula não 'ataca a raiz do problema'",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tarcisio-critica-plano-moretti-e-diz-que-ajuste-fiscal-do-governo-lula-nao-ataca-a-raiz-do-problema.shtml",
-   "publicado": "2026-11-23T17:34-03:00",
+   "titulo": "Petrobras aprova pagamento de R$ 15,6 bilhões a acionistas",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-aprova-pagamento-de-r-156-bilhoes-acionistas",
+   "publicado": "2026-11-23T21:03-03:00",
    "impacto": "medio",
    "ativos": [
-    "DI"
+    "WIN"
    ],
-   "tickers": []
+   "tickers": [
+    "PETR4"
+   ]
   },
   {
-   "titulo": "Dólar em alta: como investir no exterior sem depender da cotação ideal?",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdmtGRk43SHo0ekdmYWRtM1NxYVFiZWVDT0lEYnY1ZGJBYW1NVUwwWmtpMGd3bHFBSjA4NUZMZ2p3MGZUNEgwb3l1MzRUQVdDU1BrQi15RU9PMWtlX3N3bXN2bU5CRWk3dVhGNVpXd1VRX1ZrR1B5bTFMb2dGdFdzUUdkONIBiAFBVV95cUxNMG5tX3VEUjE4bC1ULW1WQ2c2bEM1S1RqcWtrYzNHUzZkeVB6RUV4UXA5bTN4bTZjN2VveXllV204N19hejdQdnlfQ1dnRGlsVTJBdm9hZTdmQ21STjZuWGIxbVpBWWxyY05mSy1TZC1MWVQ3ZjBzeElBMlRhQnhHcFVKeGh4b0dx?oc=5",
-   "publicado": "2026-11-23T17:44-03:00",
+   "titulo": "Crédito está travado; 2027 será difícil para a economia, diz presidente do Bradesco",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/credito-esta-travado-2027-sera-dificil-para-a-economia-diz-presidente-do-bradesco/",
+   "publicado": "2026-11-23T21:32-03:00",
    "impacto": "medio",
    "ativos": [
-    "WDO"
+    "WIN"
    ],
-   "tickers": []
+   "tickers": [
+    "BBDC4"
+   ]
   },
   {
-   "titulo": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+   "titulo": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
    "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-   "publicado": "2026-11-23T18:02-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-   "publicado": "2026-11-23T18:22-03:00",
+   "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+   "publicado": "2026-11-23T21:53-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
@@ -1165,25 +104,22 @@
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-23T18:24-03:00",
+ "atualizado_em": "2026-11-23T22:02-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
-  "CNN Brasil",
   "Estadão",
-  "Folha",
-  "InfoMoney",
-  "Money Times",
-  "Valor"
+  "Exame",
+  "Folha"
  ],
  "noticias": [
   {
-   "titulo": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
+   "titulo": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
    "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-   "publicado": "2026-11-23T18:22-03:00",
+   "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+   "publicado": "2026-11-23T21:53-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
@@ -1191,126 +127,98 @@
    "tickers": []
   },
   {
-   "titulo": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-   "publicado": "2026-11-23T18:02-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
-   "publicado": "2026-11-23T18:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar em alta: como investir no exterior sem depender da cotação ideal?",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdmtGRk43SHo0ekdmYWRtM1NxYVFiZWVDT0lEYnY1ZGJBYW1NVUwwWmtpMGd3bHFBSjA4NUZMZ2p3MGZUNEgwb3l1MzRUQVdDU1BrQi15RU9PMWtlX3N3bXN2bU5CRWk3dVhGNVpXd1VRX1ZrR1B5bTFMb2dGdFdzUUdkONIBiAFBVV95cUxNMG5tX3VEUjE4bC1ULW1WQ2c2bEM1S1RqcWtrYzNHUzZkeVB6RUV4UXA5bTN4bTZjN2VveXllV204N19hejdQdnlfQ1dnRGlsVTJBdm9hZTdmQ21STjZuWGIxbVpBWWxyY05mSy1TZC1MWVQ3ZjBzeElBMlRhQnhHcFVKeGh4b0dx?oc=5",
-   "publicado": "2026-11-23T17:44-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Tarcísio critica plano Moretti e diz que ajuste fiscal do governo Lula não 'ataca a raiz do problema'",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tarcisio-critica-plano-moretti-e-diz-que-ajuste-fiscal-do-governo-lula-nao-ataca-a-raiz-do-problema.shtml",
-   "publicado": "2026-11-23T17:34-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Economistas veem risco de estagflação e pedem ajuste fiscal além do plano Moretti",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/economistas-veem-risco-de-estagflacao-e-pedem-ajuste-fiscal-alem-do-plano-moretti.shtml",
-   "publicado": "2026-11-23T17:31-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar a R$ 6 preocupa governo, mas Fazenda não vê recessão em 2027, só desaceleração, diz secretária",
+   "titulo": "Crédito está travado; 2027 será difícil para a economia, diz presidente do Bradesco",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLU04a3djTlJvVWpxQmNEdzRjNWc5QnlOOEloR2pvM3pka1RnaWdwVlF2TnY3bHFXa1dxS2N3THpvanFSV0tOT3hZMnBkZWU2d0lYendDeWpnc3BadTJadF9rMWhaaUdRTy1vRE1HZG85SjZpcXVtNnlyQ2VFVHJwU0d0R2xFdl94c1liWDZ0b3Vmc2Q0c280OFRMMkZKSF9xa1dYVmROWmRVWkQ2RVRyT2FWeWdWZDRETHlZS2ZvMHpiU2pCQjlQS1B4NmtFTnVNVmVSR3dsRG4?oc=5",
-   "publicado": "2026-11-23T17:24-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar fecha em leve queda após ultrapassar os R$ 6 com tensão fiscal",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhOXdPSUp1cnN0LTFqRWVZenJRb2g2NkE2SlowUmQ1SFVNMnQ3cmR6aERNQmFySzhBVTY1QUNCa2xCSDFFa20yS01fLWNiVWhVWlprd0l3N014RkZ3SVJpQmFB?oc=5",
-   "publicado": "2026-11-23T17:08-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Câmara pode votar ajuste fiscal nesta segunda-feira",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/camara-pode-votar-ajuste-fiscal-nesta-segunda-feira",
-   "publicado": "2026-11-23T16:57-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Custo de capital é o principal desafio para crescimento do Brasil, diz CEO do Itaú",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/custo-de-capital-e-o-principal-desafio-para-crescimento-do-brasil-diz-ceo-do-itau.shtml",
-   "publicado": "2026-11-23T16:56-03:00",
+   "url": "https://www.estadao.com.br/economia/credito-esta-travado-2027-sera-dificil-para-a-economia-diz-presidente-do-bradesco/",
+   "publicado": "2026-11-23T21:32-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
    "tickers": [
-    "ITUB4"
+    "BBDC4"
    ]
   },
   {
-   "titulo": "Fazenda reduz previsão do PIB e eleva inflação para 2027",
+   "titulo": "Petrobras aprova pagamento de R$ 15,6 bilhões a acionistas",
    "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/fazenda-reduz-previsao-do-pib-e-eleva-inflacao-para-2027",
-   "publicado": "2026-11-23T16:48-03:00",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-aprova-pagamento-de-r-156-bilhoes-acionistas",
+   "publicado": "2026-11-23T21:03-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Petrobras compra 42% da produtora de etanol de milho Neomille, da Cerradinho, por R$ 2,8 bi",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/negocios/petrobras-compra-42-da-produtora-de-etanol-de-milho-neomille-da-cerradinho-por-r-28-bi/",
+   "publicado": "2026-11-23T20:38-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
+   "publicado": "2026-11-23T20:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Petrobras eleva investimentos em 12%, para US$ 122 bi, e anuncia dividendos extraordinários",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-eleva-investimentos-para-us-122-bilhoes-e-anuncia-dividendos-extraordinarios.shtml",
+   "publicado": "2026-11-23T19:54-03:00",
    "impacto": "alto",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Petrobras eleva em 12% plano de investimentos entre 2027 e 2031, para US$ 122 bilhões",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/negocios/petrobras-anuncia-plano-de-investimento-de-us-122-bilhoes-entre-2027-e-2031/",
+   "publicado": "2026-11-23T19:49-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "Câmara aprova urgência e acelera votação de projeto de ajuste fiscal do governo Lula",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/camara-aprova-urgencia-e-acelera-votacao-de-projeto-de-ajuste-fiscal-do-governo-lula/",
+   "publicado": "2026-11-23T19:47-03:00",
+   "impacto": "medio",
    "ativos": [
     "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Dólar supera R$ 6, mas fecha em queda enquanto Ibovespa recua com baixa de 3% da Petrobras",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZUFMMXZFZEVmdDhQYUxDM3lnQ1FlRm8wS001d1VJQkhoNnFQMFNKWFo3TTllNUIzYkVWWVg0M29CT3Q0djlyZ0tRYjZYWTd6TV8zUEJacWw5blRpWEpHUzNMeWxtSEpiOTZQYy1mZXhNV1ZPeUN3Vy0wQ2tTa2ljNkRnckxLZGViS0lLUkd6eVdHb1NmMlZldzB0VU82YXF3X0FMVVhoM2d6NTlwUGdxS0FRb3ZyamRDSENodzJaM3ZVb0VWMEZXaUNiRFMyQ3pUUnRWUHA2YnVIN1lkT241cEZGUWNkWW_SAewBQVVfeXFMT1hHOW00Q20yVXMtMXJqOTJjRnlUY1VRdjJiWHVURkdwZlZvNW9tTEVqNXdaZzhwRzkxMDI3aDgyTEo3ZE00aUlUbGRGTXE5c1M5QWVDVXVXRkFKUEFtX2dmaUxzUzBJUHRLdlBQdHhseHpKWXhCdVpOMmNET0FNNU90MVNjUVFiYnBhdmktdUxSUFBwWDRyOTZQLXlYMTZ1VkF0bjRHWERGaHZNdTQ2NHFTTDRqZFM5cHpldU14ZWU5Q2JfRERPY2UyMWY2ejQzNTFvc3dmSnk4SmVmMjVhRExkZ3Fjd0RIaGh6Rjc?oc=5",
-   "publicado": "2026-11-23T16:36-03:00",
+   "titulo": "Dólar bate R$ 6, mas vira e fecha em queda; Ibovespa recua com Petrobras e bancos",
+   "fonte": "Exame",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3OVVkOTF5ZEpWcnN3dlM1MkJ2VTg4Z3Z4eGN0Vm1RYXlseEY4Yk5ZdXJTNnJUX0JYbzBscHVUT0ROMEdFUThhYXdKZjYwMkJBNjE4UnRFa3hpS2REUzBVeDFxYnV5cm1VMThr?oc=5",
+   "publicado": "2026-11-23T19:18-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -1319,51 +227,6 @@
    "tickers": [
     "PETR4"
    ]
-  },
-  {
-   "titulo": "Alongar a dívida agora ou esperar: o crédito com garantia real depois da eleição",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUVFFYW80Q3oyOUpqNC1PQW1LT3N2X0NXVUpzcmpSeEh5TmFkSUh4b2V1QzJvWGhkNDNyTHNuQkRia3pTNTU2SEEzQnd1TDNKTVNyX2ZPM011SFg2RFpnb0Y4dF9pUDY5MkdyTkFLb0prLVplYUJVZnhoVGp2ODY1d2RRZ3p5VnFYTV9KYTBVVHlzSkU5WTh6UTNlTzVId3d0WWtIeUt2RVRERkowZ3lzc2N2MVdQZGF5OUc4MG4wb0oxLTVzd2VQZkZoR2hiczRPTWV5NVltYzQtYnRIRTBGU3R2TGQ3eFIzS0ZDdjJMSFJoUUtoaFVNbNIB-AFBVV95cUxNUVFFYW80Q3oyOUpqNC1PQW1LT3N2X0NXVUpzcmpSeEh5TmFkSUh4b2V1QzJvWGhkNDNyTHNuQkRia3pTNTU2SEEzQnd1TDNKTVNyX2ZPM011SFg2RFpnb0Y4dF9pUDY5MkdyTkFLb0prLVplYUJVZnhoVGp2ODY1d2RRZ3p5VnFYTV9KYTBVVHlzSkU5WTh6UTNlTzVId3d0WWtIeUt2RVRERkowZ3lzc2N2MVdQZGF5OUc4MG4wb0oxLTVzd2VQZkZoR2hiczRPTWV5NVltYzQtYnRIRTBGU3R2TGQ3eFIzS0ZDdjJMSFJoUUtoaFVNbA?oc=5",
-   "publicado": "2026-11-23T16:29-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "‘Nas próximas duas semanas, indicações, fiscal e alíquota da CBS estarão resolvidos’, diz Durigan",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/nas-proximas-duas-semanas-indicacoes-fiscal-e-aliquota-da-cbs-estarao-resolvidos-diz-durigan/",
-   "publicado": "2026-11-23T16:07-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Empresas serão fiscalizadas nos primeiros 90 dias do fim da 6x1 e sofrerão multa se infringirem lei",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/empresas-serao-fiscalizadas-nos-primeiros-90-dias-do-fim-da-6x1-e-sofrerao-multa-se-infringirem-lei.shtml",
-   "publicado": "2026-11-23T16:03-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Governo Lula reduz projeção de crescimento e vê inflação mais alta e dólar mais caro em 2026",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/governo-lula-reduz-projecao-do-pib-para-este-ano-e-ve-inflacao-acima-da-meta/",
-   "publicado": "2026-11-23T15:50-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
   }
  ]
 }
