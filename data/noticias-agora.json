@@ -1,156 +1,980 @@
 {
- "mercado": {},
+ "mercado": {
+  "data": "2026-11-24",
+  "atualizado_em": "2026-11-24T17:10-03:00",
+  "ibov": {
+   "anterior": 164796.05,
+   "pontos": [
+    [
+     "10:00",
+     165235.0
+    ],
+    [
+     "10:05",
+     165874.0
+    ],
+    [
+     "10:10",
+     165791.0
+    ],
+    [
+     "10:15",
+     165520.0
+    ],
+    [
+     "10:20",
+     165723.0
+    ],
+    [
+     "10:25",
+     165572.0
+    ],
+    [
+     "10:30",
+     165374.0
+    ],
+    [
+     "10:35",
+     165617.0
+    ],
+    [
+     "10:40",
+     166046.0
+    ],
+    [
+     "10:45",
+     166627.0
+    ],
+    [
+     "10:50",
+     166999.0
+    ],
+    [
+     "10:55",
+     166650.0
+    ],
+    [
+     "11:00",
+     166258.0
+    ],
+    [
+     "11:05",
+     166578.0
+    ],
+    [
+     "11:10",
+     166774.0
+    ],
+    [
+     "11:15",
+     166834.0
+    ],
+    [
+     "11:20",
+     166359.0
+    ],
+    [
+     "11:25",
+     166531.0
+    ],
+    [
+     "11:30",
+     166654.0
+    ],
+    [
+     "11:35",
+     167049.0
+    ],
+    [
+     "11:40",
+     167384.0
+    ],
+    [
+     "11:45",
+     166999.0
+    ],
+    [
+     "11:50",
+     166936.0
+    ],
+    [
+     "11:55",
+     166990.0
+    ],
+    [
+     "12:00",
+     166917.0
+    ],
+    [
+     "12:05",
+     166314.0
+    ],
+    [
+     "12:10",
+     166057.0
+    ],
+    [
+     "12:15",
+     165929.0
+    ],
+    [
+     "12:20",
+     165947.0
+    ],
+    [
+     "12:25",
+     165804.0
+    ],
+    [
+     "12:30",
+     165948.0
+    ],
+    [
+     "12:35",
+     165616.0
+    ],
+    [
+     "12:40",
+     165259.0
+    ],
+    [
+     "12:45",
+     165542.0
+    ],
+    [
+     "12:50",
+     165532.0
+    ],
+    [
+     "12:55",
+     165403.0
+    ],
+    [
+     "13:00",
+     165186.0
+    ],
+    [
+     "13:05",
+     165197.0
+    ],
+    [
+     "13:10",
+     165170.0
+    ],
+    [
+     "13:15",
+     165287.0
+    ],
+    [
+     "13:20",
+     165619.0
+    ],
+    [
+     "13:25",
+     165520.0
+    ],
+    [
+     "13:30",
+     165511.0
+    ],
+    [
+     "13:35",
+     165189.0
+    ],
+    [
+     "13:40",
+     165251.0
+    ],
+    [
+     "13:45",
+     165473.0
+    ],
+    [
+     "13:50",
+     165343.0
+    ],
+    [
+     "13:55",
+     165324.0
+    ],
+    [
+     "14:00",
+     165282.0
+    ],
+    [
+     "14:05",
+     165450.0
+    ],
+    [
+     "14:10",
+     165330.0
+    ],
+    [
+     "14:15",
+     165213.0
+    ],
+    [
+     "14:20",
+     164922.0
+    ],
+    [
+     "14:25",
+     165003.0
+    ],
+    [
+     "14:30",
+     165233.0
+    ],
+    [
+     "14:35",
+     165106.0
+    ],
+    [
+     "14:40",
+     165241.0
+    ],
+    [
+     "14:45",
+     165185.0
+    ],
+    [
+     "14:50",
+     165244.0
+    ],
+    [
+     "14:55",
+     165225.0
+    ],
+    [
+     "15:00",
+     165143.0
+    ],
+    [
+     "15:05",
+     165089.0
+    ],
+    [
+     "15:10",
+     164903.0
+    ],
+    [
+     "15:15",
+     164884.0
+    ],
+    [
+     "15:20",
+     164963.0
+    ],
+    [
+     "15:25",
+     164901.0
+    ],
+    [
+     "15:30",
+     164832.0
+    ],
+    [
+     "15:35",
+     164773.0
+    ],
+    [
+     "15:40",
+     164855.0
+    ],
+    [
+     "15:45",
+     164843.0
+    ],
+    [
+     "15:50",
+     164852.0
+    ],
+    [
+     "15:55",
+     164852.0
+    ],
+    [
+     "16:00",
+     164854.0
+    ],
+    [
+     "16:05",
+     164991.0
+    ],
+    [
+     "16:10",
+     164974.0
+    ],
+    [
+     "16:15",
+     164968.0
+    ],
+    [
+     "16:20",
+     164886.0
+    ],
+    [
+     "16:25",
+     164905.0
+    ],
+    [
+     "16:30",
+     164859.0
+    ],
+    [
+     "16:35",
+     164974.0
+    ],
+    [
+     "16:40",
+     164958.0
+    ],
+    [
+     "16:45",
+     164900.0
+    ],
+    [
+     "16:50",
+     164701.0
+    ]
+   ]
+  },
+  "dolar": {
+   "anterior": 5.9293,
+   "pontos": [
+    [
+     "09:00",
+     5.9472
+    ],
+    [
+     "09:05",
+     5.9387
+    ],
+    [
+     "09:10",
+     5.9502
+    ],
+    [
+     "09:15",
+     5.9471
+    ],
+    [
+     "09:20",
+     5.9377
+    ],
+    [
+     "09:25",
+     5.9409
+    ],
+    [
+     "09:30",
+     5.9392
+    ],
+    [
+     "09:35",
+     5.9064
+    ],
+    [
+     "09:40",
+     5.8749
+    ],
+    [
+     "09:45",
+     5.8911
+    ],
+    [
+     "09:50",
+     5.8854
+    ],
+    [
+     "09:55",
+     5.8756
+    ],
+    [
+     "10:00",
+     5.8738
+    ],
+    [
+     "10:05",
+     5.8674
+    ],
+    [
+     "10:10",
+     5.8643
+    ],
+    [
+     "10:15",
+     5.8564
+    ],
+    [
+     "10:20",
+     5.8296
+    ],
+    [
+     "10:25",
+     5.8311
+    ],
+    [
+     "10:30",
+     5.8224
+    ],
+    [
+     "10:35",
+     5.8112
+    ],
+    [
+     "10:40",
+     5.8092
+    ],
+    [
+     "10:45",
+     5.8032
+    ],
+    [
+     "10:50",
+     5.8096
+    ],
+    [
+     "10:55",
+     5.8224
+    ],
+    [
+     "11:00",
+     5.8274
+    ],
+    [
+     "11:05",
+     5.8334
+    ],
+    [
+     "11:10",
+     5.8312
+    ],
+    [
+     "11:15",
+     5.8304
+    ],
+    [
+     "11:20",
+     5.8389
+    ],
+    [
+     "11:25",
+     5.8249
+    ],
+    [
+     "11:30",
+     5.8204
+    ],
+    [
+     "11:35",
+     5.8224
+    ],
+    [
+     "11:40",
+     5.8217
+    ],
+    [
+     "11:45",
+     5.8322
+    ],
+    [
+     "11:50",
+     5.8394
+    ],
+    [
+     "11:55",
+     5.8429
+    ],
+    [
+     "12:00",
+     5.8414
+    ],
+    [
+     "12:05",
+     5.8499
+    ],
+    [
+     "12:10",
+     5.8454
+    ],
+    [
+     "12:15",
+     5.8559
+    ],
+    [
+     "12:20",
+     5.8534
+    ],
+    [
+     "12:25",
+     5.8549
+    ],
+    [
+     "12:30",
+     5.8519
+    ],
+    [
+     "12:35",
+     5.8578
+    ],
+    [
+     "12:40",
+     5.8648
+    ],
+    [
+     "12:45",
+     5.8579
+    ],
+    [
+     "12:50",
+     5.8559
+    ],
+    [
+     "12:55",
+     5.8665
+    ],
+    [
+     "13:00",
+     5.8738
+    ],
+    [
+     "13:05",
+     5.8829
+    ],
+    [
+     "13:10",
+     5.8945
+    ],
+    [
+     "13:15",
+     5.8905
+    ],
+    [
+     "13:20",
+     5.8982
+    ],
+    [
+     "13:25",
+     5.8998
+    ],
+    [
+     "13:30",
+     5.896
+    ],
+    [
+     "13:35",
+     5.8981
+    ],
+    [
+     "13:40",
+     5.8883
+    ],
+    [
+     "13:45",
+     5.8865
+    ],
+    [
+     "13:50",
+     5.8946
+    ],
+    [
+     "13:55",
+     5.8948
+    ],
+    [
+     "14:00",
+     5.9004
+    ],
+    [
+     "14:05",
+     5.8853
+    ],
+    [
+     "14:10",
+     5.8883
+    ],
+    [
+     "14:15",
+     5.9003
+    ],
+    [
+     "14:20",
+     5.9123
+    ],
+    [
+     "14:25",
+     5.9029
+    ],
+    [
+     "14:30",
+     5.9003
+    ],
+    [
+     "14:35",
+     5.904
+    ],
+    [
+     "14:40",
+     5.9052
+    ],
+    [
+     "14:45",
+     5.9043
+    ],
+    [
+     "14:50",
+     5.9001
+    ],
+    [
+     "14:55",
+     5.9034
+    ],
+    [
+     "15:00",
+     5.9016
+    ],
+    [
+     "15:05",
+     5.9008
+    ],
+    [
+     "15:10",
+     5.8991
+    ],
+    [
+     "15:15",
+     5.9025
+    ],
+    [
+     "15:20",
+     5.9003
+    ],
+    [
+     "15:25",
+     5.899
+    ],
+    [
+     "15:30",
+     5.8943
+    ],
+    [
+     "15:35",
+     5.8896
+    ],
+    [
+     "15:40",
+     5.8957
+    ],
+    [
+     "15:45",
+     5.9005
+    ],
+    [
+     "15:50",
+     5.8981
+    ],
+    [
+     "15:55",
+     5.899
+    ],
+    [
+     "16:00",
+     5.9023
+    ],
+    [
+     "16:05",
+     5.9025
+    ],
+    [
+     "16:10",
+     5.898
+    ],
+    [
+     "16:15",
+     5.895
+    ],
+    [
+     "16:20",
+     5.8945
+    ],
+    [
+     "16:25",
+     5.8965
+    ],
+    [
+     "16:30",
+     5.8896
+    ],
+    [
+     "16:35",
+     5.8883
+    ],
+    [
+     "16:40",
+     5.8938
+    ],
+    [
+     "16:45",
+     5.8996
+    ],
+    [
+     "16:50",
+     5.8999
+    ],
+    [
+     "16:55",
+     5.908
+    ],
+    [
+     "17:00",
+     5.9123
+    ],
+    [
+     "17:05",
+     5.9075
+    ],
+    [
+     "17:10",
+     5.9075
+    ]
+   ]
+  },
+  "marcadores": [
+   {
+    "hora": "14:18",
+    "titulo": "UBS BB rebaixa B3 e corta preço-alvo em 39%; entenda os efeitos dos juros na ação da dona da Bolsa",
+    "fonte": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU3RHMXcwMEl3SnJIVXdVTENMQXItb3kxSWhHbV82amVrZXVpRFQ1Q1FiM0RRVE01MVUwaDR5RGRDNVQzRTNpQk9mQlBpeFFUT25LYlVxLUF0RkxCd1djc29SMFotZS0wSllKelcxNjMyOTY0YzY3ZVd2OTlBTEVXeHE2T2E4VmNrUERiQmg3MUdxMFV5RVdmY3JZM3ZKd1FPcUE5UWpaRExHRHREdjJLY1A1cThqOEJVNEtGaXlFNl9DaUhzNWx5WEVwTklYTENZTmZWTER1NFhQdWR6Vnl0SG8yQmItSUdFNG5N0gHwAUFVX3lxTFBRQ293VERGcnJxRlY5ZWxRRFJ3MlUtMWcyd0hZRXhsZi1lU3BQVG9jRWp6M2hUelA4THA3cG5TNTVXb0szQnBYc1lWNlNFN0FJNWVKdzc3MVpTNjIzbXBTdHNlVzR0bFV2Y2Uxc21MTFlpWjc5U3J2NmZMb3pTa0xLU2JFeXV4SjBkMjJSWWFVNFVySU93U0d6dUxTTEJjZzZNS2tqb05qbFNfRE13dzYwWWluYkFFOGc3OHRMTlFibjFvVXBoZTBGb3pmMlQxLWRjaEdQOUpkUE5BT2NRcXJ2NnJObTdWS192bHQyX1JCeg?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "B3SA3"
+    ],
+    "ibov30": -0.02,
+    "dolar30": 0.07
+   },
+   {
+    "hora": "14:31",
+    "titulo": "Petrobras prevê investimentos de US$ 122 bilhões entre 2027 e 2031",
+    "fonte": "Agência Brasil",
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-preve-investimentos-de-us-122-bilhoes-entre-2027-e-2031",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "PETR4"
+    ],
+    "ibov30": -0.05,
+    "dolar30": 0.02
+   },
+   {
+    "hora": "14:59",
+    "titulo": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+    "fonte": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": -0.2,
+    "dolar30": -0.07
+   },
+   {
+    "hora": "15:34",
+    "titulo": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+    "fonte": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": 0.01,
+    "dolar30": 0.14
+   },
+   {
+    "hora": "15:42",
+    "titulo": "Dólar recua após tocar R$ 6, mas gestores mantêm R$ 6,50 no radar e indicam proteção",
+    "fonte": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUE90Q25oa0JXTHFpSkdvdF9qZWNIWlZHTzJ2aENWbURCajQ3QldVODI5NGdQRkhFVkg1eHpxRkRsX2J6b3hTd3dQMkpBanFGXzBXY19LZnJlTEtjdEl5akJIQS1uNTNzajZyVFFQd0dRcEd0SklQdEo3RW1ncEc2NTh6b1BmcXM00gGOAUFVX3lxTFBjMnhFSzF1YndFdFpMbDIwVkpucThUUVNCbkhJLXV2RDJ3OTJabWZWT1cyY0VnMXF0NEpIbVBUeXdkTkxjaS1yVS1EaUtheGV6Zi1UbDlGVHp6LTk3RVVXVnMtM2JYSk04bjBmWFBkNFAxaGtNOHZ6QWtWbW45Z3FlaDNkbnJiRFpKM2g3OGc?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WDO"
+    ],
+    "tickers": [],
+    "ibov30": 0.07,
+    "dolar30": 0.04
+   },
+   {
+    "hora": "16:17",
+    "titulo": "XP (XPBR31) e B3 (B3SA3) podem ter um 2027 mais difícil: Safra rebaixa ações e corta preço-alvo; confira",
+    "fonte": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX1I5a2FzU0JqOE40RE1JLS1kWlhHU3ctSlFwdm4wOEhDVnROaDJ0UDN0NWNwX3NKUFNxTWNQX2VLTjA1d2JpSVpBRWlqdDh2Y3RuSFEzdFVsT09wLWpmM2hRcmc3R2xLVElYdWVqRW9RalpXUXBZNnl2U3BVb0hLZ0lLc0ZtZXRGZ0FSZTd5ZG43eENtMDAzWXBvd2M1U2lrV3UydXhlRXo1NklxaFl3SWJYSUtCVDRfcjlCSm9n?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "B3SA3"
+    ],
+    "ibov30": -0.04,
+    "dolar30": 0.08
+   },
+   {
+    "hora": "16:20",
+    "titulo": "Lula sanciona sem vetos projeto de ajuste fiscal de R$ 50 bi em 2027 após aprovação na Câmara",
+    "fonte": "Estadão",
+    "url": "https://www.estadao.com.br/economia/lula-sanciona-sem-vetos-projeto-de-ajuste-fiscal-de-r-50-bi-em-2027-apos-aprovacao-na-camara/",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": 0.01,
+    "dolar30": 0.09
+   },
+   {
+    "hora": "16:22",
+    "titulo": "Ações da Vale cedem quase 5% com onda vendedora e estão entre as maiores quedas do Ibovespa",
+    "fonte": "Valor",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTnFCOHlBbUdXemM0YjZNOWFVTWVYY05kVHcycjlOOUlab0ZyUHBQOHFkV0lrS0YzLWJnY2ZvOGRnRG1GR3U0aVMtRk8wNkxaX0tRZEhzZS1aY0FEeXNuTXhwdkFKbjhGV2VoMlpFdUI5UHJCMENFdUd2VWZFSm5fU2NWZ3A5bS0yMkp0bnlSRF8tX09rVVVwYkxtUHlOZWcyUjZVc2sxWDRDSi1Sa0ZjS21iOVhDdFBwMFJTZHFHT29wSTM2RGZWU25VLWR0QkdxWGlhbHRCX0xCQTQ4Z3FPd1RJVk5OaHNLWm5JN01hYXZyVUdrems40gGGAkFVX3lxTFBrVjNQMGJlY0NnQ2RKT19XbERneEdQWW9sVXJoVEpJeWNUTWFZNmpXM1VYRW5MblhSdXFFREZscUk5R29NQWYyM0UwNlRwWGtiTy1nQldzT3dLZW5OT0ZUOE5mVENhWnlGQ012U0ctcVVPVDU4M3BsNXE4TzFiOWo0cVlvLWZSOUdvdHhUbUxpb0FsME9iaUJ3QmU4Y1o5RldsSGZidXdSODZYSGdRbW5KZmgxRTVBbGRoczRnNVdtYXU2U01OVTlCc201Q3NnOUNJT19ZZU80QUVjU250eHZCbzVielNTQzBCYXhZQlRUdkdnbjRkUkR2OGs0dEszXzF5ajNLRXc?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "VALE3"
+    ],
+    "ibov30": -0.11,
+    "dolar30": 0.09
+   },
+   {
+    "hora": "16:40",
+    "titulo": "Vale derrete quase 5% e perde R$ 11,9 bilhões em valor de mercado só hoje",
+    "fonte": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZl9BWjFrWndLQ2lMaEQtWVlnQThuOE5aVEhSX1JwMFZmX3h6NU81dlo4aDZfNzJaNldyVWFCa1ptZ1R4bkViZzJ4dzZZSGhlTWlMaTVYeHZZeWw1MVFqc3NtZlF5MXA0bU9WWTRfRkM0aWp6QXpJaFZQc2xRUGR1RHhFV1NZeXUxOHQ2U1dNQVg3anR5X0NLeHVhOExkcXZ1UW1GTm9DN215UVZOZG9udDFwZzNDYmw4Q19TRTg5c3NSUTNkMG4wTNIBzgFBVV95cUxQUXJHb3N3YzdrY0J4T2NjWklyQmNRUEsyZ1ZhV2dtdmlhQzhRMlhMNFBKMV9oM3p2Z0oxMDg2WGxYaDJ5YWY2UDl1WW13YlR4UndoSGo1TG5JeXN4MUZZeVR1RjFZWVBRSEtZYlBPeGwtN3pRUnFERlpFQ0ZrY3ZtX1IyRW5EbkRDcGZtaFBFRDNwdXBhZGNyLXVQZjU0X3FrN3J4RjhnYTlVa0lPQjVkbHFWcXBUTWU0c0NFc0JrZmh2YVF5QUNLTW41MUlwQQ?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "VALE3"
+    ],
+    "ibov30": null,
+    "dolar30": 0.23
+   },
+   {
+    "hora": "16:52",
+    "titulo": "Ibovespa perde fôlego e passa a cair com ações da Vale em baixa de 5%; dólar recua",
+    "fonte": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcFFtQ1pwY25fR192RU1zTEo1VWZRcXQ1SWFacnU3WGEtdUhyLW1lLTJpZFpvR2cyeGRqYlc2WlU0eG5UV2d6ekFDbGdLR0tCazc1ZTJnV0dvbTF4VHE0OXRSQWttZVAySFc2Wk51c0p5ZWdla3U2UUU5Z3Q4M2d5azVCLW5YQjg2ZXpvT2ZicDJFVXNMbFhwN3UxeGw3TlNCaWJjWDFPVnJkckhkcF93NmRiSGdKYlo2bW1udHhqaGxpaFRob0E0VkY1dVNra0Q5bXNhNW1XTmwxZ9IB3wFBVV95cUxOU2xMN0t6dkpTSzlJblVoUW5QOENBb0lIZHNuOGxkVi1ENVVweWRkQS1tN3BkOFh2ZWlhaF92VmViN0p4U05lWmVqdmpOdHlCSGlYaU01VHpCWjdNYTM1TVprTTlXa21zdWhOVncwdEFhUl92YTJUUVdIVmRXVE1xckQ1SVZSLU9KMW9qUmFXbDluUTBhQkxCTkY1bVJfa3pWS3U2SzlUNDhlQ19EbXF2RU9zNnAxSkFFRVRDUmV6cWlmVjlXcTlZbVcxUE8xMnVOMW01WlJYZmtCNlg3eUtZ?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WIN",
+     "WDO"
+    ],
+    "tickers": [
+     "VALE3"
+    ],
+    "ibov30": null,
+    "dolar30": null
+   }
+  ]
+ },
  "hoje": [
   {
-   "titulo": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
-   "publicado": "2026-11-24T05:35-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Capital estrangeiro sustenta M&A no Brasil à espera de clareza fiscal, dizem bancos",
-   "fonte": "Bloomberg Línea",
-   "url": "https://www.bloomberglinea.com.br/2026/11/24/capital-estrangeiro-sustenta-ma-no-brasil-a-espera-de-clareza-fiscal-dizem-bancos/",
-   "publicado": "2026-11-24T06:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Tempo real: Ibovespa de olho no ajuste fiscal e na Petrobras; veja os destaques desta terça-feira (24)",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16dGktLTZQcjhGOXpyS21BUlVmMFdORHNzekJCeUVET25FbUUxMnZ4dk43UThuZFVJUk40NTU4LXcxSV84eTV0Sks1bWg4eklXaVlyMV9NWGxCbzBoU05KZ1JUZVNGOTgt?oc=5",
-   "publicado": "2026-11-24T06:00-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Ajuste fiscal, plano da Petrobras e confiança do consumidor movimentam a terça-feira",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbnZ6My1EQVUxMDB3eFU1UWtVc1RtOTFBMGstQ3AxUjE3MmwyM1NUWGVDOEQyYWtBMzJBQ1hDUlZ5cjk3eWI2MnpXdXF0allyVE9BMFVodUI0RFg5WE1Cb1ZqMU9RcUpZMjBCakFxMnREampob3lRYXlrY3FpUEtaRk1tN0Zod0h6dGF1cS1FNVBSZUlqMnBj0gGcAUFVX3lxTE95QjkwV2tOZk5lX01yMkRiNS1vcjZHdk1PWGhBOWtaTUtqSmVkSkxrRXpDT0w3bXM2RFFfWENKdHRicXJPZDAzcHZYaV9Xa1Mxa0tNWGVyZTFNaXB4R1dLMU5ESlZWTmRxa3Z6SFNSVTdvdU9qcXVzY3BIRjVIWG95WUJhX0FpU19XcmpCY1loN3p4cldnb3o4Nlg0TQ?oc=5",
-   "publicado": "2026-11-24T06:14-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Bolsa e dólar: veja os destaques da agenda econômica desta terça-feira (24)",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWR2STE1S0tJSDRmMlB3MzNtRDlrM2huUXdZM2h5dXdDaFQwUUdwUHFJb3BEbUYxalg3WUxXQ3I1bDJKbGxqQlg0RVBsaW53TXNiRWs1Si1MMEZsOE9rZy0xN3U4dGNuN3hLUEFXZWIwQzVGN0N3UWN3cUtobWRGNW1SckxfSTg2cmRJY3Q3QnJWV3phbnZEYlVIVUlFY3RxVjZjc3JUWXM?oc=5",
-   "publicado": "2026-11-24T06:30-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Plano fiscal de Lula passa na Câmara após dólar superar R$ 6",
-   "fonte": "Bloomberg Línea",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGJKZVJUR1FBdEQyNElYX0IyQnY5SHBqNm5DcFEzNXYwR1M0SnA0bi0xX3l4M2ZvaE80Nmh3MXM3QU9kYkxqaTZ1d0FFNWhmX29sY1pXZzVZbkNDSC1jRS1tZkpncktGVldEbTBwOWlISkxnVjFNT1FDeGFPLU9EUWxzekEzeGJGcWQ4QWhTRzNvRmt2YUFXeWQ0aU9ObFJBRHJz0gG3AUFVX3lxTE9XRTNjZ2FhZlhlNy1TbU1EQWNQTGtHSHoyek96NlN0WWFPMFdfeUQxQURkeDdPX2tQaGF1d0plUkcwRzVPaTJWdFpNQ2FPdjdCSnJfZXkya3JMWXJOQVJXcVlELThNU01VOVIyR3FfQ3dQVi1seVRtSzRZc2NkS00yRGpFSHhBaGJldExGQjJBRUhBUl9fMlhSaFR6RmVWbW5YZG9xcHI5a1czZUwxOGJLLWliVm1JWQ?oc=5",
-   "publicado": "2026-11-24T06:39-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Asian tech stocks recover from ‘collateral damage’ of Jensen Huang’s departure",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-   "publicado": "2026-11-24T06:46-03:00",
+   "titulo": "UBS BB rebaixa B3 e corta preço-alvo em 39%; entenda os efeitos dos juros na ação da dona da Bolsa",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU3RHMXcwMEl3SnJIVXdVTENMQXItb3kxSWhHbV82amVrZXVpRFQ1Q1FiM0RRVE01MVUwaDR5RGRDNVQzRTNpQk9mQlBpeFFUT25LYlVxLUF0RkxCd1djc29SMFotZS0wSllKelcxNjMyOTY0YzY3ZVd2OTlBTEVXeHE2T2E4VmNrUERiQmg3MUdxMFV5RVdmY3JZM3ZKd1FPcUE5UWpaRExHRHREdjJLY1A1cThqOEJVNEtGaXlFNl9DaUhzNWx5WEVwTklYTENZTmZWTER1NFhQdWR6Vnl0SG8yQmItSUdFNG5N0gHwAUFVX3lxTFBRQ293VERGcnJxRlY5ZWxRRFJ3MlUtMWcyd0hZRXhsZi1lU3BQVG9jRWp6M2hUelA4THA3cG5TNTVXb0szQnBYc1lWNlNFN0FJNWVKdzc3MVpTNjIzbXBTdHNlVzR0bFV2Y2Uxc21MTFlpWjc5U3J2NmZMb3pTa0xLU2JFeXV4SjBkMjJSWWFVNFVySU93U0d6dUxTTEJjZzZNS2tqb05qbFNfRE13dzYwWWluYkFFOGc3OHRMTlFibjFvVXBoZTBGb3pmMlQxLWRjaEdQOUpkUE5BT2NRcXJ2NnJObTdWS192bHQyX1JCeg?oc=5",
+   "publicado": "2026-11-24T14:18-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
-   "tickers": []
+   "tickers": [
+    "B3SA3"
+   ]
   },
   {
-   "titulo": "Fim da escala 6x1 pode exigir alta da Selic com PIB mais fraco, diz Kanczuk",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVml2WFE2LTdQalRhaWNUbWw3VjRrMzRfaFJ2WGNmOWpWa0xYWHZROHE5NUp0V2xaMUpTRGdqQzRQQk1acTJIVkdidHNZZjh5YW9DN19qTmViZnozaHRrNFA5QVFPVlVnUnptLVNDUWhRZ0RhWklTSnJ2LWZCQnJFeFFnTm1MeUNPRmVENHNhTFlHZnJFODh1a2FhcG9BdjdPR1FRdmVOckVzNWRMdzhsM2FBNEhZUmtWYjI3cnFhT2NHeXBFZU9nRUZJTGQwVzBw0gHfAUFVX3lxTE5JOXBmeFI1MlJPbkZETmhBSFMwYVFBVS1NX1d4Y05UZkFrWVRFOHBTbGRzQUQ4S1JUYzZSdWZjeTJfUUpNQTc4dlpXdlJTVDlUbkx2TXdHbWdLV3R2TjNjVXlleVdHMFdCcjZkcEt3NUZWeThMbjZrczFBNGxhN09RU3BXT011aEp1S2JfZk1IeE1Jam5kZ1E1TkNnek1oemxReVA1SkszNEdCMnVhRFh4TU5iRG10aUdfMTBaZnV4cF9QSkdJTTRVU3NnUEI1R0JleV9YUXFlV1pkbXNBZXM?oc=5",
-   "publicado": "2026-11-24T07:00-03:00",
-   "impacto": "alto",
+   "titulo": "Petrobras prevê investimentos de US$ 122 bilhões entre 2027 e 2031",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-preve-investimentos-de-us-122-bilhoes-entre-2027-e-2031",
+   "publicado": "2026-11-24T14:31-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Aprovação do pacote fiscal e dividendos da Petrobras movimentam bolsa; Ibovespa em dólar cai nesta terça-feira (24)",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTjhxS1pnbngtd3MtdTRNeEtNUzlLUUlkX0FzRVJEMHptS3Z1Nl9VZ2pqSThvU1J6Yy1GaUI0U3VaYUtIUlcxbWp4aW5SdTdFZDE4bllXVlFOMEZjWGFmemZpVWdneXBSdjRQdUpYVmJZalpwcHVEY1Q2YVZYZUZ5bjRybEhOUGtrMzNnbDRsU2hwUHdlb2xxOFJUemllX0RVcFhNSlNEazZnWkliM3QzX1h6QXRaQXprbGVoVF9hV3hzaDZsdWtaUnFvd05oQ1BHWGloQXNPQXA2Xzg?oc=5",
-   "publicado": "2026-11-24T07:00-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
+    "WIN"
    ],
    "tickers": [
     "PETR4"
    ]
   },
   {
-   "titulo": "Mercado vê primeiros sinais de reação do governo após dólar tocar os R$ 6",
+   "titulo": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+   "publicado": "2026-11-24T14:59-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+   "publicado": "2026-11-24T15:34-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Dólar recua após tocar R$ 6, mas gestores mantêm R$ 6,50 no radar e indicam proteção",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUE90Q25oa0JXTHFpSkdvdF9qZWNIWlZHTzJ2aENWbURCajQ3QldVODI5NGdQRkhFVkg1eHpxRkRsX2J6b3hTd3dQMkpBanFGXzBXY19LZnJlTEtjdEl5akJIQS1uNTNzajZyVFFQd0dRcEd0SklQdEo3RW1ncEc2NTh6b1BmcXM00gGOAUFVX3lxTFBjMnhFSzF1YndFdFpMbDIwVkpucThUUVNCbkhJLXV2RDJ3OTJabWZWT1cyY0VnMXF0NEpIbVBUeXdkTkxjaS1yVS1EaUtheGV6Zi1UbDlGVHp6LTk3RVVXVnMtM2JYSk04bjBmWFBkNFAxaGtNOHZ6QWtWbW45Z3FlaDNkbnJiRFpKM2g3OGc?oc=5",
+   "publicado": "2026-11-24T15:42-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "XP (XPBR31) e B3 (B3SA3) podem ter um 2027 mais difícil: Safra rebaixa ações e corta preço-alvo; confira",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX1I5a2FzU0JqOE40RE1JLS1kWlhHU3ctSlFwdm4wOEhDVnROaDJ0UDN0NWNwX3NKUFNxTWNQX2VLTjA1d2JpSVpBRWlqdDh2Y3RuSFEzdFVsT09wLWpmM2hRcmc3R2xLVElYdWVqRW9RalpXUXBZNnl2U3BVb0hLZ0lLc0ZtZXRGZ0FSZTd5ZG43eENtMDAzWXBvd2M1U2lrV3UydXhlRXo1NklxaFl3SWJYSUtCVDRfcjlCSm9n?oc=5",
+   "publicado": "2026-11-24T16:17-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "B3SA3"
+   ]
+  },
+  {
+   "titulo": "Lula sanciona sem vetos projeto de ajuste fiscal de R$ 50 bi em 2027 após aprovação na Câmara",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/lula-sanciona-sem-vetos-projeto-de-ajuste-fiscal-de-r-50-bi-em-2027-apos-aprovacao-na-camara/",
+   "publicado": "2026-11-24T16:20-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Ações da Vale cedem quase 5% com onda vendedora e estão entre as maiores quedas do Ibovespa",
    "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX0tGd0dYWjlZNGRGT0ZsaUxuQUpoN3gzYVZ2aGpXcUN3WEZSR2EyOExYcFVPeFhUaHdzZFFrRVRLNUN3UW9LbHhva3FGUFg4dl8zd2c2WEZYSkN0TUlYMVBNWXdzdG4zMFB6NzhNUWoxNVMxMGhoSDc2ZzRWVEZ1Q2wzQmN2SGZEX1l3NERkcWpWelJKQnc4RVdDZ2t2eVdweDJrcnZpUDl4eEI4SFpxMzRFQnFKN19FSkg2a00tZmNLSU5Ta3NNd0M3ZWkxQdIB3AFBVV95cUxQdHF6YWZOWl8xTHhNd3pGX1lQZ1p5VkZEVzZhd0ZkLXlmU0dzR3VGQVFoa1doTXVhd0hrbU5jWk9QRlZqdnB3aFo1cnN5UUhOSGVGeXRKM1hob0E2LXpER3pIenZjU2RsNHpuWV8zcjFrb0c0bjk4MmFUX1Vtcm1jLVJXSGx4V1FTQllYWDVGSnVBZ0wxcHpiWHk4U0I3ZkVRcWVLclpUVHJ0TVRIeVVPdkpaaF9kcm5TdTdDTDRxWkpieTRYSUhERy1fOTM2dG92eUVfQVprZkRqeVFi?oc=5",
-   "publicado": "2026-11-24T07:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "BC tem US$ 363 bilhões em reservas: por que isso não basta para segurar o dólar?",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbk1raWk3dzNUWV96MmI4UzFRX18yUVZBSWktR0FFUGExb1hsSG9oeEEwcGgxZ1hlY1BubU9NVWV6bGZLa1hkeFdTeHAyUDdmdmpwaTVYbWxsMDVfOHhsTzJIWDFHN3lPV2ttNnhKZEZJUmNQZzhRTjhtZ1JiMzlqY2VXZ1lQZ9IBiwFBVV95cUxQeGhoakxfakJXQzRfZVR3NGpydmtTVDF3TFR1Y1cxaER6UktYQVpZMHIzYS1ZQ2dsOGxTa1loVW1nZDBZUUlEVDdOV2pIVm1ENTFWb1ZVZWpTdk9XQll5dHhxSEJXQUVySkhTODlLRW8tdUZwNHJHSW1OMUVaYVJqN1NnT0Vwb3h2ZFhj?oc=5",
-   "publicado": "2026-11-24T07:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Day Trade hoje (24): Ibovespa testa suporte e minidólar enfrenta barreira nos 6 mil",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlR0eXpMTGdLdTVOTllVM255cXN0ek1Dc0xPRHliMUpudE0xbk80TEJQWG9RQjV3SUxTU2Z6VDlmcGpmLXZJWHRWSV9YdTlFbUJ5aU5PZFNrVDhZRWdIeWtTYnlQQ0xFWDluQ2lqcnFsTHRDY2xLVmhCOEVpblk2T0lwZ2VoN19x0gGOAUFVX3lxTFA3UWdmM1Q2MEZBaUdfTTloUjRqNk9Gemx4VnlKSkU0VS1pTVlULXZqaTdSblhKLURxcVpsOW1KNm9JNzBBcTB2YlNLVlN0T2RyTmVYM1c5SnZXdmlTanZRZWd4UndqUzUza3Yzc2VnUDNMb1cxY01hZTdXNzJSVVlZVHc5Tm5nUWY0MzVMR3c?oc=5",
-   "publicado": "2026-11-24T07:03-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Vale retoma parcialmente operações na mina de Viga, em Congonhas (MG)",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/vale-retoma-parcialmente-operacoes-na-mina-de-viga-em-congonhas-mg.shtml",
-   "publicado": "2026-11-24T07:32-03:00",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTnFCOHlBbUdXemM0YjZNOWFVTWVYY05kVHcycjlOOUlab0ZyUHBQOHFkV0lrS0YzLWJnY2ZvOGRnRG1GR3U0aVMtRk8wNkxaX0tRZEhzZS1aY0FEeXNuTXhwdkFKbjhGV2VoMlpFdUI5UHJCMENFdUd2VWZFSm5fU2NWZ3A5bS0yMkp0bnlSRF8tX09rVVVwYkxtUHlOZWcyUjZVc2sxWDRDSi1Sa0ZjS21iOVhDdFBwMFJTZHFHT29wSTM2RGZWU25VLWR0QkdxWGlhbHRCX0xCQTQ4Z3FPd1RJVk5OaHNLWm5JN01hYXZyVUdrems40gGGAkFVX3lxTFBrVjNQMGJlY0NnQ2RKT19XbERneEdQWW9sVXJoVEpJeWNUTWFZNmpXM1VYRW5MblhSdXFFREZscUk5R29NQWYyM0UwNlRwWGtiTy1nQldzT3dLZW5OT0ZUOE5mVENhWnlGQ012U0ctcVVPVDU4M3BsNXE4TzFiOWo0cVlvLWZSOUdvdHhUbUxpb0FsME9iaUJ3QmU4Y1o5RldsSGZidXdSODZYSGdRbW5KZmgxRTVBbGRoczRnNVdtYXU2U01OVTlCc201Q3NnOUNJT19ZZU80QUVjU250eHZCbzVielNTQzBCYXhZQlRUdkdnbjRkUkR2OGs0dEszXzF5ajNLRXc?oc=5",
+   "publicado": "2026-11-24T16:22-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
@@ -158,10 +982,37 @@
    "tickers": [
     "VALE3"
    ]
+  },
+  {
+   "titulo": "Vale derrete quase 5% e perde R$ 11,9 bilhões em valor de mercado só hoje",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZl9BWjFrWndLQ2lMaEQtWVlnQThuOE5aVEhSX1JwMFZmX3h6NU81dlo4aDZfNzJaNldyVWFCa1ptZ1R4bkViZzJ4dzZZSGhlTWlMaTVYeHZZeWw1MVFqc3NtZlF5MXA0bU9WWTRfRkM0aWp6QXpJaFZQc2xRUGR1RHhFV1NZeXUxOHQ2U1dNQVg3anR5X0NLeHVhOExkcXZ1UW1GTm9DN215UVZOZG9udDFwZzNDYmw4Q19TRTg5c3NSUTNkMG4wTNIBzgFBVV95cUxQUXJHb3N3YzdrY0J4T2NjWklyQmNRUEsyZ1ZhV2dtdmlhQzhRMlhMNFBKMV9oM3p2Z0oxMDg2WGxYaDJ5YWY2UDl1WW13YlR4UndoSGo1TG5JeXN4MUZZeVR1RjFZWVBRSEtZYlBPeGwtN3pRUnFERlpFQ0ZrY3ZtX1IyRW5EbkRDcGZtaFBFRDNwdXBhZGNyLXVQZjU0X3FrN3J4RjhnYTlVa0lPQjVkbHFWcXBUTWU0c0NFc0JrZmh2YVF5QUNLTW41MUlwQQ?oc=5",
+   "publicado": "2026-11-24T16:40-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "VALE3"
+   ]
+  },
+  {
+   "titulo": "Ibovespa perde fôlego e passa a cair com ações da Vale em baixa de 5%; dólar recua",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcFFtQ1pwY25fR192RU1zTEo1VWZRcXQ1SWFacnU3WGEtdUhyLW1lLTJpZFpvR2cyeGRqYlc2WlU0eG5UV2d6ekFDbGdLR0tCazc1ZTJnV0dvbTF4VHE0OXRSQWttZVAySFc2Wk51c0p5ZWdla3U2UUU5Z3Q4M2d5azVCLW5YQjg2ZXpvT2ZicDJFVXNMbFhwN3UxeGw3TlNCaWJjWDFPVnJkckhkcF93NmRiSGdKYlo2bW1udHhqaGxpaFRob0E0VkY1dVNra0Q5bXNhNW1XTmwxZ9IB3wFBVV95cUxOU2xMN0t6dkpTSzlJblVoUW5QOENBb0lIZHNuOGxkVi1ENVVweWRkQS1tN3BkOFh2ZWlhaF92VmViN0p4U05lWmVqdmpOdHlCSGlYaU01VHpCWjdNYTM1TVprTTlXa21zdWhOVncwdEFhUl92YTJUUVdIVmRXVE1xckQ1SVZSLU9KMW9qUmFXbDluUTBhQkxCTkY1bVJfa3pWS3U2SzlUNDhlQ19EbXF2RU9zNnAxSkFFRVRDUmV6cWlmVjlXcTlZbVcxUE8xMnVOMW01WlJYZmtCNlg3eUtZ?oc=5",
+   "publicado": "2026-11-24T16:52-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": [
+    "VALE3"
+   ]
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-24T07:50-03:00",
+ "atualizado_em": "2026-11-24T17:10-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -175,10 +1026,24 @@
  ],
  "noticias": [
   {
-   "titulo": "Vale retoma parcialmente operações na mina de Viga, em Congonhas (MG)",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/vale-retoma-parcialmente-operacoes-na-mina-de-viga-em-congonhas-mg.shtml",
-   "publicado": "2026-11-24T07:32-03:00",
+   "titulo": "Ibovespa perde fôlego e passa a cair com ações da Vale em baixa de 5%; dólar recua",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcFFtQ1pwY25fR192RU1zTEo1VWZRcXQ1SWFacnU3WGEtdUhyLW1lLTJpZFpvR2cyeGRqYlc2WlU0eG5UV2d6ekFDbGdLR0tCazc1ZTJnV0dvbTF4VHE0OXRSQWttZVAySFc2Wk51c0p5ZWdla3U2UUU5Z3Q4M2d5azVCLW5YQjg2ZXpvT2ZicDJFVXNMbFhwN3UxeGw3TlNCaWJjWDFPVnJkckhkcF93NmRiSGdKYlo2bW1udHhqaGxpaFRob0E0VkY1dVNra0Q5bXNhNW1XTmwxZ9IB3wFBVV95cUxOU2xMN0t6dkpTSzlJblVoUW5QOENBb0lIZHNuOGxkVi1ENVVweWRkQS1tN3BkOFh2ZWlhaF92VmViN0p4U05lWmVqdmpOdHlCSGlYaU01VHpCWjdNYTM1TVprTTlXa21zdWhOVncwdEFhUl92YTJUUVdIVmRXVE1xckQ1SVZSLU9KMW9qUmFXbDluUTBhQkxCTkY1bVJfa3pWS3U2SzlUNDhlQ19EbXF2RU9zNnAxSkFFRVRDUmV6cWlmVjlXcTlZbVcxUE8xMnVOMW01WlJYZmtCNlg3eUtZ?oc=5",
+   "publicado": "2026-11-24T16:52-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": [
+    "VALE3"
+   ]
+  },
+  {
+   "titulo": "Vale derrete quase 5% e perde R$ 11,9 bilhões em valor de mercado só hoje",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZl9BWjFrWndLQ2lMaEQtWVlnQThuOE5aVEhSX1JwMFZmX3h6NU81dlo4aDZfNzJaNldyVWFCa1ptZ1R4bkViZzJ4dzZZSGhlTWlMaTVYeHZZeWw1MVFqc3NtZlF5MXA0bU9WWTRfRkM0aWp6QXpJaFZQc2xRUGR1RHhFV1NZeXUxOHQ2U1dNQVg3anR5X0NLeHVhOExkcXZ1UW1GTm9DN215UVZOZG9udDFwZzNDYmw4Q19TRTg5c3NSUTNkMG4wTNIBzgFBVV95cUxQUXJHb3N3YzdrY0J4T2NjWklyQmNRUEsyZ1ZhV2dtdmlhQzhRMlhMNFBKMV9oM3p2Z0oxMDg2WGxYaDJ5YWY2UDl1WW13YlR4UndoSGo1TG5JeXN4MUZZeVR1RjFZWVBRSEtZYlBPeGwtN3pRUnFERlpFQ0ZrY3ZtX1IyRW5EbkRDcGZtaFBFRDNwdXBhZGNyLXVQZjU0X3FrN3J4RjhnYTlVa0lPQjVkbHFWcXBUTWU0c0NFc0JrZmh2YVF5QUNLTW41MUlwQQ?oc=5",
+   "publicado": "2026-11-24T16:40-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
@@ -188,94 +1053,47 @@
    ]
   },
   {
-   "titulo": "Day Trade hoje (24): Ibovespa testa suporte e minidólar enfrenta barreira nos 6 mil",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlR0eXpMTGdLdTVOTllVM255cXN0ek1Dc0xPRHliMUpudE0xbk80TEJQWG9RQjV3SUxTU2Z6VDlmcGpmLXZJWHRWSV9YdTlFbUJ5aU5PZFNrVDhZRWdIeWtTYnlQQ0xFWDluQ2lqcnFsTHRDY2xLVmhCOEVpblk2T0lwZ2VoN19x0gGOAUFVX3lxTFA3UWdmM1Q2MEZBaUdfTTloUjRqNk9Gemx4VnlKSkU0VS1pTVlULXZqaTdSblhKLURxcVpsOW1KNm9JNzBBcTB2YlNLVlN0T2RyTmVYM1c5SnZXdmlTanZRZWd4UndqUzUza3Yzc2VnUDNMb1cxY01hZTdXNzJSVVlZVHc5Tm5nUWY0MzVMR3c?oc=5",
-   "publicado": "2026-11-24T07:03-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Fim da escala 6x1 pode exigir alta da Selic com PIB mais fraco, diz Kanczuk",
+   "titulo": "Ações da Vale cedem quase 5% com onda vendedora e estão entre as maiores quedas do Ibovespa",
    "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVml2WFE2LTdQalRhaWNUbWw3VjRrMzRfaFJ2WGNmOWpWa0xYWHZROHE5NUp0V2xaMUpTRGdqQzRQQk1acTJIVkdidHNZZjh5YW9DN19qTmViZnozaHRrNFA5QVFPVlVnUnptLVNDUWhRZ0RhWklTSnJ2LWZCQnJFeFFnTm1MeUNPRmVENHNhTFlHZnJFODh1a2FhcG9BdjdPR1FRdmVOckVzNWRMdzhsM2FBNEhZUmtWYjI3cnFhT2NHeXBFZU9nRUZJTGQwVzBw0gHfAUFVX3lxTE5JOXBmeFI1MlJPbkZETmhBSFMwYVFBVS1NX1d4Y05UZkFrWVRFOHBTbGRzQUQ4S1JUYzZSdWZjeTJfUUpNQTc4dlpXdlJTVDlUbkx2TXdHbWdLV3R2TjNjVXlleVdHMFdCcjZkcEt3NUZWeThMbjZrczFBNGxhN09RU3BXT011aEp1S2JfZk1IeE1Jam5kZ1E1TkNnek1oemxReVA1SkszNEdCMnVhRFh4TU5iRG10aUdfMTBaZnV4cF9QSkdJTTRVU3NnUEI1R0JleV9YUXFlV1pkbXNBZXM?oc=5",
-   "publicado": "2026-11-24T07:00-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Aprovação do pacote fiscal e dividendos da Petrobras movimentam bolsa; Ibovespa em dólar cai nesta terça-feira (24)",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTjhxS1pnbngtd3MtdTRNeEtNUzlLUUlkX0FzRVJEMHptS3Z1Nl9VZ2pqSThvU1J6Yy1GaUI0U3VaYUtIUlcxbWp4aW5SdTdFZDE4bllXVlFOMEZjWGFmemZpVWdneXBSdjRQdUpYVmJZalpwcHVEY1Q2YVZYZUZ5bjRybEhOUGtrMzNnbDRsU2hwUHdlb2xxOFJUemllX0RVcFhNSlNEazZnWkliM3QzX1h6QXRaQXprbGVoVF9hV3hzaDZsdWtaUnFvd05oQ1BHWGloQXNPQXA2Xzg?oc=5",
-   "publicado": "2026-11-24T07:00-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Mercado vê primeiros sinais de reação do governo após dólar tocar os R$ 6",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX0tGd0dYWjlZNGRGT0ZsaUxuQUpoN3gzYVZ2aGpXcUN3WEZSR2EyOExYcFVPeFhUaHdzZFFrRVRLNUN3UW9LbHhva3FGUFg4dl8zd2c2WEZYSkN0TUlYMVBNWXdzdG4zMFB6NzhNUWoxNVMxMGhoSDc2ZzRWVEZ1Q2wzQmN2SGZEX1l3NERkcWpWelJKQnc4RVdDZ2t2eVdweDJrcnZpUDl4eEI4SFpxMzRFQnFKN19FSkg2a00tZmNLSU5Ta3NNd0M3ZWkxQdIB3AFBVV95cUxQdHF6YWZOWl8xTHhNd3pGX1lQZ1p5VkZEVzZhd0ZkLXlmU0dzR3VGQVFoa1doTXVhd0hrbU5jWk9QRlZqdnB3aFo1cnN5UUhOSGVGeXRKM1hob0E2LXpER3pIenZjU2RsNHpuWV8zcjFrb0c0bjk4MmFUX1Vtcm1jLVJXSGx4V1FTQllYWDVGSnVBZ0wxcHpiWHk4U0I3ZkVRcWVLclpUVHJ0TVRIeVVPdkpaaF9kcm5TdTdDTDRxWkpieTRYSUhERy1fOTM2dG92eUVfQVprZkRqeVFi?oc=5",
-   "publicado": "2026-11-24T07:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "BC tem US$ 363 bilhões em reservas: por que isso não basta para segurar o dólar?",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbk1raWk3dzNUWV96MmI4UzFRX18yUVZBSWktR0FFUGExb1hsSG9oeEEwcGgxZ1hlY1BubU9NVWV6bGZLa1hkeFdTeHAyUDdmdmpwaTVYbWxsMDVfOHhsTzJIWDFHN3lPV2ttNnhKZEZJUmNQZzhRTjhtZ1JiMzlqY2VXZ1lQZ9IBiwFBVV95cUxQeGhoakxfakJXQzRfZVR3NGpydmtTVDF3TFR1Y1cxaER6UktYQVpZMHIzYS1ZQ2dsOGxTa1loVW1nZDBZUUlEVDdOV2pIVm1ENTFWb1ZVZWpTdk9XQll5dHhxSEJXQUVySkhTODlLRW8tdUZwNHJHSW1OMUVaYVJqN1NnT0Vwb3h2ZFhj?oc=5",
-   "publicado": "2026-11-24T07:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Asian tech stocks recover from ‘collateral damage’ of Jensen Huang’s departure",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-   "publicado": "2026-11-24T06:46-03:00",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTnFCOHlBbUdXemM0YjZNOWFVTWVYY05kVHcycjlOOUlab0ZyUHBQOHFkV0lrS0YzLWJnY2ZvOGRnRG1GR3U0aVMtRk8wNkxaX0tRZEhzZS1aY0FEeXNuTXhwdkFKbjhGV2VoMlpFdUI5UHJCMENFdUd2VWZFSm5fU2NWZ3A5bS0yMkp0bnlSRF8tX09rVVVwYkxtUHlOZWcyUjZVc2sxWDRDSi1Sa0ZjS21iOVhDdFBwMFJTZHFHT29wSTM2RGZWU25VLWR0QkdxWGlhbHRCX0xCQTQ4Z3FPd1RJVk5OaHNLWm5JN01hYXZyVUdrems40gGGAkFVX3lxTFBrVjNQMGJlY0NnQ2RKT19XbERneEdQWW9sVXJoVEpJeWNUTWFZNmpXM1VYRW5MblhSdXFFREZscUk5R29NQWYyM0UwNlRwWGtiTy1nQldzT3dLZW5OT0ZUOE5mVENhWnlGQ012U0ctcVVPVDU4M3BsNXE4TzFiOWo0cVlvLWZSOUdvdHhUbUxpb0FsME9iaUJ3QmU4Y1o5RldsSGZidXdSODZYSGdRbW5KZmgxRTVBbGRoczRnNVdtYXU2U01OVTlCc201Q3NnOUNJT19ZZU80QUVjU250eHZCbzVielNTQzBCYXhZQlRUdkdnbjRkUkR2OGs0dEszXzF5ajNLRXc?oc=5",
+   "publicado": "2026-11-24T16:22-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
-   "tickers": []
+   "tickers": [
+    "VALE3"
+   ]
   },
   {
-   "titulo": "Plano fiscal de Lula passa na Câmara após dólar superar R$ 6",
-   "fonte": "Bloomberg Línea",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGJKZVJUR1FBdEQyNElYX0IyQnY5SHBqNm5DcFEzNXYwR1M0SnA0bi0xX3l4M2ZvaE80Nmh3MXM3QU9kYkxqaTZ1d0FFNWhmX29sY1pXZzVZbkNDSC1jRS1tZkpncktGVldEbTBwOWlISkxnVjFNT1FDeGFPLU9EUWxzekEzeGJGcWQ4QWhTRzNvRmt2YUFXeWQ0aU9ObFJBRHJz0gG3AUFVX3lxTE9XRTNjZ2FhZlhlNy1TbU1EQWNQTGtHSHoyek96NlN0WWFPMFdfeUQxQURkeDdPX2tQaGF1d0plUkcwRzVPaTJWdFpNQ2FPdjdCSnJfZXkya3JMWXJOQVJXcVlELThNU01VOVIyR3FfQ3dQVi1seVRtSzRZc2NkS00yRGpFSHhBaGJldExGQjJBRUhBUl9fMlhSaFR6RmVWbW5YZG9xcHI5a1czZUwxOGJLLWliVm1JWQ?oc=5",
-   "publicado": "2026-11-24T06:39-03:00",
-   "impacto": "alto",
+   "titulo": "Lula sanciona sem vetos projeto de ajuste fiscal de R$ 50 bi em 2027 após aprovação na Câmara",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/lula-sanciona-sem-vetos-projeto-de-ajuste-fiscal-de-r-50-bi-em-2027-apos-aprovacao-na-camara/",
+   "publicado": "2026-11-24T16:20-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WDO",
     "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Bolsa e dólar: veja os destaques da agenda econômica desta terça-feira (24)",
+   "titulo": "XP (XPBR31) e B3 (B3SA3) podem ter um 2027 mais difícil: Safra rebaixa ações e corta preço-alvo; confira",
    "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWR2STE1S0tJSDRmMlB3MzNtRDlrM2huUXdZM2h5dXdDaFQwUUdwUHFJb3BEbUYxalg3WUxXQ3I1bDJKbGxqQlg0RVBsaW53TXNiRWs1Si1MMEZsOE9rZy0xN3U4dGNuN3hLUEFXZWIwQzVGN0N3UWN3cUtobWRGNW1SckxfSTg2cmRJY3Q3QnJWV3phbnZEYlVIVUlFY3RxVjZjc3JUWXM?oc=5",
-   "publicado": "2026-11-24T06:30-03:00",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX1I5a2FzU0JqOE40RE1JLS1kWlhHU3ctSlFwdm4wOEhDVnROaDJ0UDN0NWNwX3NKUFNxTWNQX2VLTjA1d2JpSVpBRWlqdDh2Y3RuSFEzdFVsT09wLWpmM2hRcmc3R2xLVElYdWVqRW9RalpXUXBZNnl2U3BVb0hLZ0lLc0ZtZXRGZ0FSZTd5ZG43eENtMDAzWXBvd2M1U2lrV3UydXhlRXo1NklxaFl3SWJYSUtCVDRfcjlCSm9n?oc=5",
+   "publicado": "2026-11-24T16:17-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "B3SA3"
+   ]
+  },
+  {
+   "titulo": "Dólar recua após tocar R$ 6, mas gestores mantêm R$ 6,50 no radar e indicam proteção",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUE90Q25oa0JXTHFpSkdvdF9qZWNIWlZHTzJ2aENWbURCajQ3QldVODI5NGdQRkhFVkg1eHpxRkRsX2J6b3hTd3dQMkpBanFGXzBXY19LZnJlTEtjdEl5akJIQS1uNTNzajZyVFFQd0dRcEd0SklQdEo3RW1ncEc2NTh6b1BmcXM00gGOAUFVX3lxTFBjMnhFSzF1YndFdFpMbDIwVkpucThUUVNCbkhJLXV2RDJ3OTJabWZWT1cyY0VnMXF0NEpIbVBUeXdkTkxjaS1yVS1EaUtheGV6Zi1UbDlGVHp6LTk3RVVXVnMtM2JYSk04bjBmWFBkNFAxaGtNOHZ6QWtWbW45Z3FlaDNkbnJiRFpKM2g3OGc?oc=5",
+   "publicado": "2026-11-24T15:42-03:00",
    "impacto": "medio",
    "ativos": [
     "WDO"
@@ -283,54 +1101,52 @@
    "tickers": []
   },
   {
-   "titulo": "Ajuste fiscal, plano da Petrobras e confiança do consumidor movimentam a terça-feira",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbnZ6My1EQVUxMDB3eFU1UWtVc1RtOTFBMGstQ3AxUjE3MmwyM1NUWGVDOEQyYWtBMzJBQ1hDUlZ5cjk3eWI2MnpXdXF0allyVE9BMFVodUI0RFg5WE1Cb1ZqMU9RcUpZMjBCakFxMnREampob3lRYXlrY3FpUEtaRk1tN0Zod0h6dGF1cS1FNVBSZUlqMnBj0gGcAUFVX3lxTE95QjkwV2tOZk5lX01yMkRiNS1vcjZHdk1PWGhBOWtaTUtqSmVkSkxrRXpDT0w3bXM2RFFfWENKdHRicXJPZDAzcHZYaV9Xa1Mxa0tNWGVyZTFNaXB4R1dLMU5ESlZWTmRxa3Z6SFNSVTdvdU9qcXVzY3BIRjVIWG95WUJhX0FpU19XcmpCY1loN3p4cldnb3o4Nlg0TQ?oc=5",
-   "publicado": "2026-11-24T06:14-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Capital estrangeiro sustenta M&A no Brasil à espera de clareza fiscal, dizem bancos",
-   "fonte": "Bloomberg Línea",
-   "url": "https://www.bloomberglinea.com.br/2026/11/24/capital-estrangeiro-sustenta-ma-no-brasil-a-espera-de-clareza-fiscal-dizem-bancos/",
-   "publicado": "2026-11-24T06:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Tempo real: Ibovespa de olho no ajuste fiscal e na Petrobras; veja os destaques desta terça-feira (24)",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16dGktLTZQcjhGOXpyS21BUlVmMFdORHNzekJCeUVET25FbUUxMnZ4dk43UThuZFVJUk40NTU4LXcxSV84eTV0Sks1bWg4eklXaVlyMV9NWGxCbzBoU05KZ1JUZVNGOTgt?oc=5",
-   "publicado": "2026-11-24T06:00-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+   "titulo": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
    "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
-   "publicado": "2026-11-24T05:35-03:00",
+   "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+   "publicado": "2026-11-24T15:34-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
    ],
    "tickers": []
+  },
+  {
+   "titulo": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+   "publicado": "2026-11-24T14:59-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Petrobras prevê investimentos de US$ 122 bilhões entre 2027 e 2031",
+   "fonte": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-preve-investimentos-de-us-122-bilhoes-entre-2027-e-2031",
+   "publicado": "2026-11-24T14:31-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "PETR4"
+   ]
+  },
+  {
+   "titulo": "UBS BB rebaixa B3 e corta preço-alvo em 39%; entenda os efeitos dos juros na ação da dona da Bolsa",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU3RHMXcwMEl3SnJIVXdVTENMQXItb3kxSWhHbV82amVrZXVpRFQ1Q1FiM0RRVE01MVUwaDR5RGRDNVQzRTNpQk9mQlBpeFFUT25LYlVxLUF0RkxCd1djc29SMFotZS0wSllKelcxNjMyOTY0YzY3ZVd2OTlBTEVXeHE2T2E4VmNrUERiQmg3MUdxMFV5RVdmY3JZM3ZKd1FPcUE5UWpaRExHRHREdjJLY1A1cThqOEJVNEtGaXlFNl9DaUhzNWx5WEVwTklYTENZTmZWTER1NFhQdWR6Vnl0SG8yQmItSUdFNG5N0gHwAUFVX3lxTFBRQ293VERGcnJxRlY5ZWxRRFJ3MlUtMWcyd0hZRXhsZi1lU3BQVG9jRWp6M2hUelA4THA3cG5TNTVXb0szQnBYc1lWNlNFN0FJNWVKdzc3MVpTNjIzbXBTdHNlVzR0bFV2Y2Uxc21MTFlpWjc5U3J2NmZMb3pTa0xLU2JFeXV4SjBkMjJSWWFVNFVySU93U0d6dUxTTEJjZzZNS2tqb05qbFNfRE13dzYwWWluYkFFOGc3OHRMTlFibjFvVXBoZTBGb3pmMlQxLWRjaEdQOUpkUE5BT2NRcXJ2NnJObTdWS192bHQyX1JCeg?oc=5",
+   "publicado": "2026-11-24T14:18-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "B3SA3"
+   ]
   }
  ]
 }
