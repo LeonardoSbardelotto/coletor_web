@@ -1,7 +1,7 @@
 {
  "mercado": {
   "data": "2026-11-24",
-  "atualizado_em": "2026-11-24T17:10-03:00",
+  "atualizado_em": "2026-11-24T17:55-03:00",
   "ibov": {
    "anterior": 164796.05,
    "pontos": [
@@ -336,6 +336,14 @@
     [
      "16:50",
      164701.0
+    ],
+    [
+     "16:55",
+     164695.0
+    ],
+    [
+     "17:00",
+     164097.0
     ]
    ]
   },
@@ -736,41 +744,47 @@
     ],
     [
      "17:10",
-     5.9075
+     5.9078
+    ],
+    [
+     "17:15",
+     5.9088
+    ],
+    [
+     "17:20",
+     5.9078
+    ],
+    [
+     "17:25",
+     5.9113
+    ],
+    [
+     "17:30",
+     5.9123
+    ],
+    [
+     "17:35",
+     5.9198
+    ],
+    [
+     "17:40",
+     5.9165
+    ],
+    [
+     "17:45",
+     5.912
+    ],
+    [
+     "17:50",
+     5.906
+    ],
+    [
+     "17:55",
+     5.907
     ]
    ]
   },
   "marcadores": [
-   {
-    "hora": "14:18",
-    "titulo": "UBS BB rebaixa B3 e corta preço-alvo em 39%; entenda os efeitos dos juros na ação da dona da Bolsa",
-    "fonte": "Estadão",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU3RHMXcwMEl3SnJIVXdVTENMQXItb3kxSWhHbV82amVrZXVpRFQ1Q1FiM0RRVE01MVUwaDR5RGRDNVQzRTNpQk9mQlBpeFFUT25LYlVxLUF0RkxCd1djc29SMFotZS0wSllKelcxNjMyOTY0YzY3ZVd2OTlBTEVXeHE2T2E4VmNrUERiQmg3MUdxMFV5RVdmY3JZM3ZKd1FPcUE5UWpaRExHRHREdjJLY1A1cThqOEJVNEtGaXlFNl9DaUhzNWx5WEVwTklYTENZTmZWTER1NFhQdWR6Vnl0SG8yQmItSUdFNG5N0gHwAUFVX3lxTFBRQ293VERGcnJxRlY5ZWxRRFJ3MlUtMWcyd0hZRXhsZi1lU3BQVG9jRWp6M2hUelA4THA3cG5TNTVXb0szQnBYc1lWNlNFN0FJNWVKdzc3MVpTNjIzbXBTdHNlVzR0bFV2Y2Uxc21MTFlpWjc5U3J2NmZMb3pTa0xLU2JFeXV4SjBkMjJSWWFVNFVySU93U0d6dUxTTEJjZzZNS2tqb05qbFNfRE13dzYwWWluYkFFOGc3OHRMTlFibjFvVXBoZTBGb3pmMlQxLWRjaEdQOUpkUE5BT2NRcXJ2NnJObTdWS192bHQyX1JCeg?oc=5",
-    "impacto": "medio",
-    "ativos": [
-     "WIN"
-    ],
-    "tickers": [
-     "B3SA3"
-    ],
-    "ibov30": -0.02,
-    "dolar30": 0.07
-   },
-   {
-    "hora": "14:31",
-    "titulo": "Petrobras prevê investimentos de US$ 122 bilhões entre 2027 e 2031",
-    "fonte": "Agência Brasil",
-    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-preve-investimentos-de-us-122-bilhoes-entre-2027-e-2031",
-    "impacto": "medio",
-    "ativos": [
-     "WIN"
-    ],
-    "tickers": [
-     "PETR4"
-    ],
-    "ibov30": -0.05,
-    "dolar30": 0.02
-   },
    {
     "hora": "14:59",
     "titulo": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
@@ -798,19 +812,6 @@
     "dolar30": 0.14
    },
    {
-    "hora": "15:42",
-    "titulo": "Dólar recua após tocar R$ 6, mas gestores mantêm R$ 6,50 no radar e indicam proteção",
-    "fonte": "InfoMoney",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUE90Q25oa0JXTHFpSkdvdF9qZWNIWlZHTzJ2aENWbURCajQ3QldVODI5NGdQRkhFVkg1eHpxRkRsX2J6b3hTd3dQMkpBanFGXzBXY19LZnJlTEtjdEl5akJIQS1uNTNzajZyVFFQd0dRcEd0SklQdEo3RW1ncEc2NTh6b1BmcXM00gGOAUFVX3lxTFBjMnhFSzF1YndFdFpMbDIwVkpucThUUVNCbkhJLXV2RDJ3OTJabWZWT1cyY0VnMXF0NEpIbVBUeXdkTkxjaS1yVS1EaUtheGV6Zi1UbDlGVHp6LTk3RVVXVnMtM2JYSk04bjBmWFBkNFAxaGtNOHZ6QWtWbW45Z3FlaDNkbnJiRFpKM2g3OGc?oc=5",
-    "impacto": "medio",
-    "ativos": [
-     "WDO"
-    ],
-    "tickers": [],
-    "ibov30": 0.07,
-    "dolar30": 0.04
-   },
-   {
     "hora": "16:17",
     "titulo": "XP (XPBR31) e B3 (B3SA3) podem ter um 2027 mais difícil: Safra rebaixa ações e corta preço-alvo; confira",
     "fonte": "Money Times",
@@ -822,6 +823,19 @@
     "tickers": [
      "B3SA3"
     ],
+    "ibov30": -0.04,
+    "dolar30": 0.08
+   },
+   {
+    "hora": "16:19",
+    "titulo": "Após bater os R$ 6, o dólar está caro ou barato?",
+    "fonte": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObTFyMnViMC1MNWdPOHNnTEJQXzN0M0xQLWJUNFZHeWx1Mkh3U1VSZ2VvenVpMFNKYXU1bVhuSy02VlBDMDV3Um5KY3NTSUhvNlFUeFhmNVJYVmtmZ19WR1ZTYjdBRGpTNDF1U2tWQ0Z4aHlXOV9NMU43bXZVVWJ6RExBenhwSGJzbnFaMdIBkgFBVV95cUxNeWNxVWc5QVdmbDZnQ1RsRE1jZnNjd3g0ZU5EWDhxNWsxbnlzcDFJbnZQRDZQa0FMNXpCYVlLX2oyOHhSaWVyWXNGOXRNajd0QkhJSzZ2eFNHUTNEb0tPcEtvR3Nsc2xNMDJXN0FyaEQtNzdDMUJKc1l5cTliTjVvNUVBbFFDRFROVWRtVXZ4WVotQQ?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WDO"
+    ],
+    "tickers": [],
     "ibov30": -0.04,
     "dolar30": 0.08
    },
@@ -857,7 +871,7 @@
     "hora": "16:40",
     "titulo": "Vale derrete quase 5% e perde R$ 11,9 bilhões em valor de mercado só hoje",
     "fonte": "Estadão",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZl9BWjFrWndLQ2lMaEQtWVlnQThuOE5aVEhSX1JwMFZmX3h6NU81dlo4aDZfNzJaNldyVWFCa1ptZ1R4bkViZzJ4dzZZSGhlTWlMaTVYeHZZeWw1MVFqc3NtZlF5MXA0bU9WWTRfRkM0aWp6QXpJaFZQc2xRUGR1RHhFV1NZeXUxOHQ2U1dNQVg3anR5X0NLeHVhOExkcXZ1UW1GTm9DN215UVZOZG9udDFwZzNDYmw4Q19TRTg5c3NSUTNkMG4wTNIBzgFBVV95cUxQUXJHb3N3YzdrY0J4T2NjWklyQmNRUEsyZ1ZhV2dtdmlhQzhRMlhMNFBKMV9oM3p2Z0oxMDg2WGxYaDJ5YWY2UDl1WW13YlR4UndoSGo1TG5JeXN4MUZZeVR1RjFZWVBRSEtZYlBPeGwtN3pRUnFERlpFQ0ZrY3ZtX1IyRW5EbkRDcGZtaFBFRDNwdXBhZGNyLXVQZjU0X3FrN3J4RjhnYTlVa0lPQjVkbHFWcXBUTWU0c0NFc0JrZmh2YVF5QUNLTW41MUlwQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZl9BWjFrWndLQ2lMaEQtWVlnQThuOE5aVEhSX1JwMFZmX3h6NU81dlo4aDZfNzJaNldyVWFCa1ptZ1R4bkViZzJ4dzZZSGhlTWlMaTVYeHZZeWw1MVFqc3NtZlF5MXA0bU9WWTRfRkM0aWp6QXpJaFZQc2xRUGR1RHhFV1NZeXUxOHQ2U1dNQVg3anR5X0NLeHVhOExkcXZ1UW1GTm9DN215UVZOZG9udDFwZzNDYmw4Q19TRTg5c3NSUTNkMG4wTA?oc=5",
     "impacto": "medio",
     "ativos": [
      "WIN"
@@ -869,8 +883,8 @@
     "dolar30": 0.23
    },
    {
-    "hora": "16:52",
-    "titulo": "Ibovespa perde fôlego e passa a cair com ações da Vale em baixa de 5%; dólar recua",
+    "hora": "16:56",
+    "titulo": "Dólar fecha em queda, mas fica acima de R$ 5,91; Ibovespa perde fôlego com Vale em baixa de 5%",
     "fonte": "Estadão",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcFFtQ1pwY25fR192RU1zTEo1VWZRcXQ1SWFacnU3WGEtdUhyLW1lLTJpZFpvR2cyeGRqYlc2WlU0eG5UV2d6ekFDbGdLR0tCazc1ZTJnV0dvbTF4VHE0OXRSQWttZVAySFc2Wk51c0p5ZWdla3U2UUU5Z3Q4M2d5azVCLW5YQjg2ZXpvT2ZicDJFVXNMbFhwN3UxeGw3TlNCaWJjWDFPVnJkckhkcF93NmRiSGdKYlo2bW1udHhqaGxpaFRob0E0VkY1dVNra0Q5bXNhNW1XTmwxZ9IB3wFBVV95cUxOU2xMN0t6dkpTSzlJblVoUW5QOENBb0lIZHNuOGxkVi1ENVVweWRkQS1tN3BkOFh2ZWlhaF92VmViN0p4U05lWmVqdmpOdHlCSGlYaU01VHpCWjdNYTM1TVprTTlXa21zdWhOVncwdEFhUl92YTJUUVdIVmRXVE1xckQ1SVZSLU9KMW9qUmFXbDluUTBhQkxCTkY1bVJfa3pWS3U2SzlUNDhlQ19EbXF2RU9zNnAxSkFFRVRDUmV6cWlmVjlXcTlZbVcxUE8xMnVOMW01WlJYZmtCNlg3eUtZ?oc=5",
     "impacto": "alto",
@@ -882,37 +896,91 @@
      "VALE3"
     ],
     "ibov30": null,
+    "dolar30": 0.06
+   },
+   {
+    "hora": "16:56",
+    "titulo": "O maior erro de Lula seria esperar que a situação fiscal se resolvesse sozinha, diz Obstfeld, ex-FMI",
+    "fonte": "Estadão",
+    "url": "https://www.estadao.com.br/economia/o-maior-erro-de-lula-seria-esperar-que-a-situacao-fiscal-se-resolvesse-sozinha-diz-obstfeld-ex-fmi/",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": 0.06
+   },
+   {
+    "hora": "17:19",
+    "titulo": "Dólar termina em queda, mas distante das mínimas, com moderação de otimismo sobre política fiscal",
+    "fonte": "Valor",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWWhaUEQ0ZjBpeFlZcEktem1fN2JrTDJiMG1COFhzbDQtdWtWN01FNVFCdzNiMzVJVlVJV0xrQ19JNjZacFRPbTFQR3dIaXRoYTlra1FydHhRekg0TzZiLW4wVVBibkZ5b1djTHlvMnNscHQxcVZpaHhLUHhtZnRleU4tYUR4MVRrN2c5ckdaV3JUdjAwR19SRXJKWEVXUWZRbTBLbUpra1JFcnhfYVR6Z2NfbmgtdEJZeUdJRXdRVGRlY0cyeFUxajl3QWtpOFAxTUJkZk5oSDNrdlU5SEg0YkdrTXVQcjA00gH3AUFVX3lxTFBQOEtEbm5GVzV5Ujc3OWZSZnJuMWp1Vk42cjd2bFFLeWpDeEw3dmliTnM1cE45dE96SjdXWlNraGl5MTdpSktuN09ubU02ZThPNl9nby1vaGdzaXFjMjNEMWhrcWhua0hncV9sOXd5R0NTTnJXblVkZU1PdFA0TEVLMjB6dWFHa0ctTHkyaUJ5eG9QYTlTNGZ1LUQzdDNvS2NHWHc4dmlBSG9jLUJHX3oyQjhrc21BbUo4WGxkTXZlMXgyZmd6cktEZUR5WnA5S1FScFlYZURIX01VX3N6UzVVVG5aSW01RXBRYnNuU3ZYcE1mUUNvYlE?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WDO",
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": 0.05
+   },
+   {
+    "hora": "17:20",
+    "titulo": "Dólar fecha em queda e volta para os R$ 5,90 com redução dos riscos fiscais",
+    "fonte": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmduT1NYdEYweWhOR0RIZFFxZWtfaFpiQnFCRFlIeTR4N0k2M3JXZkloaWJqNmJXNnR3bnpobTdFWWNWRHhmUWs3ZXRHOWhQZGg3SThiMjA0a2R0OXAwc1ZHemhNUHBQZTFTamdGMUJJdkt5ZC1rdjUwamIxaGFaLU5NbVJpaGczUUhQb1hCSU1qNFNlNG42RWc2V3lMRG1LTU53aW1ZX2ZCbEtvTUE?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WDO"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": 0.07
+   },
+   {
+    "hora": "17:24",
+    "titulo": "Dá tempo se líderes estiverem dispostos, diz Alcolumbre sobre PEC com novas medidas de ajuste fiscal",
+    "fonte": "Estadão",
+    "url": "https://www.estadao.com.br/economia/da-tempo-se-lideres-estiverem-dispostos-diz-alcolumbre-sobre-pec-com-novas-medidas-de-ajuste-fiscal/",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": -0.03
+   },
+   {
+    "hora": "17:26",
+    "titulo": "Juros futuros têm queda firme com mercado monitorando novo pacote fiscal",
+    "fonte": "Valor",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONEo3RnJPQm1CZkFpSFZlYmFvbzVhNjRMcUFIbUFRbWhLbHhpNnQ4aXRoRldCWkxuM1NjSnNtVEVtRzluUG92SGN6NjRsWkZmSGFreG0yN2ZOWTJyb0YxMDd6dlNPcmkxRThQNzJJRVFYeHZQSE53NEZMUXB0LV9sWnNSRTRxQ21hZUhlWTFYWGFCc2pBQU96VlFZZHVadWhnRGNERGRNY3NkTDhxajJleVFURGxwODdzdFozamF4Vkl4LTY0TWdQTExB0gHYAUFVX3lxTE9sWVA4YXlsNG5nN0d1RWdKYnJjTEN6NkM4TFZVTTZXNXZ2Ykhna01fSkd6Y3FJUngwNkJJTHZReU5IeFo3cUlJM1lwNXA5SEpsQkVCemdiRjVTaWtqZDlEcF9mME5XZHBQWlJGOHpZMUJCcDJva3llaENIelVudUFuZW9NZERoMUk0Uks2OTlSY3FyelczNjdPV25iZTFlb25PSTYweUxueC1odThKaGpjNlEzVms0cXktQTVMdXA0YmRjMzduTnlVQXE0cGxFZERuRnJoTG8ydQ?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": null,
+    "dolar30": -0.07
+   },
+   {
+    "hora": "17:41",
+    "titulo": "Banco Central autoriza Binance a operar no mercado de câmbio no Brasil",
+    "fonte": "CNN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYk9Rc0VUVUdpT0Z4ZHhKQ0gtMWdST0ZZcnFOZ3phQlp3anpDUThEOFNfUXRtLVBRR0c2YnpfUUpaNHJBNEp3eHJ1eFd0T0dmNmFwVHIzbDducUphTXF5SHdQVXVMMXdkWkpOcGxwbnZIQzNtd1lqdWRhczJGQ1FZUjRLUVk2SHBSUzF0ZTQzZjBRdjZxNWFieXFnOGlqTWRmZXEwUG9vRDZWZlJFQzA1NXg2UkpIT0pPODlTWUxhSTduS3Ez?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WDO",
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": null,
     "dolar30": null
    }
   ]
  },
  "hoje": [
-  {
-   "titulo": "UBS BB rebaixa B3 e corta preço-alvo em 39%; entenda os efeitos dos juros na ação da dona da Bolsa",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU3RHMXcwMEl3SnJIVXdVTENMQXItb3kxSWhHbV82amVrZXVpRFQ1Q1FiM0RRVE01MVUwaDR5RGRDNVQzRTNpQk9mQlBpeFFUT25LYlVxLUF0RkxCd1djc29SMFotZS0wSllKelcxNjMyOTY0YzY3ZVd2OTlBTEVXeHE2T2E4VmNrUERiQmg3MUdxMFV5RVdmY3JZM3ZKd1FPcUE5UWpaRExHRHREdjJLY1A1cThqOEJVNEtGaXlFNl9DaUhzNWx5WEVwTklYTENZTmZWTER1NFhQdWR6Vnl0SG8yQmItSUdFNG5N0gHwAUFVX3lxTFBRQ293VERGcnJxRlY5ZWxRRFJ3MlUtMWcyd0hZRXhsZi1lU3BQVG9jRWp6M2hUelA4THA3cG5TNTVXb0szQnBYc1lWNlNFN0FJNWVKdzc3MVpTNjIzbXBTdHNlVzR0bFV2Y2Uxc21MTFlpWjc5U3J2NmZMb3pTa0xLU2JFeXV4SjBkMjJSWWFVNFVySU93U0d6dUxTTEJjZzZNS2tqb05qbFNfRE13dzYwWWluYkFFOGc3OHRMTlFibjFvVXBoZTBGb3pmMlQxLWRjaEdQOUpkUE5BT2NRcXJ2NnJObTdWS192bHQyX1JCeg?oc=5",
-   "publicado": "2026-11-24T14:18-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "B3SA3"
-   ]
-  },
-  {
-   "titulo": "Petrobras prevê investimentos de US$ 122 bilhões entre 2027 e 2031",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-preve-investimentos-de-us-122-bilhoes-entre-2027-e-2031",
-   "publicado": "2026-11-24T14:31-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
   {
    "titulo": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
    "fonte": "CNBC",
@@ -936,17 +1004,6 @@
    "tickers": []
   },
   {
-   "titulo": "Dólar recua após tocar R$ 6, mas gestores mantêm R$ 6,50 no radar e indicam proteção",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUE90Q25oa0JXTHFpSkdvdF9qZWNIWlZHTzJ2aENWbURCajQ3QldVODI5NGdQRkhFVkg1eHpxRkRsX2J6b3hTd3dQMkpBanFGXzBXY19LZnJlTEtjdEl5akJIQS1uNTNzajZyVFFQd0dRcEd0SklQdEo3RW1ncEc2NTh6b1BmcXM00gGOAUFVX3lxTFBjMnhFSzF1YndFdFpMbDIwVkpucThUUVNCbkhJLXV2RDJ3OTJabWZWT1cyY0VnMXF0NEpIbVBUeXdkTkxjaS1yVS1EaUtheGV6Zi1UbDlGVHp6LTk3RVVXVnMtM2JYSk04bjBmWFBkNFAxaGtNOHZ6QWtWbW45Z3FlaDNkbnJiRFpKM2g3OGc?oc=5",
-   "publicado": "2026-11-24T15:42-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
    "titulo": "XP (XPBR31) e B3 (B3SA3) podem ter um 2027 mais difícil: Safra rebaixa ações e corta preço-alvo; confira",
    "fonte": "Money Times",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX1I5a2FzU0JqOE40RE1JLS1kWlhHU3ctSlFwdm4wOEhDVnROaDJ0UDN0NWNwX3NKUFNxTWNQX2VLTjA1d2JpSVpBRWlqdDh2Y3RuSFEzdFVsT09wLWpmM2hRcmc3R2xLVElYdWVqRW9RalpXUXBZNnl2U3BVb0hLZ0lLc0ZtZXRGZ0FSZTd5ZG43eENtMDAzWXBvd2M1U2lrV3UydXhlRXo1NklxaFl3SWJYSUtCVDRfcjlCSm9n?oc=5",
@@ -958,6 +1015,17 @@
    "tickers": [
     "B3SA3"
    ]
+  },
+  {
+   "titulo": "Após bater os R$ 6, o dólar está caro ou barato?",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObTFyMnViMC1MNWdPOHNnTEJQXzN0M0xQLWJUNFZHeWx1Mkh3U1VSZ2VvenVpMFNKYXU1bVhuSy02VlBDMDV3Um5KY3NTSUhvNlFUeFhmNVJYVmtmZ19WR1ZTYjdBRGpTNDF1U2tWQ0Z4aHlXOV9NMU43bXZVVWJ6RExBenhwSGJzbnFaMdIBkgFBVV95cUxNeWNxVWc5QVdmbDZnQ1RsRE1jZnNjd3g0ZU5EWDhxNWsxbnlzcDFJbnZQRDZQa0FMNXpCYVlLX2oyOHhSaWVyWXNGOXRNajd0QkhJSzZ2eFNHUTNEb0tPcEtvR3Nsc2xNMDJXN0FyaEQtNzdDMUJKc1l5cTliTjVvNUVBbFFDRFROVWRtVXZ4WVotQQ?oc=5",
+   "publicado": "2026-11-24T16:19-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
   },
   {
    "titulo": "Lula sanciona sem vetos projeto de ajuste fiscal de R$ 50 bi em 2027 após aprovação na Câmara",
@@ -986,7 +1054,7 @@
   {
    "titulo": "Vale derrete quase 5% e perde R$ 11,9 bilhões em valor de mercado só hoje",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZl9BWjFrWndLQ2lMaEQtWVlnQThuOE5aVEhSX1JwMFZmX3h6NU81dlo4aDZfNzJaNldyVWFCa1ptZ1R4bkViZzJ4dzZZSGhlTWlMaTVYeHZZeWw1MVFqc3NtZlF5MXA0bU9WWTRfRkM0aWp6QXpJaFZQc2xRUGR1RHhFV1NZeXUxOHQ2U1dNQVg3anR5X0NLeHVhOExkcXZ1UW1GTm9DN215UVZOZG9udDFwZzNDYmw4Q19TRTg5c3NSUTNkMG4wTNIBzgFBVV95cUxQUXJHb3N3YzdrY0J4T2NjWklyQmNRUEsyZ1ZhV2dtdmlhQzhRMlhMNFBKMV9oM3p2Z0oxMDg2WGxYaDJ5YWY2UDl1WW13YlR4UndoSGo1TG5JeXN4MUZZeVR1RjFZWVBRSEtZYlBPeGwtN3pRUnFERlpFQ0ZrY3ZtX1IyRW5EbkRDcGZtaFBFRDNwdXBhZGNyLXVQZjU0X3FrN3J4RjhnYTlVa0lPQjVkbHFWcXBUTWU0c0NFc0JrZmh2YVF5QUNLTW41MUlwQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZl9BWjFrWndLQ2lMaEQtWVlnQThuOE5aVEhSX1JwMFZmX3h6NU81dlo4aDZfNzJaNldyVWFCa1ptZ1R4bkViZzJ4dzZZSGhlTWlMaTVYeHZZeWw1MVFqc3NtZlF5MXA0bU9WWTRfRkM0aWp6QXpJaFZQc2xRUGR1RHhFV1NZeXUxOHQ2U1dNQVg3anR5X0NLeHVhOExkcXZ1UW1GTm9DN215UVZOZG9udDFwZzNDYmw4Q19TRTg5c3NSUTNkMG4wTA?oc=5",
    "publicado": "2026-11-24T16:40-03:00",
    "impacto": "medio",
    "ativos": [
@@ -997,10 +1065,10 @@
    ]
   },
   {
-   "titulo": "Ibovespa perde fôlego e passa a cair com ações da Vale em baixa de 5%; dólar recua",
+   "titulo": "Dólar fecha em queda, mas fica acima de R$ 5,91; Ibovespa perde fôlego com Vale em baixa de 5%",
    "fonte": "Estadão",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcFFtQ1pwY25fR192RU1zTEo1VWZRcXQ1SWFacnU3WGEtdUhyLW1lLTJpZFpvR2cyeGRqYlc2WlU0eG5UV2d6ekFDbGdLR0tCazc1ZTJnV0dvbTF4VHE0OXRSQWttZVAySFc2Wk51c0p5ZWdla3U2UUU5Z3Q4M2d5azVCLW5YQjg2ZXpvT2ZicDJFVXNMbFhwN3UxeGw3TlNCaWJjWDFPVnJkckhkcF93NmRiSGdKYlo2bW1udHhqaGxpaFRob0E0VkY1dVNra0Q5bXNhNW1XTmwxZ9IB3wFBVV95cUxOU2xMN0t6dkpTSzlJblVoUW5QOENBb0lIZHNuOGxkVi1ENVVweWRkQS1tN3BkOFh2ZWlhaF92VmViN0p4U05lWmVqdmpOdHlCSGlYaU01VHpCWjdNYTM1TVprTTlXa21zdWhOVncwdEFhUl92YTJUUVdIVmRXVE1xckQ1SVZSLU9KMW9qUmFXbDluUTBhQkxCTkY1bVJfa3pWS3U2SzlUNDhlQ19EbXF2RU9zNnAxSkFFRVRDUmV6cWlmVjlXcTlZbVcxUE8xMnVOMW01WlJYZmtCNlg3eUtZ?oc=5",
-   "publicado": "2026-11-24T16:52-03:00",
+   "publicado": "2026-11-24T16:56-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -1009,15 +1077,84 @@
    "tickers": [
     "VALE3"
    ]
+  },
+  {
+   "titulo": "O maior erro de Lula seria esperar que a situação fiscal se resolvesse sozinha, diz Obstfeld, ex-FMI",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/o-maior-erro-de-lula-seria-esperar-que-a-situacao-fiscal-se-resolvesse-sozinha-diz-obstfeld-ex-fmi/",
+   "publicado": "2026-11-24T16:56-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Dólar termina em queda, mas distante das mínimas, com moderação de otimismo sobre política fiscal",
+   "fonte": "Valor",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWWhaUEQ0ZjBpeFlZcEktem1fN2JrTDJiMG1COFhzbDQtdWtWN01FNVFCdzNiMzVJVlVJV0xrQ19JNjZacFRPbTFQR3dIaXRoYTlra1FydHhRekg0TzZiLW4wVVBibkZ5b1djTHlvMnNscHQxcVZpaHhLUHhtZnRleU4tYUR4MVRrN2c5ckdaV3JUdjAwR19SRXJKWEVXUWZRbTBLbUpra1JFcnhfYVR6Z2NfbmgtdEJZeUdJRXdRVGRlY0cyeFUxajl3QWtpOFAxTUJkZk5oSDNrdlU5SEg0YkdrTXVQcjA00gH3AUFVX3lxTFBQOEtEbm5GVzV5Ujc3OWZSZnJuMWp1Vk42cjd2bFFLeWpDeEw3dmliTnM1cE45dE96SjdXWlNraGl5MTdpSktuN09ubU02ZThPNl9nby1vaGdzaXFjMjNEMWhrcWhua0hncV9sOXd5R0NTTnJXblVkZU1PdFA0TEVLMjB6dWFHa0ctTHkyaUJ5eG9QYTlTNGZ1LUQzdDNvS2NHWHc4dmlBSG9jLUJHX3oyQjhrc21BbUo4WGxkTXZlMXgyZmd6cktEZUR5WnA5S1FScFlYZURIX01VX3N6UzVVVG5aSW01RXBRYnNuU3ZYcE1mUUNvYlE?oc=5",
+   "publicado": "2026-11-24T17:19-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Dólar fecha em queda e volta para os R$ 5,90 com redução dos riscos fiscais",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmduT1NYdEYweWhOR0RIZFFxZWtfaFpiQnFCRFlIeTR4N0k2M3JXZkloaWJqNmJXNnR3bnpobTdFWWNWRHhmUWs3ZXRHOWhQZGg3SThiMjA0a2R0OXAwc1ZHemhNUHBQZTFTamdGMUJJdkt5ZC1rdjUwamIxaGFaLU5NbVJpaGczUUhQb1hCSU1qNFNlNG42RWc2V3lMRG1LTU53aW1ZX2ZCbEtvTUE?oc=5",
+   "publicado": "2026-11-24T17:20-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Dá tempo se líderes estiverem dispostos, diz Alcolumbre sobre PEC com novas medidas de ajuste fiscal",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/da-tempo-se-lideres-estiverem-dispostos-diz-alcolumbre-sobre-pec-com-novas-medidas-de-ajuste-fiscal/",
+   "publicado": "2026-11-24T17:24-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Juros futuros têm queda firme com mercado monitorando novo pacote fiscal",
+   "fonte": "Valor",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONEo3RnJPQm1CZkFpSFZlYmFvbzVhNjRMcUFIbUFRbWhLbHhpNnQ4aXRoRldCWkxuM1NjSnNtVEVtRzluUG92SGN6NjRsWkZmSGFreG0yN2ZOWTJyb0YxMDd6dlNPcmkxRThQNzJJRVFYeHZQSE53NEZMUXB0LV9sWnNSRTRxQ21hZUhlWTFYWGFCc2pBQU96VlFZZHVadWhnRGNERGRNY3NkTDhxajJleVFURGxwODdzdFozamF4Vkl4LTY0TWdQTExB0gHYAUFVX3lxTE9sWVA4YXlsNG5nN0d1RWdKYnJjTEN6NkM4TFZVTTZXNXZ2Ykhna01fSkd6Y3FJUngwNkJJTHZReU5IeFo3cUlJM1lwNXA5SEpsQkVCemdiRjVTaWtqZDlEcF9mME5XZHBQWlJGOHpZMUJCcDJva3llaENIelVudUFuZW9NZERoMUk0Uks2OTlSY3FyelczNjdPV25iZTFlb25PSTYweUxueC1odThKaGpjNlEzVms0cXktQTVMdXA0YmRjMzduTnlVQXE0cGxFZERuRnJoTG8ydQ?oc=5",
+   "publicado": "2026-11-24T17:26-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Banco Central autoriza Binance a operar no mercado de câmbio no Brasil",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYk9Rc0VUVUdpT0Z4ZHhKQ0gtMWdST0ZZcnFOZ3phQlp3anpDUThEOFNfUXRtLVBRR0c2YnpfUUpaNHJBNEp3eHJ1eFd0T0dmNmFwVHIzbDducUphTXF5SHdQVXVMMXdkWkpOcGxwbnZIQzNtd1lqdWRhczJGQ1FZUjRLUVk2SHBSUzF0ZTQzZjBRdjZxNWFieXFnOGlqTWRmZXEwUG9vRDZWZlJFQzA1NXg2UkpIT0pPODlTWUxhSTduS3Ez?oc=5",
+   "publicado": "2026-11-24T17:41-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-24T17:10-03:00",
+ "atualizado_em": "2026-11-24T17:55-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
+  "CNN Brasil",
   "Estadão",
   "Folha",
   "InfoMoney",
@@ -1026,10 +1163,79 @@
  ],
  "noticias": [
   {
-   "titulo": "Ibovespa perde fôlego e passa a cair com ações da Vale em baixa de 5%; dólar recua",
+   "titulo": "China prorroga suspensão de controles sobre exportações de minerais críticos aos EUA",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/china-prorroga-suspensao-de-controles-sobre-exportacoes-de-minerais-criticos-aos-eua.shtml",
+   "publicado": "2026-11-24T17:46-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Banco Central autoriza Binance a operar no mercado de câmbio no Brasil",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYk9Rc0VUVUdpT0Z4ZHhKQ0gtMWdST0ZZcnFOZ3phQlp3anpDUThEOFNfUXRtLVBRR0c2YnpfUUpaNHJBNEp3eHJ1eFd0T0dmNmFwVHIzbDducUphTXF5SHdQVXVMMXdkWkpOcGxwbnZIQzNtd1lqdWRhczJGQ1FZUjRLUVk2SHBSUzF0ZTQzZjBRdjZxNWFieXFnOGlqTWRmZXEwUG9vRDZWZlJFQzA1NXg2UkpIT0pPODlTWUxhSTduS3Ez?oc=5",
+   "publicado": "2026-11-24T17:41-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Juros futuros têm queda firme com mercado monitorando novo pacote fiscal",
+   "fonte": "Valor",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONEo3RnJPQm1CZkFpSFZlYmFvbzVhNjRMcUFIbUFRbWhLbHhpNnQ4aXRoRldCWkxuM1NjSnNtVEVtRzluUG92SGN6NjRsWkZmSGFreG0yN2ZOWTJyb0YxMDd6dlNPcmkxRThQNzJJRVFYeHZQSE53NEZMUXB0LV9sWnNSRTRxQ21hZUhlWTFYWGFCc2pBQU96VlFZZHVadWhnRGNERGRNY3NkTDhxajJleVFURGxwODdzdFozamF4Vkl4LTY0TWdQTExB0gHYAUFVX3lxTE9sWVA4YXlsNG5nN0d1RWdKYnJjTEN6NkM4TFZVTTZXNXZ2Ykhna01fSkd6Y3FJUngwNkJJTHZReU5IeFo3cUlJM1lwNXA5SEpsQkVCemdiRjVTaWtqZDlEcF9mME5XZHBQWlJGOHpZMUJCcDJva3llaENIelVudUFuZW9NZERoMUk0Uks2OTlSY3FyelczNjdPV25iZTFlb25PSTYweUxueC1odThKaGpjNlEzVms0cXktQTVMdXA0YmRjMzduTnlVQXE0cGxFZERuRnJoTG8ydQ?oc=5",
+   "publicado": "2026-11-24T17:26-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Dá tempo se líderes estiverem dispostos, diz Alcolumbre sobre PEC com novas medidas de ajuste fiscal",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/da-tempo-se-lideres-estiverem-dispostos-diz-alcolumbre-sobre-pec-com-novas-medidas-de-ajuste-fiscal/",
+   "publicado": "2026-11-24T17:24-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Dólar fecha em queda e volta para os R$ 5,90 com redução dos riscos fiscais",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmduT1NYdEYweWhOR0RIZFFxZWtfaFpiQnFCRFlIeTR4N0k2M3JXZkloaWJqNmJXNnR3bnpobTdFWWNWRHhmUWs3ZXRHOWhQZGg3SThiMjA0a2R0OXAwc1ZHemhNUHBQZTFTamdGMUJJdkt5ZC1rdjUwamIxaGFaLU5NbVJpaGczUUhQb1hCSU1qNFNlNG42RWc2V3lMRG1LTU53aW1ZX2ZCbEtvTUE?oc=5",
+   "publicado": "2026-11-24T17:20-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Dólar termina em queda, mas distante das mínimas, com moderação de otimismo sobre política fiscal",
+   "fonte": "Valor",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWWhaUEQ0ZjBpeFlZcEktem1fN2JrTDJiMG1COFhzbDQtdWtWN01FNVFCdzNiMzVJVlVJV0xrQ19JNjZacFRPbTFQR3dIaXRoYTlra1FydHhRekg0TzZiLW4wVVBibkZ5b1djTHlvMnNscHQxcVZpaHhLUHhtZnRleU4tYUR4MVRrN2c5ckdaV3JUdjAwR19SRXJKWEVXUWZRbTBLbUpra1JFcnhfYVR6Z2NfbmgtdEJZeUdJRXdRVGRlY0cyeFUxajl3QWtpOFAxTUJkZk5oSDNrdlU5SEg0YkdrTXVQcjA00gH3AUFVX3lxTFBQOEtEbm5GVzV5Ujc3OWZSZnJuMWp1Vk42cjd2bFFLeWpDeEw3dmliTnM1cE45dE96SjdXWlNraGl5MTdpSktuN09ubU02ZThPNl9nby1vaGdzaXFjMjNEMWhrcWhua0hncV9sOXd5R0NTTnJXblVkZU1PdFA0TEVLMjB6dWFHa0ctTHkyaUJ5eG9QYTlTNGZ1LUQzdDNvS2NHWHc4dmlBSG9jLUJHX3oyQjhrc21BbUo4WGxkTXZlMXgyZmd6cktEZUR5WnA5S1FScFlYZURIX01VX3N6UzVVVG5aSW01RXBRYnNuU3ZYcE1mUUNvYlE?oc=5",
+   "publicado": "2026-11-24T17:19-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Dólar fecha em queda, mas fica acima de R$ 5,91; Ibovespa perde fôlego com Vale em baixa de 5%",
    "fonte": "Estadão",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcFFtQ1pwY25fR192RU1zTEo1VWZRcXQ1SWFacnU3WGEtdUhyLW1lLTJpZFpvR2cyeGRqYlc2WlU0eG5UV2d6ekFDbGdLR0tCazc1ZTJnV0dvbTF4VHE0OXRSQWttZVAySFc2Wk51c0p5ZWdla3U2UUU5Z3Q4M2d5azVCLW5YQjg2ZXpvT2ZicDJFVXNMbFhwN3UxeGw3TlNCaWJjWDFPVnJkckhkcF93NmRiSGdKYlo2bW1udHhqaGxpaFRob0E0VkY1dVNra0Q5bXNhNW1XTmwxZ9IB3wFBVV95cUxOU2xMN0t6dkpTSzlJblVoUW5QOENBb0lIZHNuOGxkVi1ENVVweWRkQS1tN3BkOFh2ZWlhaF92VmViN0p4U05lWmVqdmpOdHlCSGlYaU01VHpCWjdNYTM1TVprTTlXa21zdWhOVncwdEFhUl92YTJUUVdIVmRXVE1xckQ1SVZSLU9KMW9qUmFXbDluUTBhQkxCTkY1bVJfa3pWS3U2SzlUNDhlQ19EbXF2RU9zNnAxSkFFRVRDUmV6cWlmVjlXcTlZbVcxUE8xMnVOMW01WlJYZmtCNlg3eUtZ?oc=5",
-   "publicado": "2026-11-24T16:52-03:00",
+   "publicado": "2026-11-24T16:56-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -1040,9 +1246,20 @@
    ]
   },
   {
+   "titulo": "O maior erro de Lula seria esperar que a situação fiscal se resolvesse sozinha, diz Obstfeld, ex-FMI",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/o-maior-erro-de-lula-seria-esperar-que-a-situacao-fiscal-se-resolvesse-sozinha-diz-obstfeld-ex-fmi/",
+   "publicado": "2026-11-24T16:56-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
    "titulo": "Vale derrete quase 5% e perde R$ 11,9 bilhões em valor de mercado só hoje",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZl9BWjFrWndLQ2lMaEQtWVlnQThuOE5aVEhSX1JwMFZmX3h6NU81dlo4aDZfNzJaNldyVWFCa1ptZ1R4bkViZzJ4dzZZSGhlTWlMaTVYeHZZeWw1MVFqc3NtZlF5MXA0bU9WWTRfRkM0aWp6QXpJaFZQc2xRUGR1RHhFV1NZeXUxOHQ2U1dNQVg3anR5X0NLeHVhOExkcXZ1UW1GTm9DN215UVZOZG9udDFwZzNDYmw4Q19TRTg5c3NSUTNkMG4wTNIBzgFBVV95cUxQUXJHb3N3YzdrY0J4T2NjWklyQmNRUEsyZ1ZhV2dtdmlhQzhRMlhMNFBKMV9oM3p2Z0oxMDg2WGxYaDJ5YWY2UDl1WW13YlR4UndoSGo1TG5JeXN4MUZZeVR1RjFZWVBRSEtZYlBPeGwtN3pRUnFERlpFQ0ZrY3ZtX1IyRW5EbkRDcGZtaFBFRDNwdXBhZGNyLXVQZjU0X3FrN3J4RjhnYTlVa0lPQjVkbHFWcXBUTWU0c0NFc0JrZmh2YVF5QUNLTW41MUlwQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZl9BWjFrWndLQ2lMaEQtWVlnQThuOE5aVEhSX1JwMFZmX3h6NU81dlo4aDZfNzJaNldyVWFCa1ptZ1R4bkViZzJ4dzZZSGhlTWlMaTVYeHZZeWw1MVFqc3NtZlF5MXA0bU9WWTRfRkM0aWp6QXpJaFZQc2xRUGR1RHhFV1NZeXUxOHQ2U1dNQVg3anR5X0NLeHVhOExkcXZ1UW1GTm9DN215UVZOZG9udDFwZzNDYmw4Q19TRTg5c3NSUTNkMG4wTA?oc=5",
    "publicado": "2026-11-24T16:40-03:00",
    "impacto": "medio",
    "ativos": [
@@ -1077,6 +1294,17 @@
    "tickers": []
   },
   {
+   "titulo": "Após bater os R$ 6, o dólar está caro ou barato?",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObTFyMnViMC1MNWdPOHNnTEJQXzN0M0xQLWJUNFZHeWx1Mkh3U1VSZ2VvenVpMFNKYXU1bVhuSy02VlBDMDV3Um5KY3NTSUhvNlFUeFhmNVJYVmtmZ19WR1ZTYjdBRGpTNDF1U2tWQ0Z4aHlXOV9NMU43bXZVVWJ6RExBenhwSGJzbnFaMdIBkgFBVV95cUxNeWNxVWc5QVdmbDZnQ1RsRE1jZnNjd3g0ZU5EWDhxNWsxbnlzcDFJbnZQRDZQa0FMNXpCYVlLX2oyOHhSaWVyWXNGOXRNajd0QkhJSzZ2eFNHUTNEb0tPcEtvR3Nsc2xNMDJXN0FyaEQtNzdDMUJKc1l5cTliTjVvNUVBbFFDRFROVWRtVXZ4WVotQQ?oc=5",
+   "publicado": "2026-11-24T16:19-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
    "titulo": "XP (XPBR31) e B3 (B3SA3) podem ter um 2027 mais difícil: Safra rebaixa ações e corta preço-alvo; confira",
    "fonte": "Money Times",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX1I5a2FzU0JqOE40RE1JLS1kWlhHU3ctSlFwdm4wOEhDVnROaDJ0UDN0NWNwX3NKUFNxTWNQX2VLTjA1d2JpSVpBRWlqdDh2Y3RuSFEzdFVsT09wLWpmM2hRcmc3R2xLVElYdWVqRW9RalpXUXBZNnl2U3BVb0hLZ0lLc0ZtZXRGZ0FSZTd5ZG43eENtMDAzWXBvd2M1U2lrV3UydXhlRXo1NklxaFl3SWJYSUtCVDRfcjlCSm9n?oc=5",
@@ -1088,17 +1316,6 @@
    "tickers": [
     "B3SA3"
    ]
-  },
-  {
-   "titulo": "Dólar recua após tocar R$ 6, mas gestores mantêm R$ 6,50 no radar e indicam proteção",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUE90Q25oa0JXTHFpSkdvdF9qZWNIWlZHTzJ2aENWbURCajQ3QldVODI5NGdQRkhFVkg1eHpxRkRsX2J6b3hTd3dQMkpBanFGXzBXY19LZnJlTEtjdEl5akJIQS1uNTNzajZyVFFQd0dRcEd0SklQdEo3RW1ncEc2NTh6b1BmcXM00gGOAUFVX3lxTFBjMnhFSzF1YndFdFpMbDIwVkpucThUUVNCbkhJLXV2RDJ3OTJabWZWT1cyY0VnMXF0NEpIbVBUeXdkTkxjaS1yVS1EaUtheGV6Zi1UbDlGVHp6LTk3RVVXVnMtM2JYSk04bjBmWFBkNFAxaGtNOHZ6QWtWbW45Z3FlaDNkbnJiRFpKM2g3OGc?oc=5",
-   "publicado": "2026-11-24T15:42-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
   },
   {
    "titulo": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
@@ -1121,32 +1338,6 @@
     "DI"
    ],
    "tickers": []
-  },
-  {
-   "titulo": "Petrobras prevê investimentos de US$ 122 bilhões entre 2027 e 2031",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-preve-investimentos-de-us-122-bilhoes-entre-2027-e-2031",
-   "publicado": "2026-11-24T14:31-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "UBS BB rebaixa B3 e corta preço-alvo em 39%; entenda os efeitos dos juros na ação da dona da Bolsa",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU3RHMXcwMEl3SnJIVXdVTENMQXItb3kxSWhHbV82amVrZXVpRFQ1Q1FiM0RRVE01MVUwaDR5RGRDNVQzRTNpQk9mQlBpeFFUT25LYlVxLUF0RkxCd1djc29SMFotZS0wSllKelcxNjMyOTY0YzY3ZVd2OTlBTEVXeHE2T2E4VmNrUERiQmg3MUdxMFV5RVdmY3JZM3ZKd1FPcUE5UWpaRExHRHREdjJLY1A1cThqOEJVNEtGaXlFNl9DaUhzNWx5WEVwTklYTENZTmZWTER1NFhQdWR6Vnl0SG8yQmItSUdFNG5N0gHwAUFVX3lxTFBRQ293VERGcnJxRlY5ZWxRRFJ3MlUtMWcyd0hZRXhsZi1lU3BQVG9jRWp6M2hUelA4THA3cG5TNTVXb0szQnBYc1lWNlNFN0FJNWVKdzc3MVpTNjIzbXBTdHNlVzR0bFV2Y2Uxc21MTFlpWjc5U3J2NmZMb3pTa0xLU2JFeXV4SjBkMjJSWWFVNFVySU93U0d6dUxTTEJjZzZNS2tqb05qbFNfRE13dzYwWWluYkFFOGc3OHRMTlFibjFvVXBoZTBGb3pmMlQxLWRjaEdQOUpkUE5BT2NRcXJ2NnJObTdWS192bHQyX1JCeg?oc=5",
-   "publicado": "2026-11-24T14:18-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "B3SA3"
-   ]
   }
  ]
 }
