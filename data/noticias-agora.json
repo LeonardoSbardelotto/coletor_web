@@ -2,212 +2,68 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Dólar bate R$ 6, mas vira e fecha em queda; Ibovespa recua com Petrobras e bancos",
-   "fonte": "Exame",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3OVVkOTF5ZEpWcnN3dlM1MkJ2VTg4Z3Z4eGN0Vm1RYXlseEY4Yk5ZdXJTNnJUX0JYbzBscHVUT0ROMEdFUThhYXdKZjYwMkJBNjE4UnRFa3hpS2REUzBVeDFxYnV5cm1VMThr?oc=5",
-   "publicado": "2026-11-23T19:18-03:00",
+   "titulo": "Por que o dólar passou de R$ 5,90 hoje?",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRS12V2E5S3cyVXRLVmk0UXpyUkRHM0pyM01Pc1JwcVVvaEFFVE1HQjRCZEx0TGFSVEl4Zkd3UWtRQ042VTRhazFrQzMyN19ZNzl1ODJ6a091anNvbm9pb05ZemhmcERpU0R5cUhFN2pDazlVUjEyWnVPNGNWRDl0cXdqeldtbmdncnl4b2Zhc3pBSWN3cVcyWmZPVTNOZmFOWEt4bDBn?oc=5",
+   "publicado": "2026-11-24T00:36-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Vai viajar e precisa comprar dólar? Como comparar o custo em espécie e na conta global",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNjh4cWxVZ2V1TnRKZHZPZUZIUVY5UFZscEJxQU9VT0VrM09IbTNhYmNuQUlLM1hYSUZpR3FSc2k1dnVicC05TmphdjlQSXFkY0s3MjlFQ2xUOXAtMHpqZTlmMk1jT0FUSDhIc2VYTDZqTUFrSmktb3VsazFKWWJCM1ZiSHVLZ29nYnBTVkY1V2oyVkZzcDNVWW0xTDVkNm1wOGthRmVxeFp0Mmc5YVQxUW1QdDlGdWlxdEU2a1JuRzlxbk1rSlhJLXl5MzJMM3RLLThwZVFGeXVnRFJTRmV0SmpIWlhzUQ?oc=5",
+   "publicado": "2026-11-24T00:57-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+   "publicado": "2026-11-24T02:05-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
-    "WDO"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Câmara aprova urgência e acelera votação de projeto de ajuste fiscal do governo Lula",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/camara-aprova-urgencia-e-acelera-votacao-de-projeto-de-ajuste-fiscal-do-governo-lula/",
-   "publicado": "2026-11-23T19:47-03:00",
-   "impacto": "medio",
-   "ativos": [
+    "WDO",
     "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Petrobras eleva em 12% plano de investimentos entre 2027 e 2031, para US$ 122 bilhões",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/negocios/petrobras-anuncia-plano-de-investimento-de-us-122-bilhoes-entre-2027-e-2031/",
-   "publicado": "2026-11-23T19:49-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Petrobras eleva investimentos em 12%, para US$ 122 bi, e anuncia dividendos extraordinários",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-eleva-investimentos-para-us-122-bilhoes-e-anuncia-dividendos-extraordinarios.shtml",
-   "publicado": "2026-11-23T19:54-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Petrobras compra 42% da produtora de etanol de milho Neomille, da Cerradinho, por R$ 2,8 bi",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/negocios/petrobras-compra-42-da-produtora-de-etanol-de-milho-neomille-da-cerradinho-por-r-28-bi/",
-   "publicado": "2026-11-23T20:38-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Petrobras aprova pagamento de R$ 15,6 bilhões a acionistas",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-aprova-pagamento-de-r-156-bilhoes-acionistas",
-   "publicado": "2026-11-23T21:03-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Crédito está travado; 2027 será difícil para a economia, diz presidente do Bradesco",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/credito-esta-travado-2027-sera-dificil-para-a-economia-diz-presidente-do-bradesco/",
-   "publicado": "2026-11-23T21:32-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BBDC4"
-   ]
-  },
-  {
-   "titulo": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
+   "titulo": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
    "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-   "publicado": "2026-11-23T21:53-03:00",
+   "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+   "publicado": "2026-11-24T02:09-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN"
+    "DI"
    ],
    "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-23T22:02-03:00",
+ "atualizado_em": "2026-11-24T02:32-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
   "Estadão",
-  "Exame",
   "Folha"
  ],
  "noticias": [
   {
-   "titulo": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
+   "titulo": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
    "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-   "publicado": "2026-11-23T21:53-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Crédito está travado; 2027 será difícil para a economia, diz presidente do Bradesco",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/credito-esta-travado-2027-sera-dificil-para-a-economia-diz-presidente-do-bradesco/",
-   "publicado": "2026-11-23T21:32-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BBDC4"
-   ]
-  },
-  {
-   "titulo": "Petrobras aprova pagamento de R$ 15,6 bilhões a acionistas",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-aprova-pagamento-de-r-156-bilhoes-acionistas",
-   "publicado": "2026-11-23T21:03-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Petrobras compra 42% da produtora de etanol de milho Neomille, da Cerradinho, por R$ 2,8 bi",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/negocios/petrobras-compra-42-da-produtora-de-etanol-de-milho-neomille-da-cerradinho-por-r-28-bi/",
-   "publicado": "2026-11-23T20:38-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
-   "publicado": "2026-11-23T20:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Petrobras eleva investimentos em 12%, para US$ 122 bi, e anuncia dividendos extraordinários",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-eleva-investimentos-para-us-122-bilhoes-e-anuncia-dividendos-extraordinarios.shtml",
-   "publicado": "2026-11-23T19:54-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Petrobras eleva em 12% plano de investimentos entre 2027 e 2031, para US$ 122 bilhões",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/negocios/petrobras-anuncia-plano-de-investimento-de-us-122-bilhoes-entre-2027-e-2031/",
-   "publicado": "2026-11-23T19:49-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Câmara aprova urgência e acelera votação de projeto de ajuste fiscal do governo Lula",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/camara-aprova-urgencia-e-acelera-votacao-de-projeto-de-ajuste-fiscal-do-governo-lula/",
-   "publicado": "2026-11-23T19:47-03:00",
+   "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+   "publicado": "2026-11-24T02:09-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
@@ -215,17 +71,63 @@
    "tickers": []
   },
   {
-   "titulo": "Dólar bate R$ 6, mas vira e fecha em queda; Ibovespa recua com Petrobras e bancos",
-   "fonte": "Exame",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3OVVkOTF5ZEpWcnN3dlM1MkJ2VTg4Z3Z4eGN0Vm1RYXlseEY4Yk5ZdXJTNnJUX0JYbzBscHVUT0ROMEdFUThhYXdKZjYwMkJBNjE4UnRFa3hpS2REUzBVeDFxYnV5cm1VMThr?oc=5",
-   "publicado": "2026-11-23T19:18-03:00",
+   "titulo": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+   "publicado": "2026-11-24T02:05-03:00",
    "impacto": "alto",
+   "ativos": [
+    "WIN",
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
+   "publicado": "2026-11-24T01:27-03:00",
+   "impacto": "medio",
    "ativos": [
     "WIN",
     "WDO"
    ],
+   "tickers": []
+  },
+  {
+   "titulo": "Vai viajar e precisa comprar dólar? Como comparar o custo em espécie e na conta global",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNjh4cWxVZ2V1TnRKZHZPZUZIUVY5UFZscEJxQU9VT0VrM09IbTNhYmNuQUlLM1hYSUZpR3FSc2k1dnVicC05TmphdjlQSXFkY0s3MjlFQ2xUOXAtMHpqZTlmMk1jT0FUSDhIc2VYTDZqTUFrSmktb3VsazFKWWJCM1ZiSHVLZ29nYnBTVkY1V2oyVkZzcDNVWW0xTDVkNm1wOGthRmVxeFp0Mmc5YVQxUW1QdDlGdWlxdEU2a1JuRzlxbk1rSlhJLXl5MzJMM3RLLThwZVFGeXVnRFJTRmV0SmpIWlhzUQ?oc=5",
+   "publicado": "2026-11-24T00:57-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Por que o dólar passou de R$ 5,90 hoje?",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRS12V2E5S3cyVXRLVmk0UXpyUkRHM0pyM01Pc1JwcVVvaEFFVE1HQjRCZEx0TGFSVEl4Zkd3UWtRQ042VTRhazFrQzMyN19ZNzl1ODJ6a091anNvbm9pb05ZemhmcERpU0R5cUhFN2pDazlVUjEyWnVPNGNWRDl0cXdqeldtbmdncnl4b2Zhc3pBSWN3cVcyWmZPVTNOZmFOWEt4bDBn?oc=5",
+   "publicado": "2026-11-24T00:36-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Trabuco, do Bradesco, cobra integração energética e vê custo de capital como entrave",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/trabuco-do-bradesco-cobra-integracao-energetica-e-ve-custo-de-capital-como-entrave.shtml",
+   "publicado": "2026-11-23T23:47-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
    "tickers": [
-    "PETR4"
+    "BBDC4"
    ]
   }
  ]
