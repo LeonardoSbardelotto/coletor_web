@@ -1,7 +1,7 @@
 {
  "mercado": {
   "data": "2026-11-25",
-  "atualizado_em": "2026-11-25T11:18-03:00",
+  "atualizado_em": "2026-11-25T16:16-03:00",
   "ibov": {
    "anterior": 164089.81,
    "pontos": [
@@ -55,11 +55,251 @@
     ],
     [
      "11:00",
-     164736.0
+     164703.0
     ],
     [
-     "11:03",
-     164761.0
+     "11:05",
+     164879.0
+    ],
+    [
+     "11:10",
+     164765.0
+    ],
+    [
+     "11:15",
+     164475.0
+    ],
+    [
+     "11:20",
+     164838.0
+    ],
+    [
+     "11:25",
+     164728.0
+    ],
+    [
+     "11:30",
+     164427.0
+    ],
+    [
+     "11:35",
+     164255.0
+    ],
+    [
+     "11:40",
+     164142.0
+    ],
+    [
+     "11:45",
+     164503.0
+    ],
+    [
+     "11:50",
+     164860.0
+    ],
+    [
+     "11:55",
+     164848.0
+    ],
+    [
+     "12:00",
+     165002.0
+    ],
+    [
+     "12:05",
+     165075.0
+    ],
+    [
+     "12:10",
+     165299.0
+    ],
+    [
+     "12:15",
+     164873.0
+    ],
+    [
+     "12:20",
+     164794.0
+    ],
+    [
+     "12:25",
+     164822.0
+    ],
+    [
+     "12:30",
+     165187.0
+    ],
+    [
+     "12:35",
+     165217.0
+    ],
+    [
+     "12:40",
+     165041.0
+    ],
+    [
+     "12:45",
+     165262.0
+    ],
+    [
+     "12:50",
+     165345.0
+    ],
+    [
+     "12:55",
+     165179.0
+    ],
+    [
+     "13:00",
+     165043.0
+    ],
+    [
+     "13:05",
+     164921.0
+    ],
+    [
+     "13:10",
+     164812.0
+    ],
+    [
+     "13:15",
+     164706.0
+    ],
+    [
+     "13:20",
+     164720.0
+    ],
+    [
+     "13:25",
+     164725.0
+    ],
+    [
+     "13:30",
+     164822.0
+    ],
+    [
+     "13:35",
+     164842.0
+    ],
+    [
+     "13:40",
+     164827.0
+    ],
+    [
+     "13:45",
+     165142.0
+    ],
+    [
+     "13:50",
+     165225.0
+    ],
+    [
+     "13:55",
+     165661.0
+    ],
+    [
+     "14:00",
+     165847.0
+    ],
+    [
+     "14:05",
+     166143.0
+    ],
+    [
+     "14:10",
+     165901.0
+    ],
+    [
+     "14:15",
+     166146.0
+    ],
+    [
+     "14:20",
+     166025.0
+    ],
+    [
+     "14:25",
+     166031.0
+    ],
+    [
+     "14:30",
+     166080.0
+    ],
+    [
+     "14:35",
+     166220.0
+    ],
+    [
+     "14:40",
+     166106.0
+    ],
+    [
+     "14:45",
+     166119.0
+    ],
+    [
+     "14:50",
+     166143.0
+    ],
+    [
+     "14:55",
+     166262.0
+    ],
+    [
+     "15:00",
+     166432.0
+    ],
+    [
+     "15:05",
+     166230.0
+    ],
+    [
+     "15:10",
+     166299.0
+    ],
+    [
+     "15:15",
+     166617.0
+    ],
+    [
+     "15:20",
+     166751.0
+    ],
+    [
+     "15:25",
+     166835.0
+    ],
+    [
+     "15:30",
+     166798.0
+    ],
+    [
+     "15:35",
+     166871.0
+    ],
+    [
+     "15:40",
+     166910.0
+    ],
+    [
+     "15:45",
+     167082.0
+    ],
+    [
+     "15:50",
+     167002.0
+    ],
+    [
+     "15:55",
+     166845.0
+    ],
+    [
+     "16:00",
+     166771.0
+    ],
+    [
+     "16:01",
+     166726.0
     ]
    ]
   },
@@ -176,90 +416,317 @@
     ],
     [
      "11:15",
-     5.9098
+     5.9026
     ],
     [
-     "11:18",
-     5.9031
+     "11:20",
+     5.8898
+    ],
+    [
+     "11:25",
+     5.8973
+    ],
+    [
+     "11:30",
+     5.9008
+    ],
+    [
+     "11:35",
+     5.9016
+    ],
+    [
+     "11:40",
+     5.9111
+    ],
+    [
+     "11:45",
+     5.8983
+    ],
+    [
+     "11:50",
+     5.8916
+    ],
+    [
+     "11:55",
+     5.883
+    ],
+    [
+     "12:00",
+     5.8727
+    ],
+    [
+     "12:05",
+     5.8762
+    ],
+    [
+     "12:10",
+     5.8605
+    ],
+    [
+     "12:15",
+     5.8645
+    ],
+    [
+     "12:20",
+     5.8717
+    ],
+    [
+     "12:25",
+     5.8702
+    ],
+    [
+     "12:30",
+     5.8601
+    ],
+    [
+     "12:35",
+     5.8587
+    ],
+    [
+     "12:40",
+     5.8582
+    ],
+    [
+     "12:45",
+     5.8577
+    ],
+    [
+     "12:50",
+     5.8572
+    ],
+    [
+     "12:55",
+     5.853
+    ],
+    [
+     "13:00",
+     5.8625
+    ],
+    [
+     "13:05",
+     5.859
+    ],
+    [
+     "13:10",
+     5.863
+    ],
+    [
+     "13:15",
+     5.8612
+    ],
+    [
+     "13:20",
+     5.8555
+    ],
+    [
+     "13:25",
+     5.8566
+    ],
+    [
+     "13:30",
+     5.853
+    ],
+    [
+     "13:35",
+     5.852
+    ],
+    [
+     "13:40",
+     5.8536
+    ],
+    [
+     "13:45",
+     5.8467
+    ],
+    [
+     "13:50",
+     5.8376
+    ],
+    [
+     "13:55",
+     5.8276
+    ],
+    [
+     "14:00",
+     5.816
+    ],
+    [
+     "14:05",
+     5.8177
+    ],
+    [
+     "14:10",
+     5.8161
+    ],
+    [
+     "14:15",
+     5.8121
+    ],
+    [
+     "14:20",
+     5.8152
+    ],
+    [
+     "14:25",
+     5.8149
+    ],
+    [
+     "14:30",
+     5.8185
+    ],
+    [
+     "14:35",
+     5.8136
+    ],
+    [
+     "14:40",
+     5.8177
+    ],
+    [
+     "14:45",
+     5.812
+    ],
+    [
+     "14:50",
+     5.8132
+    ],
+    [
+     "14:55",
+     5.8151
+    ],
+    [
+     "15:00",
+     5.8046
+    ],
+    [
+     "15:05",
+     5.8131
+    ],
+    [
+     "15:10",
+     5.8116
+    ],
+    [
+     "15:15",
+     5.8151
+    ],
+    [
+     "15:20",
+     5.8166
+    ],
+    [
+     "15:25",
+     5.8146
+    ],
+    [
+     "15:30",
+     5.8196
+    ],
+    [
+     "15:35",
+     5.8186
+    ],
+    [
+     "15:40",
+     5.8135
+    ],
+    [
+     "15:45",
+     5.813
+    ],
+    [
+     "15:50",
+     5.8146
+    ],
+    [
+     "15:55",
+     5.8166
+    ],
+    [
+     "16:00",
+     5.8186
+    ],
+    [
+     "16:05",
+     5.8126
+    ],
+    [
+     "16:10",
+     5.8171
+    ],
+    [
+     "16:15",
+     5.8151
+    ],
+    [
+     "16:16",
+     5.8146
     ]
    ]
   },
   "marcadores": [
    {
-    "hora": "09:32",
-    "titulo": "Dólar sobe diante de piora em projeção fiscal e inflação dos EUA no radar",
-    "fonte": "CNN Brasil",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2VoQlJkYi1tLWtsZVV0bUVRaXRPdXh3OHB3RzBHMW1mUVdPNmN2S2RDT0ZiVk9JUlZYVUhMQWlON0NHOWpmcHNrcGZ6V0t5M2lNVkJyTV91YXBGd1JiU0dEVmZPa3R6X3ExdGZLN2VEaDhDSFJKRS13UEJUTnktSllONW5leHpkbXMxdDR3dnpiWjE3N0F3ZmVFRDU0Q2pIWktKcHV3?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": -0.31
-   },
-   {
-    "hora": "09:56",
-    "titulo": "Dólar cai e Bolsa avança com inflação dos EUA no radar, expectativa por sinais fiscais e elevação de tarifas de Trump",
+    "hora": "13:30",
+    "titulo": "Trabuco, do Bradesco, vira opção para ministro da Fazenda de Lula, e ala do PT lembra fantasma de Levy",
     "fonte": "Folha",
-    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-leve-alta-em-linha-com-exterior-e-a-espera-de-novos-sinais-sobre-politica-fiscal.shtml",
-    "impacto": "alto",
+    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/trabuco-vira-opcao-para-ministro-da-fazenda-de-lula-e-ala-do-pt-lembra-fantasma-de-levy.shtml",
+    "impacto": "medio",
     "ativos": [
-     "WDO",
-     "DI"
+     "WIN"
     ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": -0.21
+    "tickers": [
+     "BBDC4"
+    ],
+    "ibov30": 0.51,
+    "dolar30": -0.43
    },
    {
-    "hora": "09:56",
-    "titulo": "Dólar abre em leve alta em linha com exterior e à espera de novos sinais sobre política fiscal",
-    "fonte": "Folha",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOXA2VWlkZ2t2Mjc2TXhCRklvS2xnZUZkck5LVFV4S3B2VXF4NVQzaC1RNEJ2ZjFVbm5UQ1MwZG1TWjVORkxsVjFCaUZwcTdfNVpvY0hhNl9QeEgyQ1QwTlVkNFZqNXBJUXZ0ZHpyOFBXTXNqTzRoWF9jNmdhZmpsV1RvZEpmY3FhRWgwVGZ4S2hPREw3X1dVT1JLaVcwcXRmVHljM2RFeG1fZVl4RmRBSFd0VFU2cjZJSS13N2ZWVVY0OVZNY3VBQmY3V29JbEF5VDBGSjktY05FT3lNcFF3?oc=5",
-    "impacto": "alto",
+    "hora": "13:54",
+    "titulo": "Embraer diz analisar decisão dos EUA, defende tarifa zero e cita investimentos no país",
+    "fonte": "Estadão",
+    "url": "https://www.estadao.com.br/economia/embraer-tarifas-eua-investimentos-pais/",
+    "impacto": "medio",
     "ativos": [
-     "WDO",
-     "DI"
+     "WDO"
     ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": -0.21
+    "tickers": [
+     "EMBR3"
+    ],
+    "ibov30": 0.48,
+    "dolar30": -0.38
    },
    {
-    "hora": "10:15",
-    "titulo": "The Fed is likely to raise rates in December. What it means for your holiday spending",
-    "fonte": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/25/fed-december-rate-hike-consumer-impact.html",
-    "impacto": "alto",
-    "ativos": [
-     "WDO",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": 0.52,
-    "dolar30": -0.18
-   },
-   {
-    "hora": "10:23",
-    "titulo": "Governo Trump propõe novas tarifas de até 20% sobre China, UE e mais 12 países",
-    "fonte": "Folha",
-    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/eua-anunciam-novas-tarifas-de-ate-20-sobre-china-ue-e-mais-14-paises.shtml",
+    "hora": "14:32",
+    "titulo": "Dólar cai mais de 1% e vai a R$ 5,81; Ibovespa sobe com expectativa por medidas fiscais",
+    "fonte": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXB5T05UWmg1TENfbl9xbUo0eWc0N1JveG9heERUb0xzekk2R0hVTDJ2bWI2YUFRN2RWazVMbTg1cm10a1phNnpqYlBLM2FHRzdJSWhmcHdLRU0yLXQzMFBCNWFna3V2LU9CRXVFTHJ0R3NLelhHTVFtSW1PYnFpd3R0TWlUS1E3RU5EZjJQZ1RGTWJqZF8xbWJGazQ0NEJveDN0X1pPR0ZVY2pJLXo3RXRjNmRQY1ZPN290b3lYNUFkVG5Vb0ZCV19GOFlwcXp0T3hnRklfYnNUZnZLNkh6dktkOGfSAeoBQVVfeXFMUDNJaFd2bVd4TFY0azl6TG1lZEw3Q1VkbFZsLWhVbk9wcy1UbmJQeXdFcnJKRUJSLWVCd3JiYlg3U2xiVHBqRkJfdldhRkpFbmpZS2lKY0ZwMk1NVFVkYnQ4QzA5VXJ3TjdiYXVGUmJ6eHRVOGRkNEFzZXp5dGVaNHhCNENzbll2RmdrXzRGdTMzU19XdDF3dUpLS29wSkdLd0I1bHdQUUFEcmVlTTJMakRnMW9nNXZOTk40M3ZGZGFRVU1IQUs3RTB0SjFQeGxrWUNzTGdRbnItbk9PNmVicER3b3pIT1Z3NTJB?oc=5",
     "impacto": "alto",
     "ativos": [
      "WIN",
      "WDO"
     ],
     "tickers": [],
-    "ibov30": 0.2,
-    "dolar30": 0.11
+    "ibov30": 0.21,
+    "dolar30": -0.24
    },
    {
-    "hora": "10:27",
-    "titulo": "Dólar passa a cair e Ibovespa sobe antes de dado de inflação preferido do Fed",
-    "fonte": "Estadão",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXB5T05UWmg1TENfbl9xbUo0eWc0N1JveG9heERUb0xzekk2R0hVTDJ2bWI2YUFRN2RWazVMbTg1cm10a1phNnpqYlBLM2FHRzdJSWhmcHdLRU0yLXQzMFBCNWFna3V2LU9CRXVFTHJ0R3NLelhHTVFtSW1PYnFpd3R0TWlUS1E3RU5EZjJQZ1RGTWJqZF8xbWJGazQ0NEJveDN0X1pPR0ZVY2pJLXo3RXRjNmRQY1ZPN290b3lYNUFkVG5Vb0ZCV19GOFlwcXp0T3hnRklfYnNUZnZLNkh6dktkOGfSAeoBQVVfeXFMUDNJaFd2bVd4TFY0azl6TG1lZEw3Q1VkbFZsLWhVbk9wcy1UbmJQeXdFcnJKRUJSLWVCd3JiYlg3U2xiVHBqRkJfdldhRkpFbmpZS2lKY0ZwMk1NVFVkYnQ4QzA5VXJ3TjdiYXVGUmJ6eHRVOGRkNEFzZXp5dGVaNHhCNENzbll2RmdrXzRGdTMzU19XdDF3dUpLS29wSkdLd0I1bHdQUUFEcmVlTTJMakRnMW9nNXZOTk40M3ZGZGFRVU1IQUs3RTB0SjFQeGxrWUNzTGdRbnItbk9PNmVicER3b3pIT1Z3NTJB?oc=5",
+    "hora": "14:38",
+    "titulo": "Ibovespa ganha forças e sobe mais de 1% em meio a especulações de nomes para Fazenda",
+    "fonte": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOXzEtcEhCb1Utb0MzaWZQZDF4cE16MldqeG8yMEdPZEdzYkktTEV0TDQtVVotWVZHbkx1MnNwMXoxbTYydGI3ZEd5TUZYSlFtNXh1R3I1SU9PNXdhVGktY3F0a1FSZnFLSEVzY3BIQV9WQVBKWTRvaGItVTBReUJMVy15MFpTdV9oZGZz0gGQAUFVX3lxTE1yMlFkRnFRYTczQjhOM3ZxVHV4ZzEyaURJai1IQlVXeDlVNk1wbUVNU01TMVRwRWtEN0ZTNGxjMDFkUUVqMFctR2VIVFJYTnJjV3B5MmV5ODVWY25SZ21EYXlJa040Q1FiUE1JQ0pfRUNTcHhLV0VaZW5sYTBlcVBVZGJHa3BLelZmeVZ5VGlaMg?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [],
+    "ibov30": 0.01,
+    "dolar30": -0.01
+   },
+   {
+    "hora": "14:51",
+    "titulo": "Juros forçados para baixo podem acabar em recessão, com mais inflação e pobreza",
+    "fonte": "Folha",
+    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/juros-forcados-para-baixo-podem-acabar-em-recessao-com-mais-inflacao-e-pobreza.shtml",
     "impacto": "alto",
     "ativos": [
      "WIN",
@@ -267,11 +734,38 @@
      "DI"
     ],
     "tickers": [],
-    "ibov30": 0.05,
-    "dolar30": 0.14
+    "ibov30": 0.37,
+    "dolar30": 0.06
    },
    {
-    "hora": "10:34",
+    "hora": "15:00",
+    "titulo": "Até onde o dólar pode ir diante da incerteza fiscal no governo Lula 4?",
+    "fonte": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS0xlOU9jYnpJb0pKd2tsRHZDdGFKTTZrN2dLSzhKLU53NDVCQlZSOG9vV0plNmlKLTlHby1ocTZWcFpxSmo2SkJWZW1ETW8tY2hyV2pHcGhUYTFoTW43blFaUndlamN2VzlDak1NMFQ3RzBNNGlxRzkxeGZsVWVPb1F1Q29DTWdiOEY4aldBbmY0WnBCYlNiRnMwVVlNa1QxRTJWVVJmTHhGMWFVN0tv?oc=5",
+    "impacto": "alto",
+    "ativos": [
+     "WDO",
+     "DI"
+    ],
+    "tickers": [],
+    "ibov30": 0.24,
+    "dolar30": 0.17
+   },
+   {
+    "hora": "15:00",
+    "titulo": "Controle de capitais no forno? Medida não segura dólar e encarece ajuste, diz UBS",
+    "fonte": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmZZVVNNd195UHVDVjA0VG5vaHB1RXNwZWRVQ2lBYUFVNVhVdzZ6dGtIcmh2aTE4RGg4SDdYelA1a0owdEdOUjAxeGs0NTVNUUhONUtBSXVScnpyZkdXUVlPSjllaExfMklMdUk2NmZpZ3F0bVV4VmpMQ2g1ZDNHd05ILTM1c2xWdDAzSUlEWENyRUlNcUNMLU4zUTl0TmVHYnQ5bExSaGI0UmhNSzVkVG95OFZ2R0hEeUHSAb8BQVVfeXFMUDRoTjBQMkJLQjQ0STFQSnRCNTRsd0JPclIxeUlsZmgwZi1LR25rX3oyTVVmMnpkQlFpbUdXRmltNFpGME5vSTBSN0I0Z25rbTIyWkRnbDBHWW1NY2xrMnp5LW1haGxEeEpRbkpOXzRqZUstNXo0dTc1VTZ6UFRWZjdJS0taTFFMNWdXNWJDZi1VcHFodWI3MmlSa0pkUG5SWWozM0trOTE4V3piRXJ6bk9lZnZJbWlET1MzU3ZLYlk?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WDO"
+    ],
+    "tickers": [],
+    "ibov30": 0.24,
+    "dolar30": 0.17
+   },
+   {
+    "hora": "15:01",
     "titulo": "Após proposta tarifária dos EUA, papéis da Embraer despencam no Ibovespa",
     "fonte": "CNN Brasil",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjJ2VnhHeFRpMHV1SVFVVTBBSmFLUnhKUUczTDNsS25QRFltS0E0OEtnOUt0cEt4aDBwM3gzb3RuT01jYUxzSmQwY2lGRUxBRXRKVjhTYzNRSS1rcFZsZEN6Y2lFWllFMWZCendJZGFvZVFtX3FJVHlNTzZJbjVRNEE3dHZhcmlFaTJreFZkNmpnLTExUzFTY215V0NsbkxBaGEzNmFIckYwTDhBSGd3d21UWHBIWHhsUVRHQ25mVWU0UQ?oc=5",
@@ -283,129 +777,114 @@
     "tickers": [
      "EMBR3"
     ],
-    "ibov30": 0.01,
-    "dolar30": 0.19
+    "ibov30": 0.22,
+    "dolar30": 0.26
    },
    {
-    "hora": "10:34",
-    "titulo": "Ibovespa sobe com novas medidas fiscais e PCE dos EUA; 5 coisas para saber antes de investir hoje (25)",
-    "fonte": "Money Times",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcWxrZFU1eWxyLXVFeDVPRXZ2cW1EcFN3TnI3dVRNWmw2QzFNMUJzVktDTF96SUs0Mkk1MkExdU9HUXVDeUVKc2thX0dmck9VN1JRSmQycXB5dkVWVXVTdzJscHlfUFN3SjR1UDNFMzhSZXRvTkF1RGkxZnlxQkh0TmFaUkxiQjZXRFA4bFZiNG93eGlITWtNa2JBYTZHZkY2RE1yWERWUTFOeV9nX05GbGZ5TGtkY3ZZSDlGczhwM3ZLS283Y1ZMRUtmbFl4MjV3QVoxV0JuWngyNlRYYU1KSDVzZEZfOU1aeGc?oc=5",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "DI"
-    ],
-    "tickers": [],
-    "ibov30": 0.01,
-    "dolar30": 0.19
-   },
-   {
-    "hora": "10:34",
-    "titulo": "EUA propõem elevar tarifas sobre importações do Brasil, incluindo taxa de 10% sobre aviões",
-    "fonte": "Folha",
-    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/eua-realizara-audiencia-em-janeiro-sobre-proposta-de-alteracao-das-tarifas-aplicadas-ao-brasil.shtml",
-    "impacto": "medio",
-    "ativos": [
-     "WDO"
-    ],
-    "tickers": [],
-    "ibov30": 0.01,
-    "dolar30": 0.19
-   },
-   {
-    "hora": "10:34",
-    "titulo": "EUA realizará audiência em janeiro sobre proposta de alteração das tarifas aplicadas ao Brasil",
-    "fonte": "Folha",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQUZvQ2lmYVhfLXY3eGVDWm9hcVp4UWRUQTU5eFIzYXJ3WXN1VktSS211dDZvc1p2SlZ1SWloU09RR29ObnBCanM0S01LUk12eU5KRW5PNXJWQ0xFc18tY1BGQjUtUzBVeUNuQjFkaE9WeGlaTm5lNFRyd3A4RVpabEpHQVVKYXdqVjlHUzFFckdfeGs2aU5vb0N3SlJua2ZVTUhNal8zT1NDZ1dnOVY0Zi1uOFlBS09IN3FHRFVkaFlneEh4dk01ZGZyOGI0Wl9MSlBGM0N0LXREeUotSHdF?oc=5",
-    "impacto": "medio",
-    "ativos": [
-     "WDO"
-    ],
-    "tickers": [],
-    "ibov30": 0.01,
-    "dolar30": 0.19
-   },
-   {
-    "hora": "10:36",
-    "titulo": "Orçamento 2027: Congresso aumenta projeção de receitas em R$ 37 bilhões após pacote fiscal de Lula",
+    "hora": "15:02",
+    "titulo": "União Europeia rejeita premissa dos EUA para tarifas e pede respeito a limite de 15%",
     "fonte": "Estadão",
-    "url": "https://www.estadao.com.br/economia/orcamento-2027-congresso-aumenta-projecao-de-receitas-em-r-37-bilhoes-apos-pacote-fiscal-de-lula/",
+    "url": "https://www.estadao.com.br/economia/uniao-europeia-premissa-eua-tarifas-respeito-limite/",
     "impacto": "medio",
     "ativos": [
-     "DI"
+     "WDO"
     ],
     "tickers": [],
-    "ibov30": -0.17,
-    "dolar30": 0.27
+    "ibov30": 0.22,
+    "dolar30": 0.26
    },
    {
-    "hora": "10:37",
-    "titulo": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+    "hora": "15:08",
+    "titulo": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
     "fonte": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
-    "impacto": "alto",
+    "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
+    "impacto": "medio",
     "ativos": [
-     "WIN",
-     "WDO"
+     "DI"
     ],
     "tickers": [],
-    "ibov30": -0.17,
-    "dolar30": 0.27
+    "ibov30": 0.39,
+    "dolar30": 0.09
    },
    {
-    "hora": "10:40",
-    "titulo": "EUA planejam aumentar tarifas comerciais sobre Brasil, UE, China e Japão",
-    "fonte": "Estadão",
-    "url": "https://www.estadao.com.br/economia/eua-planejam-aumentar-tarifas-brasil-ue-china-japao/",
-    "impacto": "alto",
-    "ativos": [
-     "WIN",
-     "WDO"
-    ],
-    "tickers": [],
-    "ibov30": null,
-    "dolar30": 0.18
-   },
-   {
-    "hora": "10:43",
-    "titulo": "EUA propõem novas tarifas sobre 14 parceiros e cita questão industrial",
+    "hora": "15:18",
+    "titulo": "Bolsas da Europa fecham em queda com nova proposta tarifária dos EUA",
     "fonte": "CNN Brasil",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaHUtWDZsM0c1Ui0zMzVnZGdIaE5JeExFMW90NlJpVFRlRVRqWkM0cWVicDQ4QVBkbzJxQkl4TERRcEZ2U3hkY0xfdG8tVzd2cEFsa3M5ZDUyMVV5WXM2NHhMR2NnbG5sSGppT0YzN3NFQ0hjR1g0Nkxfc1ZNQ3FncHpVZnZhVS1nOC1EWXVPSUJhVXNXZTQ2eTVHQ3Judy1WSzBHdTNsZTMzSl9lLWRpREd2a0tkLXlrcWM0SWh2LWxIbFRoUkNDNA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSENCT282TWg5ZG1lU1Z1TU1rWUxYRHVNRUp6YjRuSFBEbUVyMjV3b243MlRlSkdxYngtZmpLNHFxcXdGcHhfQ2p0OHFaY1h6eUZBYlAteU1QM29uLUpCaFI5dG01eGVIdEQ0NTBRZUllbU5FRmFSMlREZW1Qd0dpdnBuQlRLbTdocGxMOWVSYW1mdWtRM0ZkMUkzaU5sRDRSbW4zZjdjZGQxWThuTzMxaEhlUDdHT1c5dkN1U0xINzk0XzJWcTZ3eVc5N0V2aHJ2Nmc?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WDO"
+    ],
+    "tickers": [],
+    "ibov30": 0.28,
+    "dolar30": -0.04
+   },
+   {
+    "hora": "15:37",
+    "titulo": "Segurar dólares à força pode sair pela culatra: o alerta do UBS WM para o Brasil não seguir o caminho de Argentina e Venezuela",
+    "fonte": "Money Times",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUUFyX0Y4MUNiNkh5X2poQU5JZGpHeVdac3FMbFBidElBcGw4Q3BvOVNqbGh0VEJ0Sk0xaGo1SEhrZkg4X2pUdkVDalJfc3ZTM2hGYy0xT3cxcHRMMnkwZ2pXUkNKX3pWUVZwWXpiYXFGQTBBM2JkTnk1QWFpOU1CVVdWOEtUZzk3VXJLN3B2WXk3WHJFRTVLZnlpUF9rWFplTWhxN1FaWXdScDhnbUM0TWtaNzgtWnFaVExzZ2lTWXBkRFgtMHFheGwxUktySGx1amtsMjNXN1NHYmlsTjhYWUNQdjBNTnZXV18wOTVFZnZuUlE?oc=5",
     "impacto": "medio",
     "ativos": [
      "WDO"
     ],
     "tickers": [],
     "ibov30": null,
-    "dolar30": 0.3
+    "dolar30": -0.1
    },
    {
-    "hora": "10:57",
-    "titulo": "Ações da Embraer tombam após anúncio de novas tarifas dos EUA e lideram perdas do Ibovespa",
-    "fonte": "Valor",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdWFXV3FteHJyck0wNXgxTTRUMDJ4UHkzRl9OZWx2cGdXODNrazF4ZEMxVXBneC1XS1hGbnItTm9Vcnl1WjVaSDdBa1pGSlhGVjVBeWdvZFhJb00xOW5mU1hBN05YQ3U4bFUxU2xZd3B0WTN3TmdyMjdUb0cwODU0LXpLS0RMWGh3a3ZMZGhuN2pOMFVfQ0ZTZ3JkMHVKUVRndWZaem4wNG5yeDlDQjByOXpSb3FfTzJhX3Y3dzkzWWljTHVrcnNpUHpKY1drbGtnYXVYeGlsOFRWa25V0gHrAUFVX3lxTE9WaFJrTUhzRmMyNjlfbUlzUU9Mang4RDNfa1pnN25XcTY4MDhNQU5ocVVfQnBaVTRVay1RMEhLdEZHNEFTRjdjMjk2RGxJalBjTlZlUHp1Y2ttQ0w5STg1eFludkVNdkwxUjhoSk9UYkI4WlNUZFhlZWNJM2YyQnFRamVydldtNzR5d3hueDNESjV3U0dpblo5OFk0eG1iSHNnTHZBVVN3WDJjQkVUdXBrZm1SM1NsRUZGclVJaEtYdmJDbGZsQWx0dWtUUnd2eGhzSnEtUEIzN2pWZ2NNN2hVXzRMSTBRejlTSFk?oc=5",
-    "impacto": "alto",
+    "hora": "15:39",
+    "titulo": "Investe no exterior por medo do Brasil? Então você está fazendo isso errado, explica Itaú",
+    "fonte": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMmtpS1dHWUEtMWktODNuQ0NEQ0xwM0NHVlJzdUdCYWxYMHBpSUE5Z09NRXNXbFZrVGRxWkJJTDVaa0Ewb1dFbzhxcVlKUWpYeXhrOERqUkNmSWYwZUVyTTdWSWN1VWJnaC1KcXA2czBSUGFvR202TFktclNUdXMwZTJtVHR1a0lVUTY0NnFrcjVFeUNiLVE1SVFXUDk1TzBPMEh5RGFtZmNMMTB4S0d1SjRyRmFrbFlBSkxwOW1TRTZ1UThpWlJIOHRKdEsxWlFDdmJhQTlDRnRHMFc2RXBj0gHkAUFVX3lxTE1GTEFxaWhVZmtILWFGZkRELUpfdDAyQ3dYbENpUDhYVTJoQ3ZZdW82ZGJCR1lUeXkzTHV2aERpMmdwRXBtQ1BpSzVLZ203RWJPLThoeFdPdUdGODJMUXEtekhfS29icVZDYWRNN2p3SW5yTFZRVUVuUGVQa1hJcUpIQllGVVpZRlpDQXBfZW4wbVhBdDEyQnItd1VpTy1PY3FkVHVVaFQ5ei1NMUszVHg0aVZzYjRqcmZfaVo5bWJSaE5hdTB6Tl9WSXgtT25WaVBSQ1RYU3JXY1ZFLXJzT2ctMzhNRQ?oc=5",
+    "impacto": "medio",
     "ativos": [
-     "WIN",
-     "WDO"
+     "WIN"
     ],
     "tickers": [
-     "EMBR3"
+     "ITUB4"
     ],
+    "ibov30": null,
+    "dolar30": -0.1
+   },
+   {
+    "hora": "16:02",
+    "titulo": "Indústria de insumos agrícolas vê custo de produção subir com dólar próximo a R$ 6",
+    "fonte": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcFZBZGlENGNEMjgxeV96UUtyaUh3bzVuNTl0MzZNT0pZUVREdzFIdEwtLW9zZGtiejlpN3pWWVhFV05BdjNZT1RsX2hXZVY3eTRseFN0NFF4dW5weHhNd0tIcVg1NEJNejR3ekN2enAzY3VNbmNfS0xlbjZFcDBETFBsN3U4U3NoY2NKb0lnd25tajYxR1JaZllTVWJsVERCdWRWQ0otR2hBaktPeHVTUGkwdk1ydnotSFBTVVpUdDVDVnlHc0lrSi1QemJqekFNSk5BX2ZR?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WDO"
+    ],
+    "tickers": [],
     "ibov30": null,
     "dolar30": null
    },
    {
-    "hora": "11:11",
-    "titulo": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-    "fonte": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+    "hora": "16:05",
+    "titulo": "Dólar hoje cai mais de 1,5%, a R$ 5,82, com especulações sobre ministro da Fazenda",
+    "fonte": "InfoMoney",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEpha3pvUHNvaFpaWF9BZlhGQkZoWVF6aDZlaWE5ODhMc3NJc2l1RDJkQ2wyT0JoclJ2d2ZmRV96OVA3MDlacEJyNVRGbVhnNk9qM0xDTXIyOUotbmQzZ3ZRSHdFZ1owS3FfRXhyaXp0b1BESTFoV3V3Yk9CTlRvc01Qc1VNb3lVWVpMWWllSU5WaW01RUJXUjNGczLSAaIBQVVfeXFMUF9PSWJHUGdUWFBkR09VOFRibjlTX1RKQjZoV1JULUliV1dFd0tjN2xOLXBuVXpEQUNUMFd4bXFyeEphaDYyUGdpU3NtNDJzdUstTzZWYWtTMnVQdnJfdzJta2pSVUZ0bVlnVzV2dkYtU1dvSjVpQ3JBQ2lZRE12SjRrZDlRWjZxallhT3dhM0M2cWVad1oxOHdfcG1WZ0JWaWt3?oc=5",
     "impacto": "medio",
     "ativos": [
-     "DI"
+     "WDO"
     ],
     "tickers": [],
+    "ibov30": null,
+    "dolar30": null
+   },
+   {
+    "hora": "16:07",
+    "titulo": "Itaú BBA aponta quem pode entrar, sair e ganhar espaço na nova carteira do Ibovespa",
+    "fonte": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWldwR2ozVmxPTWppUGxGUHVfV1hVTGNEX0poYlYtbGtsX3hsYk5NbjA4Q182V3J0Xzh2NmpNajZyX3VGTXBpcXQ5Yl9VSjBtNzdSb21ZZDBxQjc3ZEFoVXpsWmdLZ1hMNktRVFdLY002YkN2MDdheXh6OWlqT3ZCclNRNzIxemJYNExaMDlCNTlqcG9US0lIb1FzLXpEaGl0Z3dJVnpOQ0o5U0ZwS3VyV1puem1vbmVuUVZ1eldXUXgya293NzhWazM0Q3Z4M0hTZUhhejAtaDZCUUhOWXduM0lETQ?oc=5",
+    "impacto": "medio",
+    "ativos": [
+     "WIN"
+    ],
+    "tickers": [
+     "ITUB4"
+    ],
     "ibov30": null,
     "dolar30": null
    }
@@ -413,58 +892,36 @@
  },
  "hoje": [
   {
-   "titulo": "Dólar sobe diante de piora em projeção fiscal e inflação dos EUA no radar",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2VoQlJkYi1tLWtsZVV0bUVRaXRPdXh3OHB3RzBHMW1mUVdPNmN2S2RDT0ZiVk9JUlZYVUhMQWlON0NHOWpmcHNrcGZ6V0t5M2lNVkJyTV91YXBGd1JiU0dEVmZPa3R6X3ExdGZLN2VEaDhDSFJKRS13UEJUTnktSllONW5leHpkbXMxdDR3dnpiWjE3N0F3ZmVFRDU0Q2pIWktKcHV3?oc=5",
-   "publicado": "2026-11-25T09:32-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar cai e Bolsa avança com inflação dos EUA no radar, expectativa por sinais fiscais e elevação de tarifas de Trump",
+   "titulo": "Trabuco, do Bradesco, vira opção para ministro da Fazenda de Lula, e ala do PT lembra fantasma de Levy",
    "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-leve-alta-em-linha-com-exterior-e-a-espera-de-novos-sinais-sobre-politica-fiscal.shtml",
-   "publicado": "2026-11-25T09:56-03:00",
-   "impacto": "alto",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/trabuco-vira-opcao-para-ministro-da-fazenda-de-lula-e-ala-do-pt-lembra-fantasma-de-levy.shtml",
+   "publicado": "2026-11-25T13:30-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WDO",
-    "DI"
+    "WIN"
    ],
-   "tickers": []
+   "tickers": [
+    "BBDC4"
+   ]
   },
   {
-   "titulo": "Dólar abre em leve alta em linha com exterior e à espera de novos sinais sobre política fiscal",
-   "fonte": "Folha",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOXA2VWlkZ2t2Mjc2TXhCRklvS2xnZUZkck5LVFV4S3B2VXF4NVQzaC1RNEJ2ZjFVbm5UQ1MwZG1TWjVORkxsVjFCaUZwcTdfNVpvY0hhNl9QeEgyQ1QwTlVkNFZqNXBJUXZ0ZHpyOFBXTXNqTzRoWF9jNmdhZmpsV1RvZEpmY3FhRWgwVGZ4S2hPREw3X1dVT1JLaVcwcXRmVHljM2RFeG1fZVl4RmRBSFd0VFU2cjZJSS13N2ZWVVY0OVZNY3VBQmY3V29JbEF5VDBGSjktY05FT3lNcFF3?oc=5",
-   "publicado": "2026-11-25T09:56-03:00",
-   "impacto": "alto",
+   "titulo": "Embraer diz analisar decisão dos EUA, defende tarifa zero e cita investimentos no país",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/embraer-tarifas-eua-investimentos-pais/",
+   "publicado": "2026-11-25T13:54-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WDO",
-    "DI"
+    "WDO"
    ],
-   "tickers": []
+   "tickers": [
+    "EMBR3"
+   ]
   },
   {
-   "titulo": "The Fed is likely to raise rates in December. What it means for your holiday spending",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/25/fed-december-rate-hike-consumer-impact.html",
-   "publicado": "2026-11-25T10:15-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Governo Trump propõe novas tarifas de até 20% sobre China, UE e mais 12 países",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/eua-anunciam-novas-tarifas-de-ate-20-sobre-china-ue-e-mais-14-paises.shtml",
-   "publicado": "2026-11-25T10:23-03:00",
+   "titulo": "Dólar cai mais de 1% e vai a R$ 5,81; Ibovespa sobe com expectativa por medidas fiscais",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXB5T05UWmg1TENfbl9xbUo0eWc0N1JveG9heERUb0xzekk2R0hVTDJ2bWI2YUFRN2RWazVMbTg1cm10a1phNnpqYlBLM2FHRzdJSWhmcHdLRU0yLXQzMFBCNWFna3V2LU9CRXVFTHJ0R3NLelhHTVFtSW1PYnFpd3R0TWlUS1E3RU5EZjJQZ1RGTWJqZF8xbWJGazQ0NEJveDN0X1pPR0ZVY2pJLXo3RXRjNmRQY1ZPN290b3lYNUFkVG5Vb0ZCV19GOFlwcXp0T3hnRklfYnNUZnZLNkh6dktkOGfSAeoBQVVfeXFMUDNJaFd2bVd4TFY0azl6TG1lZEw3Q1VkbFZsLWhVbk9wcy1UbmJQeXdFcnJKRUJSLWVCd3JiYlg3U2xiVHBqRkJfdldhRkpFbmpZS2lKY0ZwMk1NVFVkYnQ4QzA5VXJ3TjdiYXVGUmJ6eHRVOGRkNEFzZXp5dGVaNHhCNENzbll2RmdrXzRGdTMzU19XdDF3dUpLS29wSkdLd0I1bHdQUUFEcmVlTTJMakRnMW9nNXZOTk40M3ZGZGFRVU1IQUs3RTB0SjFQeGxrWUNzTGdRbnItbk9PNmVicER3b3pIT1Z3NTJB?oc=5",
+   "publicado": "2026-11-25T14:32-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -473,15 +930,49 @@
    "tickers": []
   },
   {
-   "titulo": "Dólar passa a cair e Ibovespa sobe antes de dado de inflação preferido do Fed",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXB5T05UWmg1TENfbl9xbUo0eWc0N1JveG9heERUb0xzekk2R0hVTDJ2bWI2YUFRN2RWazVMbTg1cm10a1phNnpqYlBLM2FHRzdJSWhmcHdLRU0yLXQzMFBCNWFna3V2LU9CRXVFTHJ0R3NLelhHTVFtSW1PYnFpd3R0TWlUS1E3RU5EZjJQZ1RGTWJqZF8xbWJGazQ0NEJveDN0X1pPR0ZVY2pJLXo3RXRjNmRQY1ZPN290b3lYNUFkVG5Vb0ZCV19GOFlwcXp0T3hnRklfYnNUZnZLNkh6dktkOGfSAeoBQVVfeXFMUDNJaFd2bVd4TFY0azl6TG1lZEw3Q1VkbFZsLWhVbk9wcy1UbmJQeXdFcnJKRUJSLWVCd3JiYlg3U2xiVHBqRkJfdldhRkpFbmpZS2lKY0ZwMk1NVFVkYnQ4QzA5VXJ3TjdiYXVGUmJ6eHRVOGRkNEFzZXp5dGVaNHhCNENzbll2RmdrXzRGdTMzU19XdDF3dUpLS29wSkdLd0I1bHdQUUFEcmVlTTJMakRnMW9nNXZOTk40M3ZGZGFRVU1IQUs3RTB0SjFQeGxrWUNzTGdRbnItbk9PNmVicER3b3pIT1Z3NTJB?oc=5",
-   "publicado": "2026-11-25T10:27-03:00",
+   "titulo": "Ibovespa ganha forças e sobe mais de 1% em meio a especulações de nomes para Fazenda",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOXzEtcEhCb1Utb0MzaWZQZDF4cE16MldqeG8yMEdPZEdzYkktTEV0TDQtVVotWVZHbkx1MnNwMXoxbTYydGI3ZEd5TUZYSlFtNXh1R3I1SU9PNXdhVGktY3F0a1FSZnFLSEVzY3BIQV9WQVBKWTRvaGItVTBReUJMVy15MFpTdV9oZGZz0gGQAUFVX3lxTE1yMlFkRnFRYTczQjhOM3ZxVHV4ZzEyaURJai1IQlVXeDlVNk1wbUVNU01TMVRwRWtEN0ZTNGxjMDFkUUVqMFctR2VIVFJYTnJjV3B5MmV5ODVWY25SZ21EYXlJa040Q1FiUE1JQ0pfRUNTcHhLV0VaZW5sYTBlcVBVZGJHa3BLelZmeVZ5VGlaMg?oc=5",
+   "publicado": "2026-11-25T14:38-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Juros forçados para baixo podem acabar em recessão, com mais inflação e pobreza",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/juros-forcados-para-baixo-podem-acabar-em-recessao-com-mais-inflacao-e-pobreza.shtml",
+   "publicado": "2026-11-25T14:51-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
     "WDO",
     "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Até onde o dólar pode ir diante da incerteza fiscal no governo Lula 4?",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS0xlOU9jYnpJb0pKd2tsRHZDdGFKTTZrN2dLSzhKLU53NDVCQlZSOG9vV0plNmlKLTlHby1ocTZWcFpxSmo2SkJWZW1ETW8tY2hyV2pHcGhUYTFoTW43blFaUndlamN2VzlDak1NMFQ3RzBNNGlxRzkxeGZsVWVPb1F1Q29DTWdiOEY4aldBbmY0WnBCYlNiRnMwVVlNa1QxRTJWVVJmTHhGMWFVN0tv?oc=5",
+   "publicado": "2026-11-25T15:00-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Controle de capitais no forno? Medida não segura dólar e encarece ajuste, diz UBS",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmZZVVNNd195UHVDVjA0VG5vaHB1RXNwZWRVQ2lBYUFVNVhVdzZ6dGtIcmh2aTE4RGg4SDdYelA1a0owdEdOUjAxeGs0NTVNUUhONUtBSXVScnpyZkdXUVlPSjllaExfMklMdUk2NmZpZ3F0bVV4VmpMQ2g1ZDNHd05ILTM1c2xWdDAzSUlEWENyRUlNcUNMLU4zUTl0TmVHYnQ5bExSaGI0UmhNSzVkVG95OFZ2R0hEeUHSAb8BQVVfeXFMUDRoTjBQMkJLQjQ0STFQSnRCNTRsd0JPclIxeUlsZmgwZi1LR25rX3oyTVVmMnpkQlFpbUdXRmltNFpGME5vSTBSN0I0Z25rbTIyWkRnbDBHWW1NY2xrMnp5LW1haGxEeEpRbkpOXzRqZUstNXo0dTc1VTZ6UFRWZjdJS0taTFFMNWdXNWJDZi1VcHFodWI3MmlSa0pkUG5SWWozM0trOTE4V3piRXJ6bk9lZnZJbWlET1MzU3ZLYlk?oc=5",
+   "publicado": "2026-11-25T15:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
    ],
    "tickers": []
   },
@@ -489,7 +980,7 @@
    "titulo": "Após proposta tarifária dos EUA, papéis da Embraer despencam no Ibovespa",
    "fonte": "CNN Brasil",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjJ2VnhHeFRpMHV1SVFVVTBBSmFLUnhKUUczTDNsS25QRFltS0E0OEtnOUt0cEt4aDBwM3gzb3RuT01jYUxzSmQwY2lGRUxBRXRKVjhTYzNRSS1rcFZsZEN6Y2lFWllFMWZCendJZGFvZVFtX3FJVHlNTzZJbjVRNEE3dHZhcmlFaTJreFZkNmpnLTExUzFTY215V0NsbkxBaGEzNmFIckYwTDhBSGd3d21UWHBIWHhsUVRHQ25mVWU0UQ?oc=5",
-   "publicado": "2026-11-25T10:34-03:00",
+   "publicado": "2026-11-25T15:01-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -500,79 +991,32 @@
    ]
   },
   {
-   "titulo": "Ibovespa sobe com novas medidas fiscais e PCE dos EUA; 5 coisas para saber antes de investir hoje (25)",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcWxrZFU1eWxyLXVFeDVPRXZ2cW1EcFN3TnI3dVRNWmw2QzFNMUJzVktDTF96SUs0Mkk1MkExdU9HUXVDeUVKc2thX0dmck9VN1JRSmQycXB5dkVWVXVTdzJscHlfUFN3SjR1UDNFMzhSZXRvTkF1RGkxZnlxQkh0TmFaUkxiQjZXRFA4bFZiNG93eGlITWtNa2JBYTZHZkY2RE1yWERWUTFOeV9nX05GbGZ5TGtkY3ZZSDlGczhwM3ZLS283Y1ZMRUtmbFl4MjV3QVoxV0JuWngyNlRYYU1KSDVzZEZfOU1aeGc?oc=5",
-   "publicado": "2026-11-25T10:34-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "EUA propõem elevar tarifas sobre importações do Brasil, incluindo taxa de 10% sobre aviões",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/eua-realizara-audiencia-em-janeiro-sobre-proposta-de-alteracao-das-tarifas-aplicadas-ao-brasil.shtml",
-   "publicado": "2026-11-25T10:34-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "EUA realizará audiência em janeiro sobre proposta de alteração das tarifas aplicadas ao Brasil",
-   "fonte": "Folha",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQUZvQ2lmYVhfLXY3eGVDWm9hcVp4UWRUQTU5eFIzYXJ3WXN1VktSS211dDZvc1p2SlZ1SWloU09RR29ObnBCanM0S01LUk12eU5KRW5PNXJWQ0xFc18tY1BGQjUtUzBVeUNuQjFkaE9WeGlaTm5lNFRyd3A4RVpabEpHQVVKYXdqVjlHUzFFckdfeGs2aU5vb0N3SlJua2ZVTUhNal8zT1NDZ1dnOVY0Zi1uOFlBS09IN3FHRFVkaFlneEh4dk01ZGZyOGI0Wl9MSlBGM0N0LXREeUotSHdF?oc=5",
-   "publicado": "2026-11-25T10:34-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Orçamento 2027: Congresso aumenta projeção de receitas em R$ 37 bilhões após pacote fiscal de Lula",
+   "titulo": "União Europeia rejeita premissa dos EUA para tarifas e pede respeito a limite de 15%",
    "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/orcamento-2027-congresso-aumenta-projecao-de-receitas-em-r-37-bilhoes-apos-pacote-fiscal-de-lula/",
-   "publicado": "2026-11-25T10:36-03:00",
+   "url": "https://www.estadao.com.br/economia/uniao-europeia-premissa-eua-tarifas-respeito-limite/",
+   "publicado": "2026-11-25T15:02-03:00",
    "impacto": "medio",
    "ativos": [
-    "DI"
+    "WDO"
    ],
    "tickers": []
   },
   {
-   "titulo": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+   "titulo": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
    "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
-   "publicado": "2026-11-25T10:37-03:00",
-   "impacto": "alto",
+   "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
+   "publicado": "2026-11-25T15:08-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WIN",
-    "WDO"
+    "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "EUA planejam aumentar tarifas comerciais sobre Brasil, UE, China e Japão",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/eua-planejam-aumentar-tarifas-brasil-ue-china-japao/",
-   "publicado": "2026-11-25T10:40-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "EUA propõem novas tarifas sobre 14 parceiros e cita questão industrial",
+   "titulo": "Bolsas da Europa fecham em queda com nova proposta tarifária dos EUA",
    "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaHUtWDZsM0c1Ui0zMzVnZGdIaE5JeExFMW90NlJpVFRlRVRqWkM0cWVicDQ4QVBkbzJxQkl4TERRcEZ2U3hkY0xfdG8tVzd2cEFsa3M5ZDUyMVV5WXM2NHhMR2NnbG5sSGppT0YzN3NFQ0hjR1g0Nkxfc1ZNQ3FncHpVZnZhVS1nOC1EWXVPSUJhVXNXZTQ2eTVHQ3Judy1WSzBHdTNsZTMzSl9lLWRpREd2a0tkLXlrcWM0SWh2LWxIbFRoUkNDNA?oc=5",
-   "publicado": "2026-11-25T10:43-03:00",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSENCT282TWg5ZG1lU1Z1TU1rWUxYRHVNRUp6YjRuSFBEbUVyMjV3b243MlRlSkdxYngtZmpLNHFxcXdGcHhfQ2p0OHFaY1h6eUZBYlAteU1QM29uLUpCaFI5dG01eGVIdEQ0NTBRZUllbU5FRmFSMlREZW1Qd0dpdnBuQlRLbTdocGxMOWVSYW1mdWtRM0ZkMUkzaU5sRDRSbW4zZjdjZGQxWThuTzMxaEhlUDdHT1c5dkN1U0xINzk0XzJWcTZ3eVc5N0V2aHJ2Nmc?oc=5",
+   "publicado": "2026-11-25T15:18-03:00",
    "impacto": "medio",
    "ativos": [
     "WDO"
@@ -580,33 +1024,67 @@
    "tickers": []
   },
   {
-   "titulo": "Ações da Embraer tombam após anúncio de novas tarifas dos EUA e lideram perdas do Ibovespa",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdWFXV3FteHJyck0wNXgxTTRUMDJ4UHkzRl9OZWx2cGdXODNrazF4ZEMxVXBneC1XS1hGbnItTm9Vcnl1WjVaSDdBa1pGSlhGVjVBeWdvZFhJb00xOW5mU1hBN05YQ3U4bFUxU2xZd3B0WTN3TmdyMjdUb0cwODU0LXpLS0RMWGh3a3ZMZGhuN2pOMFVfQ0ZTZ3JkMHVKUVRndWZaem4wNG5yeDlDQjByOXpSb3FfTzJhX3Y3dzkzWWljTHVrcnNpUHpKY1drbGtnYXVYeGlsOFRWa25V0gHrAUFVX3lxTE9WaFJrTUhzRmMyNjlfbUlzUU9Mang4RDNfa1pnN25XcTY4MDhNQU5ocVVfQnBaVTRVay1RMEhLdEZHNEFTRjdjMjk2RGxJalBjTlZlUHp1Y2ttQ0w5STg1eFludkVNdkwxUjhoSk9UYkI4WlNUZFhlZWNJM2YyQnFRamVydldtNzR5d3hueDNESjV3U0dpblo5OFk0eG1iSHNnTHZBVVN3WDJjQkVUdXBrZm1SM1NsRUZGclVJaEtYdmJDbGZsQWx0dWtUUnd2eGhzSnEtUEIzN2pWZ2NNN2hVXzRMSTBRejlTSFk?oc=5",
-   "publicado": "2026-11-25T10:57-03:00",
-   "impacto": "alto",
+   "titulo": "Segurar dólares à força pode sair pela culatra: o alerta do UBS WM para o Brasil não seguir o caminho de Argentina e Venezuela",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUUFyX0Y4MUNiNkh5X2poQU5JZGpHeVdac3FMbFBidElBcGw4Q3BvOVNqbGh0VEJ0Sk0xaGo1SEhrZkg4X2pUdkVDalJfc3ZTM2hGYy0xT3cxcHRMMnkwZ2pXUkNKX3pWUVZwWXpiYXFGQTBBM2JkTnk1QWFpOU1CVVdWOEtUZzk3VXJLN3B2WXk3WHJFRTVLZnlpUF9rWFplTWhxN1FaWXdScDhnbUM0TWtaNzgtWnFaVExzZ2lTWXBkRFgtMHFheGwxUktySGx1amtsMjNXN1NHYmlsTjhYWUNQdjBNTnZXV18wOTVFZnZuUlE?oc=5",
+   "publicado": "2026-11-25T15:37-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WIN",
     "WDO"
    ],
+   "tickers": []
+  },
+  {
+   "titulo": "Investe no exterior por medo do Brasil? Então você está fazendo isso errado, explica Itaú",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMmtpS1dHWUEtMWktODNuQ0NEQ0xwM0NHVlJzdUdCYWxYMHBpSUE5Z09NRXNXbFZrVGRxWkJJTDVaa0Ewb1dFbzhxcVlKUWpYeXhrOERqUkNmSWYwZUVyTTdWSWN1VWJnaC1KcXA2czBSUGFvR202TFktclNUdXMwZTJtVHR1a0lVUTY0NnFrcjVFeUNiLVE1SVFXUDk1TzBPMEh5RGFtZmNMMTB4S0d1SjRyRmFrbFlBSkxwOW1TRTZ1UThpWlJIOHRKdEsxWlFDdmJhQTlDRnRHMFc2RXBj0gHkAUFVX3lxTE1GTEFxaWhVZmtILWFGZkRELUpfdDAyQ3dYbENpUDhYVTJoQ3ZZdW82ZGJCR1lUeXkzTHV2aERpMmdwRXBtQ1BpSzVLZ203RWJPLThoeFdPdUdGODJMUXEtekhfS29icVZDYWRNN2p3SW5yTFZRVUVuUGVQa1hJcUpIQllGVVpZRlpDQXBfZW4wbVhBdDEyQnItd1VpTy1PY3FkVHVVaFQ5ei1NMUszVHg0aVZzYjRqcmZfaVo5bWJSaE5hdTB6Tl9WSXgtT25WaVBSQ1RYU3JXY1ZFLXJzT2ctMzhNRQ?oc=5",
+   "publicado": "2026-11-25T15:39-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
    "tickers": [
-    "EMBR3"
+    "ITUB4"
    ]
   },
   {
-   "titulo": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-   "publicado": "2026-11-25T11:11-03:00",
+   "titulo": "Indústria de insumos agrícolas vê custo de produção subir com dólar próximo a R$ 6",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcFZBZGlENGNEMjgxeV96UUtyaUh3bzVuNTl0MzZNT0pZUVREdzFIdEwtLW9zZGtiejlpN3pWWVhFV05BdjNZT1RsX2hXZVY3eTRseFN0NFF4dW5weHhNd0tIcVg1NEJNejR3ekN2enAzY3VNbmNfS0xlbjZFcDBETFBsN3U4U3NoY2NKb0lnd25tajYxR1JaZllTVWJsVERCdWRWQ0otR2hBaktPeHVTUGkwdk1ydnotSFBTVVpUdDVDVnlHc0lrSi1QemJqekFNSk5BX2ZR?oc=5",
+   "publicado": "2026-11-25T16:02-03:00",
    "impacto": "medio",
    "ativos": [
-    "DI"
+    "WDO"
    ],
    "tickers": []
+  },
+  {
+   "titulo": "Dólar hoje cai mais de 1,5%, a R$ 5,82, com especulações sobre ministro da Fazenda",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEpha3pvUHNvaFpaWF9BZlhGQkZoWVF6aDZlaWE5ODhMc3NJc2l1RDJkQ2wyT0JoclJ2d2ZmRV96OVA3MDlacEJyNVRGbVhnNk9qM0xDTXIyOUotbmQzZ3ZRSHdFZ1owS3FfRXhyaXp0b1BESTFoV3V3Yk9CTlRvc01Qc1VNb3lVWVpMWWllSU5WaW01RUJXUjNGczLSAaIBQVVfeXFMUF9PSWJHUGdUWFBkR09VOFRibjlTX1RKQjZoV1JULUliV1dFd0tjN2xOLXBuVXpEQUNUMFd4bXFyeEphaDYyUGdpU3NtNDJzdUstTzZWYWtTMnVQdnJfdzJta2pSVUZ0bVlnVzV2dkYtU1dvSjVpQ3JBQ2lZRE12SjRrZDlRWjZxallhT3dhM0M2cWVad1oxOHdfcG1WZ0JWaWt3?oc=5",
+   "publicado": "2026-11-25T16:05-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Itaú BBA aponta quem pode entrar, sair e ganhar espaço na nova carteira do Ibovespa",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWldwR2ozVmxPTWppUGxGUHVfV1hVTGNEX0poYlYtbGtsX3hsYk5NbjA4Q182V3J0Xzh2NmpNajZyX3VGTXBpcXQ5Yl9VSjBtNzdSb21ZZDBxQjc3ZEFoVXpsWmdLZ1hMNktRVFdLY002YkN2MDdheXh6OWlqT3ZCclNRNzIxemJYNExaMDlCNTlqcG9US0lIb1FzLXpEaGl0Z3dJVnpOQ0o5U0ZwS3VyV1puem1vbmVuUVZ1eldXUXgya293NzhWazM0Q3Z4M0hTZUhhejAtaDZCUUhOWXduM0lETQ?oc=5",
+   "publicado": "2026-11-25T16:07-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "ITUB4"
+   ]
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-25T11:18-03:00",
+ "atualizado_em": "2026-11-25T16:16-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -616,40 +1094,27 @@
   "Estadão",
   "Folha",
   "InfoMoney",
-  "Money Times",
-  "Valor"
+  "Money Times"
  ],
  "noticias": [
   {
-   "titulo": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-   "publicado": "2026-11-25T11:11-03:00",
+   "titulo": "Itaú BBA aponta quem pode entrar, sair e ganhar espaço na nova carteira do Ibovespa",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWldwR2ozVmxPTWppUGxGUHVfV1hVTGNEX0poYlYtbGtsX3hsYk5NbjA4Q182V3J0Xzh2NmpNajZyX3VGTXBpcXQ5Yl9VSjBtNzdSb21ZZDBxQjc3ZEFoVXpsWmdLZ1hMNktRVFdLY002YkN2MDdheXh6OWlqT3ZCclNRNzIxemJYNExaMDlCNTlqcG9US0lIb1FzLXpEaGl0Z3dJVnpOQ0o5U0ZwS3VyV1puem1vbmVuUVZ1eldXUXgya293NzhWazM0Q3Z4M0hTZUhhejAtaDZCUUhOWXduM0lETQ?oc=5",
+   "publicado": "2026-11-25T16:07-03:00",
    "impacto": "medio",
    "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ações da Embraer tombam após anúncio de novas tarifas dos EUA e lideram perdas do Ibovespa",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdWFXV3FteHJyck0wNXgxTTRUMDJ4UHkzRl9OZWx2cGdXODNrazF4ZEMxVXBneC1XS1hGbnItTm9Vcnl1WjVaSDdBa1pGSlhGVjVBeWdvZFhJb00xOW5mU1hBN05YQ3U4bFUxU2xZd3B0WTN3TmdyMjdUb0cwODU0LXpLS0RMWGh3a3ZMZGhuN2pOMFVfQ0ZTZ3JkMHVKUVRndWZaem4wNG5yeDlDQjByOXpSb3FfTzJhX3Y3dzkzWWljTHVrcnNpUHpKY1drbGtnYXVYeGlsOFRWa25V0gHrAUFVX3lxTE9WaFJrTUhzRmMyNjlfbUlzUU9Mang4RDNfa1pnN25XcTY4MDhNQU5ocVVfQnBaVTRVay1RMEhLdEZHNEFTRjdjMjk2RGxJalBjTlZlUHp1Y2ttQ0w5STg1eFludkVNdkwxUjhoSk9UYkI4WlNUZFhlZWNJM2YyQnFRamVydldtNzR5d3hueDNESjV3U0dpblo5OFk0eG1iSHNnTHZBVVN3WDJjQkVUdXBrZm1SM1NsRUZGclVJaEtYdmJDbGZsQWx0dWtUUnd2eGhzSnEtUEIzN2pWZ2NNN2hVXzRMSTBRejlTSFk?oc=5",
-   "publicado": "2026-11-25T10:57-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
+    "WIN"
    ],
    "tickers": [
-    "EMBR3"
+    "ITUB4"
    ]
   },
   {
-   "titulo": "EUA propõem novas tarifas sobre 14 parceiros e cita questão industrial",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaHUtWDZsM0c1Ui0zMzVnZGdIaE5JeExFMW90NlJpVFRlRVRqWkM0cWVicDQ4QVBkbzJxQkl4TERRcEZ2U3hkY0xfdG8tVzd2cEFsa3M5ZDUyMVV5WXM2NHhMR2NnbG5sSGppT0YzN3NFQ0hjR1g0Nkxfc1ZNQ3FncHpVZnZhVS1nOC1EWXVPSUJhVXNXZTQ2eTVHQ3Judy1WSzBHdTNsZTMzSl9lLWRpREd2a0tkLXlrcWM0SWh2LWxIbFRoUkNDNA?oc=5",
-   "publicado": "2026-11-25T10:43-03:00",
+   "titulo": "Dólar hoje cai mais de 1,5%, a R$ 5,82, com especulações sobre ministro da Fazenda",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEpha3pvUHNvaFpaWF9BZlhGQkZoWVF6aDZlaWE5ODhMc3NJc2l1RDJkQ2wyT0JoclJ2d2ZmRV96OVA3MDlacEJyNVRGbVhnNk9qM0xDTXIyOUotbmQzZ3ZRSHdFZ1owS3FfRXhyaXp0b1BESTFoV3V3Yk9CTlRvc01Qc1VNb3lVWVpMWWllSU5WaW01RUJXUjNGczLSAaIBQVVfeXFMUF9PSWJHUGdUWFBkR09VOFRibjlTX1RKQjZoV1JULUliV1dFd0tjN2xOLXBuVXpEQUNUMFd4bXFyeEphaDYyUGdpU3NtNDJzdUstTzZWYWtTMnVQdnJfdzJta2pSVUZ0bVlnVzV2dkYtU1dvSjVpQ3JBQ2lZRE12SjRrZDlRWjZxallhT3dhM0M2cWVad1oxOHdfcG1WZ0JWaWt3?oc=5",
+   "publicado": "2026-11-25T16:05-03:00",
    "impacto": "medio",
    "ativos": [
     "WDO"
@@ -657,37 +1122,70 @@
    "tickers": []
   },
   {
-   "titulo": "EUA planejam aumentar tarifas comerciais sobre Brasil, UE, China e Japão",
+   "titulo": "Indústria de insumos agrícolas vê custo de produção subir com dólar próximo a R$ 6",
    "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/eua-planejam-aumentar-tarifas-brasil-ue-china-japao/",
-   "publicado": "2026-11-25T10:40-03:00",
-   "impacto": "alto",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcFZBZGlENGNEMjgxeV96UUtyaUh3bzVuNTl0MzZNT0pZUVREdzFIdEwtLW9zZGtiejlpN3pWWVhFV05BdjNZT1RsX2hXZVY3eTRseFN0NFF4dW5weHhNd0tIcVg1NEJNejR3ekN2enAzY3VNbmNfS0xlbjZFcDBETFBsN3U4U3NoY2NKb0lnd25tajYxR1JaZllTVWJsVERCdWRWQ0otR2hBaktPeHVTUGkwdk1ydnotSFBTVVpUdDVDVnlHc0lrSi1QemJqekFNSk5BX2ZR?oc=5",
+   "publicado": "2026-11-25T16:02-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WIN",
     "WDO"
    ],
    "tickers": []
   },
   {
-   "titulo": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+   "titulo": "Investe no exterior por medo do Brasil? Então você está fazendo isso errado, explica Itaú",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMmtpS1dHWUEtMWktODNuQ0NEQ0xwM0NHVlJzdUdCYWxYMHBpSUE5Z09NRXNXbFZrVGRxWkJJTDVaa0Ewb1dFbzhxcVlKUWpYeXhrOERqUkNmSWYwZUVyTTdWSWN1VWJnaC1KcXA2czBSUGFvR202TFktclNUdXMwZTJtVHR1a0lVUTY0NnFrcjVFeUNiLVE1SVFXUDk1TzBPMEh5RGFtZmNMMTB4S0d1SjRyRmFrbFlBSkxwOW1TRTZ1UThpWlJIOHRKdEsxWlFDdmJhQTlDRnRHMFc2RXBj0gHkAUFVX3lxTE1GTEFxaWhVZmtILWFGZkRELUpfdDAyQ3dYbENpUDhYVTJoQ3ZZdW82ZGJCR1lUeXkzTHV2aERpMmdwRXBtQ1BpSzVLZ203RWJPLThoeFdPdUdGODJMUXEtekhfS29icVZDYWRNN2p3SW5yTFZRVUVuUGVQa1hJcUpIQllGVVpZRlpDQXBfZW4wbVhBdDEyQnItd1VpTy1PY3FkVHVVaFQ5ei1NMUszVHg0aVZzYjRqcmZfaVo5bWJSaE5hdTB6Tl9WSXgtT25WaVBSQ1RYU3JXY1ZFLXJzT2ctMzhNRQ?oc=5",
+   "publicado": "2026-11-25T15:39-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": [
+    "ITUB4"
+   ]
+  },
+  {
+   "titulo": "Segurar dólares à força pode sair pela culatra: o alerta do UBS WM para o Brasil não seguir o caminho de Argentina e Venezuela",
+   "fonte": "Money Times",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUUFyX0Y4MUNiNkh5X2poQU5JZGpHeVdac3FMbFBidElBcGw4Q3BvOVNqbGh0VEJ0Sk0xaGo1SEhrZkg4X2pUdkVDalJfc3ZTM2hGYy0xT3cxcHRMMnkwZ2pXUkNKX3pWUVZwWXpiYXFGQTBBM2JkTnk1QWFpOU1CVVdWOEtUZzk3VXJLN3B2WXk3WHJFRTVLZnlpUF9rWFplTWhxN1FaWXdScDhnbUM0TWtaNzgtWnFaVExzZ2lTWXBkRFgtMHFheGwxUktySGx1amtsMjNXN1NHYmlsTjhYWUNQdjBNTnZXV18wOTVFZnZuUlE?oc=5",
+   "publicado": "2026-11-25T15:37-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Bolsas da Europa fecham em queda com nova proposta tarifária dos EUA",
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSENCT282TWg5ZG1lU1Z1TU1rWUxYRHVNRUp6YjRuSFBEbUVyMjV3b243MlRlSkdxYngtZmpLNHFxcXdGcHhfQ2p0OHFaY1h6eUZBYlAteU1QM29uLUpCaFI5dG01eGVIdEQ0NTBRZUllbU5FRmFSMlREZW1Qd0dpdnBuQlRLbTdocGxMOWVSYW1mdWtRM0ZkMUkzaU5sRDRSbW4zZjdjZGQxWThuTzMxaEhlUDdHT1c5dkN1U0xINzk0XzJWcTZ3eVc5N0V2aHJ2Nmc?oc=5",
+   "publicado": "2026-11-25T15:18-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
    "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
-   "publicado": "2026-11-25T10:37-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Orçamento 2027: Congresso aumenta projeção de receitas em R$ 37 bilhões após pacote fiscal de Lula",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/orcamento-2027-congresso-aumenta-projecao-de-receitas-em-r-37-bilhoes-apos-pacote-fiscal-de-lula/",
-   "publicado": "2026-11-25T10:36-03:00",
+   "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
+   "publicado": "2026-11-25T15:08-03:00",
    "impacto": "medio",
    "ativos": [
     "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "União Europeia rejeita premissa dos EUA para tarifas e pede respeito a limite de 15%",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/uniao-europeia-premissa-eua-tarifas-respeito-limite/",
+   "publicado": "2026-11-25T15:02-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
    ],
    "tickers": []
   },
@@ -695,7 +1193,7 @@
    "titulo": "Após proposta tarifária dos EUA, papéis da Embraer despencam no Ibovespa",
    "fonte": "CNN Brasil",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjJ2VnhHeFRpMHV1SVFVVTBBSmFLUnhKUUczTDNsS25QRFltS0E0OEtnOUt0cEt4aDBwM3gzb3RuT01jYUxzSmQwY2lGRUxBRXRKVjhTYzNRSS1rcFZsZEN6Y2lFWllFMWZCendJZGFvZVFtX3FJVHlNTzZJbjVRNEE3dHZhcmlFaTJreFZkNmpnLTExUzFTY215V0NsbkxBaGEzNmFIckYwTDhBSGd3d21UWHBIWHhsUVRHQ25mVWU0UQ?oc=5",
-   "publicado": "2026-11-25T10:34-03:00",
+   "publicado": "2026-11-25T15:01-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -706,22 +1204,22 @@
    ]
   },
   {
-   "titulo": "Ibovespa sobe com novas medidas fiscais e PCE dos EUA; 5 coisas para saber antes de investir hoje (25)",
+   "titulo": "Até onde o dólar pode ir diante da incerteza fiscal no governo Lula 4?",
    "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcWxrZFU1eWxyLXVFeDVPRXZ2cW1EcFN3TnI3dVRNWmw2QzFNMUJzVktDTF96SUs0Mkk1MkExdU9HUXVDeUVKc2thX0dmck9VN1JRSmQycXB5dkVWVXVTdzJscHlfUFN3SjR1UDNFMzhSZXRvTkF1RGkxZnlxQkh0TmFaUkxiQjZXRFA4bFZiNG93eGlITWtNa2JBYTZHZkY2RE1yWERWUTFOeV9nX05GbGZ5TGtkY3ZZSDlGczhwM3ZLS283Y1ZMRUtmbFl4MjV3QVoxV0JuWngyNlRYYU1KSDVzZEZfOU1aeGc?oc=5",
-   "publicado": "2026-11-25T10:34-03:00",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS0xlOU9jYnpJb0pKd2tsRHZDdGFKTTZrN2dLSzhKLU53NDVCQlZSOG9vV0plNmlKLTlHby1ocTZWcFpxSmo2SkJWZW1ETW8tY2hyV2pHcGhUYTFoTW43blFaUndlamN2VzlDak1NMFQ3RzBNNGlxRzkxeGZsVWVPb1F1Q29DTWdiOEY4aldBbmY0WnBCYlNiRnMwVVlNa1QxRTJWVVJmTHhGMWFVN0tv?oc=5",
+   "publicado": "2026-11-25T15:00-03:00",
    "impacto": "alto",
    "ativos": [
-    "WIN",
+    "WDO",
     "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "EUA propõem elevar tarifas sobre importações do Brasil, incluindo taxa de 10% sobre aviões",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/eua-realizara-audiencia-em-janeiro-sobre-proposta-de-alteracao-das-tarifas-aplicadas-ao-brasil.shtml",
-   "publicado": "2026-11-25T10:34-03:00",
+   "titulo": "Controle de capitais no forno? Medida não segura dólar e encarece ajuste, diz UBS",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmZZVVNNd195UHVDVjA0VG5vaHB1RXNwZWRVQ2lBYUFVNVhVdzZ6dGtIcmh2aTE4RGg4SDdYelA1a0owdEdOUjAxeGs0NTVNUUhONUtBSXVScnpyZkdXUVlPSjllaExfMklMdUk2NmZpZ3F0bVV4VmpMQ2g1ZDNHd05ILTM1c2xWdDAzSUlEWENyRUlNcUNMLU4zUTl0TmVHYnQ5bExSaGI0UmhNSzVkVG95OFZ2R0hEeUHSAb8BQVVfeXFMUDRoTjBQMkJLQjQ0STFQSnRCNTRsd0JPclIxeUlsZmgwZi1LR25rX3oyTVVmMnpkQlFpbUdXRmltNFpGME5vSTBSN0I0Z25rbTIyWkRnbDBHWW1NY2xrMnp5LW1haGxEeEpRbkpOXzRqZUstNXo0dTc1VTZ6UFRWZjdJS0taTFFMNWdXNWJDZi1VcHFodWI3MmlSa0pkUG5SWWozM0trOTE4V3piRXJ6bk9lZnZJbWlET1MzU3ZLYlk?oc=5",
+   "publicado": "2026-11-25T15:00-03:00",
    "impacto": "medio",
    "ativos": [
     "WDO"
@@ -729,34 +1227,34 @@
    "tickers": []
   },
   {
-   "titulo": "EUA realizará audiência em janeiro sobre proposta de alteração das tarifas aplicadas ao Brasil",
+   "titulo": "Juros forçados para baixo podem acabar em recessão, com mais inflação e pobreza",
    "fonte": "Folha",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQUZvQ2lmYVhfLXY3eGVDWm9hcVp4UWRUQTU5eFIzYXJ3WXN1VktSS211dDZvc1p2SlZ1SWloU09RR29ObnBCanM0S01LUk12eU5KRW5PNXJWQ0xFc18tY1BGQjUtUzBVeUNuQjFkaE9WeGlaTm5lNFRyd3A4RVpabEpHQVVKYXdqVjlHUzFFckdfeGs2aU5vb0N3SlJua2ZVTUhNal8zT1NDZ1dnOVY0Zi1uOFlBS09IN3FHRFVkaFlneEh4dk01ZGZyOGI0Wl9MSlBGM0N0LXREeUotSHdF?oc=5",
-   "publicado": "2026-11-25T10:34-03:00",
-   "impacto": "medio",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/juros-forcados-para-baixo-podem-acabar-em-recessao-com-mais-inflacao-e-pobreza.shtml",
+   "publicado": "2026-11-25T14:51-03:00",
+   "impacto": "alto",
    "ativos": [
-    "WDO"
+    "WIN",
+    "WDO",
+    "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Dólar passa a cair e Ibovespa sobe antes de dado de inflação preferido do Fed",
+   "titulo": "Ibovespa ganha forças e sobe mais de 1% em meio a especulações de nomes para Fazenda",
+   "fonte": "InfoMoney",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOXzEtcEhCb1Utb0MzaWZQZDF4cE16MldqeG8yMEdPZEdzYkktTEV0TDQtVVotWVZHbkx1MnNwMXoxbTYydGI3ZEd5TUZYSlFtNXh1R3I1SU9PNXdhVGktY3F0a1FSZnFLSEVzY3BIQV9WQVBKWTRvaGItVTBReUJMVy15MFpTdV9oZGZz0gGQAUFVX3lxTE1yMlFkRnFRYTczQjhOM3ZxVHV4ZzEyaURJai1IQlVXeDlVNk1wbUVNU01TMVRwRWtEN0ZTNGxjMDFkUUVqMFctR2VIVFJYTnJjV3B5MmV5ODVWY25SZ21EYXlJa040Q1FiUE1JQ0pfRUNTcHhLV0VaZW5sYTBlcVBVZGJHa3BLelZmeVZ5VGlaMg?oc=5",
+   "publicado": "2026-11-25T14:38-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Dólar cai mais de 1% e vai a R$ 5,81; Ibovespa sobe com expectativa por medidas fiscais",
    "fonte": "Estadão",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXB5T05UWmg1TENfbl9xbUo0eWc0N1JveG9heERUb0xzekk2R0hVTDJ2bWI2YUFRN2RWazVMbTg1cm10a1phNnpqYlBLM2FHRzdJSWhmcHdLRU0yLXQzMFBCNWFna3V2LU9CRXVFTHJ0R3NLelhHTVFtSW1PYnFpd3R0TWlUS1E3RU5EZjJQZ1RGTWJqZF8xbWJGazQ0NEJveDN0X1pPR0ZVY2pJLXo3RXRjNmRQY1ZPN290b3lYNUFkVG5Vb0ZCV19GOFlwcXp0T3hnRklfYnNUZnZLNkh6dktkOGfSAeoBQVVfeXFMUDNJaFd2bVd4TFY0azl6TG1lZEw3Q1VkbFZsLWhVbk9wcy1UbmJQeXdFcnJKRUJSLWVCd3JiYlg3U2xiVHBqRkJfdldhRkpFbmpZS2lKY0ZwMk1NVFVkYnQ4QzA5VXJ3TjdiYXVGUmJ6eHRVOGRkNEFzZXp5dGVaNHhCNENzbll2RmdrXzRGdTMzU19XdDF3dUpLS29wSkdLd0I1bHdQUUFEcmVlTTJMakRnMW9nNXZOTk40M3ZGZGFRVU1IQUs3RTB0SjFQeGxrWUNzTGdRbnItbk9PNmVicER3b3pIT1Z3NTJB?oc=5",
-   "publicado": "2026-11-25T10:27-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Governo Trump propõe novas tarifas de até 20% sobre China, UE e mais 12 países",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/eua-anunciam-novas-tarifas-de-ate-20-sobre-china-ue-e-mais-14-paises.shtml",
-   "publicado": "2026-11-25T10:23-03:00",
+   "publicado": "2026-11-25T14:32-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -765,52 +1263,30 @@
    "tickers": []
   },
   {
-   "titulo": "The Fed is likely to raise rates in December. What it means for your holiday spending",
-   "fonte": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/25/fed-december-rate-hike-consumer-impact.html",
-   "publicado": "2026-11-25T10:15-03:00",
-   "impacto": "alto",
+   "titulo": "Embraer diz analisar decisão dos EUA, defende tarifa zero e cita investimentos no país",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/embraer-tarifas-eua-investimentos-pais/",
+   "publicado": "2026-11-25T13:54-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WDO",
-    "DI"
+    "WDO"
    ],
-   "tickers": []
+   "tickers": [
+    "EMBR3"
+   ]
   },
   {
-   "titulo": "Dólar cai e Bolsa avança com inflação dos EUA no radar, expectativa por sinais fiscais e elevação de tarifas de Trump",
+   "titulo": "Trabuco, do Bradesco, vira opção para ministro da Fazenda de Lula, e ala do PT lembra fantasma de Levy",
    "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-leve-alta-em-linha-com-exterior-e-a-espera-de-novos-sinais-sobre-politica-fiscal.shtml",
-   "publicado": "2026-11-25T09:56-03:00",
-   "impacto": "alto",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/trabuco-vira-opcao-para-ministro-da-fazenda-de-lula-e-ala-do-pt-lembra-fantasma-de-levy.shtml",
+   "publicado": "2026-11-25T13:30-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WDO",
-    "DI"
+    "WIN"
    ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar abre em leve alta em linha com exterior e à espera de novos sinais sobre política fiscal",
-   "fonte": "Folha",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOXA2VWlkZ2t2Mjc2TXhCRklvS2xnZUZkck5LVFV4S3B2VXF4NVQzaC1RNEJ2ZjFVbm5UQ1MwZG1TWjVORkxsVjFCaUZwcTdfNVpvY0hhNl9QeEgyQ1QwTlVkNFZqNXBJUXZ0ZHpyOFBXTXNqTzRoWF9jNmdhZmpsV1RvZEpmY3FhRWgwVGZ4S2hPREw3X1dVT1JLaVcwcXRmVHljM2RFeG1fZVl4RmRBSFd0VFU2cjZJSS13N2ZWVVY0OVZNY3VBQmY3V29JbEF5VDBGSjktY05FT3lNcFF3?oc=5",
-   "publicado": "2026-11-25T09:56-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar sobe diante de piora em projeção fiscal e inflação dos EUA no radar",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2VoQlJkYi1tLWtsZVV0bUVRaXRPdXh3OHB3RzBHMW1mUVdPNmN2S2RDT0ZiVk9JUlZYVUhMQWlON0NHOWpmcHNrcGZ6V0t5M2lNVkJyTV91YXBGd1JiU0dEVmZPa3R6X3ExdGZLN2VEaDhDSFJKRS13UEJUTnktSllONW5leHpkbXMxdDR3dnpiWjE3N0F3ZmVFRDU0Q2pIWktKcHV3?oc=5",
-   "publicado": "2026-11-25T09:32-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
+   "tickers": [
+    "BBDC4"
+   ]
   }
  ]
 }
