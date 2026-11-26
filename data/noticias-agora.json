@@ -2,173 +2,92 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Grão Investimentos, do Grupo Primo, lança ETF de Tesouro Prefixado na B3",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/grao-investimentos-do-grupo-primo-lanca-etf-de-tesouro-prefixado-na-b3.shtml",
-   "publicado": "2026-11-25T17:57-03:00",
-   "impacto": "alto",
+   "titulo": "EUA pegam o Brasil de surpresa com nova rodada de tarifas em vez de proposta para acordo",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/eua-pegam-o-brasil-de-surpresa-com-nova-rodada-de-tarifas-em-vez-de-proposta-para-acordo/",
+   "publicado": "2026-11-25T21:15-03:00",
+   "impacto": "medio",
    "ativos": [
-    "WIN",
-    "DI"
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "PicPay torna-se o primeiro banco a operar duplicata escritural na B3",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/coluna-da-broad/picpay-torna-se-o-primeiro-banco-a-operar-duplicata-escritural-na-b3/",
+   "publicado": "2026-11-25T22:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN"
    ],
    "tickers": [
     "B3SA3"
    ]
   },
   {
-   "titulo": "Proposta de novas tarifas dos EUA surpreende Brasil, que diz não ceder a ameaças",
+   "titulo": "Órgão de fiscalização de crimes financeiros do Tesouro dos EUA é alvo de possível ataque cibernético",
    "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/proposta-de-novas-tarifas-dos-eua-surpreende-brasil-e-expoe-impasse-nas-negociacoes.shtml",
-   "publicado": "2026-11-25T18:13-03:00",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/orgao-de-fiscalizacao-de-crimes-financeiros-do-tesouro-dos-eua-e-alvo-de-possivel-ataque-cibernetico.shtml",
+   "publicado": "2026-11-25T22:20-03:00",
    "impacto": "medio",
    "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa dispara com expectativa sobre Lula 4, exterior e retomada de compra de opções de EWZ",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQVd5S1RXTUI0NUFyd3ZRLWlVZWhFYm1iaGc3b1VNMi1lVlFNd1NIV1ZHZmZxalNhNXM4cUtoOWxBSzdMcEZjMFhzZmVES045SlhSeHdyVUhTaFFneW5BRDR2UVpqWkVrSkoyekJkeXgwTkxIZmdaRXdSWnU0T1dnWUFJUC15ZGNSYzk4TjNCejVieUFjek1PQVAybmVEVVNtUnJTRHplUGJlY09wRDFUU0hSTFVoTkZRdzVIb1FFN09QNUxhNV94RHc1Q0N5THNIQlM1Z0VESHdKY2RYbjNUWDJHU1LSAfMBQVVfeXFMTUpFMV9zY1VJQ05EUENYM3kyNzJqeC0zYkc3RXV4Y3JYb09IaTNIWDh2OEU0TXZUZXJlRDNoVm43a0dIVTF5TGJaemlTOVltZVpGRk5BdVVMMEZBZUJsOXNEem55ZDdtMGQwRUh3c2NBbmhUOE54Q2YwT1l5NGRBb0JGZzA3MW5jcFlCTUxGQWg3THVsTEJJZHlQUGxYTEE5ajFfcGJjd1dnOUt5a012S0lmS01fZXhLb2pFeXNsUm1QSU45TXNHRTdCaEEteGtPZ05vSDJ2SW1oYXo1YUJxNmVPSThJRWo5YkpZQkZSN3F3dnZj?oc=5",
-   "publicado": "2026-11-25T18:25-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa fecha em alta e recupera os 166 mil pontos com PEC fiscal e expectativas sobre equipe econômica de Lula",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdGg4NXRVRkJyTmNWRnoyZFZZRDBCOGtaNUQySEUxN1hYQ2xHSFdQcDdMc2RXZ0JJaVRCMjVqdW9HdTdtNnpiN0V1WHNjdERIeHBQRzRvRkxsdVpxQk5MVTRzcHRGTnFPZl8xeDQyeVdlSXhlTURYWmk2WFdOOHl1SEZzd3dmdks0ZkpiTjQ2QS1vQ0hQTFI3YXZJZDIzaTNoN3FSMGZ4cEQ1d0pybWJMcEo5djNDTGNHR1lEWkdVUHVCeTJTV1B2ZmFMaFl5c0xvUHpLb1E1UUZ0UEJfRjNMSG1n?oc=5",
-   "publicado": "2026-11-25T18:27-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
     "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Otimismo com equipe econômica leva Ibovespa a alta de 1,5%; dólar caiu mais de 1%, cotado a R$ 5,91",
+   "titulo": "Hapvida derrete e lidera destaques negativos do Ibovespa; Magalu dispara quase 10%",
    "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXB5T05UWmg1TENfbl9xbUo0eWc0N1JveG9heERUb0xzekk2R0hVTDJ2bWI2YUFRN2RWazVMbTg1cm10a1phNnpqYlBLM2FHRzdJSWhmcHdLRU0yLXQzMFBCNWFna3V2LU9CRXVFTHJ0R3NLelhHTVFtSW1PYnFpd3R0TWlUS1E3RU5EZjJQZ1RGTWJqZF8xbWJGazQ0NEJveDN0X1pPR0ZVY2pJLXo3RXRjNmRQY1ZPN290b3lYNUFkVG5Vb0ZCV19GOFlwcXp0T3hnRklfYnNUZnZLNkh6dktkOGfSAeoBQVVfeXFMUDNJaFd2bVd4TFY0azl6TG1lZEw3Q1VkbFZsLWhVbk9wcy1UbmJQeXdFcnJKRUJSLWVCd3JiYlg3U2xiVHBqRkJfdldhRkpFbmpZS2lKY0ZwMk1NVFVkYnQ4QzA5VXJ3TjdiYXVGUmJ6eHRVOGRkNEFzZXp5dGVaNHhCNENzbll2RmdrXzRGdTMzU19XdDF3dUpLS29wSkdLd0I1bHdQUUFEcmVlTTJMakRnMW9nNXZOTk40M3ZGZGFRVU1IQUs3RTB0SjFQeGxrWUNzTGdRbnItbk9PNmVicER3b3pIT1Z3NTJB?oc=5",
-   "publicado": "2026-11-25T18:29-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Juros futuros caem com mercado de olho em medidas de ajuste fiscal",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVUZ6Z3M1bkZPMHA0OXMxVVhCTWdkbW9wX2p0NHFJczNhdWlfYmlrcG5jOGVCZWJqUEhwcmpkbm5qejdTdWRtNkg1Q2dhNEY1MlNLWDREdUlCODRIY3RSNXpPZ0VfQ25EeXZNdmJveEQxZEVheGF2eXVEcHpNRjIxbDFxdmlDSXdnczcwN0dHTHZuYUFVOVY2MFZZVkdKa3otUTJlWUR1Ni0tQjZwb09XeGlHRFVVMjBzT0Nv?oc=5",
-   "publicado": "2026-11-25T18:30-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Governo Lula reage a nova tarifa dos EUA e diz que Brasil não cederá a “ameaças”",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUVhvbkNKNDh5eG5FQUdENEtCU0NaX3BHNndCOEpmMHRGRHY3ZTZaaVFfcUpJX2hMYS1PZVFIOVFveEhTa21GbGQzcjBFWmRBV2liVnNKM2xhYmh1NVVuMGhfYWh3empxUWstck8xRmM2aEdiZWU4WkFBVHhnRXVOSVlJMGs5eXJKZEZtUlJzZDJGeXFLT0kxdHlBaWFXNlltanFWUnR5bEpudVVhY2Jpb2Q4VEzSAboBQVVfeXFMTkphUWtuSXRfVk1EbUpuUDY2ai1aUXh4c19NOTlLWHltSHZKNl9va3ktZmZFY2dkUTBhMzVPSXpUMzhhc2R4VHVORnhpeWhGejFUQzBXbjZPbkx0aHJLMDFzQjZfdnRCVXlqRXRZbE9GRnVBMFpLSlhzX2wyN2tWOUlaRlBacm05WENPS1dQRFd0cWxFX1VmRXVyeFJGZ0FaTnJpcjRyYnpLd1NMbHgzZVpuR2UzeDRCRmtR?oc=5",
-   "publicado": "2026-11-25T18:43-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Especulações para Fazenda e fiscal: o que fez Ibovespa subir 1,6% após 4 quedas",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOXzEtcEhCb1Utb0MzaWZQZDF4cE16MldqeG8yMEdPZEdzYkktTEV0TDQtVVotWVZHbkx1MnNwMXoxbTYydGI3ZEd5TUZYSlFtNXh1R3I1SU9PNXdhVGktY3F0a1FSZnFLSEVzY3BIQV9WQVBKWTRvaGItVTBReUJMVy15MFpTdV9oZGZz0gGQAUFVX3lxTE1yMlFkRnFRYTczQjhOM3ZxVHV4ZzEyaURJai1IQlVXeDlVNk1wbUVNU01TMVRwRWtEN0ZTNGxjMDFkUUVqMFctR2VIVFJYTnJjV3B5MmV5ODVWY25SZ21EYXlJa040Q1FiUE1JQ0pfRUNTcHhLV0VaZW5sYTBlcVBVZGJHa3BLelZmeVZ5VGlaMg?oc=5",
-   "publicado": "2026-11-25T18:49-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Governo diz que novas tarifas dos EUA são ‘ação inaceitável’, buscam pressionar País e atingir Pix",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/governo-diz-que-novas-tarifas-dos-eua-sao-acao-inaceitavel-buscam-pressionar-pais-e-atingir-pix/",
-   "publicado": "2026-11-25T18:49-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Governo Lula diz que 'não cederá a ameaças' após tarifas dos EUA para aeronaves e açúcar",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-diz-que-nao-cedera-a-ameacas-apos-tarifas-dos-eua-para-aeronaves-e-acucar.shtml",
-   "publicado": "2026-11-25T18:54-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Novo tarifaço: Esse é um jogo de ‘toma lá, dá cá’, diz Troyjo, que sugere ao Brasil negociar com EUA",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/novo-tarifaco-esse-e-um-jogo-de-toma-la-da-ca-diz-troyjo-que-sugere-ao-brasil-negociar-com-eua/",
-   "publicado": "2026-11-25T19:07-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar cai para R$ 5,81, em meio à discussão de nomes para Fazenda",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-para-r-581-em-meio-discussao-de-nomes-para-fazenda",
-   "publicado": "2026-11-25T19:08-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa fecha em forte alta, acima de 1%, com expectativa de nova rodada de ajuste fiscal",
-   "fonte": "Exame",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nRkd2YjktU0paekNSX2psWmJxbzJaSVpxdFdrTDVxOHJXclk2TE1BQlotMS1VYjh4eHRnaVBETko5dVprdjVvYVJ4anBOSFJzNVVxZ05VY3ZaSFBhY2FDWDNYdG1UM2F0cXlV?oc=5",
-   "publicado": "2026-11-25T19:18-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Cosan (CSAN3) negocia reduzir participação na Rumo, Compass e Moove, dizem fontes",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEdvWTdrVHo4ZjljNGcwVEo2S1JKYlhiVzZKWnl2eVJJOWhCdmlaeTl3XzJaN1VybVNIRWxoSmdjMFBLWDNpYmN5bl82UDVQc2VBV0h6WHJaWHV5TDJpOWxrNmZsTHcyOFR4OE9sUUhidm1mdHhNRVRRV19jYmhlLVdqTWlub3h0WGttd29UaXNhVl9tYzNNR0h6WWN2SUoxYWs5dVVlR2lSbDd5NUpORmlLWQ?oc=5",
-   "publicado": "2026-11-25T19:19-03:00",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN2d3UEFSLTJVSnhQb0d6VEJTQnV0QXRoMWR0OE15M3lBd3FNRGM4TF9KYkVMM0htQ3k1OEdXNjNVSDNZeHNPS3RaVGFRZ2JVVE1GdGxtNDFvMGlLR0pwQ3VFUkVqUG84UDFUQ04xOWR2VTROVjRTNWVUMFFKbzhkWjBDWjc2RW4xMXpyZGVuaUh6bUpoeGI5ODlxS2ZLbVdIanFZS040NHZSNDlWbGVhT1Z0QzdNNTRqQ09nSGd0bzk4eG52NzBDWE42bldFUWdWXzdOd1lGYw?oc=5",
+   "publicado": "2026-11-25T22:36-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
    "tickers": [
-    "CSAN3"
+    "HAPV3",
+    "MGLU3"
    ]
   },
   {
-   "titulo": "Inflação e atividade econômica seguem resilientes nos EUA, diz Fed",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVHBldmFFOEx2QmxQRW9sdV9lY3RIdXFtZDludW0zOW11QU9USkVZZ01yNVZNTW5QdEdkdGs3dVpaRW01SWdoeVZ5NjBJMHMtUG13WXFPRXhiWkZ5MWlaLUlFWXBPWmFIZjE5UldtaTcwR1ZDb2s3ckw2NlVvVjBPYlZOdXdWN0dmbndqSG9NeDBQTGRfTlhzVkViODFQTUxTTjJ1My1nS29EUVFpakxkOG02Nk5rVUJ6MVUxLUZ6bnpSZw?oc=5",
-   "publicado": "2026-11-25T19:22-03:00",
+   "titulo": "Produtos que podem ser atingidos por novas tarifas representam 7% das exportações aos EUA",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/produtos-que-podem-ser-atingidos-por-novas-tarifas-representam-7-das-exportacoes-aos-eua.shtml",
+   "publicado": "2026-11-25T23:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "EUA apertam o cerco tarifário ao Brasil, mas a pressão tende a não funcionar",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/eua-apertam-o-cerco-tarifario-ao-brasil-mas-a-pressao-tende-a-nao-funcionar.shtml",
+   "publicado": "2026-11-25T23:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Previdência privada mantém vantagem tributária, mas disputa espaço com Tesouro",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/previdencia-privada-mantem-vantagem-tributaria-mas-disputa-espaco-com-tesouro.shtml",
+   "publicado": "2026-11-25T23:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Mercado eleva projeção para inflação e dólar e prevê PIB menor em 2026",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY28zdWVUTk5mR1lQWmFFWU1RcGw5U05ibVJVUkpnSTZTN0otdVFidHJYMkRyQmpTOTNyZmo4U29nOGZQRjBmWnBPdkZtdDN5cGxRc0FPWjl2Z1FhVndydUlEQ0hPLWxTS1h2QjFzMjItSVQtRml6anpTYldKMnZXWEt2NHhSMkVEck5zdVo4UmtWQ290Qm9XSWtSVUFMVUw2ZENyT1cycWtoUmMybUE?oc=5",
+   "publicado": "2026-11-25T23:08-03:00",
    "impacto": "alto",
    "ativos": [
     "WDO",
@@ -177,19 +96,20 @@
    "tickers": []
   },
   {
-   "titulo": "Brasil critica possível novo tarifaço dos EUA e diz que não cederá",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brasil-critica-possivel-novo-tarifaco-dos-eua-e-diz-que-nao-cedera",
-   "publicado": "2026-11-25T19:34-03:00",
-   "impacto": "medio",
+   "titulo": "Dólar perto de R$ 8 e fuga de US$ 460 bi: gestora vê cenário sombrio no Brasil sem ajuste fiscal",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSTdnSWxONmIxbU9wQm1LakZ6ZW9PT2xRNUpuS1djTERFZ3ZIMEZ3ZHB4SE9qLW1ITHM4RVJweXJUQ01fcmlEejNKdXE5NlBZUlhBSmZGZG5hc3FfZGNZSkFJcS1tUEtuMFFNcjg0MTgydzkzbl9GSU5WamxZZWJGOWZqQi1Mc0I5dG9UT1QweFNjVzgyUFRpSkM3bG1EX1RDc2NjSlZiSQ?oc=5",
+   "publicado": "2026-11-25T23:18-03:00",
+   "impacto": "alto",
    "ativos": [
-    "WDO"
+    "WDO",
+    "DI"
    ],
    "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-25T20:10-03:00",
+ "atualizado_em": "2026-11-25T23:27-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -197,29 +117,14 @@
   "CNBC",
   "CNN Brasil",
   "Estadão",
-  "Exame",
-  "Folha",
-  "InfoMoney",
-  "Money Times",
-  "Valor"
+  "Folha"
  ],
  "noticias": [
   {
-   "titulo": "Brasil critica possível novo tarifaço dos EUA e diz que não cederá",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brasil-critica-possivel-novo-tarifaco-dos-eua-e-diz-que-nao-cedera",
-   "publicado": "2026-11-25T19:34-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Inflação e atividade econômica seguem resilientes nos EUA, diz Fed",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVHBldmFFOEx2QmxQRW9sdV9lY3RIdXFtZDludW0zOW11QU9USkVZZ01yNVZNTW5QdEdkdGs3dVpaRW01SWdoeVZ5NjBJMHMtUG13WXFPRXhiWkZ5MWlaLUlFWXBPWmFIZjE5UldtaTcwR1ZDb2s3ckw2NlVvVjBPYlZOdXdWN0dmbndqSG9NeDBQTGRfTlhzVkViODFQTUxTTjJ1My1nS29EUVFpakxkOG02Nk5rVUJ6MVUxLUZ6bnpSZw?oc=5",
-   "publicado": "2026-11-25T19:22-03:00",
+   "titulo": "Dólar perto de R$ 8 e fuga de US$ 460 bi: gestora vê cenário sombrio no Brasil sem ajuste fiscal",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSTdnSWxONmIxbU9wQm1LakZ6ZW9PT2xRNUpuS1djTERFZ3ZIMEZ3ZHB4SE9qLW1ITHM4RVJweXJUQ01fcmlEejNKdXE5NlBZUlhBSmZGZG5hc3FfZGNZSkFJcS1tUEtuMFFNcjg0MTgydzkzbl9GSU5WamxZZWJGOWZqQi1Mc0I5dG9UT1QweFNjVzgyUFRpSkM3bG1EX1RDc2NjSlZiSQ?oc=5",
+   "publicado": "2026-11-25T23:18-03:00",
    "impacto": "alto",
    "ativos": [
     "WDO",
@@ -228,167 +133,122 @@
    "tickers": []
   },
   {
-   "titulo": "Cosan (CSAN3) negocia reduzir participação na Rumo, Compass e Moove, dizem fontes",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEdvWTdrVHo4ZjljNGcwVEo2S1JKYlhiVzZKWnl2eVJJOWhCdmlaeTl3XzJaN1VybVNIRWxoSmdjMFBLWDNpYmN5bl82UDVQc2VBV0h6WHJaWHV5TDJpOWxrNmZsTHcyOFR4OE9sUUhidm1mdHhNRVRRV19jYmhlLVdqTWlub3h0WGttd29UaXNhVl9tYzNNR0h6WWN2SUoxYWs5dVVlR2lSbDd5NUpORmlLWQ?oc=5",
-   "publicado": "2026-11-25T19:19-03:00",
+   "titulo": "Mercado eleva projeção para inflação e dólar e prevê PIB menor em 2026",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY28zdWVUTk5mR1lQWmFFWU1RcGw5U05ibVJVUkpnSTZTN0otdVFidHJYMkRyQmpTOTNyZmo4U29nOGZQRjBmWnBPdkZtdDN5cGxRc0FPWjl2Z1FhVndydUlEQ0hPLWxTS1h2QjFzMjItSVQtRml6anpTYldKMnZXWEt2NHhSMkVEck5zdVo4UmtWQ290Qm9XSWtSVUFMVUw2ZENyT1cycWtoUmMybUE?oc=5",
+   "publicado": "2026-11-25T23:08-03:00",
+   "impacto": "alto",
+   "ativos": [
+    "WDO",
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Produtos que podem ser atingidos por novas tarifas representam 7% das exportações aos EUA",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/produtos-que-podem-ser-atingidos-por-novas-tarifas-representam-7-das-exportacoes-aos-eua.shtml",
+   "publicado": "2026-11-25T23:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "EUA apertam o cerco tarifário ao Brasil, mas a pressão tende a não funcionar",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/eua-apertam-o-cerco-tarifario-ao-brasil-mas-a-pressao-tende-a-nao-funcionar.shtml",
+   "publicado": "2026-11-25T23:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Previdência privada mantém vantagem tributária, mas disputa espaço com Tesouro",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/previdencia-privada-mantem-vantagem-tributaria-mas-disputa-espaco-com-tesouro.shtml",
+   "publicado": "2026-11-25T23:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "DI"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Norse Atlantic flights suspended after warning finances 'critical'",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+   "publicado": "2026-11-25T22:52-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "Hapvida derrete e lidera destaques negativos do Ibovespa; Magalu dispara quase 10%",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN2d3UEFSLTJVSnhQb0d6VEJTQnV0QXRoMWR0OE15M3lBd3FNRGM4TF9KYkVMM0htQ3k1OEdXNjNVSDNZeHNPS3RaVGFRZ2JVVE1GdGxtNDFvMGlLR0pwQ3VFUkVqUG84UDFUQ04xOWR2VTROVjRTNWVUMFFKbzhkWjBDWjc2RW4xMXpyZGVuaUh6bUpoeGI5ODlxS2ZLbVdIanFZS040NHZSNDlWbGVhT1Z0QzdNNTRqQ09nSGd0bzk4eG52NzBDWE42bldFUWdWXzdOd1lGYw?oc=5",
+   "publicado": "2026-11-25T22:36-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
    ],
    "tickers": [
-    "CSAN3"
+    "HAPV3",
+    "MGLU3"
    ]
   },
   {
-   "titulo": "Ibovespa fecha em forte alta, acima de 1%, com expectativa de nova rodada de ajuste fiscal",
-   "fonte": "Exame",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nRkd2YjktU0paekNSX2psWmJxbzJaSVpxdFdrTDVxOHJXclk2TE1BQlotMS1VYjh4eHRnaVBETko5dVprdjVvYVJ4anBOSFJzNVVxZ05VY3ZaSFBhY2FDWDNYdG1UM2F0cXlV?oc=5",
-   "publicado": "2026-11-25T19:18-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar cai para R$ 5,81, em meio à discussão de nomes para Fazenda",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-para-r-581-em-meio-discussao-de-nomes-para-fazenda",
-   "publicado": "2026-11-25T19:08-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Novo tarifaço: Esse é um jogo de ‘toma lá, dá cá’, diz Troyjo, que sugere ao Brasil negociar com EUA",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/novo-tarifaco-esse-e-um-jogo-de-toma-la-da-ca-diz-troyjo-que-sugere-ao-brasil-negociar-com-eua/",
-   "publicado": "2026-11-25T19:07-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Governo Lula diz que 'não cederá a ameaças' após tarifas dos EUA para aeronaves e açúcar",
+   "titulo": "Órgão de fiscalização de crimes financeiros do Tesouro dos EUA é alvo de possível ataque cibernético",
    "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-diz-que-nao-cedera-a-ameacas-apos-tarifas-dos-eua-para-aeronaves-e-acucar.shtml",
-   "publicado": "2026-11-25T18:54-03:00",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/orgao-de-fiscalizacao-de-crimes-financeiros-do-tesouro-dos-eua-e-alvo-de-possivel-ataque-cibernetico.shtml",
+   "publicado": "2026-11-25T22:20-03:00",
    "impacto": "medio",
    "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Especulações para Fazenda e fiscal: o que fez Ibovespa subir 1,6% após 4 quedas",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOXzEtcEhCb1Utb0MzaWZQZDF4cE16MldqeG8yMEdPZEdzYkktTEV0TDQtVVotWVZHbkx1MnNwMXoxbTYydGI3ZEd5TUZYSlFtNXh1R3I1SU9PNXdhVGktY3F0a1FSZnFLSEVzY3BIQV9WQVBKWTRvaGItVTBReUJMVy15MFpTdV9oZGZz0gGQAUFVX3lxTE1yMlFkRnFRYTczQjhOM3ZxVHV4ZzEyaURJai1IQlVXeDlVNk1wbUVNU01TMVRwRWtEN0ZTNGxjMDFkUUVqMFctR2VIVFJYTnJjV3B5MmV5ODVWY25SZ21EYXlJa040Q1FiUE1JQ0pfRUNTcHhLV0VaZW5sYTBlcVBVZGJHa3BLelZmeVZ5VGlaMg?oc=5",
-   "publicado": "2026-11-25T18:49-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
     "DI"
    ],
    "tickers": []
   },
   {
-   "titulo": "Governo diz que novas tarifas dos EUA são ‘ação inaceitável’, buscam pressionar País e atingir Pix",
+   "titulo": "PicPay torna-se o primeiro banco a operar duplicata escritural na B3",
    "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/governo-diz-que-novas-tarifas-dos-eua-sao-acao-inaceitavel-buscam-pressionar-pais-e-atingir-pix/",
-   "publicado": "2026-11-25T18:49-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Governo Lula reage a nova tarifa dos EUA e diz que Brasil não cederá a “ameaças”",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUVhvbkNKNDh5eG5FQUdENEtCU0NaX3BHNndCOEpmMHRGRHY3ZTZaaVFfcUpJX2hMYS1PZVFIOVFveEhTa21GbGQzcjBFWmRBV2liVnNKM2xhYmh1NVVuMGhfYWh3empxUWstck8xRmM2aEdiZWU4WkFBVHhnRXVOSVlJMGs5eXJKZEZtUlJzZDJGeXFLT0kxdHlBaWFXNlltanFWUnR5bEpudVVhY2Jpb2Q4VEzSAboBQVVfeXFMTkphUWtuSXRfVk1EbUpuUDY2ai1aUXh4c19NOTlLWHltSHZKNl9va3ktZmZFY2dkUTBhMzVPSXpUMzhhc2R4VHVORnhpeWhGejFUQzBXbjZPbkx0aHJLMDFzQjZfdnRCVXlqRXRZbE9GRnVBMFpLSlhzX2wyN2tWOUlaRlBacm05WENPS1dQRFd0cWxFX1VmRXVyeFJGZ0FaTnJpcjRyYnpLd1NMbHgzZVpuR2UzeDRCRmtR?oc=5",
-   "publicado": "2026-11-25T18:43-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Juros futuros caem com mercado de olho em medidas de ajuste fiscal",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVUZ6Z3M1bkZPMHA0OXMxVVhCTWdkbW9wX2p0NHFJczNhdWlfYmlrcG5jOGVCZWJqUEhwcmpkbm5qejdTdWRtNkg1Q2dhNEY1MlNLWDREdUlCODRIY3RSNXpPZ0VfQ25EeXZNdmJveEQxZEVheGF2eXVEcHpNRjIxbDFxdmlDSXdnczcwN0dHTHZuYUFVOVY2MFZZVkdKa3otUTJlWUR1Ni0tQjZwb09XeGlHRFVVMjBzT0Nv?oc=5",
-   "publicado": "2026-11-25T18:30-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Otimismo com equipe econômica leva Ibovespa a alta de 1,5%; dólar caiu mais de 1%, cotado a R$ 5,91",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXB5T05UWmg1TENfbl9xbUo0eWc0N1JveG9heERUb0xzekk2R0hVTDJ2bWI2YUFRN2RWazVMbTg1cm10a1phNnpqYlBLM2FHRzdJSWhmcHdLRU0yLXQzMFBCNWFna3V2LU9CRXVFTHJ0R3NLelhHTVFtSW1PYnFpd3R0TWlUS1E3RU5EZjJQZ1RGTWJqZF8xbWJGazQ0NEJveDN0X1pPR0ZVY2pJLXo3RXRjNmRQY1ZPN290b3lYNUFkVG5Vb0ZCV19GOFlwcXp0T3hnRklfYnNUZnZLNkh6dktkOGfSAeoBQVVfeXFMUDNJaFd2bVd4TFY0azl6TG1lZEw3Q1VkbFZsLWhVbk9wcy1UbmJQeXdFcnJKRUJSLWVCd3JiYlg3U2xiVHBqRkJfdldhRkpFbmpZS2lKY0ZwMk1NVFVkYnQ4QzA5VXJ3TjdiYXVGUmJ6eHRVOGRkNEFzZXp5dGVaNHhCNENzbll2RmdrXzRGdTMzU19XdDF3dUpLS29wSkdLd0I1bHdQUUFEcmVlTTJMakRnMW9nNXZOTk40M3ZGZGFRVU1IQUs3RTB0SjFQeGxrWUNzTGdRbnItbk9PNmVicER3b3pIT1Z3NTJB?oc=5",
-   "publicado": "2026-11-25T18:29-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa fecha em alta e recupera os 166 mil pontos com PEC fiscal e expectativas sobre equipe econômica de Lula",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdGg4NXRVRkJyTmNWRnoyZFZZRDBCOGtaNUQySEUxN1hYQ2xHSFdQcDdMc2RXZ0JJaVRCMjVqdW9HdTdtNnpiN0V1WHNjdERIeHBQRzRvRkxsdVpxQk5MVTRzcHRGTnFPZl8xeDQyeVdlSXhlTURYWmk2WFdOOHl1SEZzd3dmdks0ZkpiTjQ2QS1vQ0hQTFI3YXZJZDIzaTNoN3FSMGZ4cEQ1d0pybWJMcEo5djNDTGNHR1lEWkdVUHVCeTJTV1B2ZmFMaFl5c0xvUHpLb1E1UUZ0UEJfRjNMSG1n?oc=5",
-   "publicado": "2026-11-25T18:27-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa dispara com expectativa sobre Lula 4, exterior e retomada de compra de opções de EWZ",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQVd5S1RXTUI0NUFyd3ZRLWlVZWhFYm1iaGc3b1VNMi1lVlFNd1NIV1ZHZmZxalNhNXM4cUtoOWxBSzdMcEZjMFhzZmVES045SlhSeHdyVUhTaFFneW5BRDR2UVpqWkVrSkoyekJkeXgwTkxIZmdaRXdSWnU0T1dnWUFJUC15ZGNSYzk4TjNCejVieUFjek1PQVAybmVEVVNtUnJTRHplUGJlY09wRDFUU0hSTFVoTkZRdzVIb1FFN09QNUxhNV94RHc1Q0N5THNIQlM1Z0VESHdKY2RYbjNUWDJHU1LSAfMBQVVfeXFMTUpFMV9zY1VJQ05EUENYM3kyNzJqeC0zYkc3RXV4Y3JYb09IaTNIWDh2OEU0TXZUZXJlRDNoVm43a0dIVTF5TGJaemlTOVltZVpGRk5BdVVMMEZBZUJsOXNEem55ZDdtMGQwRUh3c2NBbmhUOE54Q2YwT1l5NGRBb0JGZzA3MW5jcFlCTUxGQWg3THVsTEJJZHlQUGxYTEE5ajFfcGJjd1dnOUt5a012S0lmS01fZXhLb2pFeXNsUm1QSU45TXNHRTdCaEEteGtPZ05vSDJ2SW1oYXo1YUJxNmVPSThJRWo5YkpZQkZSN3F3dnZj?oc=5",
-   "publicado": "2026-11-25T18:25-03:00",
+   "url": "https://www.estadao.com.br/economia/coluna-da-broad/picpay-torna-se-o-primeiro-banco-a-operar-duplicata-escritural-na-b3/",
+   "publicado": "2026-11-25T22:00-03:00",
    "impacto": "medio",
    "ativos": [
     "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Proposta de novas tarifas dos EUA surpreende Brasil, que diz não ceder a ameaças",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/proposta-de-novas-tarifas-dos-eua-surpreende-brasil-e-expoe-impasse-nas-negociacoes.shtml",
-   "publicado": "2026-11-25T18:13-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Grão Investimentos, do Grupo Primo, lança ETF de Tesouro Prefixado na B3",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/grao-investimentos-do-grupo-primo-lanca-etf-de-tesouro-prefixado-na-b3.shtml",
-   "publicado": "2026-11-25T17:57-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
    ],
    "tickers": [
     "B3SA3"
    ]
+  },
+  {
+   "titulo": "'Recessão é definição arbitrária', diz ministro de Milei após queda na economia da Argentina",
+   "fonte": "Folha",
+   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/recessao-e-definicao-arbitraria-diz-ministro-de-milei-apos-queda-na-economia-da-argentina.shtml",
+   "publicado": "2026-11-25T21:55-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "EUA pegam o Brasil de surpresa com nova rodada de tarifas em vez de proposta para acordo",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/eua-pegam-o-brasil-de-surpresa-com-nova-rodada-de-tarifas-em-vez-de-proposta-para-acordo/",
+   "publicado": "2026-11-25T21:15-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
   }
  ]
 }
