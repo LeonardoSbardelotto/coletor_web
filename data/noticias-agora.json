@@ -2,158 +2,10 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Banco Central se manifesta a favor de devolução de R$ 316 milhões ao BRB",
+   "titulo": "Ibovespa dispara 6% com ‘efeito Trabuco’ e recupera os 176 mil pontos; dólar cai a R$ 5,74",
    "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/banco-central-se-manifesta-a-favor-de-devolucao-de-r-316-milhoes-ao-brb/",
-   "publicado": "2026-11-26T18:17-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa hoje dispara 6% com ‘efeito Trabuco’ e IPCA-15 abaixo do esperado",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUFiVGVBdHQ3S1pYQlA5R21CWjVpV3hhMU84MDhCQjlrVjdkTEVod09TbVMtdFVpakR1bTBabExkcnBEcFNGRjlHU2JDR0o2M0NRQm0yZGJ2bTNrOU55QlkzNFczcW9VdW1BYWtwSkNld28xcnZqRU1VQ3Nxb2FUN3FSWTkwTkZrS1dXS3FqX2R4ZVppWUp0MGM0V2hwb2FxX1J0ZFNjZGQ1OEtEQmZCUWUybjVSVUN3cTRzajFhRlRmS0lXQlgwYlhhalVUYmxYWFh5OE5aWUVxcTNpZ1dKOG90YXVtUQ?oc=5",
-   "publicado": "2026-11-26T18:32-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar perto de R$ 8 e fuga de US$ 460 bi: gestora vê cenário sombrio no Brasil sem ajuste fiscal",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSTdnSWxONmIxbU9wQm1LakZ6ZW9PT2xRNUpuS1djTERFZ3ZIMEZ3ZHB4SE9qLW1ITHM4RVJweXJUQ01fcmlEejNKdXE5NlBZUlhBSmZGZG5hc3FfZGNZSkFJcS1tUEtuMFFNcjg0MTgydzkzbl9GSU5WamxZZWJGOWZqQi1Mc0I5dG9UT1QweFNjVzgyUFRpSkM3bG1EX1RDc2NjSlZiSQ?oc=5",
-   "publicado": "2026-11-26T18:53-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Formado em filosofia e amigo de Lula, Trabuco trabalha no Bradesco desde os 17 anos; conheça o novo ministro da Fazenda",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/filosofo-e-amigo-de-lula-trabuco-trabalha-no-bradesco-desde-os-17-anos-conheca-o-novo-ministro-da-fazenda.shtml",
-   "publicado": "2026-11-26T19:04-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BBDC4"
-   ]
-  },
-  {
-   "titulo": "De escriturário do Bradesco a ministro da Fazenda de Lula: relembre a trajetória de Luiz Trabuco",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/de-escriturario-do-bradesco-a-ministro-da-fazenda-de-lula-relembre-a-trajetoria-de-luiz-trabuco/",
-   "publicado": "2026-11-26T19:06-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BBDC4"
-   ]
-  },
-  {
-   "titulo": "Vale defende debater mineração em terras indígenas e cita modelo canadense",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXNUaG53WW02em9vcHZZSVVVUXFGX1A1OWZzYUo5Z0FranFwWmh3UVN4RXk4VkZXT2F4d3ZUb0JOUm9odHJ0d2hnYnRmNVFwbEVjYnpaV3Y1Y3FDWXFJS0dWQUNWM2lxLUNSZXZOSUxIWUszRFgtUHFxamNBQWFKWnlkSGtldjFZdEd0NUszY01SUFFoTXZzNGpydnRVbVpyVFdjbmw0a0dPMXVwR3lN?oc=5",
-   "publicado": "2026-11-26T19:06-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "VALE3"
-   ]
-  },
-  {
-   "titulo": "Ibovespa tem 2ª maior alta diária desde 2021; 4 ações sobem mais de 50% no mês",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVBXSzJ2cW5OSGp4ZG1YN2h3aW55SUsxcjhSQTN5b0x4RjdYTFF4eEJ2T19aTUhETDhhM050aWlBWVM2dFNvMHluNWVsTWV3U1k2Ym5WdTdJTmgzTlBGNWNQY3FDQlBvTGxOVmF5VnpadmJSTzZ3NHROVk1BTUNzT21uNDRVTmxicUhNQjVzX0JMMjVWYlBXa2dzYXV5RURCN3ZQRE9ZOU1rUi1FNDZBMlVjMGVOQdIBuwFBVV95cUxOdVZKNmRsM0paNXo2M2Z0dmdQdkVHa0FFZDRIZmFGWjJKTV84WGpTVzh3cC1nNVhlaUVJSGhtcklnVERJcVlmaUMxajhWZElCOEtSbnY3NFpfbjhGMUUzQUFTcGJIVGQ2MmZrZ1F2VVZKTHRiZm80TFZ1ZXRKWVhJbUV4cGtrLXRwLXMwQWVCejc2WmIzaUp4MEFOZGREUFBxeWtkMHVLZHpMUzNpRV9OU01pNkF3azV0dllF?oc=5",
-   "publicado": "2026-11-26T19:08-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Raio atinge plataforma da Petrobras a 200 quilômetros da costa do Rio",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/raio-atinge-plataforma-da-petrobras-200-quilometros-da-costa-do-rio",
-   "publicado": "2026-11-26T19:17-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Congresso argentino aprova reforma de Milei que impede Banco Central de financiar setor público",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/congresso-argentino-aprova-reforma-de-milei-que-impede-banco-central-de-financiar-setor-publico.shtml",
-   "publicado": "2026-11-26T19:50-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Trabuco na Fazenda: Quem assumirá o lugar do banqueiro no Conselho do Bradesco",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/negocios/trabuco-na-fazenda-quem-assumira-o-lugar-do-banqueiro-no-conselho-do-bradesco/",
-   "publicado": "2026-11-26T19:51-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BBDC4"
-   ]
-  },
-  {
-   "titulo": "Bolsa sobe 6% e tem maior alta desde o 1º turno; dólar cai a R$ 5,74",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bolsa-sobe-6-e-tem-maior-alta-desde-o-1o-turno-dolar-cai-r-574",
-   "publicado": "2026-11-26T19:54-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Governo aprova antidumping para alguns tipos de aço; Usiminas, Gerdau e CSN aguardavam a medida",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUTNKM0lHMXZZV01iRmxCT3NhTjVfaklxRHFaVDJPdDFwVlA4VkxGVF9USFc1V2ZrejB3Tk1pUkJjLV9KWWdBenFZUmU1ako2Yk1VUnVjdkhseElrSVZILXg3VGlJUlM0N3ZYODM5UVgxYV9reDFjM2drZ2djOW81dno5TzFPOGgtY2gxa2pyczZZdjVqQldYWXY4RUx0bnJxMkFfd2VaLVhFT2s?oc=5",
-   "publicado": "2026-11-26T20:14-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "GGBR4"
-   ]
-  },
-  {
-   "titulo": "Ibovespa e real ainda podem subir mais com Trabuco confirmado na Fazenda?",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXlWeDBwcUE5bVZSUE15VnFCM1Y2SlJ1ck85eURiTFdhODBWRnhIdnlLVmREa0ZNSGFHUU92MkFmRHgwWDdpZGZ4YUY4aTYyR3U5T1VNbFdYM1JobUg2WkFhSF9NZG1ZYWtZU19QblFWOWlHOTdWUzBhWWswYXB4RjItS0EyR201RmlMUjhUV2VwWk9CdC1CbHJkRDVGUjI0Ulh2a2lPUlVtS3Uya1dicNIBtgFBVV95cUxPLWgyOURkWlh0amFaX1RLTW1NaHV0WjJmNnJjZTh6ZVpMUmY2TFROeElqN3ExYmNOTTN6dS1RUmFnSVVsQk1lZ192Y1B5bVlGcldWZlpvalgxR1UzSHdydU5oeE5mdzI2YTRvbmFxaGxDT3ZjWFc4N3FFWWJ4XzExTDB2RjdYU1NlNFJoemZsZmZmal9iLTY3MFVwSGVwazFIZXRNMWNDUUdWMDRTZ3VqbjNNWDMtQQ?oc=5",
-   "publicado": "2026-11-26T20:20-03:00",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUFiVGVBdHQ3S1pYQlA5R21CWjVpV3hhMU84MDhCQjlrVjdkTEVod09TbVMtdFVpakR1bTBabExkcnBEcFNGRjlHU2JDR0o2M0NRQm0yZGJ2bTNrOU55QlkzNFczcW9VdW1BYWtwSkNld28xcnZqRU1VQ3Nxb2FUN3FSWTkwTkZrS1dXS3FqX2R4ZVppWUp0MGM0V2hwb2FxX1J0ZFNjZGQ1OEtEQmZCUWUybjVSVUN3cTRzajFhRlRmS0lXQlgwYlhhalVUYmxYWFh5OE5aWUVxcTNpZ1dKOG90YXVtUdIB6wFBVV95cUxPRFotOEpTcVNVMUVudTk1S1htZm9rbVJ2bzU5WGNvVkVGMGE2bFFYRWNnQ3dYUUo4OXE0WGVvSmlGNjF0RUowbGtjamNJT2lSWXpjV1ROTlJNaHJLejF1Mm5mRTJncVJYVmY2UlBlVW9YLWNhZVV4cUtnNjVfMTdFUW5XSnA5Z282VEFTeVJoOVNQbWxoZWFuUDZYNzNyM3JQRHByanIxZVlQUElQWE9JWlVsczVja2JZeTlFNDB6VVVqVmVQREFrN3ZObmR1WjNZNFZUYjVWQXprRW5Yazd2V3VYNHN3WWNBNWxZ?oc=5",
+   "publicado": "2026-11-26T20:26-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
@@ -162,7 +14,7 @@
    "tickers": []
   },
   {
-   "titulo": "CEO do Itaú parabeniza Trabuco pela indicação ao Ministério da Fazenda",
+   "titulo": "CEOs do Itaú e do Santander parabenizam Trabuco pela indicação ao Ministério da Fazenda",
    "fonte": "Folha",
    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ceo-do-itau-parabeniza-trabuco-pela-indicacao-ao-ministerio-da-fazenda.shtml",
    "publicado": "2026-11-26T20:29-03:00",
@@ -175,70 +27,55 @@
    ]
   },
   {
-   "titulo": "CSN elege ex-presidente da Cosan como novo diretor de finanças",
+   "titulo": "Como a confirmação de Trabuco na Fazenda deve impactar a Bolsa e o dólar nesta sexta (27)",
    "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVR6N0J1Ul9pM09OS05weklxOFgzd0w1ZW1kTS1ycjRZSEpvbk8xRnZFZDBkY3ZKZEtSeWkwdTFZMVB0cWstdWl6OXdHRHVjYTNlV1Zic0hRc1lpRmU1Rk9vLVNmYzFGT1VPcEF6cUR3YmFTMWdrODJVVW52MDJFY0Zxenl6dTJfeWNKaDlUcW1ILU9ITHc1cg?oc=5",
-   "publicado": "2026-11-26T20:30-03:00",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHlfcEhReVF0alNyNy1NbmtnbWdlaHR1QU5RYmZIWmJpZTE0VnV5U1A2anBGYnQzSVRrdk1HMVVFOXR3ck50WGNIWkZ4RWdCZVA5UUpJbm5vSGtoUGRIX0xWc2NEVEk2WXRsWVFfdWhpamtGWmM2N2RRZmN3R1NNU1B4Z0RiZV9YQ01yT2JQck5TVGF6aW9vbEtoa2dZM1k1RGRTamhuM05LSm9TMkNkU05TNFNsUkttdGc?oc=5",
+   "publicado": "2026-11-26T22:02-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "CSAN3"
-   ]
-  },
-  {
-   "titulo": "Alcolumbre elogia Trabuco para Fazenda e fala em diálogo para 'avançar com responsabilidade fiscal'",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/alcolumbre-elogia-trabuco-para-fazenda-e-fala-em-dialogo-para-avancar-com-responsabilidade-fiscal.shtml",
-   "publicado": "2026-11-26T20:45-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
+    "WDO"
    ],
    "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-26T20:51-03:00",
+ "atualizado_em": "2026-11-26T23:10-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
-  "CNN Brasil",
   "Estadão",
   "Folha",
-  "InfoMoney",
-  "Money Times"
+  "Money Times",
+  "Valor"
  ],
  "noticias": [
   {
-   "titulo": "Alcolumbre elogia Trabuco para Fazenda e fala em diálogo para 'avançar com responsabilidade fiscal'",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/alcolumbre-elogia-trabuco-para-fazenda-e-fala-em-dialogo-para-avancar-com-responsabilidade-fiscal.shtml",
-   "publicado": "2026-11-26T20:45-03:00",
+   "titulo": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+   "publicado": "2026-11-26T23:04-03:00",
    "impacto": "medio",
    "ativos": [
-    "DI"
+    "WIN",
+    "WDO"
    ],
    "tickers": []
   },
   {
-   "titulo": "CSN elege ex-presidente da Cosan como novo diretor de finanças",
+   "titulo": "Como a confirmação de Trabuco na Fazenda deve impactar a Bolsa e o dólar nesta sexta (27)",
    "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVR6N0J1Ul9pM09OS05weklxOFgzd0w1ZW1kTS1ycjRZSEpvbk8xRnZFZDBkY3ZKZEtSeWkwdTFZMVB0cWstdWl6OXdHRHVjYTNlV1Zic0hRc1lpRmU1Rk9vLVNmYzFGT1VPcEF6cUR3YmFTMWdrODJVVW52MDJFY0Zxenl6dTJfeWNKaDlUcW1ILU9ITHc1cg?oc=5",
-   "publicado": "2026-11-26T20:30-03:00",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHlfcEhReVF0alNyNy1NbmtnbWdlaHR1QU5RYmZIWmJpZTE0VnV5U1A2anBGYnQzSVRrdk1HMVVFOXR3ck50WGNIWkZ4RWdCZVA5UUpJbm5vSGtoUGRIX0xWc2NEVEk2WXRsWVFfdWhpamtGWmM2N2RRZmN3R1NNU1B4Z0RiZV9YQ01yT2JQck5TVGF6aW9vbEtoa2dZM1k1RGRTamhuM05LSm9TMkNkU05TNFNsUkttdGc?oc=5",
+   "publicado": "2026-11-26T22:02-03:00",
    "impacto": "medio",
    "ativos": [
-    "WIN"
+    "WDO"
    ],
-   "tickers": [
-    "CSAN3"
-   ]
+   "tickers": []
   },
   {
-   "titulo": "CEO do Itaú parabeniza Trabuco pela indicação ao Ministério da Fazenda",
+   "titulo": "CEOs do Itaú e do Santander parabenizam Trabuco pela indicação ao Ministério da Fazenda",
    "fonte": "Folha",
    "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ceo-do-itau-parabeniza-trabuco-pela-indicacao-ao-ministerio-da-fazenda.shtml",
    "publicado": "2026-11-26T20:29-03:00",
@@ -251,162 +88,14 @@
    ]
   },
   {
-   "titulo": "Ibovespa e real ainda podem subir mais com Trabuco confirmado na Fazenda?",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXlWeDBwcUE5bVZSUE15VnFCM1Y2SlJ1ck85eURiTFdhODBWRnhIdnlLVmREa0ZNSGFHUU92MkFmRHgwWDdpZGZ4YUY4aTYyR3U5T1VNbFdYM1JobUg2WkFhSF9NZG1ZYWtZU19QblFWOWlHOTdWUzBhWWswYXB4RjItS0EyR201RmlMUjhUV2VwWk9CdC1CbHJkRDVGUjI0Ulh2a2lPUlVtS3Uya1dicNIBtgFBVV95cUxPLWgyOURkWlh0amFaX1RLTW1NaHV0WjJmNnJjZTh6ZVpMUmY2TFROeElqN3ExYmNOTTN6dS1RUmFnSVVsQk1lZ192Y1B5bVlGcldWZlpvalgxR1UzSHdydU5oeE5mdzI2YTRvbmFxaGxDT3ZjWFc4N3FFWWJ4XzExTDB2RjdYU1NlNFJoemZsZmZmal9iLTY3MFVwSGVwazFIZXRNMWNDUUdWMDRTZ3VqbjNNWDMtQQ?oc=5",
-   "publicado": "2026-11-26T20:20-03:00",
+   "titulo": "Ibovespa dispara 6% com ‘efeito Trabuco’ e recupera os 176 mil pontos; dólar cai a R$ 5,74",
+   "fonte": "Estadão",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUFiVGVBdHQ3S1pYQlA5R21CWjVpV3hhMU84MDhCQjlrVjdkTEVod09TbVMtdFVpakR1bTBabExkcnBEcFNGRjlHU2JDR0o2M0NRQm0yZGJ2bTNrOU55QlkzNFczcW9VdW1BYWtwSkNld28xcnZqRU1VQ3Nxb2FUN3FSWTkwTkZrS1dXS3FqX2R4ZVppWUp0MGM0V2hwb2FxX1J0ZFNjZGQ1OEtEQmZCUWUybjVSVUN3cTRzajFhRlRmS0lXQlgwYlhhalVUYmxYWFh5OE5aWUVxcTNpZ1dKOG90YXVtUdIB6wFBVV95cUxPRFotOEpTcVNVMUVudTk1S1htZm9rbVJ2bzU5WGNvVkVGMGE2bFFYRWNnQ3dYUUo4OXE0WGVvSmlGNjF0RUowbGtjamNJT2lSWXpjV1ROTlJNaHJLejF1Mm5mRTJncVJYVmY2UlBlVW9YLWNhZVV4cUtnNjVfMTdFUW5XSnA5Z282VEFTeVJoOVNQbWxoZWFuUDZYNzNyM3JQRHByanIxZVlQUElQWE9JWlVsczVja2JZeTlFNDB6VVVqVmVQREFrN3ZObmR1WjNZNFZUYjVWQXprRW5Yazd2V3VYNHN3WWNBNWxZ?oc=5",
+   "publicado": "2026-11-26T20:26-03:00",
    "impacto": "alto",
    "ativos": [
     "WIN",
     "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Governo aprova antidumping para alguns tipos de aço; Usiminas, Gerdau e CSN aguardavam a medida",
-   "fonte": "Money Times",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUTNKM0lHMXZZV01iRmxCT3NhTjVfaklxRHFaVDJPdDFwVlA4VkxGVF9USFc1V2ZrejB3Tk1pUkJjLV9KWWdBenFZUmU1ako2Yk1VUnVjdkhseElrSVZILXg3VGlJUlM0N3ZYODM5UVgxYV9reDFjM2drZ2djOW81dno5TzFPOGgtY2gxa2pyczZZdjVqQldYWXY4RUx0bnJxMkFfd2VaLVhFT2s?oc=5",
-   "publicado": "2026-11-26T20:14-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "GGBR4"
-   ]
-  },
-  {
-   "titulo": "Bolsa sobe 6% e tem maior alta desde o 1º turno; dólar cai a R$ 5,74",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bolsa-sobe-6-e-tem-maior-alta-desde-o-1o-turno-dolar-cai-r-574",
-   "publicado": "2026-11-26T19:54-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Trabuco na Fazenda: Quem assumirá o lugar do banqueiro no Conselho do Bradesco",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/negocios/trabuco-na-fazenda-quem-assumira-o-lugar-do-banqueiro-no-conselho-do-bradesco/",
-   "publicado": "2026-11-26T19:51-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BBDC4"
-   ]
-  },
-  {
-   "titulo": "Congresso argentino aprova reforma de Milei que impede Banco Central de financiar setor público",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/congresso-argentino-aprova-reforma-de-milei-que-impede-banco-central-de-financiar-setor-publico.shtml",
-   "publicado": "2026-11-26T19:50-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Raio atinge plataforma da Petrobras a 200 quilômetros da costa do Rio",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/raio-atinge-plataforma-da-petrobras-200-quilometros-da-costa-do-rio",
-   "publicado": "2026-11-26T19:17-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Ibovespa tem 2ª maior alta diária desde 2021; 4 ações sobem mais de 50% no mês",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVBXSzJ2cW5OSGp4ZG1YN2h3aW55SUsxcjhSQTN5b0x4RjdYTFF4eEJ2T19aTUhETDhhM050aWlBWVM2dFNvMHluNWVsTWV3U1k2Ym5WdTdJTmgzTlBGNWNQY3FDQlBvTGxOVmF5VnpadmJSTzZ3NHROVk1BTUNzT21uNDRVTmxicUhNQjVzX0JMMjVWYlBXa2dzYXV5RURCN3ZQRE9ZOU1rUi1FNDZBMlVjMGVOQdIBuwFBVV95cUxOdVZKNmRsM0paNXo2M2Z0dmdQdkVHa0FFZDRIZmFGWjJKTV84WGpTVzh3cC1nNVhlaUVJSGhtcklnVERJcVlmaUMxajhWZElCOEtSbnY3NFpfbjhGMUUzQUFTcGJIVGQ2MmZrZ1F2VVZKTHRiZm80TFZ1ZXRKWVhJbUV4cGtrLXRwLXMwQWVCejc2WmIzaUp4MEFOZGREUFBxeWtkMHVLZHpMUzNpRV9OU01pNkF3azV0dllF?oc=5",
-   "publicado": "2026-11-26T19:08-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "De escriturário do Bradesco a ministro da Fazenda de Lula: relembre a trajetória de Luiz Trabuco",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/de-escriturario-do-bradesco-a-ministro-da-fazenda-de-lula-relembre-a-trajetoria-de-luiz-trabuco/",
-   "publicado": "2026-11-26T19:06-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BBDC4"
-   ]
-  },
-  {
-   "titulo": "Vale defende debater mineração em terras indígenas e cita modelo canadense",
-   "fonte": "CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXNUaG53WW02em9vcHZZSVVVUXFGX1A1OWZzYUo5Z0FranFwWmh3UVN4RXk4VkZXT2F4d3ZUb0JOUm9odHJ0d2hnYnRmNVFwbEVjYnpaV3Y1Y3FDWXFJS0dWQUNWM2lxLUNSZXZOSUxIWUszRFgtUHFxamNBQWFKWnlkSGtldjFZdEd0NUszY01SUFFoTXZzNGpydnRVbVpyVFdjbmw0a0dPMXVwR3lN?oc=5",
-   "publicado": "2026-11-26T19:06-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "VALE3"
-   ]
-  },
-  {
-   "titulo": "Formado em filosofia e amigo de Lula, Trabuco trabalha no Bradesco desde os 17 anos; conheça o novo ministro da Fazenda",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/filosofo-e-amigo-de-lula-trabuco-trabalha-no-bradesco-desde-os-17-anos-conheca-o-novo-ministro-da-fazenda.shtml",
-   "publicado": "2026-11-26T19:04-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BBDC4"
-   ]
-  },
-  {
-   "titulo": "Dólar perto de R$ 8 e fuga de US$ 460 bi: gestora vê cenário sombrio no Brasil sem ajuste fiscal",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSTdnSWxONmIxbU9wQm1LakZ6ZW9PT2xRNUpuS1djTERFZ3ZIMEZ3ZHB4SE9qLW1ITHM4RVJweXJUQ01fcmlEejNKdXE5NlBZUlhBSmZGZG5hc3FfZGNZSkFJcS1tUEtuMFFNcjg0MTgydzkzbl9GSU5WamxZZWJGOWZqQi1Mc0I5dG9UT1QweFNjVzgyUFRpSkM3bG1EX1RDc2NjSlZiSQ?oc=5",
-   "publicado": "2026-11-26T18:53-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa hoje dispara 6% com ‘efeito Trabuco’ e IPCA-15 abaixo do esperado",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUFiVGVBdHQ3S1pYQlA5R21CWjVpV3hhMU84MDhCQjlrVjdkTEVod09TbVMtdFVpakR1bTBabExkcnBEcFNGRjlHU2JDR0o2M0NRQm0yZGJ2bTNrOU55QlkzNFczcW9VdW1BYWtwSkNld28xcnZqRU1VQ3Nxb2FUN3FSWTkwTkZrS1dXS3FqX2R4ZVppWUp0MGM0V2hwb2FxX1J0ZFNjZGQ1OEtEQmZCUWUybjVSVUN3cTRzajFhRlRmS0lXQlgwYlhhalVUYmxYWFh5OE5aWUVxcTNpZ1dKOG90YXVtUQ?oc=5",
-   "publicado": "2026-11-26T18:32-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Banco Central se manifesta a favor de devolução de R$ 316 milhões ao BRB",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/banco-central-se-manifesta-a-favor-de-devolucao-de-r-316-milhoes-ao-brb/",
-   "publicado": "2026-11-26T18:17-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WDO",
-    "DI"
    ],
    "tickers": []
   }
