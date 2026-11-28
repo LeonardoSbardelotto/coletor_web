@@ -2,100 +2,6 @@
  "mercado": {},
  "hoje": [
   {
-   "titulo": "Vendas do Tesouro Direto registram melhor outubro da história",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/vendas-do-tesouro-direto-registram-melhor-outubro-da-historia",
-   "publicado": "2026-11-27T18:01-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ações da Petrobras caem até 3% e pressionam Bolsa",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468080",
-   "publicado": "2026-11-27T18:17-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Ibovespa corrige alta e encerra o dia em leve queda; dólar recua mais de 7% na semana",
-   "fonte": "Bloomberg Línea",
-   "url": "https://www.bloomberglinea.com.br/brasil/ibovespa-corrige-alta-e-encerra-o-dia-em-leve-queda-dolar-recua-mais-de-7-na-semana/",
-   "publicado": "2026-11-27T18:43-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Por que Petrobras caiu mais de 2% e pressionou o Ibovespa nesta sexta?",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdFRjTmN0eGNiQVc5YTFESEFvNURuekp5UFMxbG9oZFRaMldIZnRRTFlIam50ZVI5RnZZSThzMzQ4U1lNOVZVcWFBSW0tWGFDajZUZXF6ZV9VUWFyTkw1SmhnUWNOTFR1NDQ2aDBrc251cVNKcnc3NHdLOW5yekxQSWF3bFdjRUtnRXBkdEd2OG5EY1R1NmhmN2VpN05jcUHSAaQBQVVfeXFMUHIyU1c5RWt2NDZ5VG1GSFZMME1pd3RLdkc3UlZibzk5NHRUOXlzNGsyR1RFX3NLaEJfczdVZVJ4TkR0N2FYX09QQW52MWthRWJNSWNjaEpFcENKc3dnVWoweEVyRVFqWEZLR1pDdEtHVzluWXZLdlBpenNlOUlYSldCMUtJUXFlMFJram9WUW1DXzZ5d1BBZlJIVG5ydmJ0cGhacTI?oc=5",
-   "publicado": "2026-11-27T18:52-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Ibovespa tem melhor semana desde o 1º turno e dólar cai 7% com nomeação de Trabuco para a Fazenda",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQS2E3X1BiTFhPRkVzUy1QdGZ0U3lkZU9EUHdfbGp3Tm9fc1RQUXpzb3VVMURKdWxHdmJDVmR2MFRFWmljQUpsYTd0ZndTTnFBODZtZXpzSTRieDJyYWk4MHUwb3hzemNTTURGWjhIekhhRXVER3lvb1p5Sk84MG5jTjVTMmlmWDRmdElhQVQwTTNoYWoyY1hydk9XQ3lkbkMwNFg1aUpTcE1hM1JNd2lyU20xazdoWnFYcW55NmZjOFpwTG02Y0R6Sm9FaGFYcU1lWGhfNjRYeUJmMFNvRFFuYTFNY2FRZHNFemg5RG12U0phcDVs?oc=5",
-   "publicado": "2026-11-27T19:13-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Com bandeira tarifária verde, energia não terá custo extra em dezembro",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/com-bandeira-tarifaria-verde-energia-nao-tera-custo-extra-em-dezembro",
-   "publicado": "2026-11-27T19:29-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar cai quase 4% e fecha em R$ 5,51, após anúncio de Trabuco",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-quase-4-e-fecha-em-r-551-apos-anuncio-de-trabuco",
-   "publicado": "2026-11-27T19:47-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Desaceleração em IA pode enfraquecer dólar no médio prazo, avalia Goldman Sachs",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQk1CaU9TTDZyRjNYa2Nac2IzZEpDc0cwNktvUlgyVE9YN3dLNks5cWR0MDFPM2k0SWxQLWVDSEVMaXBlbXVzT0wwM1NiajBEVW8yMFY2V00tZWpYSnh5ZnV6T2o4UGJpeEpBZ1VZN2s2RmJoazFfNzQ1d1ZsT1RKamJtZjU3LURDTnluUjB3WTdQdXFMaVpIWDJFckhEaTlpOVhIeW9HQ2lESG1aaWpBaDF1VmRHMFk4OUhpQ2ptMGVzVEpwUmNFc1VqV2rSAdsBQVVfeXFMUFNyS3JHc2pwRWxOakJiSEZydkZLR05VRjl3YnpDMEpmX2s2aEViNlVoNUtqakgtaVF4T2RNSEhnaFNORGwycGN1amItUTRiVHpuanhvakswdVlUdE15ZmthSV9KZlJDeHVTbC1JRWF2aEJDaUxWQ2dab3V4N3ljZnNBVEt5Z3VlbGdFdDhrckZWckpsSnhwejA0Z2E3NF80TE1qN2lLaFRBXy05b0FuWTFPNVJfZVRzUjRCd1BrX1haaWl2VlRXNzdGQktFVnJnTlM3U1g1RUJmVmFF?oc=5",
-   "publicado": "2026-11-27T20:12-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
    "titulo": "Conta de luz: Aneel mantém bandeira tarifária verde para dezembro",
    "fonte": "Estadão",
    "url": "https://www.estadao.com.br/economia/conta-de-luz-aneel-mantem-bandeira-tarifaria-verde-para-dezembro/",
@@ -129,21 +35,53 @@
     "DI"
    ],
    "tickers": []
+  },
+  {
+   "titulo": "'Se a Faria Lima está comemorando, o povo vai chorar', diz leitor sobre queda do dólar",
+   "fonte": "Folha",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZFhiRFNLVGNHeFdxd2ZSYmdvWFg0NlRkaktaYUhMV21yWTMzem05UTVfXzloZm1PVmpwdWVBc1VCSWpEaV9BOGlfNGtCMjN0cHllOWJTLWc1U1VMZFZLZnEzSDBndXdaWVRuMUNWVHc5eldzbXN4d0Z4R3NweU1UdDhXalU5Z3hMTE1MdXNSZFU3MC1uUnkxbWM0eEt5bFRUeTRFODNPVDk4UncydXM3YVZIcVZCcm04NFVvWUkwc1p4MFEyYjROdThrbktJLVFOYWQ2dHd3NWY?oc=5",
+   "publicado": "2026-11-27T22:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
   }
  ],
  "enviadas": [],
- "atualizado_em": "2026-11-27T20:44-03:00",
+ "atualizado_em": "2026-11-27T22:59-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
   "Bloomberg Línea",
   "CNBC",
   "Estadão",
-  "Folha",
-  "InfoMoney",
-  "Valor"
+  "Folha"
  ],
  "noticias": [
+  {
+   "titulo": "'Se a Faria Lima está comemorando, o povo vai chorar', diz leitor sobre queda do dólar",
+   "fonte": "Folha",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZFhiRFNLVGNHeFdxd2ZSYmdvWFg0NlRkaktaYUhMV21yWTMzem05UTVfXzloZm1PVmpwdWVBc1VCSWpEaV9BOGlfNGtCMjN0cHllOWJTLWc1U1VMZFZLZnEzSDBndXdaWVRuMUNWVHc5eldzbXN4d0Z4R3NweU1UdDhXalU5Z3hMTE1MdXNSZFU3MC1uUnkxbWM0eEt5bFRUeTRFODNPVDk4UncydXM3YVZIcVZCcm04NFVvWUkwc1p4MFEyYjROdThrbktJLVFOYWQ2dHd3NWY?oc=5",
+   "publicado": "2026-11-27T22:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WDO"
+   ],
+   "tickers": []
+  },
+  {
+   "titulo": "‘Pretinho básico’ nunca sai de moda: não se faz transição energética com demonização do petróleo",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/adriano-pires/pretinho-basico-nunca-sai-de-moda-nao-se-faz-transicao-energetica-com-demonizacao-do-petroleo/",
+   "publicado": "2026-11-27T22:00-03:00",
+   "impacto": "medio",
+   "ativos": [
+    "WIN",
+    "WDO"
+   ],
+   "tickers": []
+  },
   {
    "titulo": "Após 'efeito Trabuco', Lula inicia recalibragem do discurso do ajuste fiscal",
    "fonte": "Folha",
@@ -176,100 +114,6 @@
    "impacto": "medio",
    "ativos": [
     "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Desaceleração em IA pode enfraquecer dólar no médio prazo, avalia Goldman Sachs",
-   "fonte": "Valor",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQk1CaU9TTDZyRjNYa2Nac2IzZEpDc0cwNktvUlgyVE9YN3dLNks5cWR0MDFPM2k0SWxQLWVDSEVMaXBlbXVzT0wwM1NiajBEVW8yMFY2V00tZWpYSnh5ZnV6T2o4UGJpeEpBZ1VZN2s2RmJoazFfNzQ1d1ZsT1RKamJtZjU3LURDTnluUjB3WTdQdXFMaVpIWDJFckhEaTlpOVhIeW9HQ2lESG1aaWpBaDF1VmRHMFk4OUhpQ2ptMGVzVEpwUmNFc1VqV2rSAdsBQVVfeXFMUFNyS3JHc2pwRWxOakJiSEZydkZLR05VRjl3YnpDMEpmX2s2aEViNlVoNUtqakgtaVF4T2RNSEhnaFNORGwycGN1amItUTRiVHpuanhvakswdVlUdE15ZmthSV9KZlJDeHVTbC1JRWF2aEJDaUxWQ2dab3V4N3ljZnNBVEt5Z3VlbGdFdDhrckZWckpsSnhwejA0Z2E3NF80TE1qN2lLaFRBXy05b0FuWTFPNVJfZVRzUjRCd1BrX1haaWl2VlRXNzdGQktFVnJnTlM3U1g1RUJmVmFF?oc=5",
-   "publicado": "2026-11-27T20:12-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Dólar cai quase 4% e fecha em R$ 5,51, após anúncio de Trabuco",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-quase-4-e-fecha-em-r-551-apos-anuncio-de-trabuco",
-   "publicado": "2026-11-27T19:47-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Com bandeira tarifária verde, energia não terá custo extra em dezembro",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/com-bandeira-tarifaria-verde-energia-nao-tera-custo-extra-em-dezembro",
-   "publicado": "2026-11-27T19:29-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ibovespa tem melhor semana desde o 1º turno e dólar cai 7% com nomeação de Trabuco para a Fazenda",
-   "fonte": "Estadão",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQS2E3X1BiTFhPRkVzUy1QdGZ0U3lkZU9EUHdfbGp3Tm9fc1RQUXpzb3VVMURKdWxHdmJDVmR2MFRFWmljQUpsYTd0ZndTTnFBODZtZXpzSTRieDJyYWk4MHUwb3hzemNTTURGWjhIekhhRXVER3lvb1p5Sk84MG5jTjVTMmlmWDRmdElhQVQwTTNoYWoyY1hydk9XQ3lkbkMwNFg1aUpTcE1hM1JNd2lyU20xazdoWnFYcW55NmZjOFpwTG02Y0R6Sm9FaGFYcU1lWGhfNjRYeUJmMFNvRFFuYTFNY2FRZHNFemg5RG12U0phcDVs?oc=5",
-   "publicado": "2026-11-27T19:13-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Por que Petrobras caiu mais de 2% e pressionou o Ibovespa nesta sexta?",
-   "fonte": "InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdFRjTmN0eGNiQVc5YTFESEFvNURuekp5UFMxbG9oZFRaMldIZnRRTFlIam50ZVI5RnZZSThzMzQ4U1lNOVZVcWFBSW0tWGFDajZUZXF6ZV9VUWFyTkw1SmhnUWNOTFR1NDQ2aDBrc251cVNKcnc3NHdLOW5yekxQSWF3bFdjRUtnRXBkdEd2OG5EY1R1NmhmN2VpN05jcUHSAaQBQVVfeXFMUHIyU1c5RWt2NDZ5VG1GSFZMME1pd3RLdkc3UlZibzk5NHRUOXlzNGsyR1RFX3NLaEJfczdVZVJ4TkR0N2FYX09QQW52MWthRWJNSWNjaEpFcENKc3dnVWoweEVyRVFqWEZLR1pDdEtHVzluWXZLdlBpenNlOUlYSldCMUtJUXFlMFJram9WUW1DXzZ5d1BBZlJIVG5ydmJ0cGhacTI?oc=5",
-   "publicado": "2026-11-27T18:52-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Ibovespa corrige alta e encerra o dia em leve queda; dólar recua mais de 7% na semana",
-   "fonte": "Bloomberg Línea",
-   "url": "https://www.bloomberglinea.com.br/brasil/ibovespa-corrige-alta-e-encerra-o-dia-em-leve-queda-dolar-recua-mais-de-7-na-semana/",
-   "publicado": "2026-11-27T18:43-03:00",
-   "impacto": "alto",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Ações da Petrobras caem até 3% e pressionam Bolsa",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468080",
-   "publicado": "2026-11-27T18:17-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "PETR4"
-   ]
-  },
-  {
-   "titulo": "Vendas do Tesouro Direto registram melhor outubro da história",
-   "fonte": "Agência Brasil",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/vendas-do-tesouro-direto-registram-melhor-outubro-da-historia",
-   "publicado": "2026-11-27T18:01-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
    ],
    "tickers": []
   }
