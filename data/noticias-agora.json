@@ -1,55 +1,8 @@
 {
  "mercado": {},
- "hoje": [
-  {
-   "titulo": "Conta de luz: Aneel mantém bandeira tarifária verde para dezembro",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/conta-de-luz-aneel-mantem-bandeira-tarifaria-verde-para-dezembro/",
-   "publicado": "2026-11-27T20:19-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "BTG Pactual monta fundo de R$ 1,5 bi para compra de consignados do BRB",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/btg-pactual-monta-fundo-de-r15-bi-para-compra-de-consignados-do-brb.shtml",
-   "publicado": "2026-11-27T20:25-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BPAC11"
-   ]
-  },
-  {
-   "titulo": "Após 'efeito Trabuco', Lula inicia recalibragem do discurso do ajuste fiscal",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/apos-efeito-trabuco-lula-inicia-recalibragem-do-discurso-do-ajuste-fiscal.shtml",
-   "publicado": "2026-11-27T20:40-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "'Se a Faria Lima está comemorando, o povo vai chorar', diz leitor sobre queda do dólar",
-   "fonte": "Folha",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZFhiRFNLVGNHeFdxd2ZSYmdvWFg0NlRkaktaYUhMV21yWTMzem05UTVfXzloZm1PVmpwdWVBc1VCSWpEaV9BOGlfNGtCMjN0cHllOWJTLWc1U1VMZFZLZnEzSDBndXdaWVRuMUNWVHc5eldzbXN4d0Z4R3NweU1UdDhXalU5Z3hMTE1MdXNSZFU3MC1uUnkxbWM0eEt5bFRUeTRFODNPVDk4UncydXM3YVZIcVZCcm04NFVvWUkwc1p4MFEyYjROdThrbktJLVFOYWQ2dHd3NWY?oc=5",
-   "publicado": "2026-11-27T22:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  }
- ],
+ "hoje": [],
  "enviadas": [],
- "atualizado_em": "2026-11-27T22:59-03:00",
+ "atualizado_em": "2026-11-28T11:05-03:00",
  "janela_horas": 3,
  "fontes_ok": [
   "Agência Brasil",
@@ -58,64 +11,5 @@
   "Estadão",
   "Folha"
  ],
- "noticias": [
-  {
-   "titulo": "'Se a Faria Lima está comemorando, o povo vai chorar', diz leitor sobre queda do dólar",
-   "fonte": "Folha",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZFhiRFNLVGNHeFdxd2ZSYmdvWFg0NlRkaktaYUhMV21yWTMzem05UTVfXzloZm1PVmpwdWVBc1VCSWpEaV9BOGlfNGtCMjN0cHllOWJTLWc1U1VMZFZLZnEzSDBndXdaWVRuMUNWVHc5eldzbXN4d0Z4R3NweU1UdDhXalU5Z3hMTE1MdXNSZFU3MC1uUnkxbWM0eEt5bFRUeTRFODNPVDk4UncydXM3YVZIcVZCcm04NFVvWUkwc1p4MFEyYjROdThrbktJLVFOYWQ2dHd3NWY?oc=5",
-   "publicado": "2026-11-27T22:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "‘Pretinho básico’ nunca sai de moda: não se faz transição energética com demonização do petróleo",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/adriano-pires/pretinho-basico-nunca-sai-de-moda-nao-se-faz-transicao-energetica-com-demonizacao-do-petroleo/",
-   "publicado": "2026-11-27T22:00-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN",
-    "WDO"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "Após 'efeito Trabuco', Lula inicia recalibragem do discurso do ajuste fiscal",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/apos-efeito-trabuco-lula-inicia-recalibragem-do-discurso-do-ajuste-fiscal.shtml",
-   "publicado": "2026-11-27T20:40-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "DI"
-   ],
-   "tickers": []
-  },
-  {
-   "titulo": "BTG Pactual monta fundo de R$ 1,5 bi para compra de consignados do BRB",
-   "fonte": "Folha",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/btg-pactual-monta-fundo-de-r15-bi-para-compra-de-consignados-do-brb.shtml",
-   "publicado": "2026-11-27T20:25-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WIN"
-   ],
-   "tickers": [
-    "BPAC11"
-   ]
-  },
-  {
-   "titulo": "Conta de luz: Aneel mantém bandeira tarifária verde para dezembro",
-   "fonte": "Estadão",
-   "url": "https://www.estadao.com.br/economia/conta-de-luz-aneel-mantem-bandeira-tarifaria-verde-para-dezembro/",
-   "publicado": "2026-11-27T20:19-03:00",
-   "impacto": "medio",
-   "ativos": [
-    "WDO"
-   ],
-   "tickers": []
-  }
- ]
+ "noticias": []
 }
